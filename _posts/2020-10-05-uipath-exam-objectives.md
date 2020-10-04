@@ -9,11 +9,15 @@ blurb: Looking for the UiPath Associate exam objectives? Well here they are!
 
 If you are interested in taking the UiPath Associate exam, the first thing to do is go over the UiPath exam objectives and figure out where you are weak and where you are strong. Then, focus your studies accordingly.
 
-## Robotic Process Automation (RPA) Fundamentals
+## Robotic Process Automation (UiPath and RPA) Fundamentals
 - Differentiate between the UiPath Studio Community Edition and the Enterprise Edition
 - Identify sample use cases that describes the processes and workloads that can be automated
 - Identify and describe the different types of robots, i.e., attended versus unattended robots
 - Explain the functionality of the various UiPath products, i.e., Studio, Robots, and Orchestrator
+
+The following tutorial from TheServerSide will help you reinforce your knowledge of the UiPath and RPA Funcamentals section of the UiPath Certification Exam:
+
+Get automated with this [RPA and UiPath tutorial for beginners](https://www.theserverside.com/video/Get-automated-with-this-RPA-and-UiPath-tutorial-for-beginners) on TheServerSide.
 
 ## UiPath Studio Overview
 - Understand and explain the automation debug functions and usage such as Breakpoints
