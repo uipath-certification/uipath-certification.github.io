@@ -252,3 +252,18 @@ Finish
 </div>
 </div>
 </div>
+
+      <script>
+         function scoreExam() {	
+
+         var rates = document.querySelectorAll('.correct');
+         var count=0;
+         for(let i = 0; i < rates.length; i++){
+             if(rates[i].checked){ 
+				count=count+1;
+             } 
+         }
+
+		 document.getElementById('score').innerHTML = 'You got '  + count + ' correct.';
+         }
+      </script>	
