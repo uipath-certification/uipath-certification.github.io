@@ -1,7 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<title>{{ page.title }}</title>
+<title>{{ content }}</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
@@ -9,7 +8,7 @@
 .wrapper {
   display: flex;  
   flex-flow: row wrap;
-  font-weight: bold;
+
   text-align: center;
 }
 
@@ -28,11 +27,16 @@
 
 .main {
   text-align: left;
-  background: deepskyblue;
+  background: #f8f9fa;
 }
 
 .aside-1 {
   background: gold;
+  align:left;
+}
+
+.leftlink {
+  text-align:left;
 }
 
 .aside-2 {
@@ -57,15 +61,91 @@ body {
 
 </style>
 <body>
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse">
+        <ul class="navbar-nav ml-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="#">
+                    Home</a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle"
+                   href="#" id="navbarDropdownMenuLink"
+                   role="button"
+                   data-toggle="dropdown">
+                    Objectives
+                </a>
+                <div class="dropdown-menu">
+                    <a class="dropdown-item" href="#">Fundamentals</a>
+                    <a class="dropdown-item" href="#">Studio Overview</a>
+                    <a class="dropdown-item" href="#">Variables</a>
+					<a class="dropdown-item" href="#">Selectors</a>
+					<a class="dropdown-item" href="#">Control Flow</a>
+					<a class="dropdown-item" href="#">Data Manipulation</a>
+					<a class="dropdown-item" href="#">Automation Concepts</a>
+					<a class="dropdown-item" href="#">UiPath Orchestrator</a>
+                </div>
+            </li>
+			<li class="nav-item active">
+                <a class="nav-link" href="#">Mock Exams</a>
+            </li>
+			<li class="nav-item active">
+                <a class="nav-link" href="#">Tutorials</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">About</a>
+            </li>
+        </ul>
+    </div>
+</nav>
 <div class="wrapper">
   <header class="header">UiPath Certification</header>
-  <article class="main"> 
+  <article class="main">
+    <p>Welcome to the UiPath Certification Page.</p>  
 	{{ content }}
   </article>
-  <aside class="aside aside-1">Links</aside>
-  <aside class="aside aside-2">Ads</aside>
-  <footer class="footer">Footer</footer>
+  <aside class="aside aside-1">
+  
+<div class="leftlink">Home</div>
+<div class="leftlink">Strategies</div>
+<div class="leftlink">Objectives</div>
+<div class="leftlink">Mock Exams</div>
+<div class="leftlink">Tutorials</div>
+<div class="leftlink">Test Day</div>
+<div class="leftlink">Resources</div>
+
+
+
+  
+  
+  
+  </aside>
+  <aside class="aside aside-2">
+  
+<h1>Latest Posts</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+  
+  
+  
+  
+  </aside>
+  <footer class="footer">Good luck!</footer>
 </div>
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
+	  
 </body>
 </html>
 
