@@ -1,3 +1,10 @@
+---
+layout: default
+author: Serge
+title: UiPath Mock Exams
+blurb: The best was to prepare for the certification is by taking mock UiPath exams and practice tests.
+---
+
 [![UiPath Web Scrape Example](http://img.youtube.com/vi/kkFpiNmseos/0.jpg)](http://www.youtube.com/watch?v=kkFpiNmseos "UiPath Web Scrape Example")
 
 <h3>UiPath Practice Tests and Mock Exams</h3>
