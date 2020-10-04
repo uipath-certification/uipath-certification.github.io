@@ -1,3 +1,10 @@
+---
+layout: default
+author: Serge
+title: Online UiPath Resources
+blurb: Looking for online UiPath Certification resources? Here are a list of them.
+---
+
 There are a number of great UiPath resources both on YouTube and over on TheServerSide.
 
 ## UiPath YouTube Tutorials
