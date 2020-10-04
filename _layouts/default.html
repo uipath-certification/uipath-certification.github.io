@@ -88,15 +88,15 @@ h6 { font-size: .75em; }
   <article class="main   col col-12 col-sm-12  col-lg-7 order-2 order-sm-2 order-lg-3">
     {{ content }}   
   </article>
-  <aside  class="aside-1 col col-6  col-sm-6   col-lg-2 order-3 order-sm-3 order-lg-2 d-none d-sm-block">
+  <aside  class="aside-1 col col-6  col-sm-3   col-lg-2 order-3 order-sm-3 order-lg-2 d-none d-sm-block">
 	<div ><a href="https://uipath-certification.github.io/index.html">Home</a></div>
 	<div ><a href="https://uipath-certification.github.io/2020/10/05/uipath-exam-objectives.html">Objectives</a></div>
 	  <div ><a href="https://uipath-certification.github.io/2020/10/01/uipath-mock-exams.html">Mock Exams</a></div>
 	  <div ><a href="https://uipath-certification.github.io/2020/10/01/uipath-tutorials.html">Tutorials</a></div>
 	  <div ><a href="https://uipath-certification.github.io/2020/10/01/uipath-resources.html">Resources</a></div>
   </aside>
-  <aside  class="aside-2 col col-12  col-sm-6  col-lg-3 order-4 order-sm-4 order-lg-4 ">
-  <p>Latest Posts</p>
+  <aside  class="aside-2 col col-12  col-sm-9  col-lg-3 order-4 order-sm-4 order-lg-4 ">
+  <h4>Latest Posts</h4>
   
   {% for post in site.posts %}
 	  <p><a href="{{ post.url }}">{{ post.title }}</a>: {{ post.blurb }}</p>
