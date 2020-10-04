@@ -124,17 +124,16 @@ body {
   
   
   </aside>
-  <aside class="aside aside-2">
+  <aside class="aside aside-2 leftlink">
   
 <p>Latest Posts</p>
 
-<ul>
+
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+
+	  <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+
   {% endfor %}
-</ul>
   
   
   
