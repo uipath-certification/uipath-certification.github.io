@@ -1,3 +1,10 @@
+---
+layout: default
+author: Serge
+title: UiPath Tutorials
+blurb: The trick to getting UiPath Certified fast is to use a focussed set of online tutorials.
+---
+
 Interested in learning UiPath? 
 
 ## Learn UiPath Quickly
