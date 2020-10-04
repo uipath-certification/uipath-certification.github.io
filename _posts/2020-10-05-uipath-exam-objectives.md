@@ -46,6 +46,8 @@ The following UiPath tutorial will help solidify your understanding of the UiPat
 - Demonstrate the use of UI Explorer to modify selectors
 - Demonstrate the use a reliable selector
 
+[![UiPath Web Scrape Example](http://img.youtube.com/vi/kkFpiNmseos/0.jpg)](http://www.youtube.com/watch?v=kkFpiNmseos "UiPath Web Scrape Example")
+
 ## UiPath Studio Programming Concepts – Flow Control
 - Explain how to use control flow activities, workflow types such as sequences and flowcharts, and their functions
 - Identify and describe the various control flow activities such as If, Switch, Break, Parallel, While, etc.
