@@ -102,18 +102,16 @@ h6 { font-size: .75em; }
 <img src="https://www.xennialconsulting.com/img/xennialbkg-min.png" class="card-img-top" alt="uipath certification">
 	 
 		
-		  <span class="card-text">
-	  
-    {{ content }}   
-	  
-  </span>
+
 	
   <p class="card-text">
-	  <!-- there is no close tag before content -->
+	<span>
+	  <!-- put a span in to stop the p tag from closing automatically -->
 	  
     {{ content }}   
 	  
-  </p>
+   </span>
+   </p>
  
 
 </div>
