@@ -51,7 +51,7 @@ title: The UiPath Certification Plan
 					 <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 	<div class="card" >
 	<div class="card-header">Apply</div>
-	<img src="https://store-images.s-microsoft.com/image/apps.46003.14259451864568504.ad5e5d07-0fbb-46ed-b9b6-a1b781645691.2ebcfa4e-172c-43d3-bf01-2d9a2a94e897?mode=scale&q=90&h=1080&w=1920" class="card-img-top" alt="uipath certification">
+	<img src="/assets/apply.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
 			<p class="card-text">Apply what you've learned.</p>
@@ -63,7 +63,7 @@ title: The UiPath Certification Plan
  <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 						<div class="card" >
 						<div class="card-header">Collaborate</div>
-		<img src="https://www.insidehighered.com/sites/default/server_files/styles/large/public/media/teamwork-vector-id1151796027.jpg?itok=_xaogUZ-" class="card-img-top" alt="uipath certification">
+		<img src="/assets/collaborate.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
 			<p class="card-text">Work with the community and help others as they help you.</p>
@@ -74,7 +74,7 @@ title: The UiPath Certification Plan
  <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 						<div class="card" >
 		<div class="card-header">Pass</div>
-		<img src="https://www.slashadmin.co.uk/wp-content/uploads/2015/12/certificado.jpg" class="card-img-top" alt="uipath certification">
+		<img src="/assets/pass.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
 			<p class="card-text">Schedule your exam and pass it with flying colors!</p>
