@@ -1,8 +1,30 @@
 ---
 layout: default
-title: The Home Page
+title: The UiPath Certification Plan
 ---
 <div class="row">
+
+
+ <div class=" col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mb-2  d-flex align-items-stretch">
+	<div class="card" >
+	<div class="card-header">We have a certification play for you.</div>
+	
+		<div class="card-body">
+		
+
+			
+			
+			<p class="card-text">Follow our six step plan and turn your UiPath Certification goal into a reality.</p>
+			
+		</div>
+	</div>
+			
+ </div>
+ 
+ 
+ 
+ 
+ 
  
  <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 	<div class="card" >
