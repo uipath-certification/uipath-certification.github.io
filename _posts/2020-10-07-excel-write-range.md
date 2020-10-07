@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: answered-question
 author: Serge
 title: Answer to the Write Range Question
 blurb: Lots of students got the UiPath write range activity question wrong. Here's the answer.
