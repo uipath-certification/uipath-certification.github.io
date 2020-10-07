@@ -75,7 +75,7 @@ window.addEventListener('load', function () {
 		var aTag = document.createElement('a');
 
 		aTag.setAttribute('onClick','displayQuestion(\''+ i + '\')');
-		aTag.setAttribute('class','btn btn-info');
+		aTag.setAttribute('class','btn btn-info mr-2');
 		aTag.setAttribute('id', 'jumpTo'+i);
 		aTag.innerHTML = "" + (i+1);
 		document.getElementById("question-jumper").append(aTag);
