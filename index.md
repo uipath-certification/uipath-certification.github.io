@@ -19,7 +19,7 @@ title: The UiPath Certification Plan
 
 			
 			
-			<p class="card-text">Get your resources ready.</p>
+			<p class="card-text">We're here to make sure you get off on the right foot.</p>
 			
 		</div>
 	</div>
@@ -31,7 +31,7 @@ title: The UiPath Certification Plan
 						<img src="/assets/study.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
-			<p class="card-text">Follow your certification study plan.</p>
+			<p class="card-text">Follow our proven certification study plan.</p>
 			
 		</div>
 	</div>
@@ -42,7 +42,7 @@ title: The UiPath Certification Plan
 						<img src="/assets/practice.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
-			<p class="card-text">Hammer away at our practice exams.</p>
+			<p class="card-text">Test your knowledge with our free practice exams.</p>
 			
 		</div>
 	</div>
@@ -54,7 +54,7 @@ title: The UiPath Certification Plan
 	<img src="/assets/apply.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
-			<p class="card-text">Apply what you've learned.</p>
+			<p class="card-text">Fun projects help you apply what you've learned.</p>
 			
 		</div>
 	</div>
@@ -66,7 +66,7 @@ title: The UiPath Certification Plan
 		<img src="/assets/collaborate.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
-			<p class="card-text">Work with the community and help others as they help you.</p>
+			<p class="card-text">Work within our community and help others as they help you.</p>
 			
 		</div>
 	</div>
@@ -77,7 +77,7 @@ title: The UiPath Certification Plan
 		<img src="/assets/pass.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
-			<p class="card-text">Schedule your exam and pass it with flying colors!</p>
+			<p class="card-text">Then schedule your exam and you will pass it with flying colors!</p>
 			
 		</div>
 	</div>
