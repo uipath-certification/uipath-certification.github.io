@@ -1,7 +1,4 @@
 <script>
-var person = {firstName:"John", lastName:"Doe", age:46};
-var home = {street:"85 Clover", city:"Ajax"};
-person.address = home;
 
 var questions = [
 
@@ -51,6 +48,13 @@ var questions = [
 
 
 
+
+//alert(questions[1].options[3].option);
+//alert(questions[1].options[2].correct);
+
+
+
+
 var answers = new Array(questions.length);
 var questionNumber = 0;
 //displayQuestion(0);
@@ -66,14 +70,22 @@ window.addEventListener('load', function () {
 })
 
 displayQuestion = function(number){
+
+	//alert(document.getElementById("optionA").checked);
+
+	questions[questionNumber].options[0].checked = document.getElementById("optionA").checked;
+	questions[questionNumber].options[1].checked = document.getElementById("optionB").checked;
+	questions[questionNumber].options[2].checked = document.getElementById("optionC").checked;
+	questions[questionNumber].options[3].checked = document.getElementById("optionD").checked;
+
+
 	if(number=='next') {
 		questionNumber = questionNumber+1;
 	}
 	if(number=='previous') {
 		questionNumber = questionNumber-1;
 	}
-	
-	console.log(questionNumber);
+
 	let questionNumberDisplay = parseInt(questionNumber, 10) + 1;
 	document.getElementById("questionNumber").innerHTML = "Question " + questionNumberDisplay;
 	document.getElementById("query").innerHTML = questions[questionNumber].query;
@@ -82,11 +94,18 @@ displayQuestion = function(number){
 	document.getElementById("labelOptionC").innerHTML = questions[questionNumber].options[2].option;
 	document.getElementById("labelOptionD").innerHTML = questions[questionNumber].options[3].option;
 	
+
 	
-	var checkedRadioButtons = document.querySelector('input[name="exampleRadios"]:checked');
-	if (checkedRadioButtons!=null) {
-		checkedRadioButtons.checked = false;
-	}
+	document.getElementById("optionA").checked = questions[questionNumber].options[0].checked;
+	document.getElementById("optionB").checked = questions[questionNumber].options[1].checked;
+	document.getElementById("optionC").checked = questions[questionNumber].options[2].checked;
+	document.getElementById("optionD").checked = questions[questionNumber].options[3].checked;	
+	
+	
+	//var checkedRadioButtons = document.querySelector('input[name="exampleRadios"]:checked');
+	//if (checkedRadioButtons!=null) {
+	//	checkedRadioButtons.checked = false;
+	//}
 	
 	var radios = document.querySelectorAll('input[type="radio"]:checked');
 	var value = radios.length>0? radios[0].value: null;
@@ -102,6 +121,29 @@ displayQuestion = function(number){
 	}
 	
 }
+
+gradeExam = function(){
+
+	//Make sure changes on the question they asked for the grade to be there.
+	questions[questionNumber].options[0].checked = document.getElementById("optionA").checked;
+	questions[questionNumber].options[1].checked = document.getElementById("optionB").checked;
+	questions[questionNumber].options[2].checked = document.getElementById("optionC").checked;
+	questions[questionNumber].options[3].checked = document.getElementById("optionD").checked;
+
+	let correctCount = 0; 
+	for (i = 0; i < questions.length; i++) {
+		let correct = true;
+		for (j = 0; j < questions[i].options.length; j++) {
+			correct = (questions[i].options[j].checked == questions[i].options[j].correct);
+			if (correct == false) {break;}
+		}
+		if (correct) {correctCount++}
+	}
+	//alert(correctCount);
+	document.getElementById('score').innerHTML = 'You got '  + correctCount + ' out of ' + questions.length + ' correct.';
+	
+}
+
 
 </script>
 
@@ -145,12 +187,33 @@ displayQuestion = function(number){
 </div>
 <div>
     <a href="#" id="previous" class="btn btn-primary" onclick="displayQuestion('previous')">&lt;&lt; Previous</a>
-	<!-- <a href="#" id="finish" class="btn btn-primary" onclick="displayQuestion('1')">Finish</a> -->
+	
 	<a href="#" id="next" class="btn btn-primary" onclick="displayQuestion('next')">Next &gt;&gt;</a>
+	<a href="#" id="finish" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="gradeExam()">Finish</a>
 	</div>
   </div>
 </div>
 
 	
 	
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Quiz Results</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div id="score" class="modal-body">
+
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
 </div>
