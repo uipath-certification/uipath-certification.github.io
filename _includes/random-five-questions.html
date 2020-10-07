@@ -67,10 +67,36 @@ var questionNumber = 0;
 
 window.addEventListener('load', function () {
   displayQuestion(0);
+  
+	document.getElementById("question-jumper").innerHTML;
+  
+  let buttons = "";
+  	for (i = 0; i < questions.length; i++) {
+		var aTag = document.createElement('a');
+
+		aTag.setAttribute('onClick','displayQuestion(\''+ i + '\')');
+		aTag.setAttribute('class','btn btn-secondary');
+		aTag.innerHTML = "" + (i+1);
+		document.getElementById("question-jumper").append(aTag);
+	}
+  
+  
 })
+
+navigateQuestions = function(number){
+alert('navigateQuestions');
+	if(number=='next') {
+		questionNumber = questionNumber+1;
+	}
+	if(number=='previous') {
+		questionNumber = questionNumber-1;
+	}
+	displayQuestion(questionNumber);
+}
 
 displayQuestion = function(number){
 
+	questionNumber = number;
 	//alert(document.getElementById("optionA").checked);
 
 	questions[questionNumber].options[0].checked = document.getElementById("optionA").checked;
@@ -79,14 +105,10 @@ displayQuestion = function(number){
 	questions[questionNumber].options[3].checked = document.getElementById("optionD").checked;
 
 
-	if(number=='next') {
-		questionNumber = questionNumber+1;
-	}
-	if(number=='previous') {
-		questionNumber = questionNumber-1;
-	}
 
-	let questionNumberDisplay = parseInt(questionNumber, 10) + 1;
+	questionNumber = parseInt(number, 10);
+
+	let questionNumberDisplay = parseInt(number, 10) + 1;
 	document.getElementById("questionNumber").innerHTML = "Question " + questionNumberDisplay;
 	document.getElementById("query").innerHTML = questions[questionNumber].query;
 	document.getElementById("labelOptionA").innerHTML = questions[questionNumber].options[0].option;
@@ -185,12 +207,23 @@ gradeExam = function(){
     
   </label>
 </div>
+<p class="card-text">
 <div>
-    <a href="#" id="previous" class="btn btn-primary" onclick="displayQuestion('previous')">&lt;&lt; Previous</a>
+    <a href="#" id="previous" class="btn btn-primary" onclick="navigateQuestions('previous')">&lt;&lt; Previous</a>
 	
-	<a href="#" id="next" class="btn btn-primary" onclick="displayQuestion('next')">Next &gt;&gt;</a>
+	<a href="#" id="next" class="btn btn-primary" onclick="navigateQuestions('next')">Next &gt;&gt;</a>
 	<a href="#" id="finish" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="gradeExam()">Finish</a>
 	</div>
+	
+<div>	
+</p>
+<p class="card-text"><small class="text-muted">&nbsp;</small></p>
+<p class="card-text"><small class="text-muted"><span id="question-jumper"></small></p>
+
+</span>
+</div>	
+	
+	
   </div>
 </div>
 
