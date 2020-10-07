@@ -16,6 +16,13 @@ What happens if you try to save a table using Excel Write Range activity to a fi
 [ ] Unchecked
 [x] Checked
 
+[ ] Unchecked
+
+[] Unchecked
+
+[ ]
+
+
 
 
 
