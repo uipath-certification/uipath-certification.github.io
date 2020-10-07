@@ -13,7 +13,7 @@ title: The UiPath Certification Plan
  <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 	<div class="card" >
 	<div class="card-header">Prepare</div>
-	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7pQq1QIW0_W6VArgacp_heK9Ngz3L63VYLw&usqp=CAU" class="card-img-top" alt="uipath certification">
+	<img src="/assets/prepare.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 		
 
@@ -28,7 +28,7 @@ title: The UiPath Certification Plan
  <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 						<div class="card" >
 						<div class="card-header">Study</div>
-						<img src="https://www.how-to-study.com/images/study-skills-assessments.jpg" class="card-img-top" alt="uipath certification">
+						<img src="/assets/study.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
 			<p class="card-text">Follow your certification study plan.</p>
@@ -39,7 +39,7 @@ title: The UiPath Certification Plan
  <div class=" col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 						<div class="card" >
 						<div class="card-header">Practice</div>
-						<img src="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_497/practice_makes_perfect_1200x627.jpg" class="card-img-top" alt="uipath certification">
+						<img src="/assets/practice.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
 			<p class="card-text">Hammer away at our practice exams.</p>
