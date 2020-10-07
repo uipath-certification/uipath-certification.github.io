@@ -4,8 +4,6 @@ title: Home
 ---
 We're going to get you UiPath Certified. Fast.
 
-[![UiPath Web Scrape Example](http://img.youtube.com/vi/kkFpiNmseos/0.jpg)](http://www.youtube.com/watch?v=kkFpiNmseos "UiPath Web Scrape Example")
-
 ## Step by step UiPath Certification
 Getting UiPath Certified as an associated or developer is easy if you just follow these steps:
 - Pay attention to the exam objectives
