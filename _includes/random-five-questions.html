@@ -160,10 +160,10 @@ gradeExam = function(){
 			correct = (questions[i].options[j].checked == questions[i].options[j].correct);
 			if (correct == false) {
 				
-				document.getElementById('jumpTo'+i).setAttribute('class', 'btn btn-danger');
+				document.getElementById('jumpTo'+i).setAttribute('class', 'btn btn-danger  mr-2');
 				break;
 			} else {
-				document.getElementById('jumpTo'+i).setAttribute('class', 'btn btn-success');
+				document.getElementById('jumpTo'+i).setAttribute('class', 'btn btn-success  mr-2');
 			}
 		}
 		if (correct) {correctCount++}
