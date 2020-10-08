@@ -15,7 +15,7 @@ title: How to prepare for the UiPath exam
   </div>
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">Install UiPath Studio</div>
+      <div class="card-header">Step 1</div>
       <img src="/assets/study.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body">
         <p class="card-text">Install UiPath Studio</p>
