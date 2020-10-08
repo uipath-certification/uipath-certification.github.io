@@ -6,7 +6,7 @@ title: UiPath Exam Objectives
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Read the Objectives</div>
-      <img src="/assets/prepare.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/read.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Before you even being to study, make sure you review the UiPath Exam objectives.</p>
         <p class="text-center mt-auto"><a href="#uipath-cert-prep" class="text-center  btn btn-outline-primary btn-sm">Learn More</a></p>
@@ -16,7 +16,7 @@ title: UiPath Exam Objectives
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Focus Your Study</div>
-      <img src="/assets/study.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/focus.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Review the UiPath Exam objectives before you study a particular topic. Keep your exam studies focussed.</p>
         <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
@@ -26,7 +26,7 @@ title: UiPath Exam Objectives
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Triage</div>
-      <img src="/assets/practice.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/dumbell.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Focus on your weakest UiPath Exam objectives until those weaknesses disappear.</p>
         <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
