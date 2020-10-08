@@ -28,7 +28,7 @@ title: How to prepare for the UiPath exam
       <div class="card-header">Task 2</div>
       <img src="/assets/practice.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-        <p class="card-text">Register for UiPath Orchestrator cloud account.</p>
+        <p class="card-text">Register for UiPath Orchestrator trial account.</p>
         <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
       </div>
     </div>
@@ -38,7 +38,7 @@ title: How to prepare for the UiPath exam
       <div class="card-header">Task 3</div>
       <img src="/assets/apply.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-        <p class="card-text">Code the UiPath Hello World robot</p>
+        <p class="card-text">Code, compile and run the UiPath Hello World robot</p>
         <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
       </div>
     </div>
@@ -62,7 +62,7 @@ title: How to prepare for the UiPath exam
       <div class="card-header">Task 5</div>
       <img src="/assets/study.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-        <p class="card-text">Begin your studies.</p>
+        <p class="card-text">Follow our UiPath Certification study guide to learn what you need to know to pass the UiPath Exam.</p>
         <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
       </div>
     </div>
