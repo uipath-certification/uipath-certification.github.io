@@ -9,7 +9,7 @@ title: How to prepare for the UiPath exam
       <img src="/assets/prepare.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Complete these tasks to begin your UiPath Certification journey.</p>
-        <p class="text-center mt-auto"><a href="exam-prep.html" class="text-center  btn btn-outline-primary btn-sm">Learn More</a></p>
+        <p class="text-center mt-auto"><a href="uipath-cert-prep" class="text-center  btn btn-outline-primary btn-sm">Learn More</a></p>
       </div>
     </div>
   </div>
@@ -68,7 +68,7 @@ title: How to prepare for the UiPath exam
     </div>
   </div>
   
-  
+  <a name="uipath-cert-prep"/>
   <div class=" col-12   d-flex align-items-stretch">
     <div class="card" >
        <img src="/assets/background-small4.jpg" class="card-img-top" alt="UiPath Studio Preparation">
