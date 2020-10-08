@@ -28,7 +28,7 @@ title: How to prepare for the UiPath exam
       <div class="card-header">Task 2</div>
       <img src="/assets/practice.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-        <p class="card-text">Register for UiPath Orchestrator trial account.</p>
+        <p class="card-text">Register for a UiPath Orchestrator trial account.</p>
         <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
       </div>
     </div>
