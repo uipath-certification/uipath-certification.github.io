@@ -36,13 +36,15 @@ title: UiPath Exam Objectives
   
   <div class=" col-12   d-flex align-items-stretch">
     <div class="card" >
-      
-     <h5 class="card-title">UiPath Associate Exam Objectives</h5>
+	      <div class="card-header">
+    UiPath Associate Exam Objectives
+  </div>
+      <div class="card-body">
     <p class="card-text">If you are interested in taking the UiPath Associate exam, the first thing to do is go over the UiPath exam objectives and figure out where you are weak and where you are strong. Then, focus your studies accordingly.</p>     
       
       
       
-<div class="card">
+<div class="card m-2">
   <div class="card-header">
     UiPath Fundamentals
   </div>
@@ -56,7 +58,7 @@ title: UiPath Exam Objectives
   </div>
 </div>
 
-<div class="card">
+<div class="card m-2">
   <div class="card-header">
     UiPath Studio
   </div>
@@ -70,7 +72,7 @@ title: UiPath Exam Objectives
 </div>
 
 
-<div class="card">
+<div class="card m-2">
   <div class="card-header">
     UiPath Programming Basics
   </div>
@@ -86,7 +88,7 @@ title: UiPath Exam Objectives
 </div>
 
 
-<div class="card" style="width: 18rem;">
+<div class="card m-2" >
   <div class="card-header">
     Featured
   </div>
@@ -103,7 +105,7 @@ title: UiPath Exam Objectives
   </div>
 </div>
 
-<div class="card">
+<div class="card m-2">
   <div class="card-header">
     Static and Dynamic Selectors
   </div>
@@ -118,7 +120,7 @@ title: UiPath Exam Objectives
   </div>
 </div>
 
-<div class="card" style="width: 18rem;">
+<div class="card m-2">
   <div class="card-header">
     Iterative and Conditional Logic
   </div>
@@ -131,7 +133,7 @@ title: UiPath Exam Objectives
   </div>
 </div>
 
-<div class="card" style="width: 18rem;">
+<div class="card m-2">
   <div class="card-header">
     Strings, Structured Data and DataTables
   </div>
@@ -143,7 +145,7 @@ title: UiPath Exam Objectives
   </div>
 </div>
 
-<div class="card" style="width: 18rem;">
+<div class="card m-2" >
   <div class="card-header">
     Robotic Process Automation Fundamentals
   </div>
@@ -157,7 +159,7 @@ title: UiPath Exam Objectives
   </div>
 </div>
 
-<div class="card" style="width: 18rem;">
+<div class="card m-2" >
   <div class="card-header">
     Featured
   </div>
@@ -174,7 +176,7 @@ title: UiPath Exam Objectives
   </div>
 </div>
 
-<div class="card" style="width: 18rem;">
+<div class="card m-2" >
   <div class="card-header">
     UiPath Orchestrator
   </div>
@@ -188,7 +190,7 @@ title: UiPath Exam Objectives
 </div>
 
 
-
+</div>
     </div>
   </div>
 </div>
