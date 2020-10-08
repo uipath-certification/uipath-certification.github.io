@@ -68,7 +68,127 @@ title: UiPath Exam Objectives
 	<p class="card-text">Explain the significance of connecting an automation project to the version control solution</p>
   </div>
 </div>
-      </div>
+
+
+<div class="card">
+  <div class="card-header">
+    UiPath Programming Basics
+  </div>
+  <img src="/assets/background-small.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">UiPath Studio Basics – Variables and Arguments</h5>
+    <p class="card-text">Identify the different variable types available in the UiPath Studio Variables panel</p>
+	<p class="card-text">Explain how variables are used, managed, and the best practice for using the variable scope in the UiPath Studio Variables panel</p>
+	<p class="card-text">Describe the difference between using variables versus using arguments</p>
+	<p class="card-text">Explain how arguments are used, managed, and the best practice for using the argument direction in the UiPath Studio Arguments panel</p>
+
+  </div>
+</div>
+
+
+<div class="card" style="width: 18rem;">
+  <div class="card-header">
+    Featured
+  </div>
+  <img src="/assets/background-small.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Robotic Process Automation (UiPath and RPA) Fundamentals</h5>
+    <p class="card-text"></p>
+	<p class="card-text"></p>
+	<p class="card-text"></p>
+	<p class="card-text"></p>
+	<p class="card-text"></p>
+	<p class="card-text"></p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header">
+    Static and Dynamic Selectors
+  </div>
+  <img src="/assets/background-small.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">UiPath Studio and Selectors</h5>
+    <p class="card-text">Identify, describe, and demonstrate how dynamic versus static selectors are used</p>
+	<p class="card-text">Identify and describe how partial versus full selectors are used</p>
+	<p class="card-text">Identify and describe how and when to use Anchors</p>
+	<p class="card-text">Demonstrate the use of UI Explorer to modify selectors</p>
+	<p class="card-text">Demonstrate the use a reliable selector</p>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;">
+  <div class="card-header">
+    Iterative and Conditional Logic
+  </div>
+  <img src="/assets/background-small.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">UiPath Studio Programming Concepts – Flow Control</h5>
+    <p class="card-text">Explain how to use control flow activities, workflow types such as sequences and flowcharts, and their functions</p>
+	<p class="card-text">Identify and describe the various control flow activities such as If, Switch, Break, Parallel, While, etc.</p>
+	<p class="card-text">Explain the importance of error handling and how it can be implemented</p>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;">
+  <div class="card-header">
+    Strings, Structured Data and DataTables
+  </div>
+  <img src="/assets/background-small.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Advanced UiPath Studio – Data Manipulation</h5>
+    <p class="card-text">Describe the importance and reasons why data manipulation is used</p>
+	<p class="card-text">Explain how string manipulations, collections, and datatables are used for data manipulation</p>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;">
+  <div class="card-header">
+    Robotic Process Automation Fundamentals
+  </div>
+  <img src="/assets/background-small.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">UiPath Robotic Automation Concepts, Applications and Techniques</h5>
+    <p class="card-text">Identify and explain how to automate e-mail and how email automation is helpful</p>
+	<p class="card-text">Identify and describe Microsoft Excel and datatable functions, and how Excel activities are used for data manipulation</p>
+	<p class="card-text">Describe the functions used to extract data from a .pdf file; for example, using OCR</p>
+
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;">
+  <div class="card-header">
+    Featured
+  </div>
+  <img src="/assets/background-small.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Robotic Process Automation (UiPath and RPA) Fundamentals</h5>
+    <p class="card-text"></p>
+	<p class="card-text"></p>
+	<p class="card-text"></p>
+	<p class="card-text"></p>
+	<p class="card-text"></p>
+	<p class="card-text"></p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+
+<div class="card" style="width: 18rem;">
+  <div class="card-header">
+    UiPath Orchestrator
+  </div>
+  <img src="/assets/background-small.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">An overview of UiPath Orchestrator</h5>
+    <p class="card-text">Describe how to provision attended and unattended robots to UiPath Orchestrator</p>
+	<p class="card-text">Identify and describe how to use UiPath Orchestrator queues and assets</p>
+	<p class="card-text">Identify and explain how packages are published to UiPath Orchestrator in the cloud</p>
+  </div>
+</div>
+
+
+
     </div>
   </div>
 </div>
