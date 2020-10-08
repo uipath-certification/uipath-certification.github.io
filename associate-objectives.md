@@ -4,7 +4,9 @@ title: UiPath Exam Objectives
 ---
 <div class="row">
 
-<div class="card col-12">
+
+
+<div class="col-12 mb-2  d-flex align-items-stretch">
 <div class="card">
   <div class="card-header">
 	  <h4>Strategize around the UiPath Exam Objectives</h4>
