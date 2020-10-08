@@ -37,19 +37,37 @@ title: UiPath Exam Objectives
   <div class=" col-12   d-flex align-items-stretch">
     <div class="card" >
       
-      <div class="card-header">How to get started with UiPath Certification</div>
-      <img src="/assets/background-small4.jpg" class="card-img-top" alt="UiPath Studio Preparation">
-      <div class="card-body d-flex flex-column">
-        <p class="card-text">You need to walk before you can run.</p>
-        <p class="card-text">To learn UiPath, you'll need a good laptop or spare desktop with which you can install some software and play around a bit. You probably don't want to do your learning on a work machine.</p>
-        <h4>Exam Preparation Tasks</h4>
-        <p>To get started with UiPath Certification, complete the following tasks:</p>
-        <ul >
-          <li class="list-group-item">Prepare Windows 10 laptop or desktop for training</li>
-          <li class="list-group-item">Download and install UiPath Studio </li>
-          <li class="list-group-item">Register for a UiPath Orchestrator account</li>
-          <li class="list-group-item">Create and run a Hello World application in UiPath Studio</li>
-        </ul>
+     <h5 class="card-title">UiPath Associate Exam Objectives</h5>
+    <p class="card-text">If you are interested in taking the UiPath Associate exam, the first thing to do is go over the UiPath exam objectives and figure out where you are weak and where you are strong. Then, focus your studies accordingly.</p>     
+      
+      
+      
+<div class="card">
+  <div class="card-header">
+    UiPath Fundamentals
+  </div>
+  <img src="/assets/background-small.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Robotic Process Automation (UiPath and RPA) Fundamentals</h5>
+    <p class="card-text">Differentiate between the UiPath Studio Community Edition and the Enterprise Edition</p>
+	<p class="card-text">Identify sample use cases that describes the processes and workloads that can be automated</p>
+	<p class="card-text">Identify and describe the different types of robots, i.e., attended versus unattended robots</p>
+	<p class="card-text">Explain the functionality of the various UiPath products, i.e., Studio, Robots, and Orchestrator</p>
+  </div>
+</div>
+
+<div class="card">
+  <div class="card-header">
+    UiPath Studio
+  </div>
+  <img src="/assets/background-small.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">UiPath Studio Overview</h5>
+    <p class="card-text">Understand and explain the automation debug functions and usage such as Breakpoints</p>
+	<p class="card-text">Identify and describe how to use Manage Packages</p>
+	<p class="card-text">Explain the significance of connecting an automation project to the version control solution</p>
+  </div>
+</div>
       </div>
     </div>
   </div>
