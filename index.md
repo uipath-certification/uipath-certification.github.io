@@ -20,7 +20,7 @@ title: The UiPath Certification Plan
 			
 			
 			<p class="card-text">Make sure you start off on the right foot.</p>
-			<p class="text-center"><a href="exam-prep.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+			<div class="card-footer text-center"><p class="text-center"><a href="exam-prep.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p></div>
 			
 		</div>
 	</div>
@@ -44,7 +44,7 @@ title: The UiPath Certification Plan
 		<div class="card-body">
 			
 			<p class="card-text">Test your knowledge with our free practice exams.</p>
-			<p class="text-center"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+			<div class="card-footer text-center"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></div>
 		</div>
 	</div>
  </div>
@@ -56,7 +56,7 @@ title: The UiPath Certification Plan
 		<div class="card-body">
 			
 			<p class="card-text">Fun projects help you apply what you've learned.</p>
-			<p class="text-center"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+			<div class="card-footer text-center"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></div>
 		</div>
 	</div>
 			
