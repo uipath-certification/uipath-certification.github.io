@@ -3,8 +3,9 @@ layout: default
 title: UiPath Exam Objectives
 ---
 <div class="row">
-	
+
 <div class="card col-12">
+<div class="card">
   <div class="card-header">
 	  <h4>Strategize around the UiPath Exam Objectives</h4>
   </div>
@@ -14,6 +15,7 @@ title: UiPath Exam Objectives
 	  <p class="card-text">Here's how to use the UiPath Associate exam objectives to your advantage. They're the key to passing the exam on the first try.</p>
   </div>
 </div>
+	</div>
 	
 	
 	
@@ -27,6 +29,8 @@ title: UiPath Exam Objectives
       </div>
     </div>
   </div>
+  
+  
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Focus Your Study</div>
