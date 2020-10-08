@@ -16,7 +16,7 @@ title: How to prepare for the UiPath exam
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 1</div>
-      <img src="/assets/download.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/install.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Download and install UiPath Studio on your local machine.</p>
         <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
