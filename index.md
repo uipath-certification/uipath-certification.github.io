@@ -20,7 +20,7 @@ title: The UiPath Certification Plan
 			
 			
 			<p class="card-text">Make sure you start off on the right foot.</p>
-			<p class="text-center"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+			<p class="text-center"><a href="exam-prep.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
 			
 		</div>
 	</div>
