@@ -79,6 +79,4 @@ title: How to prepare for the UiPath exam
   </div>
   
 </div>
-  
-  
 </div>
