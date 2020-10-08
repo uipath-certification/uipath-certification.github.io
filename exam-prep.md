@@ -29,7 +29,7 @@ title: How to prepare for the UiPath exam
       <img src="/assets/practice.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body">
         <p class="card-text">Register for UiPath Studio.</p>
-        <p class="text-center"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
+        <p class="text-center"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
       </div>
     </div>
   </div>
@@ -39,7 +39,18 @@ title: How to prepare for the UiPath exam
       <img src="/assets/apply.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body">
         <p class="card-text">Code the UiPath Hello World robot</p>
-        <p class="text-center"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
+        <p class="text-center"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+      </div>
+    </div>
+  </div>
+  
+  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Step 4</div>
+      <img src="/assets/study.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body">
+        <p class="card-text">Begin your studies.</p>
+        <p class="text-center"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
       </div>
     </div>
   </div>
