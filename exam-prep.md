@@ -29,7 +29,7 @@ title: How to prepare for the UiPath exam
       <img src="/assets/practice.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Register for a UiPath Orchestrator trial account.</p>
-        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
       </div>
     </div>
   </div>
@@ -39,7 +39,7 @@ title: How to prepare for the UiPath exam
       <img src="/assets/apply.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Code, compile and run the UiPath Hello World robot</p>
-        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
       </div>
     </div>
   </div>
@@ -51,7 +51,7 @@ title: How to prepare for the UiPath exam
       <img src="/assets/study.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Register for helpful UiPath forums and follow the right people on YouTube and Twitter.</p>
-        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
       </div>
     </div>
   </div>
@@ -63,7 +63,7 @@ title: How to prepare for the UiPath exam
       <img src="/assets/study.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Follow our UiPath Certification study guide to learn what you need to know to pass the UiPath Exam.</p>
-        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
       </div>
     </div>
   </div>
