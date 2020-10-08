@@ -81,23 +81,6 @@ title: UiPath Exam Objectives
 
 </ul></div>  </div>
 
-
-<div class="card m-2" >
-  <div class="card-header">
-    Featured
-  </div>
-  <img src="/assets/background-small4.jpg" class="card-img-top" alt="...">
-  <div class="card-body">
-    <h2 class="card-title">Robotic Process Automation (UiPath and RPA) Fundamentals</h2><ul>
-    <li class="card-text"></li>
-	<li class="card-text"></li>
-	<li class="card-text"></li>
-	<li class="card-text"></li>
-	<li class="card-text"></li>
-	<li class="card-text"></li>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
-</ul></div>  </div>
-
 <div class="card m-2">
   <div class="card-header">
     Static and Dynamic Selectors
