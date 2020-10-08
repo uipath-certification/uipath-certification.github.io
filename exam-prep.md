@@ -7,9 +7,9 @@ title: How to prepare for the UiPath exam
     <div class="card" >
       <div class="card-header">Prepare</div>
       <img src="/assets/prepare.jpg" class="card-img-top" alt="uipath certification">
-      <div class="card-body">
+      <div class="card-body d-flex flex-column">
         <p class="card-text">Complete these tasks to begin your UiPath Certification journey.</p>
-        <p class="text-center"><a href="exam-prep.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+        <p class="text-center"><a href="exam-prep.html" class="text-center mt-auto btn btn-outline-primary btn-sm">Learn More</a></p>
       </div>
     </div>
   </div>
@@ -17,9 +17,9 @@ title: How to prepare for the UiPath exam
     <div class="card" >
       <div class="card-header">Task 1</div>
       <img src="/assets/study.jpg" class="card-img-top" alt="uipath certification">
-      <div class="card-body">
+      <div class="card-body d-flex flex-column">
         <p class="card-text">Install UiPath Studio</p>
-        <p class="text-center"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
+        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
       </div>
     </div>
   </div>
@@ -27,7 +27,7 @@ title: How to prepare for the UiPath exam
     <div class="card" >
       <div class="card-header">Task 2</div>
       <img src="/assets/practice.jpg" class="card-img-top" alt="uipath certification">
-      <div class="card-body">
+      <div class="card-body d-flex flex-column">
         <p class="card-text">Register for UiPath Studio.</p>
         <p class="text-center"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
       </div>
@@ -37,7 +37,7 @@ title: How to prepare for the UiPath exam
     <div class="card" >
       <div class="card-header">Task 3</div>
       <img src="/assets/apply.jpg" class="card-img-top" alt="uipath certification">
-      <div class="card-body">
+      <div class="card-body d-flex flex-column">
         <p class="card-text">Code the UiPath Hello World robot</p>
         <p class="text-center"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
       </div>
@@ -49,7 +49,7 @@ title: How to prepare for the UiPath exam
     <div class="card" >
       <div class="card-header">Task 4</div>
       <img src="/assets/study.jpg" class="card-img-top" alt="uipath certification">
-      <div class="card-body">
+      <div class="card-body d-flex flex-column">
         <p class="card-text">Register for helpful UiPath forums and follow the right people on YouTube and Twitter.</p>
         <p class="text-center"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
       </div>
@@ -61,7 +61,7 @@ title: How to prepare for the UiPath exam
     <div class="card" >
       <div class="card-header">Task 5</div>
       <img src="/assets/study.jpg" class="card-img-top" alt="uipath certification">
-      <div class="card-body">
+      <div class="card-body d-flex flex-column">
         <p class="card-text">Begin your studies.</p>
         <p class="text-center"><a href="#" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
       </div>
@@ -72,7 +72,7 @@ title: How to prepare for the UiPath exam
   <div class=" col-12   d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">How to get started with UiPath Certification</div>
-      <div class="card-body">
+      <div class="card-body d-flex flex-column">
         <p class="card-text">You need to walk before you can run.</p>
         <p class="card-text">To learn UiPath, you'll need a good laptop or spare desktop with which you can install some software and play around a bit. You probably don't want to do your learning on a work machine.</p>
         <h4>Exam Preparation Tasks</h4>
