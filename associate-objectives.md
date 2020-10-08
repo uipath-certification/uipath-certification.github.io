@@ -3,6 +3,20 @@ layout: default
 title: UiPath Exam Objectives
 ---
 <div class="row">
+	
+<div class="card m-2">
+  <div class="card-header">
+	  <h4>Strategize around the UiPath Exam Objectives</h4>
+  </div>
+  <img src="/assets/background-small4.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+	  <p class="card-text">Only a mad man would tacle the UiPath Certification Exam without a solid understanding of the topics being tested.</p>
+	  <p class="card-text">Here's how to use the UiPath Associate exam objectives to your advantage. They're the key to passing the exam on the first try.</p>
+  </div>
+</div>
+	
+	
+	
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Read the Objectives</div>
