@@ -9,7 +9,7 @@ title: UiPath Exam Objectives
       <img src="/assets/read.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Before you even being to study, make sure you review the UiPath Exam objectives.</p>
-        <p class="text-center mt-auto"><a href="#uipath-cert-prep" class="text-center  btn btn-outline-primary btn-sm">Learn More</a></p>
+
       </div>
     </div>
   </div>
@@ -19,7 +19,7 @@ title: UiPath Exam Objectives
       <img src="/assets/focus.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Review the UiPath Exam objectives before you study a particular topic. Keep your exam studies focussed.</p>
-        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
+
       </div>
     </div>
   </div>
@@ -29,7 +29,7 @@ title: UiPath Exam Objectives
       <img src="/assets/dumbell.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Focus on your weakest UiPath Exam objectives until those weaknesses disappear.</p>
-        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
+
       </div>
     </div>
   </div>
