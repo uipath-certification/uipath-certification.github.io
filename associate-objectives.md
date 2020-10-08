@@ -1,167 +1,153 @@
-<!DOCTYPE html>
-<html lang="en">
-   <head>
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179472407-1"></script>
-      <script>
-         window.dataLayer = window.dataLayer || [];
-         function gtag(){dataLayer.push(arguments);}
-         gtag('js', new Date());
-         
-         gtag('config', 'UA-179472407-1');
-      </script>
-      <title>{{ page.title }}</title>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1">
-      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
-      <style>
-         html { font-size: 12pt; }	
-         h1 { font-size: 1.50em; }
-         h2 { font-size: 1.25em; }
-         h3 { font-size: 1.1em; }
-         h4 { font-size: 1.05em; }
-         h5 { font-size: .83em; }
-         h6 { font-size: .75em; }
-         .header, .footer {
-         background: white;
-         text-align: center;
-         }
-         .main {
-         background: white;
-         text-align: left;
-         }
-         .aside-1 {
-         background: white;
-         }
-         .aside-2 {
-         background: white;
-         }
-      </style>
-   <body>
-      <div class="container">
-	  
-	  
-	  
-         <div class="row">
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
-               <a class="navbar-brand" href="#">UiPath Certification</a>
-               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown">
-               <span class="navbar-toggler-icon"></span>
-               </button>
-               <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                  <ul class="navbar-nav ml-auto">
-                     <li class="nav-item active">
-                        <a class="nav-link" href="/index.html">
-                        Home</a>
-                     </li>
-                     <li class="nav-item active">
-                        <a class="nav-link" href="/exam-prep.html">
-                        Preparation
-                        </a>
-                     </li>
-                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown">
-                        Resources
-                        </a>
-                        <div class="dropdown-menu">
-                           <a class="dropdown-item" href="https://www.theserverside.com/video/An-introduction-to-RPA-programming-with-UiPath-Studio">TheServerSide and TechTarget</a>
-                           <a class="dropdown-item" href="https://youtu.be/mG6bILKpKbk">UiPath on YouTube</a>
-                           <a class="dropdown-item" href="https://github.com/cameronmcnz/uipath-tutorials">UiPath on GitHub</a>
-                        </div>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="/associate-objectives.html">Objectives</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="https://uipath-certification.github.io/2020/10/01/uipath-mock-exams.html">UiPath Study Guide</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="https://uipath-certification.github.io/2020/10/01/uipath-mock-exams.html">Practice Tests</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="https://uipath-certification.github.io/2020/10/01/uipath-tutorials.html">Tutorials</a>
-                     </li>
-                  </ul>
-               </div>
-            </nav>
-         </div>
-		 
-		 
-		 
-         <div class="row">
+---
+layout: default
+title: UiPath Exam Objectives
+---
+<div class="row">
+  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Read the Objectives</div>
+      <img src="/assets/read.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+        <p class="card-text">Before you even being to study, make sure you review the UiPath Exam objectives.</p>
 
-            <article class="main col col-12 col-sm-8  col-md-9 col-lg-10 order-1 order-sm-1 order-lg-1">
-               <div class="card">
-                  <div class="card-header">
-                     {{ page.title }}
-                  </div>
-                  <img src="/assets/background-small.jpg" class="card-img-top" alt="uipath certification">
-                  <div class="card-body">
-                     <!-- put a span in to stop the p tag from closing automatically -->
-                     {{ content }}   
-                  </div>
-               </div>
-            </article>
-            <aside  class="aside-2 col col-12  col-sm-4  col-md-3 col-lg-2 order-2 order-sm-2 order-lg-2 ">
-               <div class="card mb-2" >
-                  <div class="card-header">
-                     <h4>New Practice Exams</h4>
-                  </div>
-                  <img src="/assets/multiple-choice.jpg" class="card-img-top" alt="UiPath Practice Exam">
-                  <div class="card-body">
-                     <h4 class="card-title">The toughest mock exams yet?</h4>
-                     <p class="card-text">We just posted a new set of online UiPath Mock Exams. Are you up for the challenge?</p>
-                     <a href="{{ post.url }}" class="btn btn-primary btn-sm">Check them out</a>
-                  </div>
-               </div>
-               <div class="card mt-2">
-                  <div class="card-header">
-                     Networking
-                  </div>
-                  <img src="/assets/serge-social2.jpg" class="card-img-top" alt="UiPath Studio Preparation">
-                  <div class="card-body">
-                     <p class="card-text">Follow me and my friends on social media.</p>
-                     <ul class="nav flex-column">
-                        <li class="nav-item">
-                           <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hdd-network-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                              <path fill-rule="evenodd" d="M2 2a2 2 0 0 0-2 2v1a2 2 0 0 0 2 2h5.5v3A1.5 1.5 0 0 0 6 11.5H.5a.5.5 0 0 0 0 1H6A1.5 1.5 0 0 0 7.5 14h1a1.5 1.5 0 0 0 1.5-1.5h5.5a.5.5 0 0 0 0-1H10A1.5 1.5 0 0 0 8.5 10V7H14a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm.5 3a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1zm2 0a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1z"/>
-                           </svg>
-                           <a href="https://twitter.com/SalernoSerge">Twitter</a>
-                        </li>
-                        <li class="nav-item">
-                           <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hdd-rack-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                              <path fill-rule="evenodd" d="M2 9a2 2 0 0 0-2 2v1a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-1a2 2 0 0 0-2-2H2zm.5 3a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1zm2 0a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1zM2 2a2 2 0 0 0-2 2v1a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2zm.5 3a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1zm2 0a.5.5 0 1 0 0-1 .5.5 0 0 0 0 1zM3 9V7h1v2H3zm9 0V7h1v2h-1z"/>
-                           </svg>
-                           <a href="https://www.youtube.com/user/potemcam">YouTube</a>
-                        </li>
-                        <li class="nav-item">
-                           <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-hdd-network" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
-                              <path fill-rule="evenodd" d="M14 3H2a1 1 0 0 0-1 1v1a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V4a1 1 0 0 0-1-1zM2 2a2 2 0 0 0-2 2v1a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V4a2 2 0 0 0-2-2H2z"/>
-                              <path d="M5 4.5a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0zm-2 0a.5.5 0 1 1-1 0 .5.5 0 0 1 1 0z"/>
-                              <path fill-rule="evenodd" d="M7.5 10V7h1v3a1.5 1.5 0 0 1 1.5 1.5h5.5a.5.5 0 0 1 0 1H10A1.5 1.5 0 0 1 8.5 14h-1A1.5 1.5 0 0 1 6 12.5H.5a.5.5 0 0 1 0-1H6A1.5 1.5 0 0 1 7.5 10zm0 1a.5.5 0 0 0-.5.5v1a.5.5 0 0 0 .5.5h1a.5.5 0 0 0 .5-.5v-1a.5.5 0 0 0-.5-.5h-1z"/>
-                           </svg>
-                           <a href="https://github.com/uipath-certification/uipath-certification.github.io">GitHub</a>
-                        </li>
-                     </ul>
-                     <p class="card-text">We want to share in your success.</p>
-                  </div>
-               </div>
-               {% for post in site.posts %}
-               <div class="card mb-2">
-                  <div class="card-header">
-                     <a href="{{ post.url }}">{{ post.title }}</a>
-                  </div>
-                  <div class="card-body">
-                     <p class="card-text">{{ post.blurb }}</p>
-                     <a href="{{ post.url }}" class="btn btn-primary btn-sm">Check it out</a>
-                  </div>
-               </div>
-               {% endfor %}
-            </aside>
-
-         </div>
       </div>
-      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-      <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
-   </body>
-</html>
+    </div>
+  </div>
+  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Focus Your Study</div>
+      <img src="/assets/focus.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+        <p class="card-text">Review the UiPath Exam objectives before you study a particular topic. Keep your exam studies focussed.</p>
+
+      </div>
+    </div>
+  </div>
+  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Persevere</div>
+      <img src="/assets/dumbell.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+        <p class="card-text">Focus on your weakest UiPath Exam objectives until those weaknesses disappear.</p>
+
+      </div>
+    </div>
+  </div>
+  
+  <div class=" col-12   d-flex align-items-stretch">
+    <div class="card" >
+<img src="/assets/background-small2.jpg" class="card-img-top" alt="...">
+      <div class="card-body">
+    <p class="card-text">If you are interested in taking the UiPath Associate exam, the first thing to do is go over the UiPath exam objectives and figure out where you are weak and where you are strong. Then, focus your studies accordingly.</p>     
+      
+          
+<div class="card m-2">
+  <div class="card-header">
+    UiPath Fundamentals
+  </div>
+  <img src="/assets/background-small4.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h2 class="card-title">Robotic Process Automation (UiPath and RPA) Fundamentals</h2><ul>
+    <li class="card-text">Differentiate between the UiPath Studio Community Edition and the Enterprise Edition</li>
+	<li class="card-text">Identify sample use cases that describes the processes and workloads that can be automated</li>
+	<li class="card-text">Identify and describe the different types of robots, i.e., attended versus unattended robots</li>
+	<li class="card-text">Explain the functionality of the various UiPath products, i.e., Studio, Robots, and Orchestrator</li>
+</ul></div>  </div>
+
+<div class="card m-2">
+  <div class="card-header">
+    UiPath Studio
+  </div>
+  <img src="/assets/background-small4.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h2 class="card-title">UiPath Studio Overview</h2><ul>
+    <li class="card-text">Understand and explain the automation debug functions and usage such as Breakpoints</li>
+	<li class="card-text">Identify and describe how to use Manage Packages</li>
+	<li class="card-text">Explain the significance of connecting an automation project to the version control solution</li>
+</ul></div>  </div>
+
+
+<div class="card m-2">
+  <div class="card-header">
+    UiPath Programming Basics
+  </div>
+  <img src="/assets/background-small4.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h2 class="card-title">UiPath Studio Basics – Variables and Arguments</h2><ul>
+    <li class="card-text">Identify the different variable types available in the UiPath Studio Variables panel</li>
+	<li class="card-text">Explain how variables are used, managed, and the best practice for using the variable scope in the UiPath Studio Variables panel</li>
+	<li class="card-text">Describe the difference between using variables versus using arguments</li>
+	<li class="card-text">Explain how arguments are used, managed, and the best practice for using the argument direction in the UiPath Studio Arguments panel</li>
+
+</ul></div>  </div>
+
+<div class="card m-2">
+  <div class="card-header">
+    Static and Dynamic Selectors
+  </div>
+  <img src="/assets/background-small4.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h2 class="card-title">UiPath Studio and Selectors</h2><ul>
+    <li class="card-text">Identify, describe, and demonstrate how dynamic versus static selectors are used</li>
+	<li class="card-text">Identify and describe how partial versus full selectors are used</li>
+	<li class="card-text">Identify and describe how and when to use Anchors</li>
+	<li class="card-text">Demonstrate the use of UI Explorer to modify selectors</li>
+	<li class="card-text">Demonstrate the use a reliable selector</li>
+</ul></div>  </div>
+
+<div class="card m-2">
+  <div class="card-header">
+    Iterative and Conditional Logic
+  </div>
+  <img src="/assets/background-small4.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h2 class="card-title">UiPath Studio Programming Concepts – Flow Control</h2><ul>
+    <li class="card-text">Explain how to use control flow activities, workflow types such as sequences and flowcharts, and their functions</li>
+	<li class="card-text">Identify and describe the various control flow activities such as If, Switch, Break, Parallel, While, etc.</li>
+	<li class="card-text">Explain the importance of error handling and how it can be implemented</li>
+</ul></div>  </div>
+
+<div class="card m-2">
+  <div class="card-header">
+    Strings, Structured Data and DataTables
+  </div>
+  <img src="/assets/background-small4.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h2 class="card-title">Advanced UiPath Studio – Data Manipulation</h2><ul>
+    <li class="card-text">Describe the importance and reasons why data manipulation is used</li>
+	<li class="card-text">Explain how string manipulations, collections, and datatables are used for data manipulation</li>
+</ul></div>  </div>
+
+<div class="card m-2" >
+  <div class="card-header">
+    Robotic Process Automation Fundamentals
+  </div>
+  <img src="/assets/background-small4.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h2 class="card-title">UiPath Robotic Automation Concepts, Applications and Techniques</h2><ul>
+    <li class="card-text">Identify and explain how to automate e-mail and how email automation is helpful</li>
+	<li class="card-text">Identify and describe Microsoft Excel and datatable functions, and how Excel activities are used for data manipulation</li>
+	<li class="card-text">Describe the functions used to extract data from a .pdf file; for example, using OCR</li>
+
+</ul></div>  </div>
+
+
+
+<div class="card m-2" >
+  <div class="card-header">
+    UiPath Orchestrator
+  </div>
+  <img src="/assets/background-small4.jpg" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h2 class="card-title">An overview of UiPath Orchestrator</h2><ul>
+    <li class="card-text">Describe how to provision attended and unattended robots to UiPath Orchestrator</li>
+	<li class="card-text">Identify and describe how to use UiPath Orchestrator queues and assets</li>
+	<li class="card-text">Identify and explain how packages are published to UiPath Orchestrator in the cloud</li>
+</ul></div>  </div>
+   
+
+
+</div>
+    </div>
+  </div>
+</div>
