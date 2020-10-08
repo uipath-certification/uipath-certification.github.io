@@ -38,7 +38,7 @@ title: How to prepare for the UiPath exam
       <div class="card-header">Task 3</div>
       <img src="/assets/apply.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-        <p class="card-text">Code, compile and run the UiPath Hello World robot</p>
+        <p class="card-text">Print out and constantly review the UiPath Exam Objectives. That's the target you're always aiming at. </p>
         <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
       </div>
     </div>
