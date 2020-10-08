@@ -71,6 +71,7 @@ title: How to prepare for the UiPath exam
   
   <div class=" col-12   d-flex align-items-stretch">
     <div class="card" >
+       <img src="/assets/background-small4.jpg" class="card-img-top" alt="UiPath Studio Preparation">
       <div class="card-header">How to get started with UiPath Certification</div>
       <div class="card-body d-flex flex-column">
         <p class="card-text">You need to walk before you can run.</p>
