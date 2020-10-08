@@ -10,9 +10,10 @@ title: How to prepare for the UiPath exam
       <div class="card-body">
         <p class="card-text">You need to walk before you can run.</p>
         <p class="card-text">To learn UiPath, you'll need a good laptop or spare desktop with which you can install some software and play around a bit. You probably don't want to do your learning on a work machine.</p>
+        <h4>Exam Preparation Tasks</h4>
         <p>To get started with UiPath Certification, complete the following tasks:</p>
         
- <ul class="list-group">
+ <ul >
   <li class="list-group-item">Prepare Windows 10 laptop or desktop for training</li>
   <li class="list-group-item">Download and install UiPath Studio </li>
   <li class="list-group-item">Register for a UiPath Orchestrator account</li>
