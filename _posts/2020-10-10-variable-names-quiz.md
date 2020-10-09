@@ -10,72 +10,7 @@ blurb: Here's a quiz on UiPath variable names.
 
 
 <script>
-/*
-var questions = [
 
-	{id:1, query:"Which of the following describes the most ideal type of activity to automate with UiPath?", "answer":"test-answer.md",
-			options:[
-			{text:"Multistep process with many decision points with structured data", correct:false, selected:false}, 
-			{text:"Perform Analysis on data and provide", correct:true, selected:false},
-			{text:"Varied tasks that rely heavily on user input", correct:false, selected:false},
-			{text:"Rule-based process with structured data", correct:false, selected:false}
-			],
-      "objectives":[
-         "1.1",
-         "2.2"
-      ]},
-			
-	{query:"A client receives a spreadsheet containing orders. The orders must be input into an internal web-based order system.  Which is the best activity to use?", 
-			options:[
-			{text:"Sequence", correct:true, selected:false}, 
-			{text:"Flowchart", correct:false, selected:false},
-			{text:"Learning Machine", correct:false, selected:false},
-			{text:"Transactional Process", correct:false, selected:false}
-			],
-      "objectives":[
-         "1.1",
-         "2.2"
-      ]},
-
-
-	{query:"Which Activity requires the least amount of parameters?", 
-			options:[
-			{text:"SMTP", correct:false, selected:false}, 
-			{text:"Outlook", correct:true, selected:false},
-			{text:"POP3", correct:false, selected:false},
-			{text:"Mail", correct:false, selected:false}
-			],
-      "objectives":[
-         "1.1",
-         "2.2"
-      ]},		
-			
-	{query:"What happens if you try to save a table using Excel Write Range activity to a file that does not exist?", 
-			options:[
-			{text:"Throws a “File not found” error", correct:false, selected:false}, 
-			{text:"Workflow will wait until the file appears and times out if it doesn’t", correct:false, selected:false},
-			{text:"Activity will not run and continue the sequence", correct:false, selected:false},
-			{text:"Creates the file and saves the table", correct:true, selected:false}
-			],
-      "objectives":[
-         "1.1",
-         "2.2"
-      ]},
-			
-	{query:"When using an Excel Application Scope activity, which activity should be used to sort a table directly in an .xlsx file?", 
-			options:[
-			{text:"Sequence", correct:false, selected:false}, 
-			{text:"Flowchart", correct:false, selected:false},
-			{text:"Learning Machine", correct:false, selected:false},
-			{text:"Transactional Process", correct:true, selected:false}
-			],
-      "objectives":[
-         "1.1",
-         "2.2"
-      ]},	
-			
-	];
-*/
 
 class Exam {
     constructor(examQuestions) {
