@@ -20,6 +20,6 @@ According to the [UiPath docs](https://docs.uipath.com/studio/docs/naming-rules)
 
 As a result, uipathNamingConventions and UiPathNamingConventions comply with the camel case naming convention.
 
-### UiPath and Camel Case
+#### UiPath and Camel Case
 
 UiPath variables should comply with the camel case naming convention.
