@@ -227,8 +227,6 @@ gradeExam = function(){
 		
 </p>
 <div>
-
-</span>
 </div>	
 	
 	
