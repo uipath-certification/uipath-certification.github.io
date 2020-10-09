@@ -126,6 +126,9 @@ displayQuestion = function(number){
 	document.getElementById("labelOption1").innerHTML = exam.questions[questionNumber].options[1].text;
 	document.getElementById("labelOption2").innerHTML = exam.questions[questionNumber].options[2].text;
 	document.getElementById("labelOption3").innerHTML = exam.questions[questionNumber].options[3].text;
+
+	document.getElementById("answerLink").innerHTML = exam.questions[questionNumber].query;
+	document.getElementById("answerLink").setAttribute("href", exam.questions[questionNumber].answer;);
 	
 
 	
@@ -245,15 +248,12 @@ gradeExam = function(){
 
 <div class="card mt-2">
   <div class="card-header" id="answerCard">
-     <a onclick="document.getElementById('answerCardBody').classList.toggle('collapse');" >The Answer</a>
+     <a onclick="document.getElementById('answerCardBody').classList.toggle('collapse');" >The Total Answer</a>
   </div>
   <div class="card-body collapse" id="answerCardBody">
     <h3 class="card-title" id="answer"></h3>
 	  
-    {% capture my_include %}
-    {% include_relative 2020-10-10-screaming-snake-case.md %}
-    {% endcapture %}
-    {{ my_include | markdownify }}
+	<p class="card-text">You can find the answer here: <a id="answerLink">answer</a></p>
     
  </div>
 </div>
