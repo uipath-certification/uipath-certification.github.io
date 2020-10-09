@@ -1,7 +1,7 @@
 ---
 layout: answered-question
 author: Serge
-title: UiPath Kebab Case Question
+title: UiPath and Kebab Case
 blurb: What is kebab case? I love it. UiPath? Not so much
 ---
 
@@ -14,7 +14,7 @@ Question: Which of the following variables is named using kebab-case?
 
 ## Answer
 
-The variable `what-is-kebab-case` is an example of kebab case.
+The variable `what-is-kebab-case` is a correct example of the naming convention in question.
 
 ### UiPath and Kebab Case
 
