@@ -16,7 +16,7 @@ Question: Which of the following variables is named using kebab-case?
 
 The variable `what-is-kebab-case` is a correct example of the naming convention in question.
 
-### UiPath and Kebab Case
+#### UiPath and Kebab Case
 
 I love [kebab case](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-you-should-make-kebab-case-a-URL-naming-convention-best-practice) for URLs and even JavaScript variables, although dashes in variables can often cause problems with batch scripts and cron jobs, so be careful when you use them.
 
