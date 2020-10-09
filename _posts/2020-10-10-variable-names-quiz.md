@@ -21,7 +21,7 @@ class Exam {
 		//alert("About to enter for loop");
 	  	for (i = 0; i < examQuestions.length; i++) {
 			let id = examQuestions[i].id;
-			alert(id);
+			//alert(id);
 			let query = examQuestions[i].query;
 			let answer = examQuestions[i].answer;
 			let options = new Array();
@@ -245,9 +245,9 @@ gradeExam = function(){
 
 <div class="card mt-2">
   <div class="card-header" id="answerCard">
-    The Answer
+     <a onclick="document.getElementById('answerCardBody').toggle('visible');" >The Answer</a>
   </div>
-  <div class="card-body">
+  <div class="card-body" id="answerCardBody">
     <h3 class="card-title" id="answer"></h3>
 	  
     {% capture my_include %}
