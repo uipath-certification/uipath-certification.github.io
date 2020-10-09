@@ -253,7 +253,7 @@ gradeExam = function(){
   <div class="card-body collapse" id="answerCardBody">
     <h3 class="card-title" id="answer"></h3>
 	  
-	<p class="card-text"><a id="answerLink">Answer opens in a new window.</a></p>
+	<p class="card-text"><a id="answerLink" target="blank">Answer opens in a new window.</a></p>
     
  </div>
 </div>
