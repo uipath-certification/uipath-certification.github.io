@@ -4,14 +4,9 @@ author: Serge
 title: Variable Names Quiz
 blurb: Here's a quiz on UiPath variable names.
 ---
-
-
 <div class="container">
 
-
 <script>
-
-
 class Exam {
     constructor(examQuestions) {
 	//console.log("The size is: " + examQuestions.length);
