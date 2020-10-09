@@ -249,6 +249,19 @@ gradeExam = function(){
     <p class="card-text"><small class="text-muted"><span id="question-jumper"></small></p>  
  </div>
 </div>
+
+<div class="card mt-2">
+  <div class="card-header" id="answerCard">
+    Answer
+  </div>
+  <div class="card-body">
+    <h3 class="card-title" id="answer"></h3>
+    
+    {% include_relative 2020-10-10-screaming-snake-case.md %}
+
+    
+ </div>
+</div>
 	
 	
 </div>
