@@ -128,7 +128,7 @@ displayQuestion = function(number){
 	document.getElementById("labelOption3").innerHTML = exam.questions[questionNumber].options[3].text;
 
 	document.getElementById("answerLink").innerHTML = exam.questions[questionNumber].query;
-	document.getElementById("answerLink").setAttribute("href", exam.questions[questionNumber].answer;);
+	document.getElementById("answerLink").setAttribute("href", exam.questions[questionNumber].answer);
 	
 
 	
