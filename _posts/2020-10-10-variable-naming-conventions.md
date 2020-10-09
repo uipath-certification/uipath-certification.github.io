@@ -16,7 +16,7 @@ Question: Which of the following is a valid UiPath variable name?
 
 ## Answer
 
-Only `One1MillionDollars` would 
+Only `One1MillionDollars` would qualify as a correct answer to the UiPath mock exam question.
 
 #### Correct UiPath Variable Names
 
