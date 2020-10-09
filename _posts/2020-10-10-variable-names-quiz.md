@@ -251,9 +251,11 @@ gradeExam = function(){
   </div>
   <div class="card-body">
     <h3 class="card-title" id="answer"></h3>
-    
+	  
+    {% capture my_include %}
     {% include_relative 2020-10-10-screaming-snake-case.md %}
-
+    {% endcapture %}
+    {{ my_include | markdownify }}
     
  </div>
 </div>
