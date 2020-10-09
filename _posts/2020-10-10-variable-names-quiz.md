@@ -224,9 +224,9 @@ gradeExam = function(){
 <div>
 <p class="card-text">
 
-    <a href="#" id="previous" class="btn btn-primary" onclick="navigateQuestions('previous')">&lt;&lt; Previous</a>
-    <a href="#" id="next" class="btn btn-primary" onclick="navigateQuestions('next')">Next &gt;&gt;</a> 
-    <a href="#" id="finish" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="gradeExam()">Finish</a>
+    <a href="#" id="previous" class="btn-sm btn-primary" onclick="navigateQuestions('previous')">&lt;&lt; Previous</a>
+    <a href="#" id="next" class="btn-sm btn-primary" onclick="navigateQuestions('next')">Next &gt;&gt;</a> 
+    <a href="#" id="finish" class="btn-sm btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="gradeExam()">Finish</a>
 		
 </p>
 <div>
