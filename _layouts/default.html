@@ -144,7 +144,7 @@
                      </ul>
                   </div>
                </div>
-               {% for post in site.posts %}
+               {% for post in site.posts limit:4 %}
                <div class="card mb-2">
                   <div class="card-header">
                      <a href="{{ post.url }}">{{ post.title }}</a>
