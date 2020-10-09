@@ -222,7 +222,7 @@ gradeExam = function(){
   </label>
 </div>
 <div>
-<p class="card-text">
+<p class="card-text mt-3">
 
     <a href="#" id="previous" class="btn-sm btn-primary" onclick="navigateQuestions('previous')">&lt;&lt; Previous</a>
     <a href="#" id="next" class="btn-sm btn-primary" onclick="navigateQuestions('next')">Next &gt;&gt;</a> 
