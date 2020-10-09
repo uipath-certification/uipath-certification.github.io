@@ -248,12 +248,12 @@ gradeExam = function(){
 
 <div class="card mt-2">
   <div class="card-header" id="answerCard">
-     <a onclick="document.getElementById('answerCardBody').classList.toggle('collapse');" >The Total Answer</a>
+     <a onclick="document.getElementById('answerCardBody').classList.toggle('collapse');" >Don't cheat!</a>
   </div>
   <div class="card-body collapse" id="answerCardBody">
     <h3 class="card-title" id="answer"></h3>
 	  
-	<p class="card-text">You can find the answer here: <a id="answerLink">answer</a></p>
+	<p class="card-text"><a id="answerLink">Answer opens in a new window.</a></p>
     
  </div>
 </div>
