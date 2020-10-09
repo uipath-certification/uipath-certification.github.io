@@ -23,7 +23,7 @@ class Exam {
       this.questions = new Array();
 		let i = 0;
 		//console.log("Start of for loop" + questions.length);
-		alert("About to enter for loop");
+		//alert("About to enter for loop");
 	  	for (i = 0; i < examQuestions.length; i++) {
 			let id = examQuestions[i].id;
 			alert(id);
