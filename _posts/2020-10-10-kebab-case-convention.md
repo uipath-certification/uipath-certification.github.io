@@ -7,14 +7,16 @@ blurb: What is kebab case? I love it. UiPath? Not so much
 
 Question: Which of the following variables is named using kebab-case?
 
-- [ ]   `WhatIsKebabCase`
-- [x]   `what-is-kebab-case`
-- [ ]   `whatIsKebabCase`
-- [ ]   `what_is_kebab_case`
+- [ ] &nbsp;  `WhatIsKebabCase`
+- [x] &nbsp;  `what-is-kebab-case`
+- [ ] &nbsp;  `whatIsKebabCase`
+- [ ] &nbsp;  `what_is_kebab_case`
 
 ## Answer
 
 The variable `what-is-kebab-case` is an example of kebab case.
+
+### UiPath and Kebab Case
 
 I love [kebab case](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-you-should-make-kebab-case-a-URL-naming-convention-best-practice) for URLs and even JavaScript variables, although dashes in variables can often cause problems with batch scripts and cron jobs, so be careful when you use them.
 
