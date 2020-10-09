@@ -245,9 +245,9 @@ gradeExam = function(){
 
 <div class="card mt-2">
   <div class="card-header" id="answerCard">
-     <a onclick="document.getElementById('answerCardBody').toggle('visible');" >The Answer</a>
+     <a onclick="document.getElementById('answerCardBody').classList.toggle('collapse');" >The Answer</a>
   </div>
-  <div class="card-body" id="answerCardBody">
+  <div class="card-body collapse" id="answerCardBody">
     <h3 class="card-title" id="answer"></h3>
 	  
     {% capture my_include %}
