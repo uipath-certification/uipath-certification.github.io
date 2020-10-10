@@ -19,12 +19,12 @@ title: UiPath Certification Study Guide
 <div class="row">
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">UiPath Study Guide  [desktop](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around) </div>
+      <div class="card-header">UiPath Study Guide  </div>
       <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-	<p class="card-text">  [desktop](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around)  With two weeks of study, I passed the UiPath Associate Certification Exam.</p>
-        <p class="card-text">  [desktop](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around)  These are the online UiPath learning tools I used. They're all free, so you don't have to open your wallet.</p>
-	<p class="card-text">  [desktop](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around)  Follow this simply UiPath Study plan and you'l pass the Associate exam with top marks.</p>
+	<p class="card-text">  two weeks of study, I passed the UiPath Associate Certification Exam.</p>
+        <p class="card-text">    These are the online UiPath learning tools I used. They're all free, so you don't have to open your wallet.</p>
+	<p class="card-text">    Follow this simply UiPath Study plan and you'l pass the Associate exam with top marks.</p>
         <p class="text-center mt-auto"><a href="/associate-objectives.html" class="text-center  btn btn-outline-primary btn-sm">Exam Objectives</a></p>
       </div>
     </div>
@@ -36,8 +36,6 @@ title: UiPath Certification Study Guide
       <div class="card-body d-flex flex-column">
 	     
 	      
-
- [desktop](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around) 
  
 	
 	
