@@ -23,7 +23,7 @@ title: UiPath Certification
 						<img src="/assets/study.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
-			<p class="card-text">Follow our proven certification study plan.</p>
+			<p class="card-text">Follow our proven UiPath Associate certification study plan.</p>
 			<p class="text-center mt-auto"><a href="/study-guide-uipath.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
 		</div>
 	</div>
