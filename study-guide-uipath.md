@@ -19,7 +19,7 @@ title: UiPath Certification Study Guide
   </div>
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">Fundamentals</div>
+      <div class="card-header">Preparation</div>
       <img src="/assets/install.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 	      
@@ -27,23 +27,23 @@ title: UiPath Certification Study Guide
 <ul class="list-group">
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    Cras justo odio
+    Provision a UiPath training [laptop](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around) or [desktop](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around)
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    Dapibus ac facilisis in
+    Register at the [UiPath Forum](https://forum.uipath.com/t/uipath-certification/1144), [StackOverflow](https://stackoverflow.com/questions/64283744/values-from-a-column-in-uipath-need-most-efficient-way/64284140) and [TheServerSide](https://www.theserverside.com/infographic/How-the-process-automation-industry-has-changed-during-COVID-19)
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    Morbi leo risus
+    Follow me on Twitter [@rpacertified](https://twitter.com/rpacertified) and subscribe to Cameron's [UiPath YouTube](https://www.youtube.com/playlist?list=PL_RrEj88onS-QrvtnW0EQ3i7qJUbKTdJ8) channel.
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    Porta ac consectetur ac
+    Download and [install UiPath Studio](https://youtu.be/mG6bILKpKbk) on your training machine
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    Vestibulum at eros
+    [Sign up](https://www.uipath.com/product/orchestrator) for a UiPath Orchestrator account
   </li>
 </ul>
 	
