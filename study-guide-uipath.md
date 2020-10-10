@@ -93,7 +93,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   
 </ul>
  <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 10%">10%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 10%">10%</div>
 </div>
 	
       </div>
@@ -130,7 +130,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   </li>
 </ul>
 <div class="progress mt-3 mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 20%">20%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 20%">20%</div>
 </div>
 
       </div>
@@ -166,7 +166,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 
 </ul>
 <div class="progress mt-3 mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 30%">30%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 30%">30%</div>
 </div>
       </div>
     </div>
@@ -201,7 +201,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   </li>
 </ul>
         <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 40%">40%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 40%">40%</div>
 </div>
       </div>
     </div>
@@ -237,7 +237,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 
 </ul>
         <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
 </div>
       </div>
     </div>
@@ -275,7 +275,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 </ul>
 
 <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 60%">60%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 60%">60%</div>
 </div>
       </div>
     </div>
@@ -319,7 +319,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 </ul>
 
 <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 70%">70%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated bg-info" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 70%">70%</div>
 </div>
       </div>
     </div>
@@ -356,7 +356,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 </ul>
 
 <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 80%">80%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated bg-info" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 80%">80%</div>
 </div>
       </div>
     </div>
@@ -391,7 +391,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 </ul>
 
 <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 90%">90%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated bg-info" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 90%">90%</div>
 </div>
       </div>
     </div>
@@ -422,7 +422,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 </ul>
 
 <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 100%">100%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 100%">100%</div>
 </div>
       </div>
     </div>
