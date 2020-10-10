@@ -11,7 +11,7 @@ title: UiPath Certification
 						<img src="/assets/practice.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
-			<p class="card-text">A complete set of UiPath certification question and answer sets.</p>
+			<p class="card-text">A complete set of UiPath certification question and answer sets for you.</p>
 			<p class="text-center mt-auto"><a href="/cert-questions-answers.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
 		</div>
 	</div>
@@ -23,7 +23,7 @@ title: UiPath Certification
 						<img src="/assets/study.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
-			<p class="card-text">Follow our proven UiPath certification study plan.</p>
+			<p class="card-text">Follow a proven UiPath Associate certification study plan.</p>
 			<p class="text-center mt-auto"><a href="/study-guide-uipath.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
 		</div>
 	</div>
@@ -51,7 +51,7 @@ title: UiPath Certification
 	<img src="/assets/apply.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
-			<p class="card-text">Fun projects help you apply what you've learned.</p>
+			<p class="card-text">Fun lessons and projects help you apply what you've learned.</p>
 			<p class="text-center mt-auto"><a href="study-guide-uipath.html#programming" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
 		</div>
 	</div>
