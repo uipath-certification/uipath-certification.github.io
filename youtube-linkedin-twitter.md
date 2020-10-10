@@ -6,7 +6,7 @@ title: UiPath YouTube Accounts to Follow
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">UiPath and YouTube <a id="youtube"></a></div>
-      <img src="/assets/prepare.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Follow Cameron McKenzie's <a href="https://www.youtube.com/playlist?list=PL_RrEj88onS-QrvtnW0EQ3i7qJUbKTdJ8">UiPath YouTube</a> account for tutorials on how to gain the UiPath Associate credential quickly.</p>
         <p class="text-center mt-auto"><a href="https://www.youtube.com/user/potemcam" class="text-center  btn btn-outline-primary btn-sm">UiPath YouTube</a></p>
@@ -16,11 +16,10 @@ title: UiPath YouTube Accounts to Follow
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Twitter <a id="twitter"></a></div>
-      <img src="/assets/install.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">You can also follow me on Twitter: <a href="http://www.twitter.com/rpacertified">@rpacertified</a></p>
-        <p class="card-text">If you've got a question about UiPath certification, the best way to get a hold of me is to tag me and <a href="http://www.twitter.com/cameronmcnz">@cameronmcnz</a> in a tweet. </a></p>
-        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Tagging both of us in a tweet is better than a direct message. There's a better chance of a response if we both get the tweet, rather than just me getting the message.</a></p>
+        <p class="card-text">If you've got a UiPath certification question, tag both me and <a href="http://www.twitter.com/cameronmcnz">@cameronmcnz</a> in a public tweet.</p>
         <p class="text-center mt-auto"><a href="http://www.twitter.com/cameronmcnz" class="text-center  btn btn-outline-primary btn-sm">UiPath Twitter</a></p>
 
 </div>
@@ -29,7 +28,7 @@ title: UiPath YouTube Accounts to Follow
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">LinkedIn<a id="linkedin"></a></div>
-      <img src="/assets/orchestra.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Add me to your list of contacts on <a href="https://www.linkedin.com/in/sergio-salerno-6455b831/">LinkedIn</a>.</p>
         <p class="text-center mt-auto"><a href="https://www.linkedin.com/in/cameronwmckenzie/" class="text-center btn btn-outline-primary btn-sm">LinkedIn</a></p>
