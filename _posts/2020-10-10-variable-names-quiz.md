@@ -233,7 +233,7 @@ blurb: Here's a quiz on UiPath variable names.
       <div class="card-body collapse" id="answerCardBody">
         <h3 class="card-title" id="answer"></h3>
         <p class="card-text">Link opens in a new window.</p>
-        <p class="card-text"><a id="answerLink" target="_blank">Answer opens in a new window.</a></p>
+        <p class="card-text"><a href="#" id="answerLink" target="_blank">Answer opens in a new window.</a></p>
       </div>
     </div>
 
