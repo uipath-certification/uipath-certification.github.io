@@ -211,7 +211,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 <ul class="list-group">
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-	  Follow this <a href="https://www.theserverside.com/video/An-introduction-to-RPA-programming-with-UiPath-Studio">introduction to UiPath programming</a>on TheServerSide.com
+	  Follow this <a href="https://www.theserverside.com/video/An-introduction-to-RPA-programming-with-UiPath-Studio">introduction to UiPath programming</a> on TheServerSide.com
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
