@@ -22,7 +22,7 @@ title: UiPath YouTube Accounts to Follow
       <div class="card-header">UiPath and YouTube <a id="youtube"></a></div>
       <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-        <p class="card-text">Follow Cameron McKenzie's <a href="https://www.youtube.com/playlist?list=PL_RrEj88onS-QrvtnW0EQ3i7qJUbKTdJ8">UiPath YouTube</a> account for tutorials on how to gain the UiPath Associate credential quickly.</p>
+        <p class="card-text">Subscribe to Cameron McKenzie's <a href="https://www.youtube.com/playlist?list=PL_RrEj88onS-QrvtnW0EQ3i7qJUbKTdJ8">UiPath YouTube</a> channel for comprehensive UiPath Exam tutorials.</p>
         <p class="text-center mt-auto"><a href="https://www.youtube.com/user/potemcam" class="text-center  btn btn-outline-primary btn-sm">UiPath YouTube</a></p>
       </div>
     </div>
