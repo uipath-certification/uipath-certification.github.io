@@ -90,30 +90,30 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   
   <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">Task 2</div>
+      <div class="card-header">Start Programming</div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 
 <ul class="list-group">
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Code a <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Make-this-UiPath-Hello-World-example-the-first-project-in-your-RPA-journey">UiPath Hello World</a> example in Studio
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Get familiar with <a href="https://youtu.be/KCCBJ711Z5Q">UiPath variables</a> in Studio
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Learn how to perform basic <a href="https://youtu.be/8bIKtEgSKUs">UiPath CSV activities</a> like read and filter
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Learn how to get <a href="https://youtu.be/ENjgV6lEbvA">UiPath to append data</a> to the end of a CSV file
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Learn how to <a href="https://youtu.be/6CCfT8HiwYI">write to Excel</a> instead of a CSV file
   </li>
 </ul>
 
