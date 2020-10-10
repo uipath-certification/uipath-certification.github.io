@@ -13,10 +13,10 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
       <div class="card-body d-flex flex-column">
 	<p class="card-text">  With just two weeks of study, I passed the UiPath Associate Certification Exam. You can too.</p>
         <p class="card-text">    These are the online UiPath learning tools I used. They're all free, so you don't have to open your wallet.</p>
-	      <h4>Follow the plan</h4>
+	      <h4>Follow 100% of the plan</h4>
 	<p class="card-text">    Follow this simply UiPath Study plan and you'l pass the Associate exam with top marks.</p>
 	       <div class="progress mt-3">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 0%">0%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 100%">100%</div>
 </div>
       </div>
     </div>
@@ -167,7 +167,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   
   <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">Task 4</div>
+      <div class="card-header">Email and Outlook Activities</div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 <ul class="list-group">
@@ -192,7 +192,9 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
     StudyGuideDirective
   </li>
 </ul>
-        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
+        <div class="progress mt-3">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 40%">40%</div>
+</div>
       </div>
     </div>
   </div>
