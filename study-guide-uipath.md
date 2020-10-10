@@ -53,7 +53,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    Follow me on  <a href="@rpacertified">Twitter</a>.
+    Follow me on  <a href="@rpacertified">Twitter</a>. It's the best way to contact me.
 
   </li>
   <li class="list-group-item">
@@ -80,6 +80,17 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
    
 
   </li>
+  
+    <li class="list-group-item">
+	
+	<input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+
+    Review the <a href="/associate-objectives.html">UiPath certification objectives</a> for the Associate exam
+   
+
+  </li>
+  
+  
 </ul>
  <div class="progress mt-3  mt-auto">
   <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 10%">10%</div>
