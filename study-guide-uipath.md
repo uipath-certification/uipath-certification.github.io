@@ -16,7 +16,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 	      <h4>Follow the plan</h4>
 	<p class="card-text">    Follow this simply Study plan and you'll be 100% ready to pass the UiPath Associate exam with top marks.</p>
 	      
-	      <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
+
 	       <div class="progress mt-auto">
   <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 100%">100%</div>
 </div>
