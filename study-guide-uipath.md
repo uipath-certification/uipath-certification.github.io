@@ -35,7 +35,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 	<input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">  
 
     
-    Provision a UiPath training <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around">laptop</a> or <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around">desktop</a>
+    Provision a UiPath training <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around">laptop</a> or <a href="https://www.theserverside.com/opinion/Use-a-developer-desktop-setup-instead-of-a-laptop">desktop</a>
     
     
     	  <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-laptop" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
