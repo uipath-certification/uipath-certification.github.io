@@ -11,7 +11,7 @@ title: UiPath Certification
 						<img src="/assets/practice.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
-			<p class="card-text">Test your knowledge with our free UiPath mock exams.</p>
+			<p class="card-text">A complete set of UiPath certification question and answer sets.</p>
 			<p class="text-center mt-auto"><a href="exam-prep.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
 		</div>
 	</div>
