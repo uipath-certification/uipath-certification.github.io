@@ -235,11 +235,12 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   
   
   
-    <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+<div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 5</div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
+	      
 <ul class="list-group">
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
@@ -262,12 +263,364 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
     StudyGuideDirective
   </li>
 </ul>
-        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
+
+<div class="progress mt-3  mt-auto">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+</div>
       </div>
     </div>
-  </div>
+ </div>
   
-  
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Task 5</div>
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+	      
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
+
+<div class="progress mt-3  mt-auto">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+</div>
+      </div>
+    </div>
+ </div>
+ <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Task 5</div>
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+	      
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
+
+<div class="progress mt-3  mt-auto">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+</div>
+      </div>
+    </div>
+ </div>
+ <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Task 5</div>
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+	      
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
+
+<div class="progress mt-3  mt-auto">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+</div>
+      </div>
+    </div>
+ </div>
+ <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Task 5</div>
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+	      
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
+
+<div class="progress mt-3  mt-auto">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+</div>
+      </div>
+    </div>
+ </div>
+ <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Task 5</div>
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+	      
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
+
+<div class="progress mt-3  mt-auto">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+</div>
+      </div>
+    </div>
+ </div>
+ <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Task 5</div>
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+	      
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
+
+<div class="progress mt-3  mt-auto">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+</div>
+      </div>
+    </div>
+ </div>
+ <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Task 5</div>
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+	      
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
+
+<div class="progress mt-3  mt-auto">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+</div>
+      </div>
+    </div>
+ </div>
+ <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Task 5</div>
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+	      
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
+
+<div class="progress mt-3  mt-auto">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+</div>
+      </div>
+    </div>
+ </div>
+ <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Task 5</div>
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+	      
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
+
+<div class="progress mt-3  mt-auto">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+</div>
+      </div>
+    </div>
+ </div>
+ <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Task 5</div>
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+	      
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
+
+<div class="progress mt-3  mt-auto">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+</div>
+      </div>
+    </div>
+ </div>
   
     <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
