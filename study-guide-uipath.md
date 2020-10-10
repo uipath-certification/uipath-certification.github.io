@@ -35,7 +35,7 @@ title: UiPath Certification Study Guide
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    Follow me on Twitter <a href="@rpacertified"></a>[@rpacertified](https://twitter.com/rpacertified) and subscribe to Cameron's <a href="https://twitter.com/cameronmcnz">Twitter</a> and <a href="https://www.youtube.com/playlist?list=PL_RrEj88onS-QrvtnW0EQ3i7qJUbKTdJ8">UiPath YouTube</a>channel.
+    Follow me on Twitter <a href="@rpacertified"></a> and subscribe to Cameron's <a href="https://twitter.com/cameronmcnz">Twitter</a> and <a href="https://www.youtube.com/playlist?list=PL_RrEj88onS-QrvtnW0EQ3i7qJUbKTdJ8">UiPath YouTube</a>channel.
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
