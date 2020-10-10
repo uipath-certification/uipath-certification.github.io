@@ -5,7 +5,7 @@ title: UiPath YouTube Accounts to Follow
 <div class="row">
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">UiPath and YouTube <a id="youtube></a></div>
+      <div class="card-header">UiPath and YouTube <a id="youtube"></a></div>
       <img src="/assets/prepare.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Follow Cameron McKenzie's <a href="https://www.youtube.com/playlist?list=PL_RrEj88onS-QrvtnW0EQ3i7qJUbKTdJ8">UiPath YouTube</a> account for tutorials on how to gain the UiPath Associate credential quickly.</p>
@@ -15,7 +15,7 @@ title: UiPath YouTube Accounts to Follow
   </div>
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">Twitter <a id="twitter></a></div>
+      <div class="card-header">Twitter <a id="twitter"></a></div>
       <img src="/assets/install.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">You can also follow me on Twitter: <a href="http://www.twitter.com/rpacertified">@rpacertified</a></p>
@@ -28,7 +28,7 @@ title: UiPath YouTube Accounts to Follow
   </div>
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">LinkedIn<a id="stackoverflow"></a></div>
+      <div class="card-header">LinkedIn<a id="linkedin"></a></div>
       <img src="/assets/orchestra.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Add me to your list of contacts on <a href="https://www.linkedin.com/in/sergio-salerno-6455b831/">LinkedIn</a>.</p>
@@ -36,6 +36,7 @@ title: UiPath YouTube Accounts to Follow
       </div>
     </div>
   </div>
+  
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">StackOverflow <a id="stackoverflow"></a></div>
@@ -50,7 +51,7 @@ title: UiPath YouTube Accounts to Follow
   
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">UiPath Certification Forum</div>
+      <div class="card-header">UiPath Certification Forum<a id="cert-forum-uipath"></a></div>
       <img src="/assets/forum.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">You'll definitely want to sign up as a member to the UiPath Certification Forum.</p>
@@ -62,7 +63,7 @@ title: UiPath YouTube Accounts to Follow
   
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">UiPath and GitHub <a id="github-uipath"/></div>
+      <div class="card-header">UiPath and GitHub <a id="github-uipath"></a></div>
       <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">All of the code for the YouTube UiPath Tutorials are hosted on GitHub. If you want to apply your UiPath knowlege, reproduce what happens in the videos
