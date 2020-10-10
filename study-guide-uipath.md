@@ -26,10 +26,19 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 	     
 <ul class="list-group">
   <li class="list-group-item">
+	  
+	  <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-laptop" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <path fill-rule="evenodd" d="M13.5 3h-11a.5.5 0 0 0-.5.5V11h12V3.5a.5.5 0 0 0-.5-.5zm-11-1A1.5 1.5 0 0 0 1 3.5V12h14V3.5A1.5 1.5 0 0 0 13.5 2h-11z"/>
+  <path d="M0 12h16v.5a1.5 1.5 0 0 1-1.5 1.5h-13A1.5 1.5 0 0 1 0 12.5V12z"/>
+</svg>
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
     Provision a UiPath training <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around">laptop</a> or <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around">desktop</a>
   </li>
   <li class="list-group-item">
+	<svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-pencil-square" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+  <path d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456l-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z"/>
+  <path fill-rule="evenodd" d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5v11z"/>
+</svg>
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
     Register at the <a href="https://forum.uipath.com/t/uipath-certification/1144">UiPath Forum</a>, <a href="https://stackoverflow.com/questions/64283744/values-from-a-column-in-uipath-need-most-efficient-way/64284140">StackOverflow</a> and <a href="https://www.theserverside.com/infographic/How-the-process-automation-industry-has-changed-during-COVID-19">TheServerSide</a>
   </li>
