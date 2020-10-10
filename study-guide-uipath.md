@@ -225,10 +225,14 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
 	  Learn the basics of <a href="https://youtu.be/fFK-_69rKkk">UiPath logging.</a>
   </li>
+ <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+	 Learn to get all files in a directory with the <a href="https://youtu.be/2IA8mvgIZMI">UiPath Select Folder activity.</a>
+  </li>
 
 </ul>
         <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 55%">55%</div>
 </div>
       </div>
     </div>
@@ -238,35 +242,35 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   
 <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">Task 5</div>
+      <div class="card-header">UiPath Invoices and PDF Files</div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 	      
 <ul class="list-group">
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Load <a href="https://youtu.be/AGeKwA4JxRY">all PDF files in a directory</a> with UiPath Studio
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Introduction to <a href="https://youtu.be/Zl3HMpdcsXA">Uipath PDF text extraction</a> in Studio
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Learn how to use <a href="https://youtu.be/rjtHXD2nI8Q">UiPath Anchor Selectors</a> to extract text data from a PDF
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Learn to have <a href="https://youtu.be/Eu3x-O2FdxA">UiPath move files</a> between folders
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Learn how to have <a href="https://youtu.be/gkKiemETAwI">UiPath get image</a> text off a scanned PDF invoice
   </li>
 </ul>
 
 <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 60%">60%</div>
 </div>
       </div>
     </div>
