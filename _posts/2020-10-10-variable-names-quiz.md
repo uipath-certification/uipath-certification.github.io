@@ -7,12 +7,11 @@ blurb: Here's a quiz on UiPath variable names.
 <div class="container">
 <script>
   class Exam {
-      constructor(examQuestions) {
+    constructor(examQuestions) {
   	//console.log("The size is: " + examQuestions.length);
   	examQuestions = JSON.parse(examQuestions);
   	console.log("The size is: " + examQuestions.length);
   	examQuestions = examQuestions.slice(10,15);
-  	
   	console.log("In constructor with these: " + examQuestions);
         this.questions = new Array();
   		let i = 0;
