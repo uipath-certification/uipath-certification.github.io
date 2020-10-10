@@ -48,7 +48,6 @@ blurb: Here's a quiz on UiPath variable names.
   }
   
   class Question {
-    
     constructor(id, query, answer, options, objectives) {
       this.id=id;
       this.query = query;
@@ -56,7 +55,9 @@ blurb: Here's a quiz on UiPath variable names.
       this.options = options;
       this.objectives = objectives;
     }
-    
+    isMultipleChoice() {
+      return true;
+    }
   }
   class Option {
     constructor(text, correct, selected) {
@@ -64,7 +65,6 @@ blurb: Here's a quiz on UiPath variable names.
       this.correct = correct;
       this.selected = selected;
     }
-    
      isAnsweredCorrectly() {
       return (this.correct && this.selected);
     }
@@ -178,13 +178,13 @@ blurb: Here's a quiz on UiPath variable names.
   	
   }
   
-  
 </script>
+
 <br/><br/>
+
 <div class="container">
   <div class="card">
-    <div class="card-header" id="questionNumber">
-    </div>
+    <div class="card-header" id="questionNumber"></div>
     <div class="card-body">
       <h3 class="card-title" id="query"></h3>
       <div class="form-check">
@@ -216,6 +216,7 @@ blurb: Here's a quiz on UiPath variable names.
         <div></div>
       </div>
     </div>
+  </div>
     <div class="card mt-2">
       <div class="card-header" id="questionJumperTitle">
         Question Jumper
@@ -227,7 +228,7 @@ blurb: Here's a quiz on UiPath variable names.
     </div>
     <div class="card mt-2">
       <div class="card-header" id="answerCard">
-        <a href="#" onclick="document.getElementById('answerCardBody').classList.toggle('collapse');" >Don't cheat!</a>
+        <a href="#" onclick="document.getElementById('answerCardBody').classList.toggle('collapse');" >Please don't cheat!</a>
       </div>
       <div class="card-body collapse" id="answerCardBody">
         <h3 class="card-title" id="answer"></h3>
@@ -235,7 +236,7 @@ blurb: Here's a quiz on UiPath variable names.
         <p class="card-text"><a id="answerLink" target="_blank">Answer opens in a new window.</a></p>
       </div>
     </div>
-  </div>
+
   <!-- Modal -->
   <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog">
