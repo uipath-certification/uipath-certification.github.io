@@ -167,33 +167,33 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   
   <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">Email and Outlook Activities</div>
+      <div class="card-header">Master UiPath Outlook Activities</div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 <ul class="list-group">
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Connect <a href="https://youtu.be/RJpiufTytTI">UiPath to Outlook</a> on your laptop
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Get all the <a href="https://youtu.be/xrB8aIJE5Cs">Outlook email subject and body</a> from your inbox
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Learn to have <a href="https://youtu.be/zrCx_-EB74Y">UiPath filter Outlook</a> email messages
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Have <a href="https://youtu.be/ysMR57EZ0GM">UiPath connect to Gmail</a> with a UiPath IMAP activity
   </li>
-  <li class="list-group-item">
+	  <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Have <a href="https://youtu.be/ysMR57EZ0GM">UiPath connect to Gmail</a> with a UiPath IMAP activity
   </li>
 </ul>
         <div class="progress mt-3">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 40%">40%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
 </div>
       </div>
     </div>
