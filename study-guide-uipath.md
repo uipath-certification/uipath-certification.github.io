@@ -34,10 +34,11 @@ title: UiPath Certification Study Guide
       <div class="card-header">Preparation</div>
       <img src="/assets/install.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
+	     
 	      
-[View the markdown used to create this post](https://raw.githubusercontent.com/barryclark/www.jekyllnow.com/gh-pages/_posts/2014-6-19-Markdown-Style-Guide.md) .   sdf
-	      
-[desktop](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around)
+
+ [desktop](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around) 
+ 
 	
 	
 	
