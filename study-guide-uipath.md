@@ -157,7 +157,9 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   </li>
 
 </ul>
-
+<div class="progress mt-3">
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 30%">30%</div>
+</div>
       </div>
     </div>
   </div>
