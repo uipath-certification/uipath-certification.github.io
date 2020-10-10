@@ -13,8 +13,8 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
       <div class="card-body d-flex flex-column">
 	<p class="card-text">  With just two weeks of study, I passed the UiPath Associate Certification Exam. You can too.</p>
         <p class="card-text">    These are the online UiPath learning tools I used. They're all free, so you don't have to open your wallet.</p>
-	      <h4>Follow 100% of the plan</h4>
-	<p class="card-text">    Follow this simply UiPath Study plan and you'l pass the Associate exam with top marks.</p>
+	      <h4>Follow the plan</h4>
+	<p class="card-text">    Follow this simply Study plan and you'll be 100% ready to pass the UiPath Associate exam with top marks.</p>
 	       <div class="progress mt-3">
   <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 100%">100%</div>
 </div>
