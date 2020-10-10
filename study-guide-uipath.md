@@ -201,7 +201,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   </li>
 </ul>
         <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 40%">40%</div>
 </div>
       </div>
     </div>
@@ -237,7 +237,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 
 </ul>
         <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 60%">60%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
 </div>
       </div>
     </div>
@@ -275,7 +275,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 </ul>
 
 <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 70%">70%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 60%">60%</div>
 </div>
       </div>
     </div>
@@ -319,7 +319,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 </ul>
 
 <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 80%">80%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 70%">70%</div>
 </div>
       </div>
     </div>
@@ -356,7 +356,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 </ul>
 
 <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 90%">90%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 80%">80%</div>
 </div>
       </div>
     </div>
@@ -391,7 +391,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 </ul>
 
 <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 100%">100%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 90%">90%</div>
 </div>
       </div>
     </div>
@@ -417,7 +417,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-	  Tweet to me <a href="http://www.twitter.com/rpacertified>, @rpacertified</a> that you completed the study guide!
+	  Tweet to me <a href="http://www.twitter.com/rpacertified">, @rpacertified</a> that you completed the study guide!
   </li>
 </ul>
 
@@ -432,31 +432,6 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 
 
   
-  
-  
-  
-  
-  
-
-  <div class=" col-12   d-flex align-items-stretch">
-    <div class="card" >
-      
-      <div class="card-header">How to get started with UiPath Certification</div>
-      <img src="/assets/background-small4.jpg" class="card-img-top" alt="UiPath Studio Preparation">
-      <div class="card-body d-flex flex-column">
-        <p class="card-text">You need to walk before you can run.</p>
-        <p class="card-text">To learn UiPath, you'll need a good laptop or spare desktop with which you can install some software and play around a bit. You probably don't want to do your learning on a work machine.</p>
-        <h4>Exam Preparation Tasks</h4>
-        <p>To get started with UiPath Certification, complete the following tasks:</p>
-        <ul >
-          <li class="list-group-item">Prepare Windows 10 laptop or desktop for training</li>
-          <li class="list-group-item">Download and install UiPath Studio </li>
-          <li class="list-group-item">Register for a UiPath Orchestrator account</li>
-          <li class="list-group-item">Create and run a Hello World application in UiPath Studio</li>
-        </ul>
-      </div>
-    </div>
-  </div>
 </div>
 
 
