@@ -2,6 +2,20 @@
 layout: default
 title: UiPath YouTube Accounts to Follow
 ---
+
+  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Twitter <a id="twitter"></a></div>
+      <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+        <p class="card-text">Follow me on Twitter: <a href="http://www.twitter.com/rpacertified">@rpacertified</a></p>
+        <p class="card-text">If you've got a UiPath certification question, tag me and <a href="http://www.twitter.com/cameronmcnz">@cameronmcnz</a> in a public tweet.</p>
+        <p class="text-center mt-auto"><a href="http://www.twitter.com/cameronmcnz" class="text-center  btn btn-outline-primary btn-sm">UiPath Twitter</a></p>
+
+</div>
+    </div>
+  </div>
+
 <div class="row">
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
@@ -13,18 +27,13 @@ title: UiPath YouTube Accounts to Follow
       </div>
     </div>
   </div>
-  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
-    <div class="card" >
-      <div class="card-header">Twitter <a id="twitter"></a></div>
-      <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
-      <div class="card-body d-flex flex-column">
-        <p class="card-text">You can also follow me on Twitter: <a href="http://www.twitter.com/rpacertified">@rpacertified</a></p>
-        <p class="card-text">If you've got a UiPath certification question, tag both me and <a href="http://www.twitter.com/cameronmcnz">@cameronmcnz</a> in a public tweet.</p>
-        <p class="text-center mt-auto"><a href="http://www.twitter.com/cameronmcnz" class="text-center  btn btn-outline-primary btn-sm">UiPath Twitter</a></p>
+  
+  
+  
 
-</div>
-    </div>
-  </div>
+  
+  
+  
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">LinkedIn<a id="linkedin"></a></div>
