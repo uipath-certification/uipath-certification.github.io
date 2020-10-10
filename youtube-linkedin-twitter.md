@@ -39,7 +39,7 @@ title: UiPath YouTube Accounts to Follow
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">StackOverflow <a id="stackoverflow"></a></div>
-      <img src="/assets/practice.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">You absolutely need a StackOverflow account. Sign up and ask lots of questions.</p>
         <p class="text-center mt-auto"><a href="https://stackoverflow.com/users/14185173/sergio-salerno" class="text-center btn btn-outline-primary btn-sm">StackOverflow</a></p>
@@ -51,7 +51,7 @@ title: UiPath YouTube Accounts to Follow
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">UiPath Certification Forum<a id="cert-forum-uipath"></a></div>
-      <img src="/assets/forum.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">You'll definitely want to sign up as a member to the UiPath Certification Forum.</p>
         <p class="text-center mt-auto"><a href="https://forum.uipath.com/t/uipath-certification/1144" class="text-center btn btn-outline-primary btn-sm">Forum</a></p>
@@ -63,11 +63,10 @@ title: UiPath YouTube Accounts to Follow
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">UiPath and GitHub <a id="github-uipath"></a></div>
-      <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-        <p class="card-text">All of the code for the YouTube UiPath Tutorials are hosted on GitHub. If you want to apply your UiPath knowlege, reproduce what happens in the videos
-        and check your results, head over to GitHub, fork or <a href="https://youtu.be/NiGU3Q-7iXw">clone the UiPath GitHub repository</a> and join up as a member as well. </p>
-        <p class="text-center mt-auto"><a href="https://github.com/cameronmcnz/uipath-tutorials" class="text-center btn btn-outline-primary btn-sm">UiPath GitHub.</a></p>
+        <p class="card-text">All of the code for the YouTube UiPath Tutorials are hosted on GitHub. You're encouraged to fork or <a href="https://youtu.be/NiGU3Q-7iXw">clone the UiPath GitHub repo</a>. Join GitHub as a member as well. </p>
+        <p class="text-center mt-auto"><a href="https://github.com/cameronmcnz/uipath-tutorials" class="text-center btn btn-outline-primary btn-sm">UiPath GitHub</a></p>
       </div>
     </div>
   </div>
