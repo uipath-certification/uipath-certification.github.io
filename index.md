@@ -52,7 +52,7 @@ title: UiPath Certification
 		<div class="card-body">
 			
 			<p class="card-text">Fun projects help you apply what you've learned.</p>
-			<p class="text-center mt-auto"><a href="exam-prep.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+			<p class="text-center mt-auto"><a href="study-guide-uipath.html#programming" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
 		</div>
 	</div>
 			
