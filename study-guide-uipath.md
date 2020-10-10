@@ -24,28 +24,7 @@ title: UiPath Certification Study Guide
       <div class="card-body d-flex flex-column">
 	      
 	      
-<ul class="list-group">
-  <li class="list-group-item">
-    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    Provision a UiPath training [laptop](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around) or [desktop](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around)
-  </li>
-  <li class="list-group-item">
-    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    Register at the [UiPath Forum](https://forum.uipath.com/t/uipath-certification/1144), [StackOverflow](https://stackoverflow.com/questions/64283744/values-from-a-column-in-uipath-need-most-efficient-way/64284140) and [TheServerSide](https://www.theserverside.com/infographic/How-the-process-automation-industry-has-changed-during-COVID-19)
-  </li>
-  <li class="list-group-item">
-    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    Follow me on Twitter [@rpacertified](https://twitter.com/rpacertified) and subscribe to Cameron's [UiPath YouTube](https://www.youtube.com/playlist?list=PL_RrEj88onS-QrvtnW0EQ3i7qJUbKTdJ8) channel.
-  </li>
-  <li class="list-group-item">
-    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    Download and [install UiPath Studio](https://youtu.be/mG6bILKpKbk) on your training machine
-  </li>
-  <li class="list-group-item">
-    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    [Sign up](https://www.uipath.com/product/orchestrator) for a UiPath Orchestrator account
-  </li>
-</ul>
+[desktop](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around)
 	
 	
 	
