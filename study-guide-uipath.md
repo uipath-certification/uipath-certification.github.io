@@ -2,11 +2,11 @@
 
 layout: default
 title: UiPath Certification Study Guide
-
+blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 ---
 
 <div class="row" >
-  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">UiPath Study Guide  </div>
       <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
@@ -18,7 +18,7 @@ title: UiPath Certification Study Guide
       </div>
     </div>
   </div>
-  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch" >
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch" >
     <div class="card" >
       <div class="card-header">Preparation</div>
       <img src="/assets/install.jpg" class="card-img-top" alt="uipath certification">
@@ -55,7 +55,7 @@ title: UiPath Certification Study Guide
   </div>
   
   
-  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 2</div>
       <img src="/assets/orchestra.jpg" class="card-img-top" alt="uipath certification">
@@ -93,7 +93,7 @@ title: UiPath Certification Study Guide
   
   
   
-  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 3</div>
       <img src="/assets/practice.jpg" class="card-img-top" alt="uipath certification">
@@ -126,7 +126,7 @@ title: UiPath Certification Study Guide
   </div>
   
   
-  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 4</div>
       <img src="/assets/forum.jpg" class="card-img-top" alt="uipath certification">
@@ -159,7 +159,7 @@ title: UiPath Certification Study Guide
   </div>
   
   
-  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 5</div>
       <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
@@ -193,7 +193,7 @@ title: UiPath Certification Study Guide
   
   
   
-    <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 5</div>
       <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
@@ -227,7 +227,7 @@ title: UiPath Certification Study Guide
   
   
   
-    <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 5</div>
       <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
@@ -261,7 +261,7 @@ title: UiPath Certification Study Guide
   
   
   
-    <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 5</div>
       <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
@@ -296,7 +296,7 @@ title: UiPath Certification Study Guide
   
   
   
-    <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 5</div>
       <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
@@ -330,7 +330,7 @@ title: UiPath Certification Study Guide
   
   
   
-    <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 5</div>
       <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
@@ -364,7 +364,7 @@ title: UiPath Certification Study Guide
   
   
   
-    <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 5</div>
       <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
