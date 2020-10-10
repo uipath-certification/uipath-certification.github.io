@@ -53,22 +53,73 @@ title: UiPath Certification Study Guide
       </div>
     </div>
   </div>
+  
+  
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 2</div>
       <img src="/assets/orchestra.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-        <p class="card-text">Register for a UiPath Orchestrator trial account.</p>
-        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
+
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
+
+
       </div>
     </div>
   </div>
+  
+  
+  
+  
+  
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 3</div>
       <img src="/assets/practice.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-        <p class="card-text">Print out and constantly review the UiPath Exam Objectives. That's the target you're always aiming at. </p>
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
         <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
       </div>
     </div>
@@ -80,7 +131,28 @@ title: UiPath Certification Study Guide
       <div class="card-header">Task 4</div>
       <img src="/assets/forum.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-        <p class="card-text">Register for helpful UiPath forums and follow the right people on YouTube and Twitter.</p>
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
         <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
       </div>
     </div>
@@ -92,11 +164,243 @@ title: UiPath Certification Study Guide
       <div class="card-header">Task 5</div>
       <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-        <p class="card-text">Follow our UiPath Certification study guide to learn what you need to know to pass the UiPath Exam.</p>
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
         <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
       </div>
     </div>
   </div>
+  
+  
+  
+    <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Task 5</div>
+      <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
+        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
+      </div>
+    </div>
+  </div>
+  
+  
+  
+    <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Task 5</div>
+      <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
+        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
+      </div>
+    </div>
+  </div>
+  
+  
+  
+    <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Task 5</div>
+      <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
+        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
+      </div>
+    </div>
+  </div>
+  
+  
+  
+  
+    <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Task 5</div>
+      <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
+        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
+      </div>
+    </div>
+  </div>
+  
+  
+  
+    <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Task 5</div>
+      <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
+        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
+      </div>
+    </div>
+  </div>
+  
+  
+  
+    <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Task 5</div>
+      <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    StudyGuideDirective
+  </li>
+</ul>
+        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
+      </div>
+    </div>
+  </div>
+  
+  
+  
+  
+  
+  
   
   <a name="uipath-cert-prep"/>
   <div class=" col-12   d-flex align-items-stretch">
