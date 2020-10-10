@@ -5,7 +5,7 @@ title: UiPath Certification Questions and Answers
 <div class="row">
    <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
       <div class="card" >
-         <div class="card-header">Variable Names Mock Exam <a id="twitter-uipath"></a></div>
+         <div class="card-header">Variable Names Practice Test <a id="twitter-uipath"></a></div>
          <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
          <div class="card-body d-flex flex-column">
             <p class="card-text">This set of UiPath certification questions and answers tackles the often misunderstood rules surrounding UiPath variable and method naming.</p>
