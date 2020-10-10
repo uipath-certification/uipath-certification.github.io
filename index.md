@@ -23,7 +23,7 @@ title: UiPath Certification
 						<img src="/assets/study.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
-			<p class="card-text">Follow our proven UiPath Associate certification study plan.</p>
+			<p class="card-text">Follow our proven UiPath certification study plan.</p>
 			<p class="text-center mt-auto"><a href="/study-guide-uipath.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
 		</div>
 	</div>
@@ -59,7 +59,7 @@ title: UiPath Certification
  </div>
  <div class=" col-12 col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 						<div class="card" >
-						<div class="card-header">Collaborate</div>
+						<div class="card-header">UiPath Experts</div>
 		<img src="/assets/collaborate.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
@@ -74,7 +74,7 @@ title: UiPath Certification
 		<img src="/assets/pass.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 			
-			<p class="card-text">Then schedule your exam and you will pass it with flying colors!</p>
+			<p class="card-text">Follow the plan and you'll soon be a UiPath Certified Professional!</p>
 			<p class="text-center mt-auto"><a href="exam-prep.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
 		</div>
 	</div>
