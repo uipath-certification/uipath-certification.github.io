@@ -8,7 +8,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 <div class="row" >
   <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">UiPath Study Guide  </div>
+      <div class="card-header">Be a quick study  </div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 	<p class="card-text">  With just two weeks of study, I passed the UiPath Associate Certification Exam. You can too.</p>
