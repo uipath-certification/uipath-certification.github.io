@@ -1,6 +1,8 @@
 ---
+
 layout: default
 title: UiPath Certification Study Guide
+
 ---
 
 ## Hello Title
