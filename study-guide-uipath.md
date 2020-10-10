@@ -29,8 +29,8 @@ title: UiPath Certification Study Guide
       </div>
     </div>
   </div>
-  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
-    <div class="card" >
+  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch" markdown="1">
+    <div class="card" markdown="1">
       <div class="card-header">Preparation</div>
       <img src="/assets/install.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column" markdown="1">
