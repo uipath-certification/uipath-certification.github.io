@@ -241,14 +241,14 @@ gradeExam = function(){
     Question Jumper
   </div>
   <div class="card-body">
-    <h3 class="card-title" id="query"></h3>
-    <p class="card-text"><small class="text-muted"><span id="question-jumper"/></small></p>  
+    <h3 class="card-title" id="questionJumperCardTitle"></h3>
+    <p class="card-text"><span id="question-jumper"> </span></p>  
  </div>
 </div>
 
 <div class="card mt-2">
   <div class="card-header" id="answerCard">
-     <a onclick="document.getElementById('answerCardBody').classList.toggle('collapse');" >Don't cheat!</a>
+     <a href="#" onclick="document.getElementById('answerCardBody').classList.toggle('collapse');" >Don't cheat!</a>
   </div>
   <div class="card-body collapse" id="answerCardBody">
     <h3 class="card-title" id="answer"></h3>
