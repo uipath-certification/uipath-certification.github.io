@@ -3,7 +3,12 @@ layout: default
 title: UiPath YouTube Accounts to Follow
 ---
 
-  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+
+
+<div class="row">
+  
+  
+    <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Twitter <a id="twitter"></a></div>
       <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
@@ -15,8 +20,8 @@ title: UiPath YouTube Accounts to Follow
 </div>
     </div>
   </div>
-
-<div class="row">
+  
+  
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">UiPath and YouTube <a id="youtube"></a></div>
