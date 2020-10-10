@@ -9,19 +9,18 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">UiPath Study Guide  </div>
-      <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 	<p class="card-text">  With just two weeks of study, I passed the UiPath Associate Certification Exam. You can too.</p>
         <p class="card-text">    These are the online UiPath learning tools I used. They're all free, so you don't have to open your wallet.</p>
 	<p class="card-text">    Follow this simply UiPath Study plan and you'l pass the Associate exam with top marks.</p>
-        <p class="text-center mt-auto"><a href="/associate-objectives.html" class="text-center  btn btn-outline-primary btn-sm">Exam Objectives</a></p>
       </div>
     </div>
   </div>
   <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch" >
     <div class="card" >
       <div class="card-header">Preparation</div>
-      <img src="/assets/install.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column" >
 	     
 <ul class="list-group">
@@ -47,9 +46,6 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 </ul>
  
 	
-	
-	
-        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
       </div>
     </div>
   </div>
@@ -58,7 +54,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 2</div>
-      <img src="/assets/orchestra.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 
 <ul class="list-group">
@@ -96,7 +92,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 3</div>
-      <img src="/assets/practice.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 <ul class="list-group">
   <li class="list-group-item">
@@ -129,7 +125,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 4</div>
-      <img src="/assets/forum.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 <ul class="list-group">
   <li class="list-group-item">
@@ -162,7 +158,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 5</div>
-      <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 <ul class="list-group">
   <li class="list-group-item">
@@ -196,7 +192,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
     <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 5</div>
-      <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 <ul class="list-group">
   <li class="list-group-item">
@@ -230,7 +226,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
     <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 5</div>
-      <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 <ul class="list-group">
   <li class="list-group-item">
@@ -264,7 +260,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
     <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 5</div>
-      <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 <ul class="list-group">
   <li class="list-group-item">
@@ -299,7 +295,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
     <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 5</div>
-      <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 <ul class="list-group">
   <li class="list-group-item">
@@ -333,7 +329,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
     <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 5</div>
-      <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 <ul class="list-group">
   <li class="list-group-item">
@@ -367,7 +363,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
     <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 5</div>
-      <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 <ul class="list-group">
   <li class="list-group-item">
