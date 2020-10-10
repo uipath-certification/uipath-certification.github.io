@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The UiPath Certification Plan
+title: UiPath Certification
 ---
 <div class="row">
 
