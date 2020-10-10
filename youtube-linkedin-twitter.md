@@ -8,7 +8,7 @@ title: UiPath YouTube Accounts to Follow
   
     <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">Twitter <a id="twitter"></a></div>
+      <div class="card-header">Twitter <a id="twitter-uipath"></a></div>
       <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Follow me on Twitter: <a href="http://www.twitter.com/rpacertified">@rpacertified</a></p>
@@ -22,7 +22,7 @@ title: UiPath YouTube Accounts to Follow
   
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">UiPath and YouTube <a id="youtube"></a></div>
+      <div class="card-header">UiPath and YouTube <a id="youtube-uipath"></a></div>
       <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Subscribe to Cameron McKenzie's <a href="https://www.youtube.com/playlist?list=PL_RrEj88onS-QrvtnW0EQ3i7qJUbKTdJ8">UiPath YouTube</a> channel for comprehensive UiPath Exam tutorials.</p>
@@ -39,7 +39,7 @@ title: UiPath YouTube Accounts to Follow
   
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">LinkedIn<a id="linkedin"></a></div>
+      <div class="card-header">LinkedIn<a id="linkedin-uipath"></a></div>
       <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <p class="card-text">Add me to your list of contacts on <a href="https://www.linkedin.com/in/sergio-salerno-6455b831/">LinkedIn</a>. Maybe we'll work together on a UiPath Project one day?</p>
