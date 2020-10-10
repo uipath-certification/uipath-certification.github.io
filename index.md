@@ -30,7 +30,7 @@ title: UiPath Certification
 		<div class="card-body">
 			
 			<p class="card-text">Follow our proven certification study plan.</p>
-			<p class="text-center mt-auto"><a href="exam-prep.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+			<p class="text-center mt-auto"><a href="/study-guide-uipath.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
 		</div>
 	</div>
  </div>
