@@ -435,7 +435,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   
   
   
-  <a name="uipath-cert-prep"/>
+
   <div class=" col-12   d-flex align-items-stretch">
     <div class="card" >
       
