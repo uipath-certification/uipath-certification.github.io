@@ -3,6 +3,7 @@ layout: default
 title: UiPath Certification Study Guide
 ---
 
+
 <div class="row">
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
@@ -18,10 +19,36 @@ title: UiPath Certification Study Guide
   </div>
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">Task 1</div>
+      <div class="card-header">Fundamentals</div>
       <img src="/assets/install.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-        <p class="card-text">Download and install UiPath Studio on your local machine.</p>
+	      
+	      
+<ul class="list-group">
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    Cras justo odio
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    Dapibus ac facilisis in
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    Morbi leo risus
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    Porta ac consectetur ac
+  </li>
+  <li class="list-group-item">
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
+    Vestibulum at eros
+  </li>
+</ul>
+	
+	
+	
         <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Get Started</a></p>
       </div>
     </div>
