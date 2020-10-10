@@ -15,7 +15,7 @@ title: UiPath Certification Study Guide
       <div class="card-header">UiPath Study Guide  </div>
       <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-	<p class="card-text">  two weeks of study, I passed the UiPath Associate Certification Exam.</p>
+	<p class="card-text">  With just two weeks of study, I passed the UiPath Associate Certification Exam. You can too.</p>
         <p class="card-text">    These are the online UiPath learning tools I used. They're all free, so you don't have to open your wallet.</p>
 	<p class="card-text">    Follow this simply UiPath Study plan and you'l pass the Associate exam with top marks.</p>
         <p class="text-center mt-auto"><a href="/associate-objectives.html" class="text-center  btn btn-outline-primary btn-sm">Exam Objectives</a></p>
@@ -28,26 +28,25 @@ title: UiPath Certification Study Guide
       <img src="/assets/install.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column" markdown="1">
 	     
-	      <ul class="list-group">
+<ul class="list-group">
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    Provision a UiPath training [laptop](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around) or [desktop](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around)
+    Provision a UiPath training <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around">laptop</a> or <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around">desktop</a>
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    Register at the [UiPath Forum](https://forum.uipath.com/t/uipath-certification/1144), [StackOverflow](https://stackoverflow.com/questions/64283744/values-from-a-column-in-uipath-need-most-efficient-way/64284140) and [TheServerSide](https://www.theserverside.com/infographic/How-the-process-automation-industry-has-changed-during-COVID-19)
+    Register at the <a href="https://forum.uipath.com/t/uipath-certification/1144">UiPath Forum</a>, <a href="https://stackoverflow.com/questions/64283744/values-from-a-column-in-uipath-need-most-efficient-way/64284140">StackOverflow</a> and <a href="https://www.theserverside.com/infographic/How-the-process-automation-industry-has-changed-during-COVID-19">TheServerSide</a>
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    Follow me on Twitter [@rpacertified](https://twitter.com/rpacertified) and subscribe to Cameron's [UiPath YouTube](https://www.youtube.com/playlist?list=PL_RrEj88onS-QrvtnW0EQ3i7qJUbKTdJ8) channel.
+    Follow me on Twitter <a href="@rpacertified"></a>[@rpacertified](https://twitter.com/rpacertified) and subscribe to Cameron's <a href="https://twitter.com/cameronmcnz">Twitter</a> and <a href="https://www.youtube.com/playlist?list=PL_RrEj88onS-QrvtnW0EQ3i7qJUbKTdJ8">UiPath YouTube</a>channel.
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    Download and [install UiPath Studio](https://youtu.be/mG6bILKpKbk) on your training machine
+    Download and <a href="https://youtu.be/mG6bILKpKbk">install UiPath Studio</a> on your training machine
   </li>
   <li class="list-group-item">
-    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    [Sign up](https://www.uipath.com/product/orchestrator) for a UiPath Orchestrator account
+    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="..."><a href="https://www.uipath.com/product/orchestrator">Sign up</a> for a UiPath Orchestrator account
   </li>
 </ul>
  
