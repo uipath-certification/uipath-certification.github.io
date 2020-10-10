@@ -64,7 +64,7 @@ title: UiPath Certification
 		<div class="card-body">
 			
 			<p class="card-text">Work within our community and help others as they help you.</p>
-			<p class="text-center mt-auto"><a href="exam-prep.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+			<p class="text-center mt-auto"><a href="/youtube-linkedin-twitter.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
 		</div>
 	</div>
  </div>
@@ -75,7 +75,7 @@ title: UiPath Certification
 		<div class="card-body">
 			
 			<p class="card-text">Follow the plan and you'll soon be a UiPath Certified Professional!</p>
-			<p class="text-center mt-auto"><a href="exam-prep.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+			<p class="text-center mt-auto"><a href="/study-guide-uipath.html#finish" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
 		</div>
 	</div>
  </div>
