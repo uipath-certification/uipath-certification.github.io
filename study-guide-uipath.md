@@ -5,10 +5,6 @@ title: UiPath Certification Study Guide
 
 ---
 
-## Markdown
-
-[desktop](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Why-I-consider-the-Lenovo-T430-the-best-laptop-value-around)
-
 <div class="row" markdown="1">
   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
