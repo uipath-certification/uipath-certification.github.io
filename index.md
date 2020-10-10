@@ -12,7 +12,7 @@ title: UiPath Certification
 		<div class="card-body">
 			
 			<p class="card-text">A complete set of UiPath certification question and answer sets.</p>
-			<p class="text-center mt-auto"><a href="exam-prep.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+			<p class="text-center mt-auto"><a href="/cert-questions-answers.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
 		</div>
 	</div>
  </div>
