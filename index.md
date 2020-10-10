@@ -32,7 +32,7 @@ title: UiPath Certification
  
  <div class=" col-12 col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 	<div class="card" >
-	<div class="card-header">UiPath Prep Course</div>
+	<div class="card-header">UiPath Cert Prep</div>
 	<img src="/assets/prepare.jpg" class="card-img-top" alt="uipath certification">
 		<div class="card-body">
 		
