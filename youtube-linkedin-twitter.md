@@ -77,7 +77,7 @@ title: UiPath YouTube Accounts to Follow
       <div class="card-header">UiPath and GitHub <a id="github-uipath"></a></div>
       <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-        <p class="card-text">All of the code for the YouTube UiPath Tutorials are hosted on GitHub. You're encouraged to fork or <a href="https://youtu.be/NiGU3Q-7iXw">clone the UiPath GitHub repo</a>. Join GitHub as a member as well. </p>
+        <p class="card-text">All of the code for the YouTube UiPath Tutorials can be <a href="https://youtu.be/NiGU3Q-7iXw">cloneed off GitHub</a>.</p>
         <p class="text-center mt-auto"><a href="https://github.com/cameronmcnz/uipath-tutorials" class="text-center btn btn-outline-primary btn-sm">UiPath GitHub</a></p>
       </div>
     </div>
