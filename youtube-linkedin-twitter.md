@@ -42,7 +42,7 @@ title: UiPath YouTube Accounts to Follow
       <div class="card-header">LinkedIn<a id="linkedin"></a></div>
       <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-        <p class="card-text">Add me to your list of contacts on <a href="https://www.linkedin.com/in/sergio-salerno-6455b831/">LinkedIn</a>.</p>
+        <p class="card-text">Add me to your list of contacts on <a href="https://www.linkedin.com/in/sergio-salerno-6455b831/">LinkedIn</a>. Maybe we'll work together on a UiPath Project one day?</p>
         <p class="text-center mt-auto"><a href="https://www.linkedin.com/in/cameronwmckenzie/" class="text-center btn btn-outline-primary btn-sm">LinkedIn</a></p>
       </div>
     </div>
