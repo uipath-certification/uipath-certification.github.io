@@ -65,7 +65,7 @@ title: UiPath YouTube Accounts to Follow
       <div class="card-header">UiPath Certification Forum<a id="cert-forum-uipath"></a></div>
       <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-        <p class="card-text">You'll definitely want to sign up as a member to the UiPath Certification Forum.</p>
+        <p class="card-text">You'll also want to sign up as a member to the UiPath Certification Forum.</p>
         <p class="text-center mt-auto"><a href="https://forum.uipath.com/t/uipath-certification/1144" class="text-center btn btn-outline-primary btn-sm">Forum</a></p>
       </div>
     </div>
