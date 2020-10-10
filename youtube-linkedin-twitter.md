@@ -1,0 +1,76 @@
+---
+layout: default
+title: UiPath YouTube Accounts to Follow
+---
+<div class="row">
+  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">UiPath and YouTube <a id="youtube></a></div>
+      <img src="/assets/prepare.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+        <p class="card-text">Follow Cameron McKenzie's <a href="https://www.youtube.com/playlist?list=PL_RrEj88onS-QrvtnW0EQ3i7qJUbKTdJ8">UiPath YouTube</a> account for tutorials on how to gain the UiPath Associate credential quickly.</p>
+        <p class="text-center mt-auto"><a href="https://www.youtube.com/user/potemcam" class="text-center  btn btn-outline-primary btn-sm">UiPath YouTube</a></p>
+      </div>
+    </div>
+  </div>
+  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">Twitter <a id="twitter></a></div>
+      <img src="/assets/install.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+        <p class="card-text">You can also follow me on Twitter: <a href="http://www.twitter.com/rpacertified">@rpacertified</a></p>
+        <p class="card-text">If you've got a question about UiPath certification, the best way to get a hold of me is to tag me and <a href="http://www.twitter.com/cameronmcnz">@cameronmcnz</a> in a tweet. </a></p>
+        <p class="text-center mt-auto"><a href="#" class="text-center btn btn-outline-primary btn-sm">Tagging both of us in a tweet is better than a direct message. There's a better chance of a response if we both get the tweet, rather than just me getting the message.</a></p>
+        <p class="text-center mt-auto"><a href="http://www.twitter.com/cameronmcnz" class="text-center  btn btn-outline-primary btn-sm">UiPath Twitter</a></p>
+
+</div>
+    </div>
+  </div>
+  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">LinkedIn<a id="stackoverflow"></a></div>
+      <img src="/assets/orchestra.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+        <p class="card-text">Add me to your list of contacts on <a href="https://www.linkedin.com/in/sergio-salerno-6455b831/">LinkedIn</a>.</p>
+        <p class="text-center mt-auto"><a href="https://www.linkedin.com/in/cameronwmckenzie/" class="text-center btn btn-outline-primary btn-sm">LinkedIn</a></p>
+      </div>
+    </div>
+  </div>
+  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">StackOverflow <a id="stackoverflow"></a></div>
+      <img src="/assets/practice.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+        <p class="card-text">You absolutely need a StackOverflow account. Sign up and ask lots of questions.</p>
+        <p class="text-center mt-auto"><a href="https://stackoverflow.com/users/14185173/sergio-salerno" class="text-center btn btn-outline-primary btn-sm">StackOverflow</a></p>
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">UiPath Certification Forum</div>
+      <img src="/assets/forum.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+        <p class="card-text">You'll definitely want to sign up as a member to the UiPath Certification Forum.</p>
+        <p class="text-center mt-auto"><a href="https://forum.uipath.com/t/uipath-certification/1144" class="text-center btn btn-outline-primary btn-sm">Forum</a></p>
+      </div>
+    </div>
+  </div>
+  
+  
+  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">UiPath and GitHub <a id="github-uipath"/></div>
+      <img src="/assets/study-guide.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+        <p class="card-text">All of the code for the YouTube UiPath Tutorials are hosted on GitHub. If you want to apply your UiPath knowlege, reproduce what happens in the videos
+        and check your results, head over to GitHub, fork or <a href="https://youtu.be/NiGU3Q-7iXw">clone the UiPath GitHub repository</a> and join up as a member as well. </p>
+        <p class="text-center mt-auto"><a href="https://github.com/cameronmcnz/uipath-tutorials" class="text-center btn btn-outline-primary btn-sm">UiPath GitHub.</a></p>
+      </div>
+    </div>
+  </div>
+  
+
+</div>
