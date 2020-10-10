@@ -351,82 +351,84 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 </ul>
 
 <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 80%">80%</div>
 </div>
       </div>
     </div>
  </div>
  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">Task 5</div>
+      <div class="card-header">UiPath Orchestrator</div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 	      
 <ul class="list-group">
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+    Follow this <a href="https://www.theserverside.com/video/Get-automated-with-this-RPA-and-UiPath-tutorial-for-beginners">RPA and UiPath beginners tutorial</a> to find out how all of the UiPath components fit together
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+    Learn how to <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-configure-Assistant-and-publish-to-UiPath-Orchestrator">publish Studio projects to Orchestrator</a> and create robots from them
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Follow this tutorial to learn how to create a <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Create-your-first-RPA-robot-to-UiPath-Orchestrator-tutorial">UiPath Robot in Orchestrator</a>
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Create a <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-create-a-UiPath-Orchestrator-process-to-run-your-RPA-robots">UiPath Orchestrator Process</a> to run your unattended robots from the cloud
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Learn to <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/How-to-create-a-UiPath-schedule-time-trigger-for-robots">schedule robots with triggers</a> in UiPath Orchestrator
   </li>
 </ul>
 
 <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 90%">90%</div>
 </div>
       </div>
     </div>
  </div>
  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">Task 5</div>
+      <div class="card-header">Finishing Up!</div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
 	      
 <ul class="list-group">
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Learn to troubleshoot <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Fix-the-Orchestrator-isnt-present-error-with-the-right-UiPath-Orchestrator-URL">no Orchstrator present</a> and <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Fix-UiPath-Invalid-Machine-Key-Robot-Error">invalid UiPath machine key</a> errors
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Work with <a href="https://youtu.be/3X1BZ0pSSp0">UiPath Orchestrator Queues</a> to add data, read data and trigger UiPath robots
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Learn various RPA tricks like how to change <a href="https://youtu.be/b8m6x4uKPR4">UiPath screen size</a> or how to set <a href="https://youtu.be/YaNhaNMm9iY">UiPath hotkeys</a>
   </li>
   <li class="list-group-item">
     <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
-  </li>
-  <li class="list-group-item">
-    <input class="form-check-input mr-1" type="checkbox" value="" aria-label="...">
-    StudyGuideDirective
+	  Tweet to me <a href="http://www.twitter.com/rpacertified>, @rpacertified</a> that you completed the study guide!
   </li>
 </ul>
 
 <div class="progress mt-3  mt-auto">
-  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 50%">50%</div>
+  <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width: 100%">100%</div>
 </div>
       </div>
     </div>
  </div>
- <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+
+
+
+
+
+
+<div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Task 5</div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
