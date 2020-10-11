@@ -148,20 +148,13 @@ blurb: Here's a quiz on UiPath variable names.
   	
 	
 	//What does this do? Does changing to check boxes mess this up?
-  	var radios = document.querySelectorAll('input[type="radio"]:checked');
-  	var value = radios.length>0? radios[0].value: null;
+  	//var radios = document.querySelectorAll('input[type="radio"]:checked');
+  	//var value = radios.length>0? radios[0].value: null;
   	
   	
-  	document.getElementById("previous").setAttribute("class", "enabled btn btn-primary");
-  	document.getElementById("next").setAttribute("class", "enabled btn btn-primary");
-  	if (questionNumber==0) {
-  		document.getElementById("previous").setAttribute("class", "disabled btn btn-primary");
-  	}
-  	if (questionNumber == (exam.questions.length-1)) {
-  		document.getElementById("next").setAttribute("class", "disabled btn btn-primary");
-  	}
     
     chooseBetweenRadioOrCheckbox();
+    handleFencepostButtons();
     
     if (exam.graded) {
        highlightCorrectAnswers();
@@ -170,6 +163,17 @@ blurb: Here's a quiz on UiPath variable names.
      }
   	
   }
+  
+  handleFencepostButtons = function() {
+	document.getElementById("previous").setAttribute("class", "enabled btn btn-primary");
+	document.getElementById("next").setAttribute("class", "enabled btn btn-primary");
+	if (questionNumber==0) {
+		document.getElementById("previous").setAttribute("class", "disabled btn btn-primary");
+	}
+	if (questionNumber == (exam.questions.length-1)) {
+		document.getElementById("next").setAttribute("class", "disabled btn btn-primary");
+	}
+}
   
   chooseBetweenRadioOrCheckbox = function () {
 
