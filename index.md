@@ -27,11 +27,11 @@ title: UiPath Certification
 						<div class="card" >
 						<div class="card-header">Free Study Guide</div>
 								       <picture>
-    <source srcset="/assets/uipath-study-guide.gif" media="(min-width: 1200px)">
-    <source srcset="/assets/uipath-study-guide.gif" media="(min-width: 992px)">
-    <source srcset="/assets/uipath-study-guide.gif" media="(min-width: 768px)">
-    <source srcset="/assets/uipath-certification-study-guide.jpg" media="(min-width: 576px)">
-    <img src="/assets/uipath-certification-study-guide.jpg" class="img-fluid">
+    <source srcset="/assets/study.jpg" media="(min-width: 1200px)">
+    <source srcset="/assets/study.jpg" media="(min-width: 992px)">
+    <source srcset="/assets/study.jpg" media="(min-width: 768px)">
+    <source srcset="/assets/uipath-study-guide.gif" media="(min-width: 576px)">
+    <img src="/assets/uipath-study-guide.gif" class="img-fluid">
 </picture>
 		<div class="card-body">
 			
