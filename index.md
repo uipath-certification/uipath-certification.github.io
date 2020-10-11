@@ -5,7 +5,7 @@ title: UiPath Certification
 <div class="row">
 
  
-  <div class=" col-12 col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 						<div class="card" >
 						<div class="card-header">UiPath Practice Exams</div>
 								       <picture>
@@ -23,7 +23,7 @@ title: UiPath Certification
 	</div>
  </div>
  
-  <div class=" col-12 col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 						<div class="card" >
 						<div class="card-header">Free Study Guide</div>
 								       <picture>
@@ -42,7 +42,7 @@ title: UiPath Certification
  </div>
  
  
- <div class=" col-12 col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+ <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 	<div class="card" >
 	<div class="card-header">UiPath Cert Prep</div>
 	<img src="/assets/prepare.jpg" class="card-img-top" alt="uipath certification">
@@ -57,7 +57,7 @@ title: UiPath Certification
  </div>
 
 
-  <div class=" col-12 col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 	<div class="card" >
 	<div class="card-header">UiPath Tutorials</div>
 	<img src="/assets/apply.jpg" class="card-img-top" alt="uipath certification">
@@ -69,7 +69,7 @@ title: UiPath Certification
 	</div>
 			
  </div>
- <div class=" col-12 col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+ <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 						<div class="card" >
 						<div class="card-header">UiPath Associate Support</div>
 		<img src="/assets/collaborate.jpg" class="card-img-top" alt="uipath certification">
@@ -80,7 +80,7 @@ title: UiPath Certification
 		</div>
 	</div>
  </div>
- <div class=" col-12 col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+ <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 						<div class="card" >
 		<div class="card-header">Pass the UiPath Exam</div>
 		<img src="/assets/pass.jpg" class="card-img-top" alt="uipath certification">
