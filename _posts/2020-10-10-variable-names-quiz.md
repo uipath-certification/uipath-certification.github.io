@@ -146,6 +146,8 @@ blurb: Here's a quiz on UiPath variable names.
   	document.getElementById("option2").checked = exam.questions[questionNumber].options[2].checked;
   	document.getElementById("option3").checked = exam.questions[questionNumber].options[3].checked;	
   	
+	
+	//What does this do? Does changing to check boxes mess this up?
   	var radios = document.querySelectorAll('input[type="radio"]:checked');
   	var value = radios.length>0? radios[0].value: null;
   	
@@ -159,13 +161,30 @@ blurb: Here's a quiz on UiPath variable names.
   		document.getElementById("next").setAttribute("class", "disabled btn btn-primary");
   	}
     
+    chooseBetweenRadioOrCheckbox();
+    
     if (exam.graded) {
-		  highlightCorrectAnswers();
+       highlightCorrectAnswers();
      } else {
      	clearHighlightedAnswers();
      }
   	
   }
+  
+  chooseBetweenRadioOrCheckbox = function () {
+
+    let radiosAndCheckboxes = document.querySelectorAll('.form-check-input');
+
+	let inputType = "radio";
+	if (exam.questions[questionNumber].isMultipleChoice()) {
+		inputType="checkbox"
+	} 
+	
+	let i = 0;
+	for (i=0; i<radiosAndCheckboxes.length; i++) {
+		radiosAndCheckboxes[i].type=inputType;
+	}
+}
   
   highlightCorrectAnswers = function() {
 
