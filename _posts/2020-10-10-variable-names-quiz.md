@@ -271,11 +271,13 @@ blurb: Here's a quiz on UiPath variable names.
     </div>
     <div class="card mt-2">
       <div class="card-header" id="answerCard">
-        <a href="#" onclick="document.getElementById('answerCardBody').classList.toggle('collapse');" >Please don't cheat!</a>
+        <a href="#" onclick="document.getElementById('answerCardBody').classList.toggle('collapse');" >Nothing to see here</a>
       </div>
       <div class="card-body collapse" id="answerCardBody">
         <h3 class="card-title" id="answer"></h3>
-        <p class="card-text">Link opens in a new window.</p>
+	<p>Click this button to cheat.</p>
+	<a href="#" id="cheat" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="highlightCorrectAnswers()">Cheat</a>
+        <p class="card-text">If that's not enough, here's the detailed UiPath Certification question answer.</p>
         <p class="card-text"><a href="#" id="answerLink" target="_blank">Answer opens in a new window.</a></p>
       </div>
     </div>
