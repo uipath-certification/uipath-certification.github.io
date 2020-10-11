@@ -8,6 +8,8 @@ blurb: Here's a quiz on UiPath variable names.
 <script>
   class Exam {
     constructor(examQuestions) {
+  
+    this.graded=false;
   	//console.log("The size is: " + examQuestions.length);
   	examQuestions = JSON.parse(examQuestions);
   	console.log("The size is: " + examQuestions.length);
@@ -54,9 +56,18 @@ blurb: Here's a quiz on UiPath variable names.
       this.answer = answer;
       this.options = options;
       this.objectives = objectives;
+      this.correctCount = 0;
+	    let i = 0;
+	    for (i = 0; i < options.length; i++) {
+		    if (options[i].correct) {
+		    this.correctCount++;
+		  }
+      console.log(this.correctCount);
+	    console.log(this.isMultipleChoice());
+	}
     }
     isMultipleChoice() {
-      return true;
+      return this.correctCount > 1;
     }
   }
   class Option {
@@ -119,7 +130,7 @@ blurb: Here's a quiz on UiPath variable names.
   
   	let questionNumberDisplay = parseInt(number, 10) + 1;
   	document.getElementById("questionNumber").innerHTML = "Question " + questionNumberDisplay;
-  	document.getElementById("query").innerHTML = exam.questions[questionNumber].query;
+  	document.getElementById("query").innerHTML = exam.questions[questionNumber].query + " (choose " + exam.questions[questionNumber].correctCount + ")";;
   	document.getElementById("labelOption0").innerHTML = exam.questions[questionNumber].options[0].text;
   	document.getElementById("labelOption1").innerHTML = exam.questions[questionNumber].options[1].text;
   	document.getElementById("labelOption2").innerHTML = exam.questions[questionNumber].options[2].text;
@@ -147,10 +158,32 @@ blurb: Here's a quiz on UiPath variable names.
   	if (questionNumber == (exam.questions.length-1)) {
   		document.getElementById("next").setAttribute("class", "disabled btn btn-primary");
   	}
+    
+    if (exam.graded) {
+		  highlightCorrectAnswers();
+	  }
   	
   }
   
+  highlightCorrectAnswers = function() {
+
+		let i = 0;
+		for (i = 0; i < exam.questions[questionNumber].options.length; i++) {
+			if (exam.questions[questionNumber].options[i].correct) {
+				console.log('outerOptionDiv' + i);
+				document.getElementById('outerOptionDiv' + i).classList.add("class", "border");
+				document.getElementById('outerOptionDiv' + i).classList.add("class", "border-success");
+			} else {
+				document.getElementById('outerOptionDiv' + i).classList.remove("class", "border");
+				document.getElementById('outerOptionDiv' + i).classList.remove("class", "border-success");
+			}
+		}
+
+}
+  
   gradeExam = function(){
+  
+    exam.graded=true;
   
   	//Make sure changes on the question they asked for the grade to be there.
   	exam.questions[questionNumber].options[0].checked = document.getElementById("option0").checked;
@@ -158,7 +191,15 @@ blurb: Here's a quiz on UiPath variable names.
   	exam.questions[questionNumber].options[2].checked = document.getElementById("option2").checked;
   	exam.questions[questionNumber].options[3].checked = document.getElementById("option3").checked;
   
+  	let checkboxes = document.querySelectorAll(".option-radio");
+	  let i = 0; 
+	  for (i=0; i<checkboxes.length;i++) {
+		  checkboxes[i].disabled=true;
+	  } 
+  
+  
   	let correctCount = 0; 
+    
   	for (i = 0; i < exam.questions.length; i++) {
   		let correct = true;
   		for (j = 0; j < exam.questions[i].options.length; j++) {
@@ -174,7 +215,9 @@ blurb: Here's a quiz on UiPath variable names.
   		if (correct) {correctCount++}
   	}
   	//alert(correctCount);
+    highlightCorrectAnswers();
   	document.getElementById('score').innerHTML = 'You got '  + correctCount + ' out of ' + questions.length + ' correct.';
+    document.getElementById('finish').setAttribute('class', 'invisible');
   	
   }
   
@@ -187,23 +230,23 @@ blurb: Here's a quiz on UiPath variable names.
     <div class="card-header" id="questionNumber"></div>
     <div class="card-body">
       <h3 class="card-title" id="query"></h3>
-      <div class="form-check">
-        <input class="form-check-input" type="radio" name="optionRadios" id="option0" value="option0">
+      <div class="form-check my-2" id="outerOptionDiv0">
+        <input class="form-check-input  option-radio" type="radio" name="optionRadios" id="option0" value="option0">
         <label class="form-check-label" for="option0" id="labelOption0">
         </label>
       </div>
-      <div class="form-check">
-        <input class="form-check-input" type="radio" name="optionRadios" id="option1" value="option1">
+      <div class="form-check my-2" id="outerOptionDiv1">
+        <input class="form-check-input  option-radio" type="radio" name="optionRadios" id="option1" value="option1">
         <label class="form-check-label" for="option1" id="labelOption1">
         </label>
       </div>
-      <div class="form-check">
-        <input class="form-check-input" type="radio" name="optionRadios" id="option2" value="option2">
+      <div class="form-check my-2" id="outerOptionDiv2">
+        <input class="form-check-input  option-radio" type="radio" name="optionRadios" id="option2" value="option2">
         <label class="form-check-label" for="option2" id="labelOption2">
         </label>
       </div>
-      <div class="form-check">
-        <input class="form-check-input" type="radio" name="optionRadios" id="option3" value="option3">
+      <div class="form-check my-2" id="outerOptionDiv3">
+        <input class="form-check-input  option-radio" type="radio" name="optionRadios" id="option3" value="option3">
         <label class="form-check-label" for="option3" id="labelOption3">
         </label>
       </div>
