@@ -12,8 +12,8 @@ title: UiPath Certification
     <source srcset="/assets/practice.jpg" media="(min-width: 1200px)">
     <source srcset="/assets/practice.jpg" media="(min-width: 992px)">
     <source srcset="/assets/practice.jpg" media="(min-width: 768px)">
-    <source srcset="/assets/multiple-choice.jpg" media="(min-width: 576px)">
-    <img src="/assets/multiple-choice.jpg" class="img-fluid">
+    <source srcset="/assets/uipath-exam-questions-answers.gif" media="(min-width: 576px)">
+    <img src="/assets/uipath-exam-questions-answers.gif" class="img-fluid">
 </picture>
 		<div class="card-body">
 			
@@ -30,8 +30,8 @@ title: UiPath Certification
     <source srcset="/assets/study.jpg" media="(min-width: 1200px)">
     <source srcset="/assets/study.jpg" media="(min-width: 992px)">
     <source srcset="/assets/study.jpg" media="(min-width: 768px)">
-    <source srcset="/assets/uipath-certified-associate-badge.png" media="(min-width: 576px)">
-    <img src="/assets/uipath-certified-associate-badge.png" class="img-fluid">
+    <source srcset="/assets/uipath-certification-study-guide.jpg" media="(min-width: 576px)">
+    <img src="/assets/uipath-certification-study-guide.jpg" class="img-fluid">
 </picture>
 		<div class="card-body">
 			
