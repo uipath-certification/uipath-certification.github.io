@@ -161,7 +161,9 @@ blurb: Here's a quiz on UiPath variable names.
     
     if (exam.graded) {
 		  highlightCorrectAnswers();
-	  }
+     } else {
+     	clearHighlightedAnswers();
+     }
   	
   }
   
@@ -180,6 +182,21 @@ blurb: Here's a quiz on UiPath variable names.
 		}
 
 }
+
+  clearHighlightedAnswers = function() {
+
+		let i = 0;
+		for (i = 0; i < exam.questions[questionNumber].options.length; i++) {
+				document.getElementById('outerOptionDiv' + i).classList.remove("class", "border");
+				document.getElementById('outerOptionDiv' + i).classList.remove("class", "border-success");
+		}
+
+}
+
+
+
+
+
   
   gradeExam = function(){
   
