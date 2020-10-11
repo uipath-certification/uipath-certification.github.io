@@ -222,7 +222,7 @@ blurb: Here's a quiz on UiPath variable names.
   }
   
 </script>
-
+<a href="/questions.html">Initialize questions if none appear and come back</a>
 <br/><br/>
 
 <div class="container">
