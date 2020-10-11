@@ -6,7 +6,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 ---
 
 <div class="row" >
-  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Be a quick study  <a id="learnfast"></a></div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
@@ -24,7 +24,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
       </div>
     </div>
   </div>
-  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch" >
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch" >
     <div class="card" >
       <div class="card-header">Prepare to Learn<a id="prepare"></a></div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
@@ -101,7 +101,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   </div>
   
   
-  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Get Started with UiPath Studio<a id="studio"></a></div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
@@ -141,7 +141,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   
   
   
-  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
 	    <div class="card-header">Learn about UiPath Datatables<a id="datatables"></a></div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
@@ -173,7 +173,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   </div>
   
   
-  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
 	    <div class="card-header">Master UiPath Outlook Activities<a id="outlook"></a></div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
@@ -208,7 +208,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   </div>
   
   
-  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
 	    <div class="card-header">Learn UiPath Programming <a id="programming"></a></div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
@@ -245,7 +245,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   
   
   
-<div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+<div class=" col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
 	    <div class="card-header">Process UiPath Invoices and PDF Files<a id="pdf"></a></div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
@@ -281,7 +281,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
     </div>
  </div>
   
-  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
 	    <div class="card-header">UiPath Screen Scraping <a id="screenscrape"></a></div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
@@ -326,7 +326,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
  </div>
  
  
- <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+ <div class=" col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
 	    <div class="card-header">Master UiPath OCR Tools<a id="uipath-ocr"></a></div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
@@ -361,7 +361,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
       </div>
     </div>
  </div>
- <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+ <div class=" col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
 	    <div class="card-header">Work with UiPath Orchestrator<a id="uipath-orchestrator"></a></div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
@@ -396,7 +396,7 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
       </div>
     </div>
  </div>
- <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
+ <div class=" col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2  d-flex align-items-stretch">
     <div class="card" >
 	    <div class="card-header">Finishing Up!<a id="finish"></a></div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="uipath certification">
