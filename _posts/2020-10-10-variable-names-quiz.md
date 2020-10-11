@@ -216,7 +216,7 @@ blurb: Here's a quiz on UiPath variable names.
   	}
   	//alert(correctCount);
     highlightCorrectAnswers();
-  	document.getElementById('score').innerHTML = 'You got '  + correctCount + ' out of ' + questions.length + ' correct.';
+  	document.getElementById('score').innerHTML = 'You got '  + correctCount + ' out of ' + exam.questions[i].length + ' correct.';
     document.getElementById('finish').setAttribute('class', 'invisible');
   	
   }
