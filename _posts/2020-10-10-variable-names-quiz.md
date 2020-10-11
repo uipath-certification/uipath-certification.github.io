@@ -118,11 +118,8 @@ blurb: Here's a quiz on UiPath variable names.
   displayQuestion = function(number){
   
   	console.log("Number to display is " + number);
-  
-  	exam.questions[questionNumber].options[0].checked = document.getElementById("option0").checked;
-  	exam.questions[questionNumber].options[1].checked = document.getElementById("option1").checked;
-  	exam.questions[questionNumber].options[2].checked = document.getElementById("option2").checked;
-  	exam.questions[questionNumber].options[3].checked = document.getElementById("option3").checked;
+	processTheAnswer();
+
   
       questionNumber = number;
   
@@ -173,6 +170,15 @@ blurb: Here's a quiz on UiPath variable names.
 	if (questionNumber == (exam.questions.length-1)) {
 		document.getElementById("next").setAttribute("class", "disabled btn btn-primary");
 	}
+}
+
+
+processTheAnswer = function() {
+
+	exam.questions[questionNumber].options[0].checked = document.getElementById("option0").checked;
+	exam.questions[questionNumber].options[1].checked = document.getElementById("option1").checked;
+	exam.questions[questionNumber].options[2].checked = document.getElementById("option2").checked;
+	exam.questions[questionNumber].options[3].checked = document.getElementById("option3").checked;
 }
   
   chooseBetweenRadioOrCheckbox = function () {
@@ -226,10 +232,7 @@ blurb: Here's a quiz on UiPath variable names.
     exam.graded=true;
   
   	//Make sure changes on the question they asked for the grade to be there.
-  	exam.questions[questionNumber].options[0].checked = document.getElementById("option0").checked;
-  	exam.questions[questionNumber].options[1].checked = document.getElementById("option1").checked;
-  	exam.questions[questionNumber].options[2].checked = document.getElementById("option2").checked;
-  	exam.questions[questionNumber].options[3].checked = document.getElementById("option3").checked;
+  	processTheAnswer();
   
   	let checkboxes = document.querySelectorAll(".option-radio");
 	  let i = 0; 
