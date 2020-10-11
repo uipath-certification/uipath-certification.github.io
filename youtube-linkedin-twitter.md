@@ -6,7 +6,7 @@ title: UiPath YouTube Accounts to Follow
 <div class="row">
   
   
-    <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">Twitter <a id="twitter-uipath"></a></div>
       <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
@@ -20,7 +20,7 @@ title: UiPath YouTube Accounts to Follow
   </div>
   
   
-  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">UiPath and YouTube <a id="youtube-uipath"></a></div>
       <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
@@ -37,7 +37,7 @@ title: UiPath YouTube Accounts to Follow
   
   
   
-  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">LinkedIn<a id="linkedin-uipath"></a></div>
       <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
@@ -48,7 +48,7 @@ title: UiPath YouTube Accounts to Follow
     </div>
   </div>
   
-  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">StackOverflow <a id="stackoverflow"></a></div>
       <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
@@ -60,7 +60,7 @@ title: UiPath YouTube Accounts to Follow
   </div>
   
   
-  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">UiPath Certification Forum<a id="cert-forum-uipath"></a></div>
       <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
@@ -72,7 +72,7 @@ title: UiPath YouTube Accounts to Follow
   </div>
   
   
-  <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">UiPath and GitHub <a id="github-uipath"></a></div>
       <img src="/assets/serge-social2.jpg" class="card-img-top" alt="uipath certification">
