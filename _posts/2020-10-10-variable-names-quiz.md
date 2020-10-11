@@ -276,7 +276,7 @@ blurb: Here's a quiz on UiPath variable names.
       <div class="card-body collapse" id="answerCardBody">
         <h3 class="card-title" id="answer"></h3>
 	<p>Click this button to cheat.</p>
-	<a href="#" id="cheat" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="highlightCorrectAnswers()">Cheat</a>
+	<a href="#" id="cheat" class="btn btn-warning" onclick="highlightCorrectAnswers()">Cheat</a>
         <p class="card-text">If that's not enough, here's the detailed UiPath Certification question answer.</p>
         <p class="card-text"><a href="#" id="answerLink" target="_blank">Answer opens in a new window.</a></p>
       </div>
