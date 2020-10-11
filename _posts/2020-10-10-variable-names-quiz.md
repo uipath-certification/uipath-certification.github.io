@@ -292,9 +292,9 @@ blurb: Here's a quiz on UiPath variable names.
          </div>
          <div>
             <p class="card-text mt-3">
-               <a href="#" id="previous" class="btn btn-primary" onclick="navigateQuestions('previous')">&lt;&lt; Previous</a>
-               <a href="#" id="next" class="btn btn-primary" onclick="navigateQuestions('next')">Next &gt;&gt;</a> 
-               <a href="#" id="finish" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="gradeExam()">Finish</a>
+               <a  id="previous" class="btn btn-primary" onclick="navigateQuestions('previous')">&lt;&lt; Previous</a>
+               <a  id="next" class="btn btn-primary" onclick="navigateQuestions('next')">Next &gt;&gt;</a> 
+               <a  id="finish" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="gradeExam()">Finish</a>
             </p>
             <div></div>
          </div>
@@ -311,15 +311,15 @@ blurb: Here's a quiz on UiPath variable names.
    </div>
    <div class="card mt-2">
       <div class="card-header" id="answerCard">
-         <a href="#" onclick="document.getElementById('answerCardBody').classList.toggle('collapse');" >Nothing to see here</a>
+         <a  onclick="document.getElementById('answerCardBody').classList.toggle('collapse');" >Nothing to see here</a>
       </div>
       <div class="card-body collapse" id="answerCardBody">
          <h3 class="card-title" id="answer"></h3>
          <p>Click this button to cheat.</p>
-         <a href="#" id="cheat" class="btn btn-warning mx-2" onclick="highlightCorrectAnswers()">Cheat</a>
+         <a  id="cheat" class="btn btn-warning mx-2" onclick="highlightCorrectAnswers()">Cheat</a>
          <h3>Full Answer</h3>
          <p class="card-text">If that's not enough, here's the detailed UiPath Certification question answer.</p>
-         <p class="card-text"><a href="#" id="answerLink" target="_blank">Answer opens in a new window.</a></p>
+         <p class="card-text"><a  id="answerLink" target="_blank">Answer opens in a new window.</a></p>
       </div>
    </div>
    <!-- Modal -->
