@@ -120,9 +120,6 @@ blurb: Here's a quiz on UiPath variable names.
   	console.log("Number to display is " + number);
 	processTheAnswer();
 
-  
-      questionNumber = number;
-  
   	questionNumber = parseInt(number, 10);
   
   	let questionNumberDisplay = parseInt(number, 10) + 1;
@@ -136,14 +133,7 @@ blurb: Here's a quiz on UiPath variable names.
   	document.getElementById("answerLink").innerHTML = exam.questions[questionNumber].query;
   	document.getElementById("answerLink").setAttribute("href", exam.questions[questionNumber].answer);
   	
-  
-  	
-  	document.getElementById("option0").checked = exam.questions[questionNumber].options[0].checked;
-  	document.getElementById("option1").checked = exam.questions[questionNumber].options[1].checked;
-  	document.getElementById("option2").checked = exam.questions[questionNumber].options[2].checked;
-  	document.getElementById("option3").checked = exam.questions[questionNumber].options[3].checked;	
-  	
-	
+
 	//What does this do? Does changing to check boxes mess this up?
   	//var radios = document.querySelectorAll('input[type="radio"]:checked');
   	//var value = radios.length>0? radios[0].value: null;
@@ -151,6 +141,7 @@ blurb: Here's a quiz on UiPath variable names.
   	
     
     chooseBetweenRadioOrCheckbox();
+    redisplaySelectedInput();
     handleFencepostButtons();
     
     if (exam.graded) {
@@ -160,6 +151,13 @@ blurb: Here's a quiz on UiPath variable names.
      }
   	
   }
+  
+  redisplaySelectedInput = function() {
+	document.getElementById("option0").checked = exam.questions[questionNumber].options[0].checked;
+	document.getElementById("option1").checked = exam.questions[questionNumber].options[1].checked;
+	document.getElementById("option2").checked = exam.questions[questionNumber].options[2].checked;
+	document.getElementById("option3").checked = exam.questions[questionNumber].options[3].checked;	
+}
   
   handleFencepostButtons = function() {
 	document.getElementById("previous").setAttribute("class", "enabled btn btn-primary");
