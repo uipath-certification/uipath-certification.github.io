@@ -5,6 +5,7 @@ title: This is a test of the new Exam layout
 blurb: Testing the new exam layout.
 ---
 <script>
+var exam = null;
    window.addEventListener('load', function () {
    
      var questionBank = localStorage.getItem("questions");
