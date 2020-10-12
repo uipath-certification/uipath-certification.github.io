@@ -234,6 +234,7 @@
    
    processTheAnswer = function(questionNumber) {
    console.log(questionNumber);
+   console.log("The exam at the number is: " + exam.questions[questionNumber]);
    
    exam.questions[questionNumber].options[0].checked = document.getElementById("option0").checked;
    exam.questions[questionNumber].options[1].checked = document.getElementById("option1").checked;
