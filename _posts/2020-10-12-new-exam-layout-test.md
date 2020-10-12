@@ -23,14 +23,14 @@ window.addEventListener('load', function () {
  
  try {
   alert("Starting to create the exam");
-  var exam = new Exam(questionBank);
+  exam = new Exam(questionBank);
   console.log("That worked without parsing the exam!");
  }
  catch(err) {
    console.log(err.message);
    console.log("Not giving up! Parsing now and passing...");
    
-   var exam = new Exam(questionBank)
+   exam = new Exam(questionBank)
 
  }
  //console.log(exam); 
