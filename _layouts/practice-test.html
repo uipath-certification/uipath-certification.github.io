@@ -170,6 +170,19 @@
        return (this.correct && this.selected);
      }
    }
+   
+   initializeQuestionJumper = function(){
+	 document.getElementById("question-jumper").innerHTML;
+	 let buttons = "";
+	 for (i = 0; i < exam.questions.length; i++) {
+		var aTag = document.createElement('a');
+		aTag.setAttribute('onClick','displayQuestion(\''+ i + '\')');
+		aTag.setAttribute('class','btn btn-info mr-2');
+		aTag.setAttribute('id', 'jumpTo'+i);
+		aTag.innerHTML = "" + (i+1);
+		document.getElementById("question-jumper").append(aTag);
+	 }
+   }
   
    
    navigateQuestions = function(number){
@@ -214,72 +227,72 @@
    }
    
    redisplaySelectedInput = function() {
-   document.getElementById("option0").checked = exam.questions[questionNumber].options[0].checked;
-   document.getElementById("option1").checked = exam.questions[questionNumber].options[1].checked;
-   document.getElementById("option2").checked = exam.questions[questionNumber].options[2].checked;
-   document.getElementById("option3").checked = exam.questions[questionNumber].options[3].checked;	
+	   document.getElementById("option0").checked = exam.questions[questionNumber].options[0].checked;
+	   document.getElementById("option1").checked = exam.questions[questionNumber].options[1].checked;
+	   document.getElementById("option2").checked = exam.questions[questionNumber].options[2].checked;
+	   document.getElementById("option3").checked = exam.questions[questionNumber].options[3].checked;	
    }
    
    handleFencepostButtons = function() {
-   document.getElementById("previous").setAttribute("class", "enabled btn btn-primary");
-   document.getElementById("next").setAttribute("class", "enabled btn btn-primary");
-   if (questionNumber==0) {
-   document.getElementById("previous").setAttribute("class", "disabled btn btn-primary");
-   }
-   if (questionNumber == (exam.questions.length-1)) {
-   document.getElementById("next").setAttribute("class", "disabled btn btn-primary");
-   }
+	   document.getElementById("previous").setAttribute("class", "enabled btn btn-primary");
+	   document.getElementById("next").setAttribute("class", "enabled btn btn-primary");
+	   if (questionNumber==0) {
+	   document.getElementById("previous").setAttribute("class", "disabled btn btn-primary");
+	   }
+	   if (questionNumber == (exam.questions.length-1)) {
+	   document.getElementById("next").setAttribute("class", "disabled btn btn-primary");
+	   }
    }
    
    
    processTheAnswer = function() {
-   console.log(questionNumber);
-   console.log("The exam at the number is: " + exam.questions[questionNumber]);
-   
-   exam.questions[questionNumber].options[0].checked = document.getElementById("option0").checked;
-   exam.questions[questionNumber].options[1].checked = document.getElementById("option1").checked;
-   exam.questions[questionNumber].options[2].checked = document.getElementById("option2").checked;
-   exam.questions[questionNumber].options[3].checked = document.getElementById("option3").checked;
+	   console.log(questionNumber);
+	   console.log("The exam at the number is: " + exam.questions[questionNumber]);
+	   
+	   exam.questions[questionNumber].options[0].checked = document.getElementById("option0").checked;
+	   exam.questions[questionNumber].options[1].checked = document.getElementById("option1").checked;
+	   exam.questions[questionNumber].options[2].checked = document.getElementById("option2").checked;
+	   exam.questions[questionNumber].options[3].checked = document.getElementById("option3").checked;
    }
    
    chooseBetweenRadioOrCheckbox = function () {
    
-     let radiosAndCheckboxes = document.querySelectorAll('.form-check-input');
+       let radiosAndCheckboxes = document.querySelectorAll('.form-check-input');
    
-   let inputType = "radio";
-   if (exam.questions[questionNumber].isMultipleChoice()) {
-   inputType="checkbox"
-   } 
-   
-   let i = 0;
-   for (i=0; i<radiosAndCheckboxes.length; i++) {
-   radiosAndCheckboxes[i].type=inputType;
-   }
+	   let inputType = "radio";
+	   if (exam.questions[questionNumber].isMultipleChoice()) {
+	   inputType="checkbox"
+	   } 
+	   
+	   let i = 0;
+	   for (i=0; i<radiosAndCheckboxes.length; i++) {
+	   radiosAndCheckboxes[i].type=inputType;
+	   }
    }
    
    highlightCorrectAnswers = function() {
    
-   let i = 0;
-   for (i = 0; i < exam.questions[questionNumber].options.length; i++) {
-   	if (exam.questions[questionNumber].options[i].correct) {
-   		console.log('outerOptionDiv' + i);
-   		document.getElementById('outerOptionDiv' + i).classList.add("class", "border");
-   		document.getElementById('outerOptionDiv' + i).classList.add("class", "border-success");
-   	} else {
-   		document.getElementById('outerOptionDiv' + i).classList.remove("class", "border");
-   		document.getElementById('outerOptionDiv' + i).classList.remove("class", "border-success");
-   	}
-   }
+    let i = 0;
+    for (i = 0; i < exam.questions[questionNumber].options.length; i++) {
+		if (exam.questions[questionNumber].options[i].correct) {
+			console.log('outerOptionDiv' + i);
+			document.getElementById('outerOptionDiv' + i).classList.add("class", "border");
+			document.getElementById('outerOptionDiv' + i).classList.add("class", "border-success");
+		} else {
+			document.getElementById('outerOptionDiv' + i).classList.remove("class", "border");
+			document.getElementById('outerOptionDiv' + i).classList.remove("class", "border-success");
+		}
+     }
    
    }
    
    clearHighlightedAnswers = function() {
    
-   let i = 0;
-   for (i = 0; i < exam.questions[questionNumber].options.length; i++) {
-   		document.getElementById('outerOptionDiv' + i).classList.remove("class", "border");
-   		document.getElementById('outerOptionDiv' + i).classList.remove("class", "border-success");
-   }
+	   let i = 0;
+	   for (i = 0; i < exam.questions[questionNumber].options.length; i++) {
+			document.getElementById('outerOptionDiv' + i).classList.remove("class", "border");
+			document.getElementById('outerOptionDiv' + i).classList.remove("class", "border-success");
+	   }
    
    }
    

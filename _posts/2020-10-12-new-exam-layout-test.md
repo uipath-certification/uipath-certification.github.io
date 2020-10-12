@@ -7,14 +7,11 @@ blurb: Testing the new exam layout.
 <script>
 var exam = null;
 var questionNumber = 0;
+
 window.addEventListener('load', function () {
 
  var questionBank = localStorage.getItem("questions");
  console.log("Questions after pull " + questionBank);
- //var exam = new Exam(questionBank);
- //console.log(exam);
- 
- 
  console.log("The size is: " + questionBank.length);
  questionBank = JSON.parse(questionBank);
  questionBank = questionBank.slice(11,13);
@@ -29,22 +26,11 @@ window.addEventListener('load', function () {
  catch(err) {
    console.log(err.message);
    console.log("Not giving up! Parsing now and passing...");
-   
    exam = new Exam(questionBank)
+ }
 
- }
- //console.log(exam); 
- questionNumber = 0;
- displayQuestion(0);
- document.getElementById("question-jumper").innerHTML;
- let buttons = "";
- for (i = 0; i < exam.questions.length; i++) {
-	var aTag = document.createElement('a');
-	aTag.setAttribute('onClick','displayQuestion(\''+ i + '\')');
-	aTag.setAttribute('class','btn btn-info mr-2');
-	aTag.setAttribute('id', 'jumpTo'+i);
-	aTag.innerHTML = "" + (i+1);
-	document.getElementById("question-jumper").append(aTag);
- }
+ displayQuestion(questionNumber);
+ initializeQuestionJumper();
+ 
 });
 </script>
