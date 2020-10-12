@@ -12,7 +12,7 @@ title: UiPath Certification Questions and Answers
          <div class="card-body d-flex flex-column">
             <p class="card-text">We are releasing our first 100 UiPath Certification questions and answers this week.</p>
 			<img src="/assets/uipath-study-guide.gif" class="img-fluid img-thumbnail mx-auto d-block" alt="uipath certified associate badge">
-			<p class="text-center ">We should have 350 questions available through a multitude of UiPath practice exams available by the end of the month.</p>
+			<p>We should have 350 questions available through a multitude of UiPath practice exams available by the end of the month.</p>
          </div>
       </div>
    </div>
