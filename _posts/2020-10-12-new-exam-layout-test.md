@@ -14,8 +14,10 @@ blurb: Testing the new exam layout.
      var questionNumber = 0;
 	 
    	 console.log("The size is: " + questionBank.length);
+	 questionBank = JSON.parse(questionBank);
    	 questionBank = questionBank.slice(8,11);
-	 console.log("Number of questions in the bank " + questionBank);
+	 console.log("Here is the questionBank object: " + questionBank);
+	 console.log("This JSON should have three records + " questionBank.length);
 	 
 	 try {
 	  alert("Starting to create the exam");
@@ -25,7 +27,7 @@ blurb: Testing the new exam layout.
      catch(err) {
 	   console.log(err.message);
        console.log("Not giving up! Parsing now and passing...");
-       questionBank = JSON.parse(questionBank);
+       
        var exam = new Exam(questionBank)
  
      }
