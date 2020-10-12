@@ -1,7 +1,7 @@
 ---
 layout: practice-test
 author: Serge
-title: Variable Naming Convention Practice Test
+title: Kebab vs Camel vs Pascal Case in UiPath Studio
 blurb: Do you know the difference between kebab case and camel case?
 ---
 <script>

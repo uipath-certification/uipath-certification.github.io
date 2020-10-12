@@ -1,8 +1,8 @@
 ---
 layout: practice-test
 author: Serge
-title: Variable Naming Convention Practice Test
-blurb: Do you know the difference between kebab case and camel case?
+title: UiPath cert questions and answers on workflow, sequences and flowchart projects
+blurb: Test yourself to see if you know when to use a UiPath Studio sequence vs flowchart project?
 ---
 <script>
 var exam = null;
@@ -13,7 +13,7 @@ window.addEventListener('load', function () {
  var questionBank = localStorage.getItem("questions");
  //console.log("The size is: " + questionBank.length);
  questionBank = JSON.parse(questionBank);
- questionBank = questionBank.slice(10,15);
+ questionBank = questionBank.slice(20,25);
  
  try {
   exam = new Exam(questionBank);
