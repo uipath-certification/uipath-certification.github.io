@@ -186,7 +186,7 @@
    displayQuestion = function(number){
    
    	console.log("Number to display is " + number);
-    processTheAnswer(number);
+    processTheAnswer();
    
    	questionNumber = parseInt(number, 10);
    
@@ -232,7 +232,7 @@
    }
    
    
-   processTheAnswer = function(questionNumber) {
+   processTheAnswer = function() {
    console.log(questionNumber);
    console.log("The exam at the number is: " + exam.questions[questionNumber]);
    
