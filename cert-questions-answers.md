@@ -5,31 +5,32 @@ title: UiPath Certification Questions and Answers
 <div class="row">
 
 
-   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+   <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
       <div class="card" >
-         <div class="card-header">More UiPath Questions Coming<a id="twitter-uipath"></a></div>
+         <div class="card-header">UiPath Test Questions<a id="twitter-uipath"></a></div>
          <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
          <div class="card-body d-flex flex-column">
-            <p class="card-text">We are releasing our first 100 UiPath Certification questions and answers this week.</p>
+            <p class="card-text">100 UiPath Certification questions and answers are queued up to be published this week!</p>
 			<img src="/assets/uipath-certified-associate-badge-sm.jpg" class="img-fluid img-thumbnail mx-auto d-block" alt="uipath certified associate badge">
+			 <p class="card-text">We're going to get you certified in a hurry.</p>
          </div>
       </div>
    </div>
 
-   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+   <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
       <div class="card" >
          <div class="card-header">Variable Naming Terminology Exam<a id="twitter-uipath"></a></div>
          <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
          <div class="card-body d-flex flex-column">
             <p class="text-center mt-auto">Difficulty: 2</p>
 			<p class="card-text">This is just a quick five questions. Probably below the difficulty of the UiPath Associate exam. But it does set the groundwork for making sure you understand concepts like camel case, kebab case and snake case.</p>
-            <p class="text-center mt-auto"><a href="http://uipath.rpacertified.com/2020/10/12/variable-naming-conventions-test.html" class="text-center  btn btn-outline-primary btn-sm">Naming Terminology</a></p>
+            <p class="text-center mt-auto"><a href="http://uipath.rpacertified.com/2020/10/12/variable-naming-conventions-test.html" class="text-center  btn btn-outline-primary btn-sm">Studio Terminology</a></p>
 			
          </div>
       </div>
    </div>
    
-   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+   <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
       <div class="card" >
          <div class="card-header">UiPath Naming Conventions<a id="twitter-uipath"></a></div>
          <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
@@ -42,7 +43,7 @@ title: UiPath Certification Questions and Answers
       </div>
    </div>
    
-   <div class=" col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+   <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
       <div class="card" >
          <div class="card-header">Workflows, Sequences and Projects<a id="twitter-uipath"></a></div>
          <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
