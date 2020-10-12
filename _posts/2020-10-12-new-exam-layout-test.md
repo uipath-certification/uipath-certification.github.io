@@ -34,7 +34,7 @@ window.addEventListener('load', function () {
 
  }
  //console.log(exam); 
- var questionNumber = 0;
+ questionNumber = 0;
  displayQuestion(0);
  document.getElementById("question-jumper").innerHTML;
  let buttons = "";
