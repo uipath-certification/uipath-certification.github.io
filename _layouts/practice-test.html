@@ -186,7 +186,7 @@
    displayQuestion = function(number){
    
    	console.log("Number to display is " + number);
-    processTheAnswer();
+    processTheAnswer(number);
    
    	questionNumber = parseInt(number, 10);
    
@@ -232,8 +232,8 @@
    }
    
    
-   processTheAnswer = function() {
-   
+   processTheAnswer = function(questionNumber) {
+   console.log(
    exam.questions[questionNumber].options[0].checked = document.getElementById("option0").checked;
    exam.questions[questionNumber].options[1].checked = document.getElementById("option1").checked;
    exam.questions[questionNumber].options[2].checked = document.getElementById("option2").checked;
