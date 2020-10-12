@@ -18,7 +18,7 @@ Question: Which type of project is most likely to be used and reused in other pr
 
 Sequence projects are intended to be small, reusable pieces of logic that can be used in other sequence projects, flow chart projects and state machine projects.
 
-> Sequences are the smallest type of project. They are suitable to linear processes as they enable you to go from one activity to another seamlessly, and act as a single block activity.
+> One of the key attributes of UiPath sequence projects is that they can be reused in standalone RPA systems or as part of a flow chart or state machine project.
 
 See the the UiPath documentaiton for more [detail](https://docs.uipath.com/studio/v2019/docs/sequences).
 
