@@ -20,5 +20,5 @@ It is best to be consistent in how you name and reference methods and variables.
 
 Note that some have said variable names being passed in and out as arguments are case sensitive. Not sure if this is a bug or accepted behavior? Regardless, when you write code, be consistent and treat the program like it was case sensitive.
 
-This old forum talks about the issue in more detail. [detail](https://forum.uipath.com/t/case-sensitivity-in-naming-variables-and-arguments/122137).
+This old forum talks about the issue in more [detail](https://forum.uipath.com/t/case-sensitivity-in-naming-variables-and-arguments/122137).
 
