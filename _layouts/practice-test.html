@@ -150,8 +150,8 @@
        if (options[i].correct) {
        this.correctCount++;
      }
-      console.log(this.correctCount);
-      console.log(this.isMultipleChoice());
+      //console.log(this.correctCount);
+      //console.log(this.isMultipleChoice());
      }
     }
    
@@ -186,7 +186,7 @@
   
    
    navigateQuestions = function(number){
-    console.log('navigateQuestions' + number);
+    //console.log('navigateQuestions' + number);
     if(number=='next') {
    		number = questionNumber + 1;
     }
@@ -198,7 +198,7 @@
    
    displayQuestion = function(number){
    
-   	console.log("Number to display is " + number);
+   	//console.log("Number to display is " + number);
     processTheAnswer();
    
    	questionNumber = parseInt(number, 10);
@@ -275,7 +275,7 @@
     let i = 0;
     for (i = 0; i < exam.questions[questionNumber].options.length; i++) {
 		if (exam.questions[questionNumber].options[i].correct) {
-			console.log('outerOptionDiv' + i);
+			//console.log('outerOptionDiv' + i);
 			document.getElementById('outerOptionDiv' + i).classList.add("class", "border");
 			document.getElementById('outerOptionDiv' + i).classList.add("class", "border-success");
 		} else {
