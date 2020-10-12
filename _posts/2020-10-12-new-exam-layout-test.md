@@ -25,15 +25,19 @@ initializeExam = function() {
 
   var questionNumber = 0;
   displayQuestion(0);
+  initializeQuestionJumper();
+}
+
+initializeQuestionJumper = function() {
   document.getElementById("question-jumper").innerHTML;
   let buttons = "";
   for (i = 0; i < exam.questions.length; i++) {
-      var aTag = document.createElement('a');
-      aTag.setAttribute('onClick','displayQuestion(\''+ i + '\')');
-      aTag.setAttribute('class','btn btn-info mr-2');
-      aTag.setAttribute('id', 'jumpTo'+i);
-      aTag.innerHTML = "" + (i+1);
-      document.getElementById("question-jumper").append(aTag);
+      var anchorTag = document.createElement('a');
+      anchorTag.setAttribute('onClick','displayQuestion(\''+ i + '\')');
+      anchorTag.setAttribute('class','btn btn-info mr-2');
+      anchorTag.setAttribute('id', 'jumpTo'+i);
+      anchorTag.innerHTML = "" + (i+1);
+      document.getElementById("question-jumper").append(anchorTag);
   }
 }
 </script>
