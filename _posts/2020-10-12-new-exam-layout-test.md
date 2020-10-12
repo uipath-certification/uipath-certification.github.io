@@ -12,12 +12,21 @@ blurb: Testing the new exam layout.
      var exam = new Exam(questionBank);
      console.log(exam);
      var questionNumber = 0;
-	 questionBank = JSON.parse(questionBank);
+	 
    	 console.log("The size is: " + questionBank.length);
-   	 questionBank = examQuestions.slice(15,20);
+   	 questionBank = examQuestions.slice(9,12);
 	 
-	 
-     var exam = new Exam(questionBank);
+	 try {
+      var exam = new Exam(questionBank);
+      console.log("That worked without parsing the exam!");
+     }
+     catch(err) {
+	   console.log(err.message);
+       console.log("Not giving up! Parsing now and passing...");
+       questionBank = JSON.parse(questionBank);
+       var exam = new Exam(questionBank)
+ 
+     }
      console.log(exam);
    
      var questionNumber = 0;
