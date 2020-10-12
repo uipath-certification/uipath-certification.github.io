@@ -100,10 +100,10 @@
     this.graded=false;
    	//console.log("The size is: " + examQuestions.length);
    	//examQuestions = JSON.parse(examQuestions);
-   	console.log("The size is: " + examQuestions.length);
+   	//console.log("The size is: " + examQuestions.length);
    	//examQuestions = examQuestions.slice(10,15);
-   	console.log("In constructor with these: " + examQuestions);
-         this.questions = new Array();
+   	//console.log("In constructor with these: " + examQuestions);
+        this.questions = new Array();
    		let i = 0;
    		//console.log("Start of for loop" + questions.length);
    		//alert("About to enter for loop");
@@ -246,8 +246,8 @@
    
    
    processTheAnswer = function() {
-	   console.log(questionNumber);
-	   console.log("The exam at the number is: " + exam.questions[questionNumber]);
+	   //console.log(questionNumber);
+	   //console.log("The exam at the number is: " + exam.questions[questionNumber]);
 	   
 	   exam.questions[questionNumber].options[0].checked = document.getElementById("option0").checked;
 	   exam.questions[questionNumber].options[1].checked = document.getElementById("option1").checked;
