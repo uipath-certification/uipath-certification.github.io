@@ -14,12 +14,11 @@ blurb: Testing the new exam layout.
      var questionNumber = 0;
 	 
    	 console.log("The size is: " + questionBank.length);
-   	 questionBank = examQuestions.slice(9,12);
+   	 questionBank = questionBank.slice(9,12);
 	 
 	 try {
 	  alert("Starting to create the exam");
       var exam = new Exam(questionBank);
-	  
       console.log("That worked without parsing the exam!");
      }
      catch(err) {
@@ -30,7 +29,6 @@ blurb: Testing the new exam layout.
  
      }
      console.log(exam); 
-   
      var questionNumber = 0;
      displayQuestion(0);
      document.getElementById("question-jumper").innerHTML;
