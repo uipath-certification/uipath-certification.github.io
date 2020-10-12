@@ -14,7 +14,7 @@ title: UiPath Certification Questions and Answers
 </div>
             <p class="card-text">Hundreds of UiPath Certification questions have been queued up to be published this week!</p>
 			<img src="/assets/uipath-certified-associate-badge-sm.jpg" class="img-fluid img-thumbnail mx-auto d-block" alt="uipath certified associate badge">
-			 <p class="card-text">Get certified fast!</p>
+			 <p class="card-text text-center mt-2">Get certified fast!</p>
          </div>
       </div>
    </div>
