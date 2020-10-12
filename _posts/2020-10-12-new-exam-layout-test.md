@@ -15,6 +15,7 @@ blurb: Testing the new exam layout.
 	 
    	 console.log("The size is: " + questionBank.length);
    	 questionBank = questionBank.slice(8,11);
+	 console.log("Number of questions in the bank " + questionBank);
 	 
 	 try {
 	  alert("Starting to create the exam");
