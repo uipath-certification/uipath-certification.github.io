@@ -19,6 +19,7 @@ initializeExam = function() {
   questionBank = JSON.parse(questionBank);
   console.log("The size is: " + questionBank.length);
   questionBank = questionBank.slice(15,20);
+  console.log("Just sliced the questionBank");
   var exam = new Exam(questionBank);
   console.log(exam);
 
