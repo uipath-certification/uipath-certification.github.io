@@ -17,7 +17,9 @@ blurb: Testing the new exam layout.
    	 questionBank = examQuestions.slice(9,12);
 	 
 	 try {
+	  alert("Starting to create the exam");
       var exam = new Exam(questionBank);
+	  
       console.log("That worked without parsing the exam!");
      }
      catch(err) {
