@@ -17,7 +17,7 @@ blurb: Testing the new exam layout.
 	 questionBank = JSON.parse(questionBank);
    	 questionBank = questionBank.slice(7,11);
 	 ////console.log("Here is the questionBank object: " + questionBank);
-	 console.log("This JSON should have three records + " questionBank.length);
+	 console.log("This JSON should have three records  " + questionBank.length);
 	 
 	 try {
 	  alert("Starting to create the exam");
