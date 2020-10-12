@@ -10,7 +10,7 @@ window.addEventListener('load', function () {
 });
 
 initializeExam = function() {
-  document.getElementById("option0").checked = exam.questions[questionNumber].options[0].checked;
+  
   var questionBank = localStorage.getItem("questions");
   console.log("Questions after pull " + questionBank);
   var exam = new Exam(questionBank);
