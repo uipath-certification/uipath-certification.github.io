@@ -1,8 +1,8 @@
 ---
 layout: answered-question
 author: Serge
-title: A linear UiPath project?
-blurb: UiPath Argument Naming Convention
+title: UiPath Argument Naming Convention
+blurb: Do you know how to properly name UiPath output arguments?
 difficulty: 7
 objective: 
 ---
