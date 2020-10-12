@@ -8,15 +8,15 @@ blurb: Testing the new exam layout.
    window.addEventListener('load', function () {
    
      var questionBank = localStorage.getItem("questions");
-     console.log("Questions after pull " + questionBank);
+     //console.log("Questions after pull " + questionBank);
      //var exam = new Exam(questionBank);
      //console.log(exam);
      var questionNumber = 0;
 	 
-   	 console.log("The size is: " + questionBank.length);
+   	 //console.log("The size is: " + questionBank.length);
 	 questionBank = JSON.parse(questionBank);
    	 questionBank = questionBank.slice(7,11);
-	 console.log("Here is the questionBank object: " + questionBank);
+	 ////console.log("Here is the questionBank object: " + questionBank);
 	 console.log("This JSON should have three records + " questionBank.length);
 	 
 	 try {
@@ -31,7 +31,7 @@ blurb: Testing the new exam layout.
        var exam = new Exam(questionBank)
  
      }
-     console.log(exam); 
+     //console.log(exam); 
      var questionNumber = 0;
      displayQuestion(0);
      document.getElementById("question-jumper").innerHTML;
@@ -44,5 +44,5 @@ blurb: Testing the new exam layout.
    		aTag.innerHTML = "" + (i+1);
    		document.getElementById("question-jumper").append(aTag);
    	 }
-   })
+   });
 </script>
