@@ -15,7 +15,7 @@ blurb: Testing the new exam layout.
 	 
    	 console.log("The size is: " + questionBank.length);
 	 questionBank = JSON.parse(questionBank);
-   	 questionBank = questionBank.slice(8,11);
+   	 questionBank = questionBank.slice(7,11);
 	 console.log("Here is the questionBank object: " + questionBank);
 	 console.log("This JSON should have three records + " questionBank.length);
 	 
@@ -44,5 +44,5 @@ blurb: Testing the new exam layout.
    		aTag.innerHTML = "" + (i+1);
    		document.getElementById("question-jumper").append(aTag);
    	 }
-   });
+   })
 </script>
