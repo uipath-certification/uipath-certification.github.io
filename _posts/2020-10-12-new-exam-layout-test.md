@@ -27,7 +27,7 @@ blurb: Testing the new exam layout.
        var exam = new Exam(questionBank)
  
      }
-     console.log(exam);
+     console.log(exam); 
    
      var questionNumber = 0;
      displayQuestion(0);
