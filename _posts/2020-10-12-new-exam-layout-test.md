@@ -17,7 +17,7 @@ window.addEventListener('load', function () {
  
  console.log("The size is: " + questionBank.length);
  questionBank = JSON.parse(questionBank);
- questionBank = questionBank.slice(7,11);
+ questionBank = questionBank.slice(7,10);
  console.log("Here is the questionBank object: " + questionBank);
  console.log("This JSON should have three records  " + questionBank.length);
  
