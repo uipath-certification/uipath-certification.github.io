@@ -6,17 +6,19 @@ blurb: Testing the new exam layout.
 ---
 <script>
    window.addEventListener('load', function () {
+      initializeExam();
+   });
    
+   initializeExam = function() {
+     document.getElementById("option0").checked = exam.questions[questionNumber].options[0].checked;
      var questionBank = localStorage.getItem("questions");
      console.log("Questions after pull " + questionBank);
      var exam = new Exam(questionBank);
      console.log(exam);
      var questionNumber = 0;
-	 questionBank = JSON.parse(questionBank);
+     questionBank = JSON.parse(questionBank);
    	 console.log("The size is: " + questionBank.length);
    	 questionBank = examQuestions.slice(15,20);
-	 
-	 
      var exam = new Exam(questionBank);
      console.log(exam);
    
@@ -31,6 +33,9 @@ blurb: Testing the new exam layout.
    		aTag.setAttribute('id', 'jumpTo'+i);
    		aTag.innerHTML = "" + (i+1);
    		document.getElementById("question-jumper").append(aTag);
-   	 }
-   });
+  	}
+   }
+   
+   
+   
 </script>
