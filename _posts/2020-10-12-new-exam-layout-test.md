@@ -17,8 +17,8 @@ blurb: Testing the new exam layout.
      console.log(exam);
      var questionNumber = 0;
      questionBank = JSON.parse(questionBank);
-   	 console.log("The size is: " + questionBank.length);
-   	 questionBank = examQuestions.slice(15,20);
+     console.log("The size is: " + questionBank.length);
+     questionBank = examQuestions.slice(15,20);
      var exam = new Exam(questionBank);
      console.log(exam);
    
@@ -33,7 +33,7 @@ blurb: Testing the new exam layout.
    		aTag.setAttribute('id', 'jumpTo'+i);
    		aTag.innerHTML = "" + (i+1);
    		document.getElementById("question-jumper").append(aTag);
-  	}
+  	  }
    }
    
    
