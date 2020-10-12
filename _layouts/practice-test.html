@@ -314,37 +314,6 @@
    
 </script>
    
-   
-<script>
-   window.addEventListener('load', function () {
-   
-     var questions = localStorage.getItem("questions");
-     console.log("Questions after pull " + questions);
-     var exam = new Exam(questions);
-     console.log(exam);
-     var questionNumber = 0;
-     var questions = localStorage.getItem("questions");
-     console.log("Questions after pull " + questions);
-     var exam = new Exam(questions);
-     console.log(exam);
-   
-     var questionNumber = 0;
-     displayQuestion(0);
-     document.getElementById("question-jumper").innerHTML;
-     let buttons = "";
-     	for (i = 0; i < exam.questions.length; i++) {
-   		var aTag = document.createElement('a');
-   		aTag.setAttribute('onClick','displayQuestion(\''+ i + '\')');
-   		aTag.setAttribute('class','btn btn-info mr-2');
-   		aTag.setAttribute('id', 'jumpTo'+i);
-   		aTag.innerHTML = "" + (i+1);
-   		document.getElementById("question-jumper").append(aTag);
-   	 }
-   });
-   
-   
-   
-</script>
 
 <a href="/questions.html">Initialize questions if none appear and come back</a>
 <br/><br/>
