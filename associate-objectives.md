@@ -61,7 +61,9 @@ title: UiPath Exam Objectives
                     <li class="card-text">Explain the significance of connecting an automation project to the version control solution</li>
                 </ul>
 			<p class="text-center">
+			<a href="/study-guide-uipath.html">
 			<img src="/assets/uipath-certification-study-guide.jpg" class="img-fluid img-thumbnail mx-auto" style="width:75%" alt="uipath certified associate badge">	
+			</a>
 			</p>
 				
             </div>
