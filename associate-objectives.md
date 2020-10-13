@@ -7,7 +7,7 @@ title: UiPath Exam Objectives
 
 
 <div class="col-12 mb-2 d-flex align-items-stretch">
-   <div class="card mb-3" >
+   <div class="card mb-2" >
       <div class="row g-0">
          <div class="d-none d-sm-none d-lg-block col-lg-4">
 		 <p class="card-text text-center">
