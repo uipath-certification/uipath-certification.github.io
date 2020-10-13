@@ -9,7 +9,7 @@ title: UiPath Exam Objectives
 <div class="col-12 mb-2 d-flex align-items-stretch">
    <div class="card mb-2" >
       <div class="row g-0">
-         <div class="bg-light d-none d-sm-none d-lg-block col-lg-4">
+         <div class="bg-secondary d-none d-sm-none d-lg-block col-lg-4">
 		 <p class="card-text text-center">
             <img src="/assets/mad.jpg"  alt="mad man" class="img-fluid img-thumbnail">
          </p>
