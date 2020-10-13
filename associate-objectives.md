@@ -9,10 +9,10 @@ title: UiPath Exam Objectives
 <div class="col-12 mb-2 d-flex align-items-stretch">
    <div class="card mb-3" >
       <div class="row g-0">
-         <div class=".d-none. d-sm-none col-md-4">
+         <div class="d-none. d-sm-none col-md-4">
             <img src="/assets/mad.jpg"  alt="mad man">
          </div>
-         <div class="col=12 col-sm-12 col-md-8">
+         <div class="col-12 col-sm-12 col-md-8">
             <div class="card-body">
                <h4>Strategize around the UiPath Exam Objectives</h4>
                <p class="card-text">Only a mad man would tacle the UiPath Certification Exam without a solid understanding of the topics being tested.</p>
