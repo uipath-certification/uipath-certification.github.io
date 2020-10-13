@@ -60,6 +60,9 @@ title: UiPath Exam Objectives
                     <li class="card-text">Identify and describe how to use Manage Packages</li>
                     <li class="card-text">Explain the significance of connecting an automation project to the version control solution</li>
                 </ul>
+				
+			<img src="/assets/uipath-certification-study-guide.jpg" class="img-fluid img-thumbnail mx-auto" style="width:33%" alt="uipath certified associate badge">	
+				
             </div>
         </div>
     </div>
