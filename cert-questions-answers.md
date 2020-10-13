@@ -29,7 +29,7 @@ title: UiPath Certification Questions and Answers
 			<p class="card-text">This is just a quick five questions. Probably below the difficulty of the UiPath Associate exam. 
 			
 			</p><p class="card-text">But it does set the groundwork for making sure you understand concepts like camel case, kebab case and snake case.</p>
-            <p class="text-center mt-auto"><a href="http://uipath.rpacertified.com/2020/10/12/variable-naming-conventions-test.html" class="text-center  btn btn-outline-primary btn-sm">Studio Terminology</a></p>
+            <p class="text-center mt-auto"><a href="http://uipath.rpacertified.com/2020/10/12/variable-naming-conventions-test.html" class="text-center  btn btn-outline-primary btn-sm">Studio Terminology Test</a></p>
 			
          </div>
       </div>
@@ -43,7 +43,7 @@ title: UiPath Certification Questions and Answers
 		 <div class="alert alert-primary text-center" role="alert">Difficulty: 4
 </div>
 			<p class="card-text">You are bound to get one or two questions on the exam about how to name an method vs a variable vs an I/O property. Easy marks if you know the rules. </p><p class="card-text">A difficult choice to make if you have to guess.</p>
-            <p class="text-center mt-auto"><a href="http://uipath.rpacertified.com/2020/10/12/kebab-camel-pascal-case-quiz.html" class="text-center  btn btn-outline-primary btn-sm">Naming Conventions</a></p>
+            <p class="text-center mt-auto"><a href="http://uipath.rpacertified.com/2020/10/12/kebab-camel-pascal-case-quiz.html" class="text-center  btn btn-outline-primary btn-sm">Naming Conventions Exam</a></p>
 			
          </div>
       </div>
@@ -58,7 +58,7 @@ title: UiPath Certification Questions and Answers
 </div>
 			<p class="card-text">When should you use a sequence project and when should you pull out a flow chart? </p>
 			<p class="card-text">This set of UiPath certification questions and answers tests you on many of the small but significant differences between sequence vs workflow projects in Studio.</p>
-            <p class="text-center mt-auto"><a href="http://uipath.rpacertified.com/2020/10/12/workflow-sequences-flowcharts-quiz.html" class="text-center  btn btn-outline-primary btn-sm">Worflow vs Sequence</a></p>
+            <p class="text-center mt-auto"><a href="http://uipath.rpacertified.com/2020/10/12/workflow-sequences-flowcharts-quiz.html" class="text-center  btn btn-outline-primary btn-sm">Worflow vs Sequence Questions</a></p>
 			
          </div>
       </div>
