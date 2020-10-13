@@ -48,7 +48,7 @@ title: UiPath Exam Objectives
 
 <div class="row">
     <div class="col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
-        <div class="card m-2">
+        <div class="card ">
             <div class="card-header">
                 UiPath Studio
             </div>
@@ -64,7 +64,7 @@ title: UiPath Exam Objectives
         </div>
     </div>
     <div class="col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
-        <div class="card m-2">
+        <div class="card ">
             <div class="card-header">
                 UiPath Programming Basics
             </div>
@@ -82,7 +82,7 @@ title: UiPath Exam Objectives
     </div>
 
     <div class="col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
-        <div class="card m-2">
+        <div class="card ">
             <div class="card-header">
                 Static and Dynamic Selectors
             </div>
@@ -101,7 +101,7 @@ title: UiPath Exam Objectives
     </div>
 
     <div class="col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
-        <div class="card m-2">
+        <div class="card ">
             <div class="card-header">
                 Iterative and Conditional Logic
             </div>
@@ -118,7 +118,7 @@ title: UiPath Exam Objectives
     </div>
 
     <div class="col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
-        <div class="card m-2">
+        <div class="card ">
             <div class="card-header">
                 Strings, Structured Data and DataTables
             </div>
@@ -134,7 +134,7 @@ title: UiPath Exam Objectives
     </div>
  
     <div class="col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
-        <div class="card m-2">
+        <div class="card ">
             <div class="card-header">
                 Robotic Process Automation Fundamentals
             </div>
@@ -151,7 +151,7 @@ title: UiPath Exam Objectives
     </div>
 
     <div class="col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
-        <div class="card m-2">
+        <div class="card ">
             <div class="card-header">
                 UiPath Orchestrator
             </div>
