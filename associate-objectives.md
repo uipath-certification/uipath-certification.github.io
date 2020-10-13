@@ -198,7 +198,7 @@ title: UiPath Exam Objectives
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">Your UiPath Study Plan</h2>
-<p class="text-center"> We have a <a href="/study-guide-uipath.html">study plan</a> for you to follow, and a comprehensive set of <a href="/cert-questions-answers.html">UiPath Certification questions and answers</a> to help test your skills. Check them out!</p>
+<p > We have a <a href="/study-guide-uipath.html">study plan</a> for you to follow, and a comprehensive set of <a href="/cert-questions-answers.html">UiPath Certification questions and answers</a> to help test your skills. Check them out!</p>
 			<p class="text-center">
 			<a href="/study-guide-uipath.html">
 			<img src="/assets/uipath-certification-study-guide.jpg" class="img-fluid img-thumbnail mx-auto" style="width:75%" alt="uipath certified associate badge">	
