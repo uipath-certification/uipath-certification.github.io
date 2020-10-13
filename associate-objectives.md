@@ -15,7 +15,7 @@ title: UiPath Exam Objectives
             </div>
         </div>
     </div>
-    <div class="col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
+    <div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
         <div class="card">
             <div class="card-header">Read the Objectives</div>
             <img src="/assets/read.jpg" class="card-img-top" alt="uipath certification" />
@@ -24,7 +24,7 @@ title: UiPath Exam Objectives
             </div>
         </div>
     </div>
-    <div class="col-6 col-xs-6 col-sm-6 col-md-4 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
+    <div class="col-6 col-xs-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
         <div class="card">
             <div class="card-header">Focus Your Study</div>
             <img src="/assets/focus.jpg" class="card-img-top" alt="uipath certification" />
@@ -34,7 +34,7 @@ title: UiPath Exam Objectives
         </div>
     </div>
 
-    <div class="col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
+    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
         <div class="card">
             <div class="card-header">Persevere</div>
             <img src="/assets/dumbell.jpg" class="card-img-top" alt="uipath certification" />
