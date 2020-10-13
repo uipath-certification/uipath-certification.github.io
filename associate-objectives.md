@@ -65,7 +65,7 @@ title: UiPath Exam Objectives
 			<img src="/assets/uipath-certification-study-guide.jpg" class="img-fluid img-thumbnail mx-auto" style="width:75%" alt="uipath certified associate badge">	
 			</a>
 			</p>
-				
+				 
             </div>
         </div>
     </div>
