@@ -4,25 +4,25 @@ title: UiPath Exam Objectives
 ---
 
 <div class="row">
-    <div class="col-12 mb-2 d-flex align-items-stretch">
-	
-	
-	<div class="card mb-3" style="max-width: 540px;">
-  <div class="row g-0">
-    <div class="col-md-4">
-      <img src="/assets/mad.jpg"  alt="mad man">
-    </div>
-    <div class="col-md-8">
-      <div class="card-body">
-        <h4>Strategize around the UiPath Exam Objectives</h4>
-        <p class="card-text">Only a mad man would tacle the UiPath Certification Exam without a solid understanding of the topics being tested.</p>
-		        <p class="card-text">Here's how to use the UiPath Associate exam objectives to your advantage. They're the key to passing the exam on the first try.</p>
-        <p class="card-text"><small class="text-muted">UiPath Associate exam objectives are listed below.</small></p>
+
+
+<div class="col-12 mb-2 d-flex align-items-stretch">
+   <div class="card mb-3" style="max-width: 540px;">
+      <div class="row g-0">
+         <div class="col-md-4">
+            <img src="/assets/mad.jpg"  alt="mad man">
+         </div>
+         <div class="col-md-8">
+            <div class="card-body">
+               <h4>Strategize around the UiPath Exam Objectives</h4>
+               <p class="card-text">Only a mad man would tacle the UiPath Certification Exam without a solid understanding of the topics being tested.</p>
+               <p class="card-text">Here's how to use the UiPath Associate exam objectives to your advantage. They're the key to passing the exam on the first try.</p>
+               <p class="card-text"><small class="text-muted">UiPath Associate exam objectives are listed below.</small></p>
+            </div>
+         </div>
       </div>
-    </div>
-  </div>
+   </div>
 </div>
-	</div>
 	
 	
 
