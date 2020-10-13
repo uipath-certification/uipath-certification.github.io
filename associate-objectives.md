@@ -42,12 +42,15 @@ title: UiPath Exam Objectives
     </div>
   </div>
   <div class=" col-12   d-flex align-items-stretch">
-    <div class="card" >
+    <div class="card " >
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="...">
       <div class="card-body">
         <p class="card-text">If you are interested in taking the UiPath Associate exam, the first thing to do is go over the UiPath exam objectives and figure out where you are weak and where you are strong. Then, focus your studies accordingly.</p>
 
-        <div class="card m-2">
+		
+		
+		
+        <div class="card m-2 col-6">
           <div class="card-header">
             UiPath Fundamentals
           </div>
@@ -62,7 +65,11 @@ title: UiPath Exam Objectives
             </ul>
           </div>
         </div>
-        <div class="card m-2">
+		
+		
+		
+		
+        <div class="card m-2 col-6">
           <div class="card-header">
             UiPath Studio
           </div>
