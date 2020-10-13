@@ -34,7 +34,7 @@ title: UiPath Exam Objectives
             <div class="card-header">Read the Objectives</div>
             <img src="/assets/read.jpg" class="card-img-top" alt="uipath certification" />
             <div class="card-body d-flex flex-column">
-                <p class="card-text">Before you even being to study, make sure you review the UiPath Exam objectives.</p>
+                <p class="card-text">Before you even begin to study, make sure you review the UiPath Exam objectives.</p>
             </div>
         </div>
     </div>
