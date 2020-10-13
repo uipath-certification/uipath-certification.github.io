@@ -50,7 +50,7 @@ title: UiPath Exam Objectives
     <div class="col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card ">
             <div class="card-header">
-                UiPath Studio
+                UiPath Studio Objective
             </div>
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="..." />
             <div class="card-body">
