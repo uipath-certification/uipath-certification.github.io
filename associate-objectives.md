@@ -17,7 +17,7 @@ title: UiPath Exam Objectives
          <div class="col-12 col-sm-12 col-lg-8">
             <div class="card-body">
                <h4>Strategize around the UiPath Exam Objectives</h4>
-               <p class="card-text">Only a mad man would tacle the UiPath Certification Exam without a solid understanding of the topics being tested.</p>
+               <p class="card-text">Only a mad man would tackle the UiPath Certification Exam without a solid understanding of the topics being tested.</p>
                <p class="card-text">Here's how to use the UiPath Associate exam objectives to your advantage. They're the key to passing the exam on the first try.</p>
                <p class="card-text"><small class="text-muted">UiPath Associate exam objectives are listed below.</small></p>
             </div>
@@ -42,7 +42,7 @@ title: UiPath Exam Objectives
             <div class="card-header">Focus Your Study</div>
             <img src="/assets/focus.jpg" class="card-img-top" alt="uipath certification" />
             <div class="card-body d-flex flex-column">
-                <p class="card-text">Review the UiPath Exam objectives before you study a particular topic. Keep your exam studies focussed.</p>
+                <p class="card-text">Review the UiPath Exam objectives before you study a particular topic. Keep your exam studies focused.</p>
             </div>
         </div>
     </div>
@@ -162,7 +162,7 @@ title: UiPath Exam Objectives
                 <h2 class="card-title">UiPath Robotic Automation Concepts, Applications and Techniques</h2>
                 <ul>
                     <li class="card-text">Identify and explain how to automate e-mail and how email automation is helpful</li>
-                    <li class="card-text">Identify and describe Microsoft Excel and datatable functions, and how Excel activities are used for data manipulation</li>
+                    <li class="card-text">Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation</li>
                     <li class="card-text">Describe the functions used to extract data from a .pdf file; for example, using OCR</li>
                 </ul>
             </div>
