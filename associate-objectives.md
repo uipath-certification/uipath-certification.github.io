@@ -8,6 +8,7 @@ title: UiPath Exam Objectives
 
 <div class="col-12 mb-2 d-flex align-items-stretch">
    <div class="card mb-2" >
+   <div class="card-header">UiPath Certification Exam Objectives</div>
       <div class="row g-0">
          <div class="bg-secondary bg-gradient d-none d-sm-none d-lg-block col-lg-4">
 		 <p class="card-text text-center">
