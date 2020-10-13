@@ -32,7 +32,9 @@ title: UiPath Exam Objectives
          </div>
       </div>
    </div>
-   
+ 
+ </div>
+ <div class="row"> 
    
    
    
