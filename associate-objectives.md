@@ -10,8 +10,10 @@ title: UiPath Exam Objectives
    <div class="card mb-3" >
       <div class="row g-0">
          <div class="d-none d-sm-none d-lg-block col-lg-4">
+		 <p class="card-text text-center">
             <img src="/assets/mad.jpg"  alt="mad man" class="img-fluid img-thumbnail">
-         </div>
+         </p>
+		 </div>
          <div class="col-12 col-sm-12 col-lg-8">
             <div class="card-body">
                <h4>Strategize around the UiPath Exam Objectives</h4>
