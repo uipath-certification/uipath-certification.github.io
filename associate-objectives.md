@@ -41,7 +41,7 @@ title: UiPath Exam Objectives
       </div>
     </div>
   </div>
-  <div class=" col-12   d-flex align-items-stretch">
+
 
         <div class="card m-2 col-6">
           <div class="card-header">
@@ -57,7 +57,7 @@ title: UiPath Exam Objectives
             </ul>
           </div>
         </div>
-        <div class="card m-2">
+        <div class="card m-2 col-6">
           <div class="card-header">
             UiPath Programming Basics
           </div>
@@ -145,5 +145,5 @@ title: UiPath Exam Objectives
         </div>
 
 
-  </div>
+
 </div>
