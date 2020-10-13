@@ -65,7 +65,7 @@ title: UiPath Exam Objectives
             <div class="card-header">
                 UiPath Studio Objective
             </div>
-            <img src="/assets/background-small4.jpg" class="card-img-top" alt="..." />
+            <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">UiPath Studio Overview</h2>
                 <ul>
@@ -87,7 +87,7 @@ title: UiPath Exam Objectives
             <div class="card-header">
                 UiPath Programming Basics
             </div>
-            <img src="/assets/background-small4.jpg" class="card-img-top" alt="..." />
+            <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">UiPath Studio Basics – Variables and Arguments</h2>
                 <ul>
@@ -105,7 +105,7 @@ title: UiPath Exam Objectives
             <div class="card-header">
                 Static and Dynamic Selectors
             </div>
-            <img src="/assets/background-small4.jpg" class="card-img-top" alt="..." />
+            <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">UiPath Studio and Selectors</h2>
                 <ul>
@@ -124,7 +124,7 @@ title: UiPath Exam Objectives
             <div class="card-header">
                 Iterative and Conditional Logic
             </div>
-            <img src="/assets/background-small4.jpg" class="card-img-top" alt="..." />
+            <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">UiPath Studio Programming Concepts – Flow Control</h2>
                 <ul>
@@ -141,7 +141,7 @@ title: UiPath Exam Objectives
             <div class="card-header">
                 Strings, Structured Data and DataTables
             </div>
-            <img src="/assets/background-small4.jpg" class="card-img-top" alt="..." />
+            <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">Advanced UiPath Studio – Data Manipulation</h2>
                 <ul>
@@ -157,7 +157,7 @@ title: UiPath Exam Objectives
             <div class="card-header">
                 Robotic Process Automation Fundamentals
             </div>
-            <img src="/assets/background-small4.jpg" class="card-img-top" alt="..." />
+            <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">UiPath Robotic Automation Concepts, Applications and Techniques</h2>
                 <ul>
@@ -174,7 +174,7 @@ title: UiPath Exam Objectives
             <div class="card-header">
                 UiPath Orchestrator
             </div>
-            <img src="/assets/background-small4.jpg" class="card-img-top" alt="..." />
+            <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">An overview of UiPath Orchestrator</h2>
                 <ul>
