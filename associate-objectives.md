@@ -42,33 +42,7 @@ title: UiPath Exam Objectives
     </div>
   </div>
   <div class=" col-12   d-flex align-items-stretch">
-    <div class="card " >
-      <img src="/assets/background-small2.jpg" class="card-img-top" alt="...">
-      <div class="card-body">
-        <p class="card-text">If you are interested in taking the UiPath Associate exam, the first thing to do is go over the UiPath exam objectives and figure out where you are weak and where you are strong. Then, focus your studies accordingly.</p>
 
-		
-		
-		
-        <div class="card m-2 col-6">
-          <div class="card-header">
-            UiPath Fundamentals
-          </div>
-          <img src="/assets/background-small4.jpg" class="card-img-top" alt="...">
-          <div class="card-body">
-            <h2 class="card-title">Robotic Process Automation (UiPath and RPA) Fundamentals</h2>
-            <ul>
-              <li class="card-text">Differentiate between the UiPath Studio Community Edition and the Enterprise Edition</li>
-              <li class="card-text">Identify sample use cases that describes the processes and workloads that can be automated</li>
-              <li class="card-text">Identify and describe the different types of robots, i.e., attended versus unattended robots</li>
-              <li class="card-text">Explain the functionality of the various UiPath products, i.e., Studio, Robots, and Orchestrator</li>
-            </ul>
-          </div>
-        </div>
-		
-		
-		
-		
         <div class="card m-2 col-6">
           <div class="card-header">
             UiPath Studio
@@ -169,7 +143,7 @@ title: UiPath Exam Objectives
             </ul>
           </div>
         </div>
-      </div>
-    </div>
+
+
   </div>
 </div>
