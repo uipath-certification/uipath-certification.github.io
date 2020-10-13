@@ -17,7 +17,6 @@ window.addEventListener('load', function () {
  
  try {
   exam = new Exam(questionBank);
-  //console.log("Exam created without parsing the exam!");
  }
  catch(err) {
    console.log("Error creating exam! " + err.message);
