@@ -61,6 +61,28 @@ title: UiPath Exam Objectives
 
 
 <div class="row">
+	
+	
+	
+	
+    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
+        <div class="card ">
+            <div class="card-header">
+                RPA Fundamentals Exam Objective
+            </div>
+            <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
+            <div class="card-body">
+                <h2 class="card-title">RPA Robotic Process Automation Fundamentals</h2>
+                <ul>
+                    <li class="card-text">Identify and describe the different types of robots, i.e., attended versus unattended robots</li>
+                    <li class="card-text">Explain the functionality of the various UiPath products, i.e., Studio, Robots, and Orchestrator</li>
+                    <li class="card-text">Explain the significance of connecting an automation project to the version control solution</li>
+		    <li class="card-text">Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition</li>
+                </ul>
+				 
+            </div>
+        </div>
+    </div>
 
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card ">
