@@ -65,6 +65,22 @@ title: UiPath Certification Questions and Answers
       </div>
    </div>
    
+      <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
+      <div class="card" >
+         <div class="card-header">Workflows, Sequences and Projects<a id="twitter-uipath"></a></div>
+         <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
+         <div class="card-body d-flex flex-column">
+		 <div class="alert alert-danger text-center" role="alert">Difficulty: 7
+</div>
+			<p class="card-text">You will get lots of Associate Exam questions on the difference between attended and unattended UiPath robots.</p>
+			<p class="card-text">There are a few key differences with regards to security and complexity that you might not be familiar with.</p>
+			<p class="card-text">Make sure you are solid on this exam objective before you sit the UiPath Associate Exam.</p>
+            <p class="text-center mt-auto"><a href="/2020/01/01/attended-vs-unattened-quiz.html" class="text-center  btn btn-outline-primary btn-sm">Worflow vs Sequence Questions</a></p>
+			
+         </div>
+      </div>
+   </div>
+   
    
    
 </div>
