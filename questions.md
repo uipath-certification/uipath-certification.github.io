@@ -171,7 +171,7 @@ var questions = [
          "3.0", "3.1"
       ]},	
 
-	  {id:15, query:"Which of the following would be an example of a camel case naming convention?",  "answer":"/2020/10/10/camelcase-naming-convention.html", "difficulty": "4",
+	  {id:15, query:"Which of the following four is an example of a camel case naming convention?",  "answer":"/2020/10/10/camelcase-naming-convention.html", "difficulty": "4",
 			options:[
 			{text:"uipathNamingConventions", correct:true, selected:false}, 
 			{text:"UiPath-Naming-Conventions", correct:false, selected:false},
@@ -302,62 +302,351 @@ var questions = [
 	  
 
 	  
-	  	   {id:99, query:"query",  "answer":"answer", "difficulty": "5",
+	  {id:26, query:"A expense report submission process, in which the first step requires the user to log into the reporting system, must attach scanned image receipts and PDF files as part of the expense. This activity lends itself best to which of the following implementations:",  "answer":"/2020/11/11/unattended-robots-when-to-use.html", "difficulty": "6",
 			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
+			{text:"A process that uses a single unattended robot", correct:false, selected:false}, 
+			{text:"A process that uses a single attended robot", correct:true, selected:false},
+			{text:"A process that uses both a single attended robot and a single unattended robot", correct:false, selected:false},
+			{text:"This process does not lend itself to automation", correct:false, selected:false}
 			],
       "objectives":[
-         "3.0", "3.0","3.0"
+         "1.0", "1.2",
       ]},
 	  
-	  	   {id:99, query:"query",  "answer":"answer", "difficulty": "5",
+	  	   {id:27, query:"In contrast with attended robots, unattended robots are best used with:",  "answer":"/2020/11/11/unattended-robots-use-case.html", "difficulty": "6",
 			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
+			{text:"simple, one-off tasks", correct:false, selected:false}, 
+			{text:"complex, one-off tasks", correct:false, selected:false},
+			{text:"simple, repetative tasks", correct:false, selected:false},
+			{text:"complex, repetative tasks", correct:true, selected:false}
 			],
       "objectives":[
-         "3.0", "3.0","3.0"
+         "1.0", "1.2",
       ]},
 	  
-	  	   {id:99, query:"query",  "answer":"answer", "difficulty": "5",
+	  	   {id:28, query:"Which of the following statements are true?",  "answer":"/2020/11/11/uipath-robot-security-isoloation.html", "difficulty": "6",
 			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
+			{text:"Attended automations cannot guarantee security isolation between the robot and the user", correct:true, selected:false}, 
+			{text:"Unattended automations cannot guarantee security isolation between the robot and the user", correct:false, selected:false},
+			{text:"Attended automations always require a human present", correct:true, selected:false},
+			{text:"Unattended automations always require a human present", correct:false, selected:false}
 			],
       "objectives":[
-         "3.0", "3.0","3.0"
+         "1.0", "1.2",
       ]},
 	  
-	  	   {id:99, query:"query",  "answer":"answer", "difficulty": "5",
+	  	   {id:29, query:"A robot that is tied to a specific machine and not allowed to run on any machines other than the one it is tied to in UiPath Orchestrator is known as:",  "answer":"/2020/11/11/standard-robots-unattended-uipath.html", "difficulty": "8",
 			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
+			{text:"An unattended robot", correct:false, selected:false}, 
+			{text:"A standard robot", correct:true, selected:false},
+			{text:"A sticky robot", correct:false, selected:false},
+			{text:"A floating robot", correct:false, selected:false}
 			],
       "objectives":[
-         "3.0", "3.0","3.0"
+         "1.0", "1.2",
       ]},
 	  
-	  	   {id:99, query:"query",  "answer":"answer", "difficulty": "5",
+	  {id:30, query:"A robot that can be used by mutiple users and run on multiple workstations without being tied to a specific machine is known as a(n):",  "answer":"/2020/11/11/floating-robots-unattended.html", "difficulty": "8",
 			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
+			{text:"attended robot", correct:false, selected:false}, 
+			{text:"unattended robot", correct:false, selected:false},
+			{text:"floating robot", correct:true, selected:false},
+			{text:"standard robot", correct:false, selected:false}
 			],
       "objectives":[
-         "3.0", "3.0","3.0"
+           "1.0", "1.2",
       ]},
 	  
+	  {id:31, query:"Attended robots are best used with:",  "answer":"/2020/11/11/attend-robot-use-cases.html", "difficulty": "5",
+			options:[
+			{text:"small, continuous automations", correct:false, selected:false}, 
+			{text:"small, fragmented automations", correct:true, selected:false},
+			{text:"large, fragmented automations", correct:false, selected:false},
+			{text:"large, continuous automations", correct:false, selected:false}
+			],
+      "objectives":[
+         "1.0", "1.2",
+      ]},
+	  
+	  
+	  {id:32, query:"Which of the following statements are true about UiPath Studio Community Edition (CE)?",  "answer":"/2020/11/11/uipath-studio-updates.html", "difficulty": "5",
+			options:[
+			{text:"UiPath Studio CE is limited to a single attended robot but an unlimited number of unattended robots", correct:false, selected:false}, 
+			{text:"UiPath Studio CE is limited to a single unattended robot but an unlimited number of attended robots", correct:false, selected:false},
+			{text:"UiPath Studio CE cannot be installed in a top security environment with in Internet access", correct:true, selected:false},
+			{text:"UiPath Studio CE updates cannot be turned off", correct:true, selected:false}
+			],
+      "objectives":[
+         "1.0", "1.4",
+      ]},
 
+
+	  {id:33, query:"The UiPath Enterprise Server:",  "answer":"/2020/11/11/uipath-enterprise-server-saas.html", "difficulty": "5",
+			options:[
+			{text:"Is accessed through the cloud", correct:false, selected:false}, 
+			{text:"Is installed on a computer by the client", correct:true, selected:false},
+			{text:"Is not compatible with UiPath Studio Community Edition", correct:false, selected:false},
+			{text:"Is not compatible with UiPath Studio Enterprise trial editions", correct:true, selected:false}
+			],
+      "objectives":[
+         "1.0", "1.4",
+      ]},
+
+
+
+	  {id:34, query:"What is the standard duration of a UiPath Studio Community Edition trial?",  "answer":"/2020/11/11/uipath-studio-trail-license.html", "difficulty": "5",
+			options:[
+			{text:"30 days", correct:false, selected:false}, 
+			{text:"60 days", correct:false, selected:false},
+			{text:"90 days", correct:false, selected:false},
+			{text:"Unlimited", correct:true, selected:false}
+			],
+      "objectives":[
+         "1.0", "1.4",
+      ]},
+
+
+	  {id:35, query:"Which of the following is true about programs written in UiPath Stuido Community Edition?",  "answer":"/2020/11/11/uipath-studio-programs.html", "difficulty": "6",
+			options:[
+			{text:"They cannot use libraries created by UiPath Stuido Enterprise Edition", correct:false, selected:false}, 
+			{text:"Programs created in UiPath Stuido Community Edition expire if the 60 day trial is not extended", correct:false, selected:false},
+			{text:"Programs created in UiPath Studio Community Edition cannot pass arguments between projects", correct:false, selected:false},
+			{text:"Programs creating in UiPath Studio Community Edition are no different than programs created in the Enterprise Edition", correct:true, selected:false}
+			],
+      "objectives":[
+         "1.0", "1.4",
+      ]},
+
+	  {id:36, query:"Which of the following is true about UiPath Studio?",  "answer":"/2020/11/11/uipath-studio-enterprise-vs-community.html", "difficulty": "7",
+			options:[
+			{text:"The Community Edition always updates if a new stable release is available", correct:true, selected:false}, 
+			{text:"The Community Edition always updates if a new preview release is available", correct:true, selected:false},
+			{text:"The Enterprise Edition always updates if a new stable release is available", correct:false, selected:false},
+			{text:"The Enterprise Edition always updates if a new preview release is available", correct:false, selected:false}
+			],
+      "objectives":[
+         "1.0", "1.4",
+      ]},
+
+	  {id:37, query:"What is the standard duration of a UiPath Studio Enterprise Edition trial?",  "answer":"/2020/11/11/UiPath-Enterprise-trial.html", "difficulty": "4",
+			options:[
+			{text:"30 days", correct:false, selected:false}, 
+			{text:"60 days", correct:true, selected:false},
+			{text:"90 days", correct:false, selected:false},
+			{text:"Unlimited", correct:false, selected:false}
+			],
+      "objectives":[
+         "1.0", "1.4",
+      ]},
+
+	  {id:38, query:"Which of the following is true about UiPath Stuido Community Edition (CE)?",  "answer":"/2020/11/11/Studio-Community-Orchestrator.html", "difficulty": "7",
+			options:[
+			{text:"UiPath Studio CE can only connect to UiPath Orchestrator CE", correct:true, selected:false}, 
+			{text:"UiPath Studio CE can connect to both UiPath Orchestrator CE and Enterprise", correct:false, selected:false},
+			{text:"UiPath Studio CE does not have access to AI Computer Vision", correct:false, selected:false},
+			{text:"UiPath Studio CE does have access to AI Computer Vision", correct:true, selected:false}
+			],
+      "objectives":[
+         "1.0", "1.4",
+      ]},
+
+	  {id:39, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},
+
+	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},
+
+	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},
+
+	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},
+
+	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},
+
+	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},
+
+	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},
+
+	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},
+
+	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},
+
+	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},
+
+	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},
+
+	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},
+
+	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},
+
+	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},
+
+	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},
+
+	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},
+
+	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},
+
+	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "3.0", "3.0"
+      ]},	  
 
 	  
 	];
