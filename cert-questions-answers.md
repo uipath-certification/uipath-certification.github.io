@@ -3,6 +3,8 @@ layout: default
 title: UiPath Certification Questions and Answers
 ---
 <div class="row">
+   
+   
 <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
    <div class="card" >
       <div class="card-header">UiPath Test Questions<a  ></a></div>
@@ -17,6 +19,9 @@ title: UiPath Certification Questions and Answers
       </div>
    </div>
 </div>
+   
+   
+   
 <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
    <div class="card" >
       <div class="card-header">Variable Naming Terminology Exam<a  ></a></div>
@@ -30,6 +35,9 @@ title: UiPath Certification Questions and Answers
       </div>
    </div>
 </div>
+
+
+
 <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
    <div class="card" >
       <div class="card-header">UiPath Naming Conventions<a  ></a></div>
@@ -42,6 +50,9 @@ title: UiPath Certification Questions and Answers
       </div>
    </div>
 </div>
+
+
+
 <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
    <div class="card" >
       <div class="card-header">Workflows, Sequences and Projects<a  ></a></div>
@@ -54,6 +65,12 @@ title: UiPath Certification Questions and Answers
          </div>
       </div>
    </div>
+</div>
+   
+   
+   
+   
+   
    <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
       <div class="card" >
          <div class="card-header">UiPath Unattened vs Attended Robots Quiz<a  ></a></div>
@@ -67,6 +84,9 @@ title: UiPath Certification Questions and Answers
          </div>
       </div>
    </div>
+   
+   
+   
    <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
       <div class="card" >
          <div class="card-header">Community vs Enterprise Studio Editions<a  ></a></div>
@@ -80,4 +100,7 @@ title: UiPath Certification Questions and Answers
          </div>
       </div>
    </div>
+   
+   
+   
 </div>
