@@ -1,0 +1,21 @@
+---
+layout: answered-question
+author: Serge
+title: UiPath Studio Community Edition Trial
+blurb: How long does a UiPath Studio Community Edition trial last?
+difficulty: 4
+objective: 1.4 Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition
+---
+
+Question: What is the standard duration of a UiPath Studio Enterprise Edition trial?
+
+- [ ] &nbsp;  30 days
+- [ ] &nbsp;  60 days
+- [ ] &nbsp;  90 days
+- [x] &nbsp;  Unlimited
+
+## Answer
+
+Option b is correct.
+
+UiPath provides a 60 day trial edition for UiPath Studio Enterprise. 
