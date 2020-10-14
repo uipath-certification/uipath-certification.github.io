@@ -92,7 +92,7 @@ title: UiPath Certification
 	</div>
  </div>
  
- 	      {% for post in site.posts %}
+ 	      {% for post in site.posts limit:6%}
 	       <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
                <div class="card" >
                   <div class="card-header">
