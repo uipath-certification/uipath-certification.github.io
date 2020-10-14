@@ -74,6 +74,7 @@ title: UiPath Exam Objectives
                     <li class="card-text">Understand and explain the automation debug functions and usage such as Breakpoints</li>
                     <li class="card-text">Identify and describe how to use Manage Packages</li>
                     <li class="card-text">Explain the significance of connecting an automation project to the version control solution</li>
+		    <li class="card-text">Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition</li>
                 </ul>
 			<p class="text-center">
 			<a href="/study-guide-uipath.html">
