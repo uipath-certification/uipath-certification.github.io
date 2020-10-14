@@ -9,9 +9,9 @@ objective: 1.1 Identify and describe the different types of robots, i.e., attend
 
 Question: A expense report submission process, in which the first step requires the user to log into the reporting system, must attach scanned image receipts and PDF files as part of the expense. This activity lends itself best to which of the following implementations:
 
-- [ ] &nbsp;  An process that uses a single unattendeed robot
-- [x] &nbsp;  An process that uses a single attendeed robot
-- [ ] &nbsp;  An process that uses both a single attendeed robot and a single unattended robot
+- [ ] &nbsp;  A process that uses a single unattendeed robot
+- [x] &nbsp;  A process that uses a single attendeed robot
+- [ ] &nbsp;  A process that uses both a single attendeed robot and a single unattended robot
 - [ ] &nbsp;  This process doesn not lend itself to automation
 
 ## Answer
