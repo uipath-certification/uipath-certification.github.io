@@ -74,9 +74,9 @@ title: UiPath Exam Objectives
             <div class="card-body">
                 <h2 class="card-title">RPA Robotic Process Automation Fundamentals</h2>
                 <ul>
+		    <li class="card-text">Identify sample use cases that describes the processes and workloads that can be automated</li>
                     <li class="card-text">Identify and describe the different types of robots, i.e., attended versus unattended robots</li>
                     <li class="card-text">Explain the functionality of the various UiPath products, i.e., Studio, Robots, and Orchestrator</li>
-                    <li class="card-text">Explain the significance of connecting an automation project to the version control solution</li>
 		    <li class="card-text">Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition</li>
                 </ul>
 				 
@@ -93,10 +93,9 @@ title: UiPath Exam Objectives
             <div class="card-body">
                 <h2 class="card-title">UiPath Studio Overview</h2>
                 <ul>
-                    <li class="card-text">Understand and explain the automation debug functions and usage such as Breakpoints</li>
+                    <li class="card-text">Understand and explain the automation debug functions and usage such as breakpoints</li>
                     <li class="card-text">Identify and describe how to use Manage Packages</li>
                     <li class="card-text">Explain the significance of connecting an automation project to the version control solution</li>
-		    <li class="card-text">Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition</li>
                 </ul>
 		<!--
 			<p class="text-center">
