@@ -26,4 +26,6 @@ The community edition provides access to 2 attended robots and 1 unattended robo
 
 It's unlikely the Associate exam will ask about number of robots allowed by the license, so that's a bit of dirty pool. Even knowledge of automatic updates or the need for an online activiation is pretty 'down in the woods.' But you will be given a question or two on UiPath Studio CE, so be prepared.
 
+You can learn [more details](https://docs.uipath.com/installation-and-upgrade/docs/studio-update-studio) in Studio updates from the UiPath Docs.
+
 This question hits the UiPath Associate Exam Objective 1.4, Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition.
