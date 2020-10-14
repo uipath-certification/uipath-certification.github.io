@@ -10,9 +10,9 @@ title: UiPath Certification Questions and Answers
          <div class="card-header">UiPath Test Questions<a id="twitter-uipath"></a></div>
          <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
          <div class="card-body d-flex flex-column">
-		 <div class="alert alert-secondary text-center" role="alert">Difficulty: 0
-</div>
-            <p class="card-text">Hundreds of UiPath Certification questions have been queued up to be published this week!</p>
+		 <div class="alert alert-secondary text-center" role="alert">UiPath Mock Exams</div>
+            <p class="card-text">This page contains a variety of UiPath Practice exams to test you on a variety of UiPath Exam Objectives. </p>
+            <p class="card-text">Pick a mock exam and test how ready you are to take the UiPath Certification Exam.</p>
 			<img src="/assets/uipath-certified-associate-badge-sm.jpg" class="img-fluid img-thumbnail mx-auto d-block" alt="uipath certified associate badge">
 			 <p class="card-text text-center mt-2">Get UiPath Certified fast!</p>
          </div>
