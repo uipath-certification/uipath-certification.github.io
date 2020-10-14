@@ -58,14 +58,14 @@ title: UiPath Certification Questions and Answers
       <div class="card-header">Workflows, Sequences and Projects<a  ></a></div>
       <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
-         <div class="alert alert-success text-center" role="alert">
+         <div class="alert alert-success text-center" role="alert">Difficulty: 5</div>
             <p class="card-text">When should you use a sequence project and when should you pull out a flow chart? </p>
             <p class="card-text">This set of UiPath certification questions and answers tests you on many of the small but significant differences between sequence vs workflow projects in Studio.</p>
             <p class="text-center mt-auto"><a href="http://uipath.rpacertified.com/2020/10/12/workflow-sequences-flowcharts-quiz.html" class="text-center  btn btn-outline-primary btn-sm">Worflow vs Sequence Questions</a></p>
          </div>
       </div>
    </div>
-</div>
+
    
    
    
