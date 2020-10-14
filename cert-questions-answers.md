@@ -64,7 +64,7 @@ title: UiPath Certification Questions and Answers
   
   <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">UiPath Unattened vs Attended Robots Quiz<a  ></a></div>
+      <div class="card-header">Unattened vs Attended Exam<a  ></a></div>
       <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <div class="alert alert-danger text-center" role="alert">Difficulty: 7</div>
@@ -79,7 +79,7 @@ title: UiPath Certification Questions and Answers
   
   <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">Community vs Enterprise Studio Editions<a  ></a></div>
+      <div class="card-header">Community vs Enterprise Studio<a  ></a></div>
       <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
       <div class="card-body d-flex flex-column">
         <div class="alert alert-warning text-center" role="alert">Difficulty: 6</div>
