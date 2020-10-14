@@ -71,7 +71,7 @@ title: UiPath Certification Questions and Answers
         <p class="card-text">You will get lots of Associate Exam questions on the difference between attended and unattended UiPath robots.</p>
         <p class="card-text">There are a few key differences with regards to security and complexity that you might not be familiar with.</p>
         <p class="card-text">Make sure you are solid on this exam objective before you sit the UiPath Associate Exam.</p>
-        <p class="text-center mt-auto"><a href="/2020/01/01/attended-vs-unattened-quiz.html" class="text-center  btn btn-outline-primary btn-sm">Worflow vs Sequence Questions</a></p>
+        <p class="text-center mt-auto"><a href="/2020/01/01/attended-vs-unattened-quiz.html" class="text-center  btn btn-outline-primary btn-sm">Attended vs Unattened</a></p>
       </div>
     </div>
   </div>
@@ -86,7 +86,7 @@ title: UiPath Certification Questions and Answers
         <p class="card-text">There are always one or two questions on UiPath Studio Community Edition.</p>
         <p class="card-text">These are easy marks lost, as many developers only work in the Enterprise Edition.</p>
         <p class="card-text">It's a small topic, but a mark lost here can be the difference between a pass or fail on the UiPath exam.</p>
-        <p class="text-center mt-auto"><a href="/2020/01/01/community-vs-enterprise-studio.html" class="text-center  btn btn-outline-primary btn-sm">Worflow vs Sequence Questions</a></p>
+        <p class="text-center mt-auto"><a href="/2020/01/01/community-vs-enterprise-studio.html" class="text-center  btn btn-outline-primary btn-sm">Community vs Enterprise Test</a></p>
       </div>
     </div>
   </div>
