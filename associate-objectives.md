@@ -20,7 +20,7 @@ title: UiPath Exam Objectives
                <h4>Strategize around the UiPath Exam Objectives</h4>
                <p class="card-text">Only a mad man would tackle the UiPath Certification Exam without a solid understanding of the topics being tested.</p>
                <p class="card-text">Here's how to use the UiPath Associate exam objectives to your advantage. They're the key to passing the exam on the first try.</p>
-               <p class="card-text"><small class="text-muted">UiPath Associate exam objectives are listed below.</small></p>
+               <p class="card-text"><small class="text-muted">Free practice exams at uipath.rpacertified.com</small></p>
             </div>
          </div>
       </div>
@@ -79,7 +79,7 @@ title: UiPath Exam Objectives
                     <li class="card-text">Explain the functionality of the various UiPath products, i.e., Studio, Robots, and Orchestrator</li>
 		    <li class="card-text">Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition</li>
                 </ul>
-				 
+		<p class="card-text"><small class="text-muted">uipath.rpacertified.com</small></p>		 
             </div>
         </div>
     </div>
@@ -97,6 +97,7 @@ title: UiPath Exam Objectives
                     <li class="card-text">Identify and describe how to use Manage Packages</li>
                     <li class="card-text">Explain the significance of connecting an automation project to the version control solution</li>
                 </ul>
+		<p class="card-text"><small class="text-muted">uipath.rpacertified.com</small></p>	
 		<!--
 			<p class="text-center">
 			<a href="/study-guide-uipath.html">
@@ -208,6 +209,7 @@ title: UiPath Exam Objectives
                     <li class="card-text">Identify and describe how to use UiPath Orchestrator queues and assets</li>
                     <li class="card-text">Identify and explain how packages are published to UiPath Orchestrator in the cloud</li>
                 </ul>
+		<p class="card-text"><small class="text-muted">uipath.rpacertified.com</small></p>	
             </div>
         </div>
     </div>
@@ -227,6 +229,7 @@ title: UiPath Exam Objectives
 			<img src="/assets/uipath-certification-study-guide.jpg" class="img-fluid img-thumbnail mx-auto" style="width:75%" alt="uipath certified associate badge">	
 			</a>
 			</p>
+			<p class="card-text"><small class="text-muted">uipath.rpacertified.com</small></p>	
 				 
             </div>
         </div>
