@@ -21,7 +21,7 @@ Here's a partial transcript I put together from the start of Cameron's tutorial:
 
 > Now my buddy Serge is running a site called upath.rpacertified.com with lots of great stuff. There's a bunch of practice tests and there's even a UiPath study guidem but one of the links up here is the exam objectives and if you want to pass this exam you need to go over these objectives and gain confidence in each on if you want to pass the UiPath Associate exam. 
 
->  ## Pass the UiPath Certification Exam
+> ## Pass the UiPath Certification Exam
 
 >  You'll notice one of the objectives is RPA Fundamentals. You end up getting three or four questions on this particular topic so knowing this can be the difference between passing and failing the exam.  
 
