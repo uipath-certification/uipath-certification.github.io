@@ -22,6 +22,6 @@ We've also got an [exam objectives image](http://uipath.rpacertified.com/2020/10
 
 ### Exam objectives as an image
 
-Here's the UiPath Certification Exam objectives as an image if the [exam PDF](uipath-associate-certification-exam-objectives.pdf) isn't good enough:
+Here's the UiPath Certification Exam objectives as an image if the [exam PDF](/assets/uipath-associate-certification-exam-objectives.pdf) isn't good enough:
 
 ![an image alt text]({{ site.baseurl }}/assets/uipath-associate-certification-exam-objectives.png "UiPath Certification Exam Objectives")
