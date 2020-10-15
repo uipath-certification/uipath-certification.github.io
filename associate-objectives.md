@@ -195,7 +195,7 @@ title: UiPath Exam Objectives
                     <li class="card-text">Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation</li>
                     <li class="card-text">Describe the functions used to extract data from a .pdf file; for example, using OCR</li>
                 </ul>
-
+<p class="card-text"><small class="text-muted">uipath.rpacertified.com</small></p>	
             </div>
         </div>
     </div>
@@ -213,7 +213,7 @@ title: UiPath Exam Objectives
                     <li class="card-text">Identify and describe how to use UiPath Orchestrator queues and assets</li>
                     <li class="card-text">Identify and explain how packages are published to UiPath Orchestrator in the cloud</li>
                 </ul>
-		<p class="card-text"><small class="text-muted">uipath.rpacertified.com</small></p>	
+		
             </div>
         </div>
     </div>
