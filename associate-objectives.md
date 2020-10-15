@@ -122,8 +122,9 @@ title: UiPath Exam Objectives
                     <li class="card-text">Explain how variables are used, managed, and the best practice for using the variable scope in the UiPath Studio Variables panel</li>
                     <li class="card-text">Describe the difference between using variables versus using arguments</li>
                     <li class="card-text">Explain how arguments are used, managed, and the best practice for using the argument direction in the UiPath Studio Arguments panel</li>
-		    <p class="card-text"><small class="text-muted">uipath.rpacertified.com</small></p>
+		    
                 </ul>
+		<p class="card-text"><small class="text-muted">uipath.rpacertified.com</small></p>
             </div>
         </div>
     </div>
@@ -194,7 +195,7 @@ title: UiPath Exam Objectives
                     <li class="card-text">Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation</li>
                     <li class="card-text">Describe the functions used to extract data from a .pdf file; for example, using OCR</li>
                 </ul>
-		<p class="card-text"><small class="text-muted">uipath.rpacertified.com</small></p>
+
             </div>
         </div>
     </div>
