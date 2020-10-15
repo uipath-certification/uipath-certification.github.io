@@ -6,7 +6,7 @@ blurb: Here's a PDF file containing the UiPath Associate Exam objectives.
 difficulty: 7
 ---
 
-## UiPath Exam Objectives PDF
+## PDF of UiPath Exam Objectives
 
 Looking for a PDF of UiPath Associate Exam Objectives? Well here it is.
 
