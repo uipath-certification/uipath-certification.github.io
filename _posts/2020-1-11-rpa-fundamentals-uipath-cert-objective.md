@@ -5,7 +5,7 @@ blurb: Here's a UiPath YouTube tutorial on the RPA Fundamentals Associate Exam o
 ---
 
 ## UiPath Certification: RPA Fundamentals
-#### Exam Objective 1.3: Understand how UiPath products such as Studio, Robots, and Orchestrator
+#### Exam Objective 1.3: Understand how UiPath products such as Assistant, Studio, Robots, and Orchestrator
 
 This YouTube video shows you the basics of what you need to know in order to get the correct answer to UiPath Exam Questions on objective 1.3.
      
