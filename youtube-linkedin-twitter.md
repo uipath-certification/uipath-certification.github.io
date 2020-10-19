@@ -11,9 +11,9 @@ title: UiPath YouTube Accounts to Follow
       <div class="card-header">Twitter <a id="twitter-uipath"></a></div>
       <img src="/assets/twitter-uipath.gif" class="card-img-top" alt="uipath twitter">
       <div class="card-body d-flex flex-column">
-        <p class="card-text">Follow me on Twitter: <a href="http://www.twitter.com/rpacertified">@rpacertified</a></p>
-        <p class="card-text">If you've got a UiPath certification question, tag me and <a href="http://www.twitter.com/cameronmcnz">@cameronmcnz</a> in a public tweet.</p>
-        <p class="text-center mt-auto"><a href="http://www.twitter.com/cameronmcnz" class="text-center  btn btn-outline-primary btn-sm">UiPath Twitter</a></p>
+        <p class="card-text">Follow me on Twitter: <a href="http://www.twitter.com/rpacertified">rpacertified</a></p>
+        <p class="card-text">If you've got a UiPath certification question, tag me and <a href="http://www.twitter.com/cameronmcnz">cameronmcnz</a> in a public tweet.</p>
+        <p class="text-center mt-auto"><a href="http://www.twitter.com/rpacertified" class="text-center  btn btn-outline-primary btn-sm">UiPath Twitter</a></p>
 
 </div>
     </div>
@@ -79,6 +79,17 @@ title: UiPath YouTube Accounts to Follow
       <div class="card-body d-flex flex-column">
         <p class="card-text">All of the code for the YouTube UiPath Tutorials can be <a href="https://youtu.be/NiGU3Q-7iXw">cloneed off GitHub</a>.</p>
         <p class="text-center mt-auto"><a href="https://github.com/cameronmcnz/uipath-tutorials" class="text-center btn btn-outline-primary btn-sm">UiPath GitHub</a></p>
+      </div>
+    </div>
+  </div>
+  
+    <div class=" col-12 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">UiPath on Social Media<a id="github-uipath"></a></div>
+      <img src="/assets/github-uipath.jpg" class="card-img-top" alt="UiPath GitHub">
+      <div class="card-body d-flex flex-column">
+        <h1>UiPath on YouTube and Social Media</h1>
+        <p class="text-center mt-auto">A great way to learn RPA and pass the UiPath Associate Certification Exam it to collaborate with others. See you on YouTube!</p>
       </div>
     </div>
   </div>
