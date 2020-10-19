@@ -504,7 +504,9 @@
       <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
       <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
 	  <script>
-var jsonQuestions = [
+
+		  
+		  var jsonQuestions = [
 
 
 	 {id:99, query:"query",  "answer":"answer", "difficulty": "5",
@@ -954,7 +956,139 @@ var jsonQuestions = [
          "1.0", "1.4",
       ]},
 
-	  {id:39, query:"query",  "answer":"answer", "difficulty": "5",
+	  {id:39, query:"What is the name of the tool provided by UiPath Studio to compare file versions stored in a Git or GitHub repo?",  "answer":"/2020/11/11/debug-compare-files-studio.html", "difficulty": "8",
+			options:[
+			{text:"Workflow Diff", correct:false, selected:false}, 
+			{text:"Diff Compare", correct:false, selected:false},
+			{text:"Workflow Compare", correct:false, selected:false},
+			{text:"Compare Files", correct:true, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.3"
+      ]},
+	  
+	  {id:40, query:"Which of the following statements are true about UiPath variable debugging?",  "answer":"/2020/11/11/debug-edit-variable.html", "difficulty": "6",
+			options:[
+			{text:" It is possible to edit String variables at runtime using the debugger", correct:false, selected:false}, 
+			{text:"It is possible to edit String and int values at runtime using the debugger", correct:false, selected:false},
+			{text:"It is possible to edit any variable at runtime using the debugger", correct:true, selected:false},
+			{text:"It is not possible to edit variables at runtime after the program has started", correct:false, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.1"
+      ]},
+
+	  {id:41, query:"What three DVCS tools are configurable during the UiPath Studio installation procedure?",  "answer":"/2020/11/11/debug-git-tfs-svn.html", "difficulty": "4",
+			options:[
+			{text:"Mercurial SCM", correct:false, selected:false}, 
+			{text:"Apache Subversion", correct:true, selected:false},
+			{text:"Microsoft Team Foundation Server", correct:true, selected:false},
+			{text:"Git", correct:true, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.3"
+      ]},
+
+	  {id:42, query:"Which UiPath Studio screen only appears while you are actively debugging a program?",  "answer":"/2020/11/11/debug-locals-panel.html", "difficulty": "6",
+			options:[
+			{text:"Log panel", correct:false, selected:false}, 
+			{text:"Locals panel", correct:true, selected:false},
+			{text:"Breakpoints panel", correct:false, selected:false},
+			{text:"Output panel", correct:false, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.1"
+      ]},
+	  
+	  {id:43, query:"Which of the following is true about the UiPath debugger's retry button?",  "answer":"/2020/11/11/debug-retry-uipath.html", "difficulty": "7",
+			options:[
+			{text:"It will restart your application from the first line prior to an exception being thrown", correct:false, selected:false}, 
+			{text:"It will restart your application from the beginning of the activity that threw an exception", correct:true, selected:false},
+			{text:"It will restart your application from the first activity of the project", correct:true, selected:false},
+			{text:"It will restart your application from the start of the beginning of the activity prior to the one that threw an exception", correct:false, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.1"
+      ]},
+
+	  {id:44, query:"Where does UiPath Studio store log files by default?",  "answer":"/2020/11/11/debug-log-file-location.html", "difficulty": "8",
+			options:[
+			{text:"%UiPathInstallRoot%\logs", correct:false, selected:false}, 
+			{text:"%UserHome%\UiPath\logs", correct:false, selected:false},
+			{text:"%UiPathInstallRoot%\bin\logs", correct:false, selected:false},
+			{text:"%localappdata%\UiPath\Logs", correct:true, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.1"
+      ]},
+
+	  {id:45, query:"An error has occurred and you need to know which version of the UiPath.Excel.Activities library is installed. Where would you find this information?",  "answer":"/2020/11/11/debug-manage-packaged-version", "difficulty": "7",
+			options:[
+			{text:"In the Help --> About option from UiPath Studio's main menu", correct:false, selected:false}, 
+			{text:"From the installation log files", correct:false, selected:false},
+			{text:"Right click on any Excel activity and select Properties", correct:false, selected:false},
+			{text:"Locate the library in the Manage Packages window", correct:true, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.2"
+      ]},
+	  
+	  {id:46, query:"What is the name of the tool provided by UiPath Studio to compare file versions stored in a Git or GitHub repo?",  "answer":"/2020/11/11/debug-compare-files-studio.html", "difficulty": "8",
+			options:[
+			{text:"Workflow Diff", correct:true, selected:false}, 
+			{text:"Diff Compare", correct:false, selected:false},
+			{text:"Workflow Compare", correct:false, selected:false},
+			{text:"Compare Files", correct:false, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.3"
+      ]},
+
+	  {id:47, query:"What is the name of the UiPath debugger panel that allows you to view how the values of variables change as the program executes?",  "answer":"/2020/11/11/2020-11-11-debug-panels.html", "difficulty": "5",
+			options:[
+			{text:"Watch", correct:true, selected:false}, 
+			{text:"Inspect", correct:false, selected:false},
+			{text:"Debug", correct:false, selected:false},
+			{text:"Output", correct:false, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.1"
+      ]},
+
+	  {id:48, query:"Which of the following is true about the UiPath debugger's restart button?",  "answer":"/2020/11/11/debug-restart-button.html", "difficulty": "7",
+			options:[
+			{text:"It will restart your application from the first line prior to an exception being thrown", correct:false, selected:false}, 
+			{text:"It will restart your application from the beginning of the activity that threw an exception", correct:false, selected:false},
+			{text:"It will restart your application from the first activity of the project", correct:true, selected:true},
+			{text:"It will restart your application from the start of the beginning of the activity prior to the one that threw an exception", correct:false, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.1"
+      ]},
+
+	  {id:49, query:"Which of the following is designed to allow developers to debug their applications one activity at a time?",  "answer":"/2020/11/11/debug-step-into-over-out.html", "difficulty": "6",
+			options:[
+			{text:"Step Over", correct:false, selected:false}, 
+			{text:"Step Into", correct:true, selected:false},
+			{text:"Step Out", correct:false, selected:false},
+			{text:"Focus", correct:false, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.1"
+      ]},
+
+	  {id:50, query:"Which of the following are true about the UiPath Studio debugger functions? ",  "answer":"/2020/11/11/debugger-not-working-uipath.html", "difficulty": "6",
+			options:[
+			{text:"Only one Global Exception Handler can be set per automation project.", correct:true, selected:false}, 
+			{text:"The debugger will not operate if there are errors in the project", correct:true, selected:false},
+			{text:"Debug activities are displayed as Trace logs in the Output panel", correct:true, selected:false},
+			{text:"The debugger will not operate if there are exceptions in the project", correct:false, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.1"
+      ]},
+
+	  {id:39, query:"What is the name of the tool provided by UiPath Studio to compare file versions stored in a Git or GitHub repo?",  "answer":"/2020/11/11/abc.html", "difficulty": "8",
 			options:[
 			{text:"aaaaa", correct:false, selected:false}, 
 			{text:"aaaaa", correct:false, selected:false},
@@ -962,8 +1096,87 @@ var jsonQuestions = [
 			{text:"aaaaa", correct:false, selected:false}
 			],
       "objectives":[
-         "3.0", "3.0"
+         "2.0", "2.1"
       ]},
+
+	  {id:39, query:"What is the name of the tool provided by UiPath Studio to compare file versions stored in a Git or GitHub repo?",  "answer":"/2020/11/11/abc.html", "difficulty": "8",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.1"
+      ]},
+
+	  {id:39, query:"What is the name of the tool provided by UiPath Studio to compare file versions stored in a Git or GitHub repo?",  "answer":"/2020/11/11/abc.html", "difficulty": "8",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.1"
+      ]},
+
+	  {id:39, query:"What is the name of the tool provided by UiPath Studio to compare file versions stored in a Git or GitHub repo?",  "answer":"/2020/11/11/abc.html", "difficulty": "8",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.1"
+      ]},
+
+	  {id:39, query:"What is the name of the tool provided by UiPath Studio to compare file versions stored in a Git or GitHub repo?",  "answer":"/2020/11/11/abc.html", "difficulty": "8",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.1"
+      ]},
+
+	  {id:39, query:"What is the name of the tool provided by UiPath Studio to compare file versions stored in a Git or GitHub repo?",  "answer":"/2020/11/11/abc.html", "difficulty": "8",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.1"
+      ]},
+
+	  {id:39, query:"What is the name of the tool provided by UiPath Studio to compare file versions stored in a Git or GitHub repo?",  "answer":"/2020/11/11/abc.html", "difficulty": "8",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.1"
+      ]},
+
+	  {id:39, query:"What is the name of the tool provided by UiPath Studio to compare file versions stored in a Git or GitHub repo?",  "answer":"/2020/11/11/abc.html", "difficulty": "8",
+			options:[
+			{text:"aaaaa", correct:false, selected:false}, 
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false},
+			{text:"aaaaa", correct:false, selected:false}
+			],
+      "objectives":[
+         "2.0", "2.1"
+      ]},	  
+	  
+	  
 
 	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
 			options:[
@@ -1154,6 +1367,7 @@ var jsonQuestions = [
 
 	  
 	];
+	
 	
 if (typeof(Storage) !== "undefined") {
   // Store
