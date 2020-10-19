@@ -24,5 +24,4 @@ When you debug a program and a breakpoint is encountered, the Locals panel appea
 - Variables used in the program
 - Properties of the current activity and the previously executed activity (input and output)
 
-
-![UiPath Locals Panel](https://files.readme.io/4537cc6-locals.gif "Edit a variable at runtime in the Locals panel.")
+<img src="https://files.readme.io/4537cc6-locals.gif" class="img-fluid" alt="UiPath Locals Panel">
