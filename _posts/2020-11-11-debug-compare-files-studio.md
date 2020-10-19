@@ -1,9 +1,9 @@
 ---
 layout: answered-question
 author: Serge
-title: The UiPath Workflow Diff tool
-blurb: What's the easiest way to compare file in Git with UiPath Studio?
-difficulty: 6
+title: Worflow Diff vs Compare Files in UiPath Studio
+blurb: Know the difference between Compare Files and Workflow Diff for the UiPath Certification Exam
+difficulty: 8
 objective: 2.3 Explain the significance of connecting an automation project to the version control solution
 ---
 <h1>UiPath Compare Files tool</h1>
@@ -23,6 +23,7 @@ Don't confuse UiPath Workflow Diff with Studio's Compare Files feature.
 
 The UiPath Compare Files window allows you to compare the content of different .xaml files or project.json files. It is not used to compare versions of the <em>same</em> file.
 
+I'm not sure how deep the UiPath Associate Exam gets into Compare Files and Workflow Diff, but it is definitely fair game for the UiPath Developer Certification Exam. This question is marked with a difficulty of 8 to reflect that.
 
 
 > The UiPath Studio Compare Files pany is used to compare differences between package.json or .xaml files, be it a library or process processes or libraries, assuming the items being compared have comparable workflows.
