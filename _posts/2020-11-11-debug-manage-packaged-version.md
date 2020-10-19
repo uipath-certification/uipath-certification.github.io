@@ -7,6 +7,8 @@ difficulty: 4
 objective: 2.2 Identify and describe how to use Manage Packages
 ---
 
+<h1>UiPath Activities Package Version Number</h1>
+
 Question: An error has occurred and you need to know which version of the UiPath.Excel.Activities library is installed. Where would you find this information?
 
 - [ ] &nbsp;  In the Help --> About option from UiPath Studio's main menu
