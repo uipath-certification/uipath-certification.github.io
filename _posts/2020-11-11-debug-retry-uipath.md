@@ -7,6 +7,8 @@ difficulty: 7
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
 ---
 
+<h1>UiPath Debugger's Retry Button</h1>
+
 Question: Which of the following is true about the retry button?
 
 - [ ] &nbsp;  It will restart your application from the first line of code prior to an exception being thrown
