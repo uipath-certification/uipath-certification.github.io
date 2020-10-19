@@ -20,5 +20,5 @@ Options b is correct.
 
 > The retry option re-runs the previous activity from where an exception was thrown. The exception will be thrown again if it is encountered.
 
-More details on the UiPath restart button is available in the [documentation]([Jekyll Now](http://github.com/barryclark/jekyll-now/)).
+More details on the UiPath retry button is available in the ([docs](https://docs.uipath.com/studio/docs/debugging-actions))
 
