@@ -1,7 +1,7 @@
 ---
 layout: answered-question
 author: Serge
-title: UiPath Step Into Debugger
+title: Is the UiPath Debugger not working?
 blurb: When should you use the UiPath Step Into debug feature?
 difficulty: 6
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
