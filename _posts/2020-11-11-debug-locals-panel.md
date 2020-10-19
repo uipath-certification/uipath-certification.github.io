@@ -6,7 +6,7 @@ blurb: Do you know your UiPath debugging panel?
 difficulty: 6
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
 ---
-
+<h1>UiPath Studio Locals Panel for Debugging</h1>
 Question: Which UiPath Studio screen only appears while you are actively debugging a program?
 
 - [ ] &nbsp;  Log panel
