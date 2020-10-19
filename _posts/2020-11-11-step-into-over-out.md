@@ -22,4 +22,4 @@ From the docs:
 
 > Use the Step Into feature to troubleshoot UiPath activities one at a time. When this option is clicked, the debugger opens the activity in question before it is run, allowing the developer to inspect variables and the stack trace before the UiPath activity is executed.
 
-![UiPath Step Into](https://files.readme.io/d7403f4-debug.png "The Step Into feature is an important part of the UiPath debugger.")
+![UiPath Step Into](https://files.readme.io/9c13062-debug.png "The Step Into feature is an important part of the UiPath debugger.")
