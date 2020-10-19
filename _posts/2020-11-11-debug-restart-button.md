@@ -22,5 +22,5 @@ The restart button kicks your whole UiPath process off right from the start. The
 
 > After an exception is thrown the restart option appears and the debugging pauses. Pressing this button will restart the program from the first activity of the project.
 
-More details on the UiPath restart button is available in the [documentation]([Jekyll Now](http://github.com/barryclark/jekyll-now/)).
+More details on the UiPath restart button is available in the ([docs](https://docs.uipath.com/studio/docs/debugging-actions)).
 
