@@ -22,4 +22,4 @@ Options c is correct.
 
 The UiPath Studio Locals panel, which only shows during debugging activities, alows you to inspect variables and subsequently change them at runtime while the program has been paused by a breakpoint.
 
-![UiPath Locals Panel](https://files.readme.io/4537cc6-locals.gif "Edit a variable at runtime in the Locals panel.")
+<img src="https://files.readme.io/4537cc6-locals.gif" class="img-fluid" alt="UiPath Locals Panel">
