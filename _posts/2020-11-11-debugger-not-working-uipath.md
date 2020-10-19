@@ -7,7 +7,8 @@ difficulty: 6
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
 ---
 
-Question: Which of the following is designed to allow developers to debug their applications one activity at a time? 
+<h1>UiPath Studio Debugger Features</h1>
+Question: Which of the following are true about the UiPath Studio debugger functions? 
 
 - [x] &nbsp;  Only one Global Exception Handler can be set per automation project.
 - [x] &nbsp;  The debugger will not operate if there are errors in the project
