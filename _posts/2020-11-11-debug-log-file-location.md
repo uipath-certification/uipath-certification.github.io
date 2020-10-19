@@ -7,6 +7,8 @@ difficulty: 9
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
 ---
 
+<h1>UiPath Studio Log File Location</h1>
+
 Question: Where does UiPath Studio store log files by default?
 
 - [ ] &nbsp;  %UiPathInstallRoot%\logs
