@@ -1,5 +1,5 @@
 ---
-layout: landing-page-no-youtube
+layout: default
 title: UiPath Certification
 ---
 <div class="row">
