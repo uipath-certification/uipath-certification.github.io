@@ -1,7 +1,7 @@
 ---
 layout: practice-test
 author: Serge
-title: UiPath cert questions and answers on workflow, sequences and flowchart projects
+title: UiPath Mock exam on workflow, sequences and flowcharts
 blurb: Test yourself to see if you know when to use a UiPath Studio sequence vs flowchart project?
 ---
 <script>
