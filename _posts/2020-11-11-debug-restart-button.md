@@ -6,7 +6,7 @@ blurb: What does the UiPath restart button do when debugging?
 difficulty: 7
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
 ---
-<h1>UiPath Debug Start Button</h1>
+<h1>UiPath Debug Restart Button</h1>
 Question: Which of the following is true about the UiPath Studio debugger's restart button?
 
 - [ ] &nbsp;  It will restart your application from the first line prior to an exception being thrown
