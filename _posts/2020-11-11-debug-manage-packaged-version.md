@@ -22,4 +22,4 @@ Options d is correct.
 
 The Manage Packes window allows you to add, remove, install and update packages, and part of updating a package is knowing which version is currently installed. If you locate an installed library in the package manager, it will tell you the version number.
 
-![UiPath Manage Packages](https://files.readme.io/a6753e2-image_46.png "The UiPath cert has a few questions on the package manager.")
+<img src="https://files.readme.io/a6753e2-image_46.png" class="img-fluid" alt="UiPath Manage Packages">
