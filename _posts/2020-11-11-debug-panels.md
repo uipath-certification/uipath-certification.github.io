@@ -21,4 +21,5 @@ Options a is correct.
 
 The Watch panel allows you to look at the value of variables as you step through your code, allowing you to note values or even unexpected changes.
 
-![UiPath Watch Panel](https://files.readme.io/d7403f4-debug.png "The UiPath Debugger has many panels including Watch.")
+<img src="https://files.readme.io/d7403f4-debug.png" class="img-fluid" alt="UiPath Watch Panel">
+
