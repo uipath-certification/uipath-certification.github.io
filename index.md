@@ -92,6 +92,20 @@ title: UiPath Certification
 	</div>
  </div>
  
+ 	       <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+               <div class="card" >
+                  <div class="card-header">
+                     <h1>UiPath Certification Exam Questions, Objectives, Dumps and Study Guides</h1>
+                  </div>
+                  <div class="card-body  d-flex flex-column">
+                     <p class="card-text">We're here to help you get UiPath Certified on the Associate exam.</p>
+                     <p class="card-text">Check out our wide assortment of UiPath mock exams, certification dumps, training tutorials and pertinent advice to help you pass the UiPath Associate Certification exam.</p>
+                  </div>
+               </div>
+	      </div>
+ 
+ 
+ 
  	      {% for post in site.posts limit:6%}
 	       <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
                <div class="card" >
