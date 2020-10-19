@@ -6,6 +6,7 @@ blurb: What does the UiPath Watch panel do?
 difficulty: 5
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
 ---
+<h1>UiPath Studio Watch Panel</h1>
 
 Question: What is the name of the UiPath debugger panel that allows you to view how the values of variables change as the program executes?
 
