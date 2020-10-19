@@ -92,4 +92,21 @@ title: UiPath Certification Questions and Answers
   </div>
   
   
+    <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
+    <div class="card" >
+      <div class="card-header">UiPath, Git, DVCS and Debugging<a  ></a></div>
+      <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
+      <div class="card-body d-flex flex-column">
+      <a href="/2020/11/01/exam-studio-git-packages-svn-tfs-github.html" class="text-center  btn btn-outline-primary btn-sm">
+        <div class="alert alert-danger text-center" role="alert">Difficulty: 7</div>
+      </a>
+        <p class="card-text">How well do you know how to debug UiPath Studio?</p>
+        <p class="card-text">What about version control? UiPath, Git and GitHub? TFS, SVN and the Azure DevOps Server.</p>
+        <p class="card-text">These 11 UiPath test questions and answers will evaluate you on  Studio debugging, version control and the <em>manage packages</em> sections of the UiPath Associate Exam Certification.</p>
+        <p class="text-center mt-auto"><a href="/2020/11/01/exam-studio-git-packages-svn-tfs-github.html" class="text-center  btn btn-outline-primary btn-sm">UiPath Debugging Quiz</a></p>
+      </div>
+    </div>
+  </div>
+  
+  
 </div>
