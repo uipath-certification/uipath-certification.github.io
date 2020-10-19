@@ -7,7 +7,9 @@ difficulty: 6
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
 ---
 
-Question: Which of the following statements are tru
+<h1>UiPath variable debugging</h1>
+
+Question: Which of the following statements are true about UiPath variable debugging?
 
 - [ ] &nbsp;  It is possible to edit String variables at runtime using the debugger
 - [ ] &nbsp;  It is possible to edit String and int values at runtime using the debugger
