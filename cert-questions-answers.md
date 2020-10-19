@@ -101,7 +101,7 @@ title: UiPath Certification Questions and Answers
         <p class="card-text">How well do you know how to debug UiPath Studio?</p>
         <p class="card-text">What about version control? UiPath, Git and GitHub?</p>
         <p class="card-text">These 11 UiPath test questions and answers will evaluate you on the Studio, version control and manage packages sections of the UiPath Associate Exam.</p>
-        <p class="text-center mt-auto"><a href="/2020/11/01/exam-studio-git-packages-svn-tfs-github.html" class="text-center  btn btn-outline-primary btn-sm">Community vs Enterprise Test</a></p>
+        <p class="text-center mt-auto"><a href="/2020/11/01/exam-studio-git-packages-svn-tfs-github.html" class="text-center  btn btn-outline-primary btn-sm">UiPath Debugging Quiz</a></p>
       </div>
     </div>
   </div>
