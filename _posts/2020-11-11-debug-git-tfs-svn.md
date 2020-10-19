@@ -25,3 +25,4 @@ Right off the bat, UiPath Studio version control support includes SVN, TFS and G
 Note that TFS has been rebranded Azure DevOps Server. A future relase of the tool, and the UiPath Associate Certification Exam, will likely reflect that change.
 
 <img src="https://files.readme.io/814f52e-team.png" class="img-fluid" alt="UiPath, GitHub, TFS and SVN">
+
