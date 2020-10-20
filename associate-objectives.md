@@ -1,6 +1,7 @@
 ---
 layout: default
 title: UiPath Exam Objectives
+canonical: http://www.rpacertified.com/associate-objectives.html
 ---
 
 <div class="row">
