@@ -1,124 +1,248 @@
 ---
 layout: default
-title: UiPath Certification Questions and Answers
-canonical: https://www.rpacertified.com/cert-questions-answers.html
+title: UiPath Exam Objectives
+canonical: https://www.rpacertified.com/associate-objectives.html
 ---
+
 <div class="row">
-   
-  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
-    <div class="card" >
-      <div class="card-header">UiPath Test Questions<a  ></a></div>
-      <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
-      <div class="card-body d-flex flex-column">
-        <div class="alert alert-secondary text-center" role="alert">UiPath Mock Exams</div>
-        <p class="card-text">Here you'll find a variety of UiPath questions and answers to test you on the Associate Exam Objectives. </p>
-        <p class="card-text">Pick a mock exam and see how ready you are to take the UiPath Certification.</p>
-        <p class="card-text">Some of the answers will surprise you!</p>
-        <img src="/assets/uipath-certified-associate-badge-sm.jpg" class="img-fluid img-thumbnail mx-auto d-block" alt="uipath certified associate badge">
-        <p class="card-text text-center mt-2">Get UiPath Certified fast!</p>
+
+
+<div class="col-12 mb-2 d-flex align-items-stretch">
+   <div class="card mb-2" >
+   <div class="card-header">UiPath Certification Exam Objectives</div>
+      <div class="row g-0">
+         <div class="bg-secondary bg-gradient d-none d-sm-none d-lg-block col-lg-4">
+		 <p class="card-text text-center">
+            <img src="/assets/mad.webp"  alt="mad man" class="img-fluid img-thumbnail">
+         </p>
+		 </div>
+         <div class="col-12 col-sm-12 col-lg-8">
+            <div class="card-body">
+               <h4>Strategize around the UiPath Exam Objectives</h4>
+               <p class="card-text">Only a mad man would tackle the UiPath Certification Exam without a solid understanding of the topics being tested.</p>
+               <p class="card-text">Here's how to use the UiPath Associate exam objectives to your advantage. They're the key to passing the exam on the first try.</p>
+               <p class="card-text"><small class="text-muted">UiPath Associate exam objectives are listed below.</small></p>
+            </div>
+         </div>
       </div>
+   </div>
+</div>
+	
+	
+
+    <div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
+        <div class="card">
+            <div class="card-header">Read the Objectives</div>
+            <img src="/assets/read.webp" class="card-img-top" alt="uipath certification" />
+            <div class="card-body d-flex flex-column">
+                <p class="card-text">Before you even begin to study, make sure you review the UiPath Exam objectives.</p>
+            </div>
+        </div>
     </div>
-  </div>
-  
-  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
-    <div class="card" >
-      <div class="card-header">Variable Naming Terminology Exam<a  ></a></div>
-      <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
-      <div class="card-body d-flex flex-column">
-        <div class="alert alert-info text-center" role="alert">Difficulty: 2</div>
-        <p class="card-text">This is just a quick five questions. Probably below the difficulty of the UiPath Associate exam. 
-        </p>
-        <p class="card-text">But it does set the groundwork for making sure you understand concepts like camel case, kebab case and snake case.</p>
-        <p class="text-center mt-auto"><a href="http://uipath.rpacertified.com/2020/10/12/variable-naming-conventions-test.html" class="text-center  btn btn-outline-primary btn-sm">Studio Terminology Test</a></p>
-      </div>
+    <div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
+        <div class="card">
+            <div class="card-header">Focus Your Study</div>
+            <img src="/assets/focus.webp" class="card-img-top" alt="uipath certification" />
+            <div class="card-body d-flex flex-column">
+                <p class="card-text">Review the UiPath Exam objectives before you study a particular topic. Keep your exam studies focused.</p>
+            </div>
+        </div>
     </div>
-  </div>
-  
-  
-  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
-    <div class="card" >
-      <div class="card-header">UiPath Naming Conventions<a  ></a></div>
-      <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
-      <div class="card-body d-flex flex-column">
-        <div class="alert alert-primary text-center" role="alert">Difficulty: 4</div>
-        <p class="card-text">You are bound to get one or two questions on the exam about how to name an method vs a variable vs an I/O property. Easy marks if you know the rules. </p>
-        <p class="card-text">A difficult choice to make if you have to guess.</p>
-        <p class="text-center mt-auto"><a href="http://uipath.rpacertified.com/2020/10/12/kebab-camel-pascal-case-quiz.html" class="text-center  btn btn-outline-primary btn-sm">Naming Conventions Exam</a></p>
-      </div>
+
+    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
+        <div class="card">
+            <div class="card-header">Persevere</div>
+            <img src="/assets/dumbell.webp" class="card-img-top" alt="uipath certification" />
+            <div class="card-body d-flex flex-column">
+                <p class="card-text">Focus on your weakest UiPath Exam objectives until those weaknesses disappear.</p>
+            </div>
+        </div>
     </div>
-  </div>
-  
-  
-  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
-    <div class="card" >
-      <div class="card-header">Workflows, Sequences and Projects<a  ></a></div>
-      <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
-      <div class="card-body d-flex flex-column">
-        <div class="alert alert-success text-center" role="alert">Difficulty: 5</div>
-        <p class="card-text">When should you use a sequence project and when should you pull out a flow chart? </p>
-        <p class="card-text">This set of UiPath certification questions and answers tests you on many of the small but significant differences between sequence vs workflow projects in Studio.</p>
-        <p class="text-center mt-auto"><a href="http://uipath.rpacertified.com/2020/10/12/workflow-sequences-flowcharts-quiz.html" class="text-center  btn btn-outline-primary btn-sm">Worflow vs Sequence Questions</a></p>
-      </div>
+	</div>
+
+
+<div class="row">
+	
+	
+	
+	
+    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
+        <div class="card ">
+            <div class="card-header">
+                RPA Fundamentals Exam Objective
+            </div>
+            <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
+            <div class="card-body">
+                <h2 class="card-title">RPA Robotic Process Automation Fundamentals</h2>
+                <ul>
+		    <li class="card-text">Identify sample use cases that describes the processes and workloads that can be automated</li>
+                    <li class="card-text">Identify and describe the different types of robots, i.e., attended versus unattended robots</li>
+                    <li class="card-text">Explain the functionality of the various UiPath products, i.e., Studio, Robots, and Orchestrator</li>
+		    <li class="card-text">Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition</li>
+                </ul>
+				 
+            </div>
+        </div>
     </div>
-  </div>
-  
-  
-  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
-    <div class="card" >
-      <div class="card-header">Unattened vs Attended Exam<a  ></a></div>
-      <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
-      <div class="card-body d-flex flex-column">
-        <div class="alert alert-danger text-center" role="alert">Difficulty: 7</div>
-        <p class="card-text">You will get lots of Associate Exam questions on the difference between attended and unattended UiPath robots.</p>
-        <p class="card-text">There are a few key differences with regards to security and complexity that you might not be familiar with.</p>
-        <p class="card-text">Make sure you are solid on this exam objective before you sit the UiPath Associate Exam.</p>
-        <p class="text-center mt-auto"><a href="/2020/01/01/attended-vs-unattened-quiz.html" class="text-center  btn btn-outline-primary btn-sm">Attended vs Unattened</a></p>
-      </div>
+
+    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
+        <div class="card ">
+            <div class="card-header">
+                UiPath Studio Objective
+            </div>
+            <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
+            <div class="card-body">
+                <h2 class="card-title">UiPath Studio Overview</h2>
+                <ul>
+                    <li class="card-text">Understand and explain the automation debug functions and usage such as breakpoints</li>
+                    <li class="card-text">Identify and describe how to use Manage Packages</li>
+                    <li class="card-text">Explain the significance of connecting an automation project to the version control solution</li>
+                </ul>
+		<!--
+			<p class="text-center">
+			<a href="https://www.rpacertified.com/study-guide-uipath.html">
+			<img src="/assets/uipath-certification-study-guide.webp" class="img-fluid img-thumbnail mx-auto" style="width:75%" alt="uipath certified associate badge">	
+			</a>
+			</p>
+		-->	 
+            </div>
+        </div>
     </div>
-  </div>
-  
-  
-  <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
-    <div class="card" >
-      <div class="card-header">Community vs Enterprise Studio<a  ></a></div>
-      <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
-      <div class="card-body d-flex flex-column">
-        <div class="alert alert-warning text-center" role="alert">Difficulty: 6</div>
-        <p class="card-text">There are always one or two questions on UiPath Studio Community Edition.</p>
-        <p class="card-text">These are easy marks lost, as many developers only work in the Enterprise Edition.</p>
-        <p class="card-text">It's a small topic, but a mark lost here can be the difference between a pass or fail on the UiPath exam.</p>
-        <p class="text-center mt-auto"><a href="/2020/01/01/community-vs-enterprise-studio.html" class="text-center  btn btn-outline-primary btn-sm">Community vs Enterprise Test</a></p>
-      </div>
+	
+    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
+        <div class="card ">
+            <div class="card-header">
+                UiPath Programming Basics
+            </div>
+            <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
+            <div class="card-body">
+                <h2 class="card-title">UiPath Studio Basics – Variables and Arguments</h2>
+                <ul>
+                    <li class="card-text">Identify the different variable types available in the UiPath Studio Variables panel</li>
+                    <li class="card-text">Explain how variables are used, managed, and the best practice for using the variable scope in the UiPath Studio Variables panel</li>
+                    <li class="card-text">Describe the difference between using variables versus using arguments</li>
+                    <li class="card-text">Explain how arguments are used, managed, and the best practice for using the argument direction in the UiPath Studio Arguments panel</li>
+                </ul>
+            </div>
+        </div>
     </div>
-  </div>
-  
-  
-    <div class=" col-12 col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-4 mb-2  d-flex align-items-stretch">
-    <div class="card" >
-      <div class="card-header">UiPath, Git, DVCS and Debugging<a  ></a></div>
-      <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
-      <div class="card-body d-flex flex-column">
-      <a href="/2020/11/01/exam-studio-git-packages-svn-tfs-github.html" class="text-center  btn btn-outline-primary btn-sm">
-        <div class="alert alert-danger text-center" role="alert">Difficulty: 7</div>
-      </a>
-        <p class="card-text">How well do you know how to debug UiPath Studio?</p>
-        <p class="card-text">What about version control? UiPath, Git and GitHub? TFS, SVN and the Azure DevOps Server.</p>
-        <p class="card-text">These 11 UiPath test questions and answers will evaluate you on  Studio debugging, version control and the <em>manage packages</em> sections of the UiPath Associate Exam Certification.</p>
-        <p class="text-center mt-auto"><a href="/2020/11/01/exam-studio-git-packages-svn-tfs-github.html" class="text-center  btn btn-outline-primary btn-sm">UiPath Debugging Quiz</a></p>
-      </div>
+
+    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
+        <div class="card ">
+            <div class="card-header">
+                Static and Dynamic Selectors
+            </div>
+            <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
+            <div class="card-body">
+                <h2 class="card-title">UiPath Studio and Selectors</h2>
+                <ul>
+                    <li class="card-text">Identify, describe, and demonstrate how dynamic versus static selectors are used</li>
+                    <li class="card-text">Identify and describe how partial versus full selectors are used</li>
+                    <li class="card-text">Identify and describe how and when to use Anchors</li>
+                    <li class="card-text">Demonstrate the use of UI Explorer to modify selectors</li>
+                    <li class="card-text">Demonstrate the use a reliable selector</li>
+                </ul>
+            </div>
+        </div>
     </div>
-  </div>
-  
-     <div class=" col-12 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mb-2  d-flex align-items-stretch">
+
+    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
+        <div class="card ">
+            <div class="card-header">
+                Iterative and Conditional Logic
+            </div>
+            <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
+            <div class="card-body">
+                <h2 class="card-title">UiPath Studio Programming Concepts – Flow Control</h2>
+                <ul>
+                    <li class="card-text">Explain how to use control flow activities, workflow types such as sequences and flowcharts, and their functions</li>
+                    <li class="card-text">Identify and describe the various control flow activities such as If, Switch, Break, Parallel, While, etc.</li>
+                    <li class="card-text">Explain the importance of error handling and how it can be implemented</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
+        <div class="card ">
+            <div class="card-header">
+                Strings, Structured Data and DataTables
+            </div>
+            <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
+            <div class="card-body">
+                <h2 class="card-title">Advanced UiPath Studio – Data Manipulation</h2>
+                <ul>
+                    <li class="card-text">Describe the importance and reasons why data manipulation is used</li>
+                    <li class="card-text">Explain how string manipulations, collections, and datatables are used for data manipulation</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+ 
+    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
+        <div class="card ">
+            <div class="card-header">
+                Robotic Process Automation Fundamentals
+            </div>
+            <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
+            <div class="card-body">
+                <h2 class="card-title">UiPath Robotic Automation Concepts, Applications and Techniques</h2>
+                <ul>
+                    <li class="card-text">Identify and explain how to automate e-mail and how email automation is helpful</li>
+                    <li class="card-text">Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation</li>
+                    <li class="card-text">Describe the functions used to extract data from a .pdf file; for example, using OCR</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
+        <div class="card ">
+            <div class="card-header">
+                UiPath Orchestrator
+            </div>
+            <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
+            <div class="card-body">
+                <h2 class="card-title">An overview of UiPath Orchestrator</h2>
+                <ul>
+                    <li class="card-text">Describe how to provision attended and unattended robots to UiPath Orchestrator</li>
+                    <li class="card-text">Identify and describe how to use UiPath Orchestrator queues and assets</li>
+                    <li class="card-text">Identify and explain how packages are published to UiPath Orchestrator in the cloud</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+	
+	
+	    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
+        <div class="card ">
+            <div class="card-header">
+                Learn UiPath Quickly
+            </div>
+            <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
+            <div class="card-body">
+                <h2 class="card-title">Your UiPath Study Plan</h2>
+<p > We have a <a href="https://www.rpacertified.com/study-guide-uipath.html">study plan</a> for you to follow, and a comprehensive set of <a href="https://www.rpacertified.com/cert-questions-answers.html">UiPath Certification questions and answers</a> to help test your skills. Check them out!</p>
+			<p class="text-center">
+			<a href="https://www.rpacertified.com/study-guide-uipath.html">
+			<img src="/assets/uipath-certification-study-guide.webp" class="img-fluid img-thumbnail mx-auto" style="width:75%" alt="uipath certified associate badge">	
+			</a>
+			</p>
+				 
+            </div>
+        </div>
+    </div>
+    
+   <div class=" col-12 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mb-2  d-flex align-items-stretch">
     <div class="card" >
-      <div class="card-header">UiPath Mock Exams<a id="github-uipath"></a></div>
+      <div class="card-header">UiPath Study Guide<a id="github-uipath"></a></div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="UiPath GitHub">
       <div class="card-body d-flex flex-column">
-	      <h1>UiPath Exam Questions and Answers</h1>
-        <p>Study is important, but so is practice. Use the UiPath Practice Tests to prepare yourself for the tough UiPath questions and answers you'll face on the Associate exam.</p>
+	      <h1>UiPath Certification Exam Objectives</h1>
+        <p>When you study, study the UiPath Exam Objectives. They are your key to certification success!</p>
       </div>
     </div>
   </div>
-  
-  
+	
+	
 </div>
