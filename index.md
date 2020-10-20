@@ -100,7 +100,7 @@ title: UiPath Certification
                   </div>
 		  
                   <div class="card-body  d-flex flex-column">
-                     <p class="card-text">We're here to help you get UiPath Certified on the Associate exam.</p>
+                     <p class="card-text">We're here to help you quickly get UiPath Certified on the Associate exam.</p>
                      <p class="card-text">Check out our wide assortment of UiPath mock exams, certification dumps, training tutorials and pertinent advice to help you pass the UiPath Associate Certification exam.</p>
                   </div>
                </div>
