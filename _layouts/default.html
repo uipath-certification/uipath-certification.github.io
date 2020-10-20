@@ -11,6 +11,13 @@
          gtag('config', 'UA-179472407-1');
       </script>
       <title>{{ page.title }}</title>
+	   
+{% if canonical %}
+<link rel="canonical" href="{{canonical}}" />
+{% endif %}
+	   <!-- canonical attempt -->
+	   
+	   <meta name="attempt" content="done" />	   
 	   <meta name="robots" content="index, follow" />
 <meta name="description" content="Community sourced UiPath Associate Certification practice exams, study guides, braindumps, objectives and online tutorials. We help you get RPA certified fast."/>
 <meta name="keywords" content="UiPath Certification, UiPath Associate Exam, UiPath Developer Exam, UiPath Certification Questions, UiPath Certification Questions and Answers, UiPath Braindump"/>
@@ -88,7 +95,7 @@
                         <a class="nav-link" href="https://www.rpacertified.com/study-guide-uipath.html">UiPath Study Guide</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="https://www.rpacertified.com/associate-objectives.html">Objectives</a>
+                        <a class="nav-link" href="https://www.rpacertified.com/associate-objectives.html">Exam Objectives</a>
                      </li>
                      <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown">
