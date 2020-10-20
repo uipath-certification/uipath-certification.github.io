@@ -1,6 +1,7 @@
 ---
 layout: default
 title: UiPath Certification Questions and Answers
+canonical: https://www.rpacertified.com/cert-questions-answers.html
 ---
 <div class="row">
    
