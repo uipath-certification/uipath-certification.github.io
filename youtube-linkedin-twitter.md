@@ -1,6 +1,7 @@
 ---
 layout: default
 title: UiPath YouTube Accounts to Follow
+canonical: https://www.rpacertified.com/youtube-linkedin-twitter.html
 ---
 
 <div class="row">
