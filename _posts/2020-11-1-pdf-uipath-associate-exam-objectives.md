@@ -10,7 +10,7 @@ difficulty: 7
 
 Looking for a PDF of UiPath Associate Exam Objectives? Well here it is.
 
-We host the [UiPath Exam Objectives](/assets/associate-objectives.html)  here, but sometimes people want a the UiPath certification exam in a [PDF format](uipath-associate-certification-exam-objectives.pdf). Well, here it is.
+We host the [UiPath Exam Objectives](/associate-objectives.html)  here, but sometimes people want a the UiPath certification exam in a [PDF format](uipath-associate-certification-exam-objectives.pdf). Well, here it is.
 
 We've also got an [exam objectives image](http://uipath.rpacertified.com/2020/10/15/image-uipath-certification-exam-objectives.html) as well for those who want it in a PNG format.
 
