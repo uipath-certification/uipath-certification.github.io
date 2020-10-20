@@ -12,8 +12,8 @@
       </script>
       <title>{{ page.title }}</title>
 	   
-{% if canonical %}
-<link rel="canonical" href="{{canonical}}" />
+{% if page.canonical %}
+<link rel="canonical" href="{{ canonical }}" />
 {% else %}
 <!-- This is the else for if canonical -->	   
 {% endif %}
