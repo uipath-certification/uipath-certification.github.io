@@ -1,6 +1,7 @@
 ---
 layout: landing-page-no-youtube
 title: UiPath Certification
+canonical: https://www.rpacertified.com
 ---
 <div class="row">
 
