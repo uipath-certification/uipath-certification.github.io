@@ -92,7 +92,7 @@ title: UiPath Certification
 	</div>
  </div>
  
- 	       <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+ 	       <div class=" col-12 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mb-2 w-100 d-flex align-items-stretch">
                <div class="card" >
                   <div class="card-header">
                      <h1>UiPath Certification Exam Questions, Objectives, Dumps and Study Guides</h1>
@@ -106,19 +106,7 @@ title: UiPath Certification
  
  
  
- 	      {% for post in site.posts limit:6%}
-	       <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
-               <div class="card" >
-                  <div class="card-header">
-                     <a href="{{ post.url }}">{{ post.title }}</a>
-                  </div>
-                  <div class="card-body  d-flex flex-column">
-                     <p class="card-text">{{ post.blurb }}</p>
-                     <p class="text-center mt-auto"><a href="{{ post.url }}" class="btn btn-primary btn-sm mt-auto">Check it out</a></p>
-                  </div>
-               </div>
-	      </div>
-              {% endfor %}
+
  
  
  
