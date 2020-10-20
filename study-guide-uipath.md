@@ -436,10 +436,10 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
   <div class=" col-12 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12 mb-2  d-flex align-items-stretch">
     <div class="card" >
       <div class="card-header">UiPath Study Guide<a id="github-uipath"></a></div>
-      <img src="/assets/github-uipath.jpg" class="card-img-top" alt="UiPath GitHub">
+      <img src="/assets/background-small2.jpg" class="card-img-top" alt="UiPath GitHub">
       <div class="card-body d-flex flex-column">
 	      <h1>UiPath Certification Study Guide</h1>
-        <p class="text-center mt-auto">Follow this UiPath Study Guide and Associate Exam success will be yours!</p>
+        <p>Follow this UiPath Study Guide and Associate Exam success will be yours!</p>
       </div>
     </div>
   </div>
