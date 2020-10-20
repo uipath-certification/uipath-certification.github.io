@@ -3,6 +3,7 @@
 layout: default
 title: UiPath Certification Study Guide
 blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
+canonical: https://www.rpacertified.com/study-guide-uipath.html
 ---
 
 <div class="row" >
@@ -447,5 +448,4 @@ blurb: Here's a great UiPath Study Guide to help you pass the Associate exam.
 
   
 </div>
-
 
