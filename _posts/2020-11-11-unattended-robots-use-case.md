@@ -1,10 +1,10 @@
 ---
 layout: answered-question
 author: Serge
-title: UiPath Unattended Robots: Where and when to use them
+title: UiPath Unattended Robots - Where and when to use them
 blurb: What should you use for complex and repetative tasks? The UiPath Associate Exam tests you on this RPA concept.
 difficulty: 6
-objective: 1.2 Identify and describe the different types of robots, i.e., attended versus unattended robots
+objective: 1.2 Identify and describe the different types of robots i.e attended versus unattended robots
 canonical: https://www.rpacertified.com/2020/11/11/unattended-robots-use-case.html
 ---
 
