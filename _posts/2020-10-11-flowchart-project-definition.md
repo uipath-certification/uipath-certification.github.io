@@ -5,6 +5,7 @@ title: UiPath Flowchart Project Definition
 blurb: When should you use a UiPath Flowchart project?
 difficulty: 5
 objective: 
+canonical: https://www.rpacertified.com//2020/10/11/flowchart-project-definition.html
 ---
 
 Question: A task to be automated has multiple decision points with unique UiPath activities to be performed based on the outcome of various conditions. What type of project should be used in this situation?

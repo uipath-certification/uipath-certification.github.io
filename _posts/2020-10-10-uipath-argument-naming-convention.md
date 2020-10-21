@@ -5,6 +5,7 @@ title: UiPath Argument Naming Convention
 blurb: Do you know how to properly name UiPath output arguments?
 difficulty: 7
 objective: 
+canonical: https://www.rpacertified.com//2020/10/10/uipath-argument-naming-convention.html
 ---
 
 Question: A field that describes a name must be passed outside of a given project. What should it be named?

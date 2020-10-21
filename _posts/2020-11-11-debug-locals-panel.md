@@ -2,9 +2,10 @@
 layout: answered-question
 author: Serge
 title: Which panel only displays on debug?
-blurb: Do you know your UiPath debugging panel?
+blurb: Do you know your UiPath debugging panel? Make sure you can answer this UiPath Associate test question.
 difficulty: 6
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
+canonical: https://www.rpacertified.com//2020/11/11/debug-locals-panel.html
 ---
 <h1>UiPath Studio Locals Panel for Debugging</h1>
 Question: Which UiPath Studio screen only appears while you are actively debugging a program?

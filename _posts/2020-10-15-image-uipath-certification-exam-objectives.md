@@ -2,8 +2,9 @@
 layout: default
 author: Serge
 title: Image of UiPath Certification Exam Objectives     
-blurb: This is just the UiPath exam objectives as a PNG image if you want to print it out.
+blurb: This is just the UiPath Associate exam objectives as a PNG image if you want to print it out.
 difficulty: 7
+canonical: https://www.rpacertified.com//2020/10/15/image-uipath-certification-exam-objectives.html
 ---
 
 ## UiPath Exam Objectives Image

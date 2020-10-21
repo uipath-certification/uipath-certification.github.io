@@ -4,7 +4,7 @@ author: Serge
 title: Correct UiPath Variable Names
 blurb: Can you pick out the poorly named UiPath variable?
 tweet: Can you tell which one of these UiPath variable names is valid and which ones are not? Correct UiPath variable names is an important part of the UiPath Associate certification.  #UiPath #mockexam #UiPathCertification
-difficulty: 7
+canonical: https://www.rpacertified.com//2020/10/10/variable-naming-conventions.html
 ---
 
 Question: Which of the following is a valid UiPath variable name?

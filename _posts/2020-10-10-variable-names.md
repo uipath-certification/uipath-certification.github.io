@@ -4,6 +4,7 @@ author: Serge
 title: Incorrect UiPath Variable Names
 blurb: Can you pick out the poorly named UiPath variable?
 difficulty: 7
+canonical: https://www.rpacertified.com//2020/10/10/variable-names.html
 ---
 
 Question: Which of the following violates the UiPath variable naming convention?

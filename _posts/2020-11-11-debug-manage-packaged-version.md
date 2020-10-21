@@ -5,6 +5,7 @@ title: How to find UiPath library versions.
 blurb: Do you know how to figure out what version of the Excel Activities library is installed in UiPath Studio?
 difficulty: 4
 objective: 2.2 Identify and describe how to use Manage Packages
+canonical: https://www.rpacertified.com//2020/11/11/debug-manage-packaged-version.html
 ---
 
 <h1>UiPath Activities Package Version Number</h1>

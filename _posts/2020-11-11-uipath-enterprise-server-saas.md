@@ -1,10 +1,11 @@
 ---
 layout: answered-question
 author: Serge
-title: UiPath Enterprise Server
-blurb: Do you know how the UiPath Enterprise Server is different from the Enterprise Cloud?
+title: UiPath Enterprise Server and the UiPath Cert Exam
+blurb: Do you know how the UiPath Enterprise Server is different from the Enterprise Cloud well enough to pass questions on this exam objective in the UiPath Associate cert test?
 difficulty: 7
 objective: 1.4 Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition
+canonical: https://www.rpacertified.com//2020/11/11/uipath-enterprise-server-saas.html
 ---
 
 Question: The UiPath Enterprise Server:

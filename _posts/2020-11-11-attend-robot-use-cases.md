@@ -2,9 +2,10 @@
 layout: answered-question
 author: Serge
 title: When to use attended robots
-blurb: Small and fragmented or large and cohesive? When is an unattended robot best?
+blurb: Small and fragmented or large and cohesive? When is an unattended robot best? Your UiPath attended vs Unattended robot questions answered.
 difficulty: 6
 objective: 1.2 Identify and describe the different types of robots, i.e., attended versus unattended robots
+canonical: https://www.rpacertified.com//2020/11/11/attend-robot-use-cases.html
 ---
 
 Question: Attended robots are best used with:

@@ -2,6 +2,7 @@
 layout: default
 title: UiPath Cert Exam RPA Fundamentals Objective
 blurb: Here's a UiPath YouTube tutorial on the RPA Fundamentals Associate Exam objective.
+canonical:https://www.rpacertified.com//2020/01/11/rpa-fundamentals-uipath-cert-objective.html
 ---
 
 ## UiPath Certification: RPA Fundamentals

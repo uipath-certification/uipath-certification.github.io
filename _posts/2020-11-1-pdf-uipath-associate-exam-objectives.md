@@ -4,6 +4,7 @@ author: Serge
 title: UiPath Associate Certification Exam Objectives PDF      
 blurb: Here's a PDF file containing the UiPath Associate Exam objectives.
 difficulty: 7
+canonical: https://www.rpacertified.com//2020/11/01/pdf-uipath-associate-exam-objectives.html
 ---
 
 ## PDF of UiPath Exam Objectives

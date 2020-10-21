@@ -5,6 +5,7 @@ title: Screaming Snake Case
 blurb: Have you ever heard of screaming snake case before?
 tweet: Are you familiar with screaming snake case. You need to know the various variable name conventions to pass the UiPath Certification exam.   #UiPath #mockexam #UiPathCertification
 difficulty: 7
+canonical: https://www.rpacertified.com//2020/10/10/screaming-snake-case.html
 ---
 
 Question: The variable `UIPATH_ASSOCIATE_EXAM` is said to follow what naming convention ?

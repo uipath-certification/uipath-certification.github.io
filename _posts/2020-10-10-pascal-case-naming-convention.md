@@ -5,6 +5,7 @@ title: Pascal Case Variable Naming Convention
 blurb: Here's a naming convention only a Turbo Pascal fan could love
 tweet: Are you familiar with screaming snake case. You need to know the various variable name conventions to pass the UiPath Certification exam.   #UiPath #mockexam #UiPathCertification
 difficulty: 3
+canonical: https://www.rpacertified.com//2020/10/10/pascal-case-naming-convention.html
 ---
 
 Question: Which of the following is an example of the Pascal case naming convention?

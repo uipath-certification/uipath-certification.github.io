@@ -1,10 +1,11 @@
 ---
 layout: answered-question
 author: Serge
-title: UiPath Enterprise Server
-blurb: UiPath Studio Community vs Enterprise Updates
+title: UiPath Enterprise Server vs Community Edition
+blurb: UiPath Studio Community vs Enterprise Studio and Orchestrator is tested on the UiPath Associate Certification Exam.
 difficulty: 7
 objective: 1.4 Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition
+canonical: https://www.rpacertified.com//2020/11/11/uipath-studio-enterprise-vs-community.html
 ---
 
 Question: Which of the following is true about UiPath Studio?

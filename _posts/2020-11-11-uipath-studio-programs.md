@@ -5,6 +5,7 @@ title: UiPath Studio Community Edition and Orchestrator
 blurb: This UiPath Associate exam question deals with UiPath Studio Community Edition and the Orchestrator
 difficulty: 6
 objective: 1.4 Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition
+canonical: 
 ---
 
 Question: Which of the following is true about programs written in UiPath Stuido Community Edition?

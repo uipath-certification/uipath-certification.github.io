@@ -2,9 +2,10 @@
 layout: answered-question
 author: Serge
 title: UiPath Standard vs Floating Robots
-blurb: Do you know your floating and standard robots?
+blurb: Do you know the difference between floating and standard robots enough to pass the UiPath Cert Exam? Here we explain the difference between them.
 difficulty: 8
 objective: 1.1 Identify and describe the different types of robots, i.e., attended versus unattended robots
+canonical: https://www.rpacertified.com//2020/11/11/standard-robots-unattended-uipath.html
 ---
 
 Question: A robot that is tied to a specific machine and not allowed to run on any machines other than the one it is tied to in UiPath Orchestrator is known as:

@@ -2,9 +2,10 @@
 layout: answered-question
 author: Serge
 title: Is the UiPath Debugger not working?
-blurb: When should you use the UiPath Step Into debug feature?
+blurb: Is the UiPath Studio Debugger not working? Here are possible causes, and more importantly, a possible solution.
 difficulty: 6
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
+canonical: https://www.rpacertified.com//2020/11/11/debugger-not-working-uipath.html
 ---
 
 <h1>UiPath Studio Debugger Features</h1>

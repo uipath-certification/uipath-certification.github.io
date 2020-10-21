@@ -1,10 +1,11 @@
 ---
 layout: answered-question
 author: Serge
-title: Flowchart and Sequence Projects
+title: UiPath Flowchart and Sequence Projects
 blurb: How do you combine UiPath flowchart and sequence projects?
 difficulty: 5
 objective: 
+canonical: https://www.rpacertified.com//2020/10/11/sequence-flowchart-combined.html
 ---
 
 Question: A complex activity to be automated has many subroutines to be executed depending on the result of evaluating various logical conditions. What is the best approach to architecting this RPA activity?

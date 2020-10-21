@@ -5,6 +5,7 @@ title: UiPath State Machine Projects
 blurb: Here's what you need to know about state machines on the UiPath Associate exam
 difficulty: 7
 objective: 
+canonical: https://www.rpacertified.com//2020/10/11/state-machine.html
 ---
 
 Question: A UiPath `transition` activity is associated with which type of project? 

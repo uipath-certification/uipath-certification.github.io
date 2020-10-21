@@ -2,9 +2,10 @@
 layout: answered-question
 author: Serge
 title: A linear UiPath project?
-blurb: Which type of project is best for linear activities?
+blurb: Which type of project is best for linear activities? The UiPath Associate Exam wants to know.
 difficulty: 5
 objective: 
+canonical: https://www.rpacertified.com//2020/10/11/linear-sequence-projects.html
 ---
 
 Question: Which type of project is best for linear activities involving multiple activities such as OCR and PDF data extraction?

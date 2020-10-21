@@ -5,6 +5,7 @@ title: UiPath Sequence Project
 blurb: When should you use a UiPath Sequence project?
 difficulty: 5
 objective: 
+canonical: https://www.rpacertified.com//2020/10/10/variables-case-sensitive-uipath.html
 ---
 
 Question: Which type of project is most likely to be used and reused in other projects?

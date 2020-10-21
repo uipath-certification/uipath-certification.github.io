@@ -1,8 +1,9 @@
 ---
 layout: practice-test
 author: Serge
-title: UiPath Mock exam on workflow, sequences and flowcharts
-blurb: Test yourself to see if you know when to use a UiPath Studio sequence vs flowchart project?
+title: UiPath Associate Mock exam on workflow, sequences and flowcharts
+blurb: Test yourself to see if you know when to use a UiPath Studio sequence vs flowchart project? This UiPath Mock exam will prepare you for Associate and Developer certification.
+canonical: https://www.rpacertified.com//2020/10/12/workflow-sequences-flowcharts-quiz.html
 ---
 <script>
 var exam = null;

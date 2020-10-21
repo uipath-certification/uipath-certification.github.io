@@ -3,7 +3,9 @@ layout: practice-test
 author: Serge
 title: Attended vs Unattened Uipath Robots Quiz
 blurb: You need to know the difference between attended and unattended robots to pass the UiPath Associate Exam.
+canonical: https://www.rpacertified.com//2020/11/11/unattended-robots-when-to-use.html
 ---
+
 <script>
 var exam = null;
 var questionNumber = 0;

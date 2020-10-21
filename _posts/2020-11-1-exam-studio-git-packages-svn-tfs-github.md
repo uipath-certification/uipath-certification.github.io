@@ -3,6 +3,7 @@ layout: practice-test
 author: Serge
 title: UiPath Mock Exam on Git, Packages and Debugging Studio
 blurb: How well do you know UiPath Studio debugging? This UiPath Certification Practice Test will help you guage your readiness to take the exam.
+canonical: https://www.rpacertified.com//2020/11/01/exam-studio-git-packages-svn-tfs-github.html
 ---
 <script>
 var exam = null;

@@ -5,6 +5,7 @@ title: UiPath Studio Community Edition Rules
 blurb: Do you know when you should and should not use UiPath Studio Community Edition?
 difficulty: 6
 objective: 1.4 Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition
+canonical: 
 ---
 
 Question: Which of the following statements are true about UiPath Studio Community Edition (CE)?

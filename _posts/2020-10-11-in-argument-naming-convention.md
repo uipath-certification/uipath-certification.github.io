@@ -5,6 +5,7 @@ title: In Argument Naming Convention
 blurb: Do you know how to properly name UiPath output arguments?
 difficulty: 7
 objective: 
+canonical: https://www.rpacertified.com//2020/10/11/in-argument-naming-convention.html
 ---
 
 Question: The data being passed in as an argument can only be used within the current project. What should the variable be named so as not to trigger the UiPath Studio analyzer?

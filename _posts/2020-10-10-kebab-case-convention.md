@@ -3,6 +3,7 @@ layout: answered-question
 author: Serge
 title: UiPath and Kebab Case
 blurb: What is kebab case? I love it. UiPath? Not so much
+canonical:https://www.rpacertified.com//2020/10/10/kebab-case-convention.html
 ---
 
 Question: Which of the following variables is named using kebab-case?

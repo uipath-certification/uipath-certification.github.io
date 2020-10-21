@@ -5,6 +5,7 @@ title: Worflow Diff vs Compare Files in UiPath Studio
 blurb: Know the difference between Compare Files and Workflow Diff for the UiPath Certification Exam
 difficulty: 8
 objective: 2.3 Explain the significance of connecting an automation project to the version control solution
+canonical: https://www.rpacertified.com//2020/11/11/debug-compare-files-studio.html
 ---
 <h1>UiPath Compare Files tool</h1>
 

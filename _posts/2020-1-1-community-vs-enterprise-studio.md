@@ -3,6 +3,7 @@ layout: practice-test
 author: Serge
 title: UiPath Studio Community vs Enterprise Edition
 blurb: Easy marks are lost if you don't know the difference between community and enterprise editions of UiPath Studio.
+canonical: https://www.rpacertified.com//2020/11/11/uipath-studio-enterprise-vs-community.html
 ---
 <script>
 var exam = null;

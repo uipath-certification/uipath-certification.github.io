@@ -3,6 +3,7 @@ layout: answered-question
 author: Serge
 title: UiPath Camel Case Naming Convention
 blurb: Here's a UiPath mock exam question on camel case naming conventions
+canonical: https://www.rpacertified.com//2020/10/10/camelcase-naming-convention.html
 ---
 
 Question: Which of the following would be an example of a camel case naming convention?

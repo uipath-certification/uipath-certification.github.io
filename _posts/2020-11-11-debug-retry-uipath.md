@@ -2,9 +2,10 @@
 layout: answered-question
 author: Serge
 title: How to retry when debugging UiPath
-blurb: What does the UiPath retry button do when debugging?
+blurb: What does the UiPath retry button do when debugging RPA apps in Studio?
 difficulty: 7
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
+canonical: https://www.rpacertified.com//2020/11/11/debug-retry-uipath.html
 ---
 
 <h1>UiPath Debugger's Retry Button</h1>

@@ -5,6 +5,7 @@ title: UiPath Studio Community Edition Trial
 blurb: How long does a UiPath Studio Community Edition trial last?
 difficulty: 6
 objective: 1.1 Identify and describe the different types of robots, i.e., attended versus unattended robots
+canonical: https://www.rpacertified.com//2020/11/11/uipath-robot-security-isoloation.html
 ---
 
 Question: Which of the following statements are true?

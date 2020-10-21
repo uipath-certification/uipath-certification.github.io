@@ -2,9 +2,10 @@
 layout: answered-question
 author: Serge
 title: UiPath Studio Log File Location
-blurb: Where does UiPath Studio store its log files?
+blurb: Where does UiPath Studio store its log files? It's something a UiPath developer should know.
 difficulty: 9
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
+canonical: https://www.rpacertified.com//2020/11/11/debug-log-file-location.html
 ---
 
 <h1>UiPath Studio Log File Location</h1>

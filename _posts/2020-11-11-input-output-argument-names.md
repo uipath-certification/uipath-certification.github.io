@@ -1,10 +1,11 @@
 ---
 layout: answered-question
 author: Serge
-title: In and Out Burgers? No. UiPath Arguments
-blurb: Do you know how to name in and out variables without upsetting the UiPath Studio Analyzer?
+title: In and Out UiPath Arguments and Variables
+blurb: In and Out isn't just for burgers. It's for UiPath arguments too. Do you know how to name in and out arguments without upsetting the UiPath Studio Analyzer?
 difficulty: 7
 objective: 
+canonical: https://www.rpacertified.com//2020/11/11/input-output-argument-names.html
 ---
 
 Question: You must pass exam data as an argument, but the data will be used both inside and oustide of the current workflow project. What should the variable be named? 

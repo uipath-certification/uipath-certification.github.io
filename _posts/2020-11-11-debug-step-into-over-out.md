@@ -2,9 +2,10 @@
 layout: answered-question
 author: Serge
 title: UiPath Step Into Debugger
-blurb: When should you use the UiPath Step Into debug feature?
+blurb: When should you use the UiPath Step Into debug feature vs Step Over or Step Out in Studio?
 difficulty: 6
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
+canonical: https://www.rpacertified.com//2020/11/11/debug-step-into-over-out.html
 ---
 
 <h1>Step into and Step Over Debug Tools</h1>

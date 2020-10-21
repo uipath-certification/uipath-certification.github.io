@@ -5,6 +5,7 @@ title: UiPath Version Control Support
 blurb: What do UiPath, TFS, Git and SVN all have in common?
 difficulty: 6
 objective: 2.3 Explain the significance of connecting an automation project to the version control solution
+canonical: https://www.rpacertified.com//2020/11/11/debug-git-tfs-svn.html
 ---
 
 <h1>Uipath Git, GitHub, TFS and Subversion SVN</h1>
