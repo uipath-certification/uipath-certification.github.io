@@ -12,10 +12,18 @@
       </script>
       <title>{{ page.title }}</title>
 <!-- canonical attempt: {{ page.title }} -->
-{% if page.description %}
-<meta name="description" content="page.description"/>   
+<!-- canonical attempt: {{ page.canonical }} -->	   
+{% if page.canonical %}
+<link rel="canonical" href="{{ page.canonical }}" />
 {% else %}
-<meta name="description" content="Get RPA certified with answers to the UiPath Exam questions. For both UiPath Associate and Developer exams, we have practice tests, study guides, training tutorials and even cheat-free brain dumps."/>   
+<!-- This is the else for if canonical -->	   
+{% endif %}
+	   
+<!-- canonical attempt: {{ page.title }} -->
+{% if page.title %}
+<meta name="description" content="page.title"/>   
+{% else %}
+<meta name="description" content="UiPath Associate Certification practice questions and answers, study guides, braindumps, mock exams, Orhcestrator overview, test objectives and online UiPath tutorials. We help you get RPA certified fast."/>   
 {% endif %}
 	   
 	   
