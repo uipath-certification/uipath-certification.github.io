@@ -11,11 +11,25 @@
          gtag('config', 'UA-179472407-1');
       </script>
       <title>{{ page.title }}</title>
-	   <meta name="description" content="UiPath Certification Exam questions and answers to help you practice, learn and get RPA certified."/>
+	   
+	   
+{% if page.canonical %}
+<link rel="canonical" href="{{ page.canonical }}" />
+{% else %}
+<!-- This is the else for if canonical -->	   
+{% endif %}
+	   
+<!-- canonical attempt: {{ page.description }} -->
+{% if page.description %}
+<meta name="description" content="page.description"/>   
+{% else %}
+<meta name="description" content="Get UiPath Certified Fast with our online UiPath Practice tests, exam answers, study guides and tutorials. Learn RPA and quickly get your UiPath Associate and Developer Certification "/>   
+{% endif %}
+	   
 <meta name="keywords" content="UiPath Certification, UiPath Associate Exam, UiPath Developer Exam, UiPath Certification Questions, UiPath Certification Questions and Answers, UiPath Braindump"/>
-	   <meta name="robots" content="index, follow" />
-      <meta charset="utf-8"/>
-      <meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="robots" content="index, follow" />
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
    
 	   
  {% include boostrap-css.html %}        
