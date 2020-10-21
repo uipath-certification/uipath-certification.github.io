@@ -74,12 +74,12 @@ canonical: https://www.rpacertified.com/associate-objectives.html
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">RPA Robotic Process Automation Fundamentals</h2>
-                <ul>
+                <ol style="list-style-type: decimal;" 
 		    <li class="card-text">Identify sample use cases that describes the processes and workloads that can be automated</li>
                     <li class="card-text">Identify and describe the different types of robots, i.e., attended versus unattended robots</li>
                     <li class="card-text">Explain the functionality of the various UiPath products, i.e., Studio, Robots, and Orchestrator</li>
 		    <li class="card-text">Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition</li>
-                </ul>
+                </ol>
 				 
             </div>
         </div>
@@ -93,11 +93,11 @@ canonical: https://www.rpacertified.com/associate-objectives.html
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">UiPath Studio Overview</h2>
-                <ul>
+                <ol style="list-style-type: decimal;" start="2">>
                     <li class="card-text">Understand and explain the automation debug functions and usage such as breakpoints</li>
                     <li class="card-text">Identify and describe how to use Manage Packages</li>
                     <li class="card-text">Explain the significance of connecting an automation project to the version control solution</li>
-                </ul>
+                </ol>
 		<!--
 			<p class="text-center">
 			<a href="https://www.rpacertified.com/study-guide-uipath.html">
@@ -117,12 +117,12 @@ canonical: https://www.rpacertified.com/associate-objectives.html
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">UiPath Studio Basics – Variables and Arguments</h2>
-                <ul>
+                <ol style="list-style-type: decimal;" start="2">
                     <li class="card-text">Identify the different variable types available in the UiPath Studio Variables panel</li>
                     <li class="card-text">Explain how variables are used, managed, and the best practice for using the variable scope in the UiPath Studio Variables panel</li>
                     <li class="card-text">Describe the difference between using variables versus using arguments</li>
                     <li class="card-text">Explain how arguments are used, managed, and the best practice for using the argument direction in the UiPath Studio Arguments panel</li>
-                </ul>
+                </ol>
             </div>
         </div>
     </div>
@@ -135,13 +135,13 @@ canonical: https://www.rpacertified.com/associate-objectives.html
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">UiPath Studio and Selectors</h2>
-                <ul>
+                <ol style="list-style-type: decimal;" start="2">
                     <li class="card-text">Identify, describe, and demonstrate how dynamic versus static selectors are used</li>
                     <li class="card-text">Identify and describe how partial versus full selectors are used</li>
                     <li class="card-text">Identify and describe how and when to use Anchors</li>
                     <li class="card-text">Demonstrate the use of UI Explorer to modify selectors</li>
                     <li class="card-text">Demonstrate the use a reliable selector</li>
-                </ul>
+                </ol>
             </div>
         </div>
     </div>
@@ -154,11 +154,11 @@ canonical: https://www.rpacertified.com/associate-objectives.html
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">UiPath Studio Programming Concepts – Flow Control</h2>
-                <ul>
+                <ol style="list-style-type: decimal;" start="2">
                     <li class="card-text">Explain how to use control flow activities, workflow types such as sequences and flowcharts, and their functions</li>
                     <li class="card-text">Identify and describe the various control flow activities such as If, Switch, Break, Parallel, While, etc.</li>
                     <li class="card-text">Explain the importance of error handling and how it can be implemented</li>
-                </ul>
+                </ol>
             </div>
         </div>
     </div>
@@ -171,10 +171,10 @@ canonical: https://www.rpacertified.com/associate-objectives.html
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">Advanced UiPath Studio – Data Manipulation</h2>
-                <ul>
+                <ol style="list-style-type: decimal;" start="2">
                     <li class="card-text">Describe the importance and reasons why data manipulation is used</li>
                     <li class="card-text">Explain how string manipulations, collections, and datatables are used for data manipulation</li>
-                </ul>
+                </ol>
             </div>
         </div>
     </div>
@@ -187,11 +187,11 @@ canonical: https://www.rpacertified.com/associate-objectives.html
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">UiPath Robotic Automation Concepts, Applications and Techniques</h2>
-                <ul>
+                <ol style="list-style-type: decimal;" start="2">
                     <li class="card-text">Identify and explain how to automate e-mail and how email automation is helpful</li>
                     <li class="card-text">Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation</li>
                     <li class="card-text">Describe the functions used to extract data from a .pdf file; for example, using OCR</li>
-                </ul>
+                </ol>
             </div>
         </div>
     </div>
@@ -204,11 +204,11 @@ canonical: https://www.rpacertified.com/associate-objectives.html
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">An overview of UiPath Orchestrator</h2>
-                <ul>
+                <ol style="list-style-type: decimal;" start="2">
                     <li class="card-text">Describe how to provision attended and unattended robots to UiPath Orchestrator</li>
                     <li class="card-text">Identify and describe how to use UiPath Orchestrator queues and assets</li>
                     <li class="card-text">Identify and explain how packages are published to UiPath Orchestrator in the cloud</li>
-                </ul>
+                </ol>
             </div>
         </div>
     </div>
