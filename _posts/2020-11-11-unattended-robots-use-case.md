@@ -15,7 +15,7 @@ Question: In contrast with attended robots, unattended robots are best used with
 - [ ] &nbsp;  simple, repetative tasks
 - [x] &nbsp;  complex, repetative tasks
 
-## Answer
+## Answer 
 
 Option d is correct.
 
