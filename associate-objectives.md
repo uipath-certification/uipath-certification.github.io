@@ -75,7 +75,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">RPA Robotic Process Automation Fundamentals</h2>
-                <ol style="list-style-type: decimal;" 
+                <ol style="list-style-type: decimal;">
 		    <li class="card-text">Identify sample use cases that describes the processes and workloads that can be automated</li>
                     <li class="card-text">Identify and describe the different types of robots, i.e., attended versus unattended robots</li>
                     <li class="card-text">Explain the functionality of the various UiPath products, i.e., Studio, Robots, and Orchestrator</li>
