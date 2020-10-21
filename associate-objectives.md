@@ -71,18 +71,18 @@ canonical: https://www.rpacertified.com/associate-objectives.html
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card ">
             <div class="card-header">
-                1. RPA Fundamentals Exam Objective
+                RPA Fundamentals Exam Objective
             </div>
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
-                <h2 class="card-title">RPA Robotic Process Automation Fundamentals</h2>
+                <h2 class="card-title">1. RPA Robotic Process Automation Fundamentals</h2>
                 <ol >
 		    <li class="card-text">Identify sample use cases that describes the processes and workloads that can be automated</li>
                     <li class="card-text">Identify and describe the different types of robots, i.e., attended versus unattended robots</li>
                     <li class="card-text">Explain the functionality of the various UiPath products, i.e., Studio, Robots, and Orchestrator</li>
 		    <li class="card-text">Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition</li>
                 </ol>
-		<h6>Code: rpa</h4>		 
+		<h6>Code: rpa</h6>		 
             </div>
         </div>
     </div>
@@ -90,17 +90,17 @@ canonical: https://www.rpacertified.com/associate-objectives.html
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card ">
             <div class="card-header">
-                2. UiPath Studio Objective
+                UiPath Studio Objective
             </div>
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
-                <h2 class="card-title">UiPath Studio Overview</h2>
+                <h2 class="card-title">2. UiPath Studio Overview</h2>
                 <ol >
                     <li class="card-text">Understand and explain the automation debug functions and usage such as breakpoints</li>
                     <li class="card-text">Identify and describe how to use Manage Packages</li>
                     <li class="card-text">Explain the significance of connecting an automation project to the version control solution</li>
                 </ol>
-		<h6>Code: debug</h4>
+		<h6>Code: debug</h6>
 		<!--
 			<p class="text-center">
 			<a href="https://www.rpacertified.com/study-guide-uipath.html">
@@ -115,18 +115,18 @@ canonical: https://www.rpacertified.com/associate-objectives.html
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card ">
             <div class="card-header">
-                3 UiPath Programming Basics
+                UiPath Programming Basics
             </div>
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
-                <h2 class="card-title">UiPath Studio Basics – Variables and Arguments</h2>
+                <h2 class="card-title">3 UiPath Studio Basics – Variables and Arguments</h2>
                 <ol>
                     <li class="card-text">Identify the different variable types available in the UiPath Studio Variables panel</li>
                     <li class="card-text">Explain how variables are used, managed, and the best practice for using the variable scope in the UiPath Studio Variables panel</li>
                     <li class="card-text">Describe the difference between using variables versus using arguments</li>
                     <li class="card-text">Explain how arguments are used, managed, and the best practice for using the argument direction in the UiPath Studio Arguments panel</li>
                 </ol>
-		<h6>Code: var</h4>
+		<h6>Code: var</h6>
             </div>
         </div>
     </div>
@@ -134,11 +134,11 @@ canonical: https://www.rpacertified.com/associate-objectives.html
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card ">
             <div class="card-header">
-                4 Static and Dynamic Selectors
+                Static and Dynamic Selectors
             </div>
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
-                <h2 class="card-title">UiPath Studio and Selectors</h2>
+                <h2 class="card-title">4 UiPath Studio and Selectors</h2>
                 <ol>
                     <li class="card-text">Identify, describe, and demonstrate how dynamic versus static selectors are used</li>
                     <li class="card-text">Identify and describe how partial versus full selectors are used</li>
@@ -146,7 +146,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
                     <li class="card-text">Demonstrate the use of UI Explorer to modify selectors</li>
                     <li class="card-text">Demonstrate the use a reliable selector</li>
                 </ol>
-		<h6>Code: sell</h4>
+		<h6>Code: sell</h6>
             </div>
         </div>
     </div>
@@ -154,17 +154,17 @@ canonical: https://www.rpacertified.com/associate-objectives.html
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card ">
             <div class="card-header">
-               5 Iterative and Conditional Logic
+                Iterative and Conditional Logic
             </div>
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
-                <h2 class="card-title">UiPath Studio Programming Concepts – Flow Control</h2>
+                <h2 class="card-title">5 UiPath Studio Programming Concepts – Flow Control</h2>
                 <ol >
                     <li class="card-text">Explain how to use control flow activities, workflow types such as sequences and flowcharts, and their functions</li>
                     <li class="card-text">Identify and describe the various control flow activities such as If, Switch, Break, Parallel, While, etc.</li>
                     <li class="card-text">Explain the importance of error handling and how it can be implemented</li>
                 </ol>
-		<h6>Code: flow</h4>
+		<h6>Code: flow</h6>
             </div>
         </div>
     </div>
@@ -172,16 +172,16 @@ canonical: https://www.rpacertified.com/associate-objectives.html
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card ">
             <div class="card-header">
-                6 Strings, Structured Data and DataTables
+                Strings, Structured Data and DataTables
             </div>
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
-                <h2 class="card-title">Advanced UiPath Studio – Data Manipulation</h2>
+                <h2 class="card-title">6 Advanced UiPath Studio – Data Manipulation</h2>
                 <ol >
                     <li class="card-text">Describe the importance and reasons why data manipulation is used</li>
                     <li class="card-text">Explain how string manipulations, collections, and datatables are used for data manipulation</li>
                 </ol>
-		<h6>Code: data</h4>
+		<h6>Code: data</h6>
             </div>
         </div>
     </div>
@@ -189,17 +189,17 @@ canonical: https://www.rpacertified.com/associate-objectives.html
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card ">
             <div class="card-header">
-                7 Robotic Process Automation Fundamentals
+                Robotic Process Automation Fundamentals
             </div>
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
-                <h2 class="card-title">UiPath Robotic Automation Concepts, Applications and Techniques</h2>
+                <h2 class="card-title">7 UiPath Robotic Automation Concepts, Applications and Techniques</h2>
                 <ol >
                     <li class="card-text">Identify and explain how to automate e-mail and how email automation is helpful</li>
                     <li class="card-text">Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation</li>
                     <li class="card-text">Describe the functions used to extract data from a .pdf file; for example, using OCR</li>
                 </ol>
-		<h6>Code: act</h4>
+		<h6>Code: act</h6>
             </div>
         </div>
     </div>
@@ -207,17 +207,17 @@ canonical: https://www.rpacertified.com/associate-objectives.html
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card ">
             <div class="card-header">
-                8 UiPath Orchestrator
+                UiPath Orchestrator
             </div>
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
-                <h2 class="card-title">An overview of UiPath Orchestrator</h2>
+                <h2 class="card-title">8 An overview of UiPath Orchestrator</h2>
                 <ol >
                     <li class="card-text">Describe how to provision attended and unattended robots to UiPath Orchestrator</li>
                     <li class="card-text">Identify and describe how to use UiPath Orchestrator queues and assets</li>
                     <li class="card-text">Identify and explain how packages are published to UiPath Orchestrator in the cloud</li>
                 </ol>
-		<h6>Code: orc</h4>
+		<h6>Code: orc</h6>
             </div>
         </div>
     </div>
