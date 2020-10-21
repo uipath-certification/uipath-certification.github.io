@@ -94,7 +94,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
                 <h2 class="card-title">UiPath Studio Overview</h2>
-                <ol style="list-style-type: decimal;" start="2">>
+                <ol style="list-style-type: decimal;" start="2">
                     <li class="card-text">Understand and explain the automation debug functions and usage such as breakpoints</li>
                     <li class="card-text">Identify and describe how to use Manage Packages</li>
                     <li class="card-text">Explain the significance of connecting an automation project to the version control solution</li>
