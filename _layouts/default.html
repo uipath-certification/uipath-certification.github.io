@@ -12,23 +12,29 @@
       </script>
       <title>{{ page.title }}</title>
 	   
+<!-- canonical attempt: {{ page.canonical }} -->	   
 {% if page.canonical %}
 <link rel="canonical" href="{{ page.canonical }}" />
 {% else %}
 <!-- This is the else for if canonical -->	   
 {% endif %}
-	   <!-- canonical attempt: {{ page.canonical }} -->
 	   
-	   <meta name="attempt" content="done" />	   
-	   <meta name="robots" content="index, follow" />
+<!-- canonical attempt: {{ page.description }} -->
+{% if page.description %}
+<meta name="description" content="page.description"/>   
+{% else %}
+<meta name="description" content="UiPath Associate Certification practice questions and answers, study guides, braindumps, mock exams, Orhcestrator overview, test objectives and online UiPath tutorials. We help you get RPA certified fast."/>   
+{% endif %}
+	   
+	   
+	   
+<meta name="robots" content="index, follow" />
 <meta name="description" content="Community sourced UiPath Associate Certification practice exams, study guides, braindumps, objectives and online tutorials. We help you get RPA certified fast."/>
 <meta name="keywords" content="UiPath Certification, UiPath Associate Exam, UiPath Developer Exam, UiPath Certification Questions, UiPath Certification Questions and Answers, UiPath Braindump"/>
-
-      <meta charset="utf-8"/>
-      <meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
 	   
-	   
- {% include boostrap-css.html %}        
+{% include boostrap-css.html %}        
 	   
 	   <style>
 	      
