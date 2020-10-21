@@ -1,6 +1,7 @@
 ---
 layout: default
 title: How to prepare for the UiPath exam
+blurb: How do you get UiPath Certified? It's simple. Just follow this Associate Exam preparation plan and you'll have your RPA certification in no time.
 canonical: https://www.rpacertified.com/exam-prep.html
 ---
 <div class="row">
