@@ -1,6 +1,7 @@
 ---
 layout: default
 title: UiPath Exam Objectives
+blurb: The UiPath Associate Exam Objectives are where you need to focus your RPA learning in order to get UiPath Certified fast.
 canonical: https://www.rpacertified.com/associate-objectives.html
 ---
 
