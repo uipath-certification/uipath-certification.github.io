@@ -119,7 +119,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
             </div>
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
-                <h2 class="card-title">3 UiPath Studio Basics – Variables and Arguments</h2>
+                <h2 class="card-title">3. UiPath Studio Basics – Variables and Arguments</h2>
                 <ol>
                     <li class="card-text">Identify the different variable types available in the UiPath Studio Variables panel</li>
                     <li class="card-text">Explain how variables are used, managed, and the best practice for using the variable scope in the UiPath Studio Variables panel</li>
@@ -138,7 +138,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
             </div>
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
-                <h2 class="card-title">4 UiPath Studio and Selectors</h2>
+                <h2 class="card-title">4. UiPath Studio and Selectors</h2>
                 <ol>
                     <li class="card-text">Identify, describe, and demonstrate how dynamic versus static selectors are used</li>
                     <li class="card-text">Identify and describe how partial versus full selectors are used</li>
@@ -158,7 +158,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
             </div>
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
-                <h2 class="card-title">5 UiPath Studio Programming Concepts – Flow Control</h2>
+                <h2 class="card-title">5. UiPath Studio Programming Concepts – Flow Control</h2>
                 <ol >
                     <li class="card-text">Explain how to use control flow activities, workflow types such as sequences and flowcharts, and their functions</li>
                     <li class="card-text">Identify and describe the various control flow activities such as If, Switch, Break, Parallel, While, etc.</li>
@@ -176,7 +176,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
             </div>
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
-                <h2 class="card-title">6 Advanced UiPath Studio – Data Manipulation</h2>
+                <h2 class="card-title">6. Advanced UiPath Studio – Data Manipulation</h2>
                 <ol >
                     <li class="card-text">Describe the importance and reasons why data manipulation is used</li>
                     <li class="card-text">Explain how string manipulations, collections, and datatables are used for data manipulation</li>
@@ -193,7 +193,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
             </div>
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
-                <h2 class="card-title">7 UiPath Robotic Automation Concepts, Applications and Techniques</h2>
+                <h2 class="card-title">7. UiPath Robotic Automation Concepts, Applications and Techniques</h2>
                 <ol >
                     <li class="card-text">Identify and explain how to automate e-mail and how email automation is helpful</li>
                     <li class="card-text">Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation</li>
@@ -211,7 +211,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
             </div>
             <img src="/assets/background-small4.jpg" class="card-img-top" alt="background" />
             <div class="card-body">
-                <h2 class="card-title">8 An overview of UiPath Orchestrator</h2>
+                <h2 class="card-title">8. An overview of UiPath Orchestrator</h2>
                 <ol >
                     <li class="card-text">Describe how to provision attended and unattended robots to UiPath Orchestrator</li>
                     <li class="card-text">Identify and describe how to use UiPath Orchestrator queues and assets</li>
