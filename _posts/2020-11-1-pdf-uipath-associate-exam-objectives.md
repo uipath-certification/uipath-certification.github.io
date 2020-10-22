@@ -11,14 +11,14 @@ canonical: https://www.rpacertified.com//2020/11/01/pdf-uipath-associate-exam-ob
 
 Looking for a PDF of UiPath Associate Exam Objectives? Well here it is.
 
-We host the [UiPath Exam Objectives](/associate-objectives.html)  here, but sometimes people want a the UiPath certification exam in a [PDF format](uipath-associate-certification-exam-objectives.pdf). Well, here it is.
+We host the [UiPath Exam Objectives](/associate-objectives.html) here, but sometimes people want a the UiPath certification exam in a [PDF format](uipath-associate-certification-exam-objectives.pdf). Well, here it is.
 
 We've also got an [exam objectives image](http://uipath.rpacertified.com/2020/10/15/image-uipath-certification-exam-objectives.html) as well for those who want it in a PNG format.
 
 <object data="/assets/associate-objectives.html" type="application/pdf" width="100%"> 
   <p>It appears you don't have a PDF plugin for this browser.
    No biggie... you can just click to
-  download the <a href="/assets/uipath-associate-certification-exam-objectives.pdf">UiPath Exam Objectives PDF</a> file. </p>  
+  download it here: <a href="/assets/uipath-associate-certification-exam-objectives.pdf"><img src="download-objectives-pdf" alt="UiPath Exam Objectives PDF"/></a> </p>  
 </object>
 
 ### Exam objectives as an image
