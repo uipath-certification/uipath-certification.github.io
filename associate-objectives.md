@@ -247,7 +247,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
       <div class="card-header">UiPath Study Guide<a id="github-uipath"></a></div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="UiPath GitHub">
       <div class="card-body d-flex flex-column">
-	      <h1>UiPath Certification Exam Objectives</h1>
+	      <h1>Objectives for the UiPath Associate Certification Exam</h1>
         <p>When you study, study the UiPath Exam Objectives. They are your key to certification success!</p>
       </div>
     </div>
