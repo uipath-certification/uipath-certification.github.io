@@ -64,7 +64,7 @@ canonical: https://www.rpacertified.com
 		<div class="card-body  d-flex flex-column">
 			
 			<p class="card-text">Gain honest insights from other test takers without cheating. </p>
-			<p class="text-center mt-auto"><a href="/cert-brain-dumps-uipath.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+			<p class="text-center mt-auto"><a href="/cert-brain-dumps-uipath.html" class="text-center btn btn-outline-primary btn-sm">Exam Dumps</a></p>
 		</div>
 	</div>
  </div>
@@ -78,7 +78,7 @@ canonical: https://www.rpacertified.com
 		<div class="card-body  d-flex flex-column">
 		
 			<p class="card-text">Make sure you start your UiPath Cert journey off on the right foot.</p>
-			<p class="text-center mt-auto"><a href="exam-prep.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+			<p class="text-center mt-auto"><a href="exam-prep.html" class="text-center btn btn-outline-primary btn-sm">Cert Prep</a></p>
 			
 		</div>
 	</div>
@@ -96,7 +96,7 @@ canonical: https://www.rpacertified.com
 		<div class="card-body  d-flex flex-column">
 			
 			<p class="card-text">Work within our community and help others as they help you.</p>
-			<p class="text-center mt-auto"><a href="/youtube-linkedin-twitter.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
+			<p class="text-center mt-auto"><a href="/youtube-linkedin-twitter.html" class="text-center btn btn-outline-primary btn-sm">UiPath Experts</a></p>
 		</div>
 	</div>
  </div>
