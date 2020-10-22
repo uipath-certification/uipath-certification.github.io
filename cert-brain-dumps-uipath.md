@@ -1,8 +1,8 @@
 ---
 layout: default
-title: uipath certification dumps
+title: Free UiPath Certification Dumps
 blurb: Not a traditional braindump, these UiPath Certification Dumps help you guide your studies without cheating or giving away anything specific from the exam. Get RPA Certified with integrity.
-canonical: https://www.rpacertified.com/associate-objectives.html
+canonical: https://www.rpacertified.com/cert-brain-dumps-uipath.html
 ---
 
 <div class="row">
