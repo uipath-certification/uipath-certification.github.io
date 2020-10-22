@@ -11,7 +11,7 @@ canonical: https://www.rpacertified.com//2020/10/15/image-uipath-certification-e
 
 Here's a UiPath Certification Exam Objectives image.
 
-We host the [Associate Exam](/associate-objectives.html) Objectives on this site as text, but sometimes people want them as an image to print out or make into a screensaver or someething crazy like that. I'm not here to judge crazy.
+We host a listing of the [Associate Exam Objectives](/associate-objectives.html) on this site as normal HTML page, but sometimes people want them as an image to print out or make into a screensaver or someething crazy like that. I'm not here to judge crazy.
 
 It's a long image. But long is good. I may put one together as a two page PDF as well.
 
