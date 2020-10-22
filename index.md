@@ -60,7 +60,7 @@ canonical: https://www.rpacertified.com
   <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 						<div class="card" >
 		<div class="card-header">Cheat Free Exam Dumps</div>
-		<img src="/assets/uipath-exam-dumps-meme.jpg" class="card-img-top" alt="pass UiPath Associate Exam">
+		<img src="/assets/uipath-exam-dumps-meme-600.jpg" class="card-img-top" alt="pass UiPath Associate Exam">
 		<div class="card-body  d-flex flex-column">
 			
 			<p class="card-text">Gain insights from other test takers. </p>
