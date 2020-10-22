@@ -97,7 +97,7 @@ canonical: https://www.rpacertified.com
                <div class="card" >
 	       <img src="/assets/background-small2.jpg" class="card-img-top" alt="UiPath Certification Site Background">
                   <div class="card-header">
-                     <h1>Pass you UiPath Certification Exam</h1>
+                     <h1>UiPath Orchestrator, Studio and Associate Exam Resources</h1>
                   </div>
 		  
                   <div class="card-body  d-flex flex-column">
