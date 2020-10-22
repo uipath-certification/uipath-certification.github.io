@@ -74,7 +74,7 @@ canonical: https://www.rpacertified.com
  <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 	<div class="card" >
 	<div class="card-header">UiPath Cert Prep</div>
-	<img src="/assets/prepare.jpg" class="card-img-top" alt="uipath cert prep">
+	<img src="/assets/exam-is-coming.jpg" class="card-img-top" alt="uipath cert prep">
 		<div class="card-body  d-flex flex-column">
 		
 			<p class="card-text">Make sure you start your UiPath Cert journey off on the right foot.</p>
