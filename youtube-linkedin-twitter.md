@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UiPath YouTube Accounts to Follow
+title: UiPath YouTube Accounts to Follow for UiPath Cert Advice
 blurb: UiPath on YouTube? Who to follow on LinkedIn and TikTok? Here are the UiPath social media accounts you need to follow as you work to get RPA Certified.
 canonical: https://www.rpacertified.com/youtube-linkedin-twitter.html
 ---
