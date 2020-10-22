@@ -8,7 +8,7 @@ canonical: https://www.rpacertified.com//2020/01/11/rpa-fundamentals-uipath-cert
 ## UiPath Certification: RPA Fundamentals
 #### Exam Objective 1.3: Understand how UiPath products such as Assistant, Studio, Robots, and Orchestrator
 
-This YouTube video shows you the basics of what you need to know in order to get the correct answer to UiPath Exam Questions on objective 1.3.
+This YouTube video shows you the basics of what you need to know in order to get the correct answer to test questions on <a href="https://www.rpacertified.com/associate-objectives.html">UiPath Exam objective</a> 1.3.
      
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/X2AGYqIy4kk"></iframe>
