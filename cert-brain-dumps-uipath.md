@@ -12,7 +12,7 @@ canonical: https://www.rpacertified.com/cert-brain-dumps-uipath.html
    <div class="card mb-2" >
    <div class="card-header">Real Talk on UiPath Exam Dumps</div>
       <div class="row g-0">
-         <div class=" d-none d-sm-none d-lg-block col-lg-4">
+         <div class=" col-lg-4">
 		 <p class="card-text text-center">
             <img src="/assets/louder-uipath-exam-dump.jpg"  alt="mad man" class="img-fluid img-thumbnail">
          </p>
