@@ -92,7 +92,7 @@ canonical: https://www.rpacertified.com
  <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 						<div class="card" >
 						<div class="card-header">UiPath Associate Support</div>
-		<img src="/assets/collaborate.jpg" class="card-img-top" alt="UiPath on YouTube">
+		<img src="/assets/social-media-meme.jpg" class="card-img-top" alt="UiPath on YouTube">
 		<div class="card-body  d-flex flex-column">
 			
 			<p class="card-text">Work within our community and help others as they help you.</p>
