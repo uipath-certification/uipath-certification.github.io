@@ -18,7 +18,7 @@ We've also got an [exam objectives image](http://uipath.rpacertified.com/2020/10
 <object data="/assets/associate-objectives.html" type="application/pdf" width="100%"> 
   <p>It appears you don't have a PDF plugin for this browser.
    No biggie... you can just click to
-  download it here: <a href="/assets/uipath-associate-certification-exam-objectives.pdf"><img src="/assets/download-objectives-pdf" alt="UiPath Exam Objectives PDF"/></a> </p>  
+  download it here: <a href="/assets/uipath-associate-certification-exam-objectives.pdf"><img src="/assets/download-objectives-pdf.jpg" alt="UiPath Exam Objectives PDF"/></a> </p>  
 </object>
 
 ### Exam objectives as an image
