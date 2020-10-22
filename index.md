@@ -26,13 +26,13 @@ canonical: https://www.rpacertified.com
  
   <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 						<div class="card" >
-						<div class="card-header">Free Study Guide</div>
+						<div class="card-header">Free UiPath Certification Guide</div>
 								       <picture>
-    <source srcset="/assets/study.webp" media="(min-width: 1200px)">
-    <source srcset="/assets/study.webp" media="(min-width: 992px)">
-    <source srcset="/assets/study.webp" media="(min-width: 768px)">
+    <source srcset="/assets/shut-up-meme.jpg" media="(min-width: 1200px)">
+    <source srcset="/assets/shut-up-meme.jpg" media="(min-width: 992px)">
+    <source srcset="/assets/shut-up-meme.jpg" media="(min-width: 768px)">
     <source srcset="/assets/shut-up-meme.jpg" media="(min-width: 576px)">
-    <img src="/assets/uipath-certification-study-guide.jpg" class="img-fluid" alt="UiPath Cert Study Guide">
+    <img src="/assets/shut-up-meme.jpg" class="img-fluid" alt="UiPath Cert Study Guide">
 </picture>
 		<div class="card-body  d-flex flex-column">
 			
@@ -45,7 +45,7 @@ canonical: https://www.rpacertified.com
  
    <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 	<div class="card" >
-	<div class="card-header">UiPath Objectives</div>
+	<div class="card-header">UiPath Exam Objectives</div>
 	<img src="/assets/apply.jpg" class="card-img-top" alt="uipath tutorials">
 		<div class="card-body  d-flex flex-column">
 			
