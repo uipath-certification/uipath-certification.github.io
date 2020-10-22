@@ -91,7 +91,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
 <li class="card-text">Test braindump on UiPath Orchestrator concepts</li>
                 </ul>
 				
-		<h6>Code: rpa</h6>		 
+		 
             </div>
         </div>
     </div>
@@ -112,7 +112,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
                     <li class="card-text"><a href="https://www.youtube.com/user/potemcam">UiPath on YouTube</a> learning tutorials</li>
                     <li class="card-text">A support group of <a href="https://www.rpacertified.com/youtube-linkedin-twitter.html">UiPath experts</a> to help answer your questions and queries</li>
                 </ol>
-		<h6>Code: var</h6>
+
             </div>
         </div>
     </div>
