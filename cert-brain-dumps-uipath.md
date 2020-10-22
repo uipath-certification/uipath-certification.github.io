@@ -12,9 +12,9 @@ canonical: https://www.rpacertified.com/associate-objectives.html
    <div class="card mb-2" >
    <div class="card-header">Real Talk on UiPath Exam Dumps</div>
       <div class="row g-0">
-         <div class="bg-secondary bg-gradient d-none d-sm-none d-lg-block col-lg-4">
+         <div class=" d-none d-sm-none d-lg-block col-lg-4">
 		 <p class="card-text text-center">
-            <img src="/assets/uipath-exam-dumps-meme.jpg"  alt="mad man" class="img-fluid img-thumbnail">
+            <img src="/assets/louder-uipath-exam-dump.jpg"  alt="mad man" class="img-fluid img-thumbnail">
          </p>
 		 </div>
          <div class="col-12 col-sm-12 col-lg-8">
@@ -37,7 +37,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
     <div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
         <div class="card">
             <div class="card-header">Study Hard</div>
-            <img src="/assets/louder-uipath-exam-dump.jpg" class="card-img-top" alt="uipath braindump meme change my mind" />
+            <img src="/assets/uipath-exam-dumps-meme.jpg" class="card-img-top" alt="uipath braindump meme change my mind" />
             <div class="card-body d-flex flex-column">
                 <p class="card-text">The best way to cheat is to study hard and be prepared. It's the best way to scam the system.</p>
             </div>
