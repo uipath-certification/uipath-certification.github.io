@@ -36,7 +36,7 @@ canonical: https://www.rpacertified.com
 </picture>
 		<div class="card-body  d-flex flex-column">
 			
-			<p class="card-text">Follow a proven UiPath Associate certification study plan.</p>
+			<p class="card-text">Follow a proven UiPath Associate certification study plan. For free.</p>
 			<p class="text-center mt-auto"><a href="/study-guide-uipath.html" class="text-center btn btn-outline-primary btn-sm">Study Guide</a></p>
 		</div>
 	</div>
@@ -49,7 +49,7 @@ canonical: https://www.rpacertified.com
 	<img src="/assets/apply.jpg" class="card-img-top" alt="uipath tutorials">
 		<div class="card-body  d-flex flex-column">
 			
-			<p class="card-text">We've outlined and numerated the UiPath Exam Objectives for you..</p>
+			<p class="card-text">We've outlined and numerated the UiPath Exam Objectives for you.</p>
 			<p class="text-center mt-auto"><a href="https://www.rpacertified.com/associate-objectives.html" class="text-center btn btn-outline-primary btn-sm">Exam Objectives</a></p>
 		</div>
 	</div>
@@ -63,7 +63,7 @@ canonical: https://www.rpacertified.com
 		<img src="/assets/uipath-exam-dumps-meme-600.jpg" class="card-img-top" alt="pass UiPath Associate Exam">
 		<div class="card-body  d-flex flex-column">
 			
-			<p class="card-text">Gain insights from other test takers. </p>
+			<p class="card-text">Gain honest insights from other test takers without cheating. </p>
 			<p class="text-center mt-auto"><a href="/cert-brain-dumps-uipath.html" class="text-center btn btn-outline-primary btn-sm">Learn More</a></p>
 		</div>
 	</div>
