@@ -10,9 +10,9 @@ canonical: https://www.rpacertified.com
 						<div class="card" >
 						<div class="card-header">UiPath Practice Exams</div>
 								       <picture>
-    <source srcset="/assets/practice.webp" media="(min-width: 1200px)">
-    <source srcset="/assets/practice.webp" media="(min-width: 992px)">
-    <source srcset="/assets/practice.webp" media="(min-width: 768px)">
+    <source srcset="/assets/uipath-exams-everywhere.jpg" media="(min-width: 1200px)">
+    <source srcset="/assets/uipath-exams-everywhere.jpg" media="(min-width: 992px)">
+    <source srcset="/assets/uipath-exams-everywhere.jpg" media="(min-width: 768px)">
     <source srcset="/assets/uipath-exam-questions-answers.gif" media="(min-width: 576px)">
     <img src="/assets/uipath-exam-questions-answers.gif" class="img-fluid" alt="UiPath Exam Questions Answered">
 </picture>
@@ -46,7 +46,7 @@ canonical: https://www.rpacertified.com
    <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 	<div class="card" >
 	<div class="card-header">UiPath Exam Objectives</div>
-	<img src="/assets/apply.jpg" class="card-img-top" alt="uipath tutorials">
+	<img src="/assets/practice.jpg" class="card-img-top" alt="uipath tutorials">
 		<div class="card-body  d-flex flex-column">
 			
 			<p class="card-text">We've outlined and numerated the UiPath Exam Objectives for you.</p>
