@@ -24,7 +24,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
                <p class="card-text">Well I don't want you to cheat your way through the exam. And I'm hiring a good number of RPA Certified professionals. I don't want to hire cheaters either. So these UiPath Certification Exam dumps will be a little different. We're not going to cheat.</p>
 			  <p class="card-text">What I will do is provide insights about each UiPath Exam Objective with regards to how it was covered on the exam. What types of questions were asked? What types of questions were not asked? How did the exam compare to practice exams? Where should you focus your study? That type of information is what a UiPath Exam Braindump should encompass. It shouldn't be a mechanism to facilitate cheating. </p>
 			  <p class="card-text">We want you to get certified with integrity. </p>
-               <p class="card-text"><small class="text-muted">UiPath Associate exam objectives are listed below.</small></p>
+               <p class="card-text"><small class="text-muted">UiPath Associate exam dumps are listed below.</small></p>
 	       
             </div>
          </div>
