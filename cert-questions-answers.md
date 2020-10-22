@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UiPath Certification Questions and Answers
+title: UiPath Certification Exam Questions, Answers & Practice Tests
 blurb: This collection of UiPath Certification Practice Tests are the mock cert exams you need to pass in order to get UiPath Associate and Developer certified. If you can answer these UiPath Exam questions, you'll be ready to pass the UiPath exam.
 canonical: https://www.rpacertified.com/cert-questions-answers.html
 ---
@@ -115,8 +115,8 @@ canonical: https://www.rpacertified.com/cert-questions-answers.html
       <div class="card-header">UiPath Mock Exams<a id="github-uipath"></a></div>
       <img src="/assets/background-small2.jpg" class="card-img-top" alt="UiPath GitHub">
       <div class="card-body d-flex flex-column">
-	      <h1>UiPath Exam Questions and Answers</h1>
-        <p>Study is important, but so is practice. Use the UiPath Practice Tests to prepare yourself for the tough UiPath questions and answers you'll face on the Associate exam.</p>
+	      <h1>UiPath Exam Questions and Answer</h1>
+        <p>Study is important, but so is practice. Use these UiPath Practice Tests to prepare yourself for the tough UiPath questions and answers you'll face on the Associate exam. Once you know the answers to these UiPath exam questions, you'll be ready to register, write and pass the Associate and Developer exams.</p>
       </div>
     </div>
   </div>
