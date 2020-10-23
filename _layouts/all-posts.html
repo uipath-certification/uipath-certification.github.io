@@ -102,7 +102,7 @@
                      <!-- put a span in to stop the p tag from closing automatically -->
                      {{ content }} 
 		    
-	      {% for post in site.posts %}
+	      {% for post in site.posts offset:1 %}
 	      <div  class="aside-2 col col-12  col-sm-12  col-md-4 col-lg-3 order-2 order-sm-2 order-lg-2 mb-3 d-flex align-items-stretch">
                <div class="card mb-2">
                   <div class="card-header">
