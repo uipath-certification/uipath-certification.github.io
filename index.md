@@ -91,7 +91,7 @@ canonical: https://www.rpacertified.com
  
  <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 						<div class="card" >
-						<div class="card-header">Expert UiPath Support</div>
+						<div class="card-header">Expert Community Support</div>
 		<img src="/assets/social-media-meme.jpg" class="card-img-top" alt="UiPath on YouTube">
 		<div class="card-body  d-flex flex-column">
 			
