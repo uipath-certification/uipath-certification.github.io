@@ -8,7 +8,7 @@ canonical: https://www.rpacertified.com
  
   <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 						<div class="card" >
-						<div class="card-header">UiPath Practice Exams</div>
+						<div class="card-header">Certification Practice Exams</div>
 								       <picture>
     <source srcset="/assets/uipath-exams-everywhere.jpg" media="(min-width: 1200px)">
     <source srcset="/assets/uipath-exams-everywhere.jpg" media="(min-width: 992px)">
@@ -18,7 +18,7 @@ canonical: https://www.rpacertified.com
 </picture>
 		<div class="card-body  d-flex flex-column">
 			
-			<p class="card-text">Comprehensive UiPath certification question and answer sets for you.</p>
+			<p class="card-text">Comprehensive Associate certification question and answer sets for you.</p>
 			<p class="text-center mt-auto"><a href="/cert-questions-answers.html" class="text-center btn btn-outline-primary btn-sm">Cert Questions</a></p>
 		</div>
 	</div>
@@ -26,7 +26,7 @@ canonical: https://www.rpacertified.com
  
   <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 						<div class="card" >
-						<div class="card-header">Free UiPath Certification Guide</div>
+						<div class="card-header">Free Certification Study Guide</div>
 								       <picture>
     <source srcset="/assets/shut-up-meme.jpg" media="(min-width: 1200px)">
     <source srcset="/assets/shut-up-meme.jpg" media="(min-width: 992px)">
@@ -45,7 +45,7 @@ canonical: https://www.rpacertified.com
  
    <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 	<div class="card" >
-	<div class="card-header">UiPath Exam Objectives</div>
+	<div class="card-header">Certification Exam Objectives</div>
 	<img src="/assets/practice.jpg" class="card-img-top" alt="uipath tutorials">
 		<div class="card-body  d-flex flex-column">
 			
@@ -73,7 +73,7 @@ canonical: https://www.rpacertified.com
  
  <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 	<div class="card" >
-	<div class="card-header">UiPath Cert Prep</div>
+	<div class="card-header">Exam Preparation Advice</div>
 	<img src="/assets/exam-is-coming.jpg" class="card-img-top" alt="uipath cert prep">
 		<div class="card-body  d-flex flex-column">
 		
@@ -91,7 +91,7 @@ canonical: https://www.rpacertified.com
  
  <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 						<div class="card" >
-						<div class="card-header">UiPath Associate Support</div>
+						<div class="card-header">Expert UiPath Support</div>
 		<img src="/assets/social-media-meme.jpg" class="card-img-top" alt="UiPath on YouTube">
 		<div class="card-body  d-flex flex-column">
 			
