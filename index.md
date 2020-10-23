@@ -8,7 +8,7 @@ canonical: https://www.rpacertified.com
  
   <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 						<div class="card" >
-						<div class="card-header">Certification Practice Exams</div>
+						<div class="card-header">Certification Practice Tests</div>
 								       <picture>
     <source srcset="/assets/uipath-exams-everywhere.jpg" media="(min-width: 1200px)">
     <source srcset="/assets/uipath-exams-everywhere.jpg" media="(min-width: 992px)">
