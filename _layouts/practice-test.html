@@ -1,68 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
    <head>
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179472407-1"></script>
-      <script>
-         window.dataLayer = window.dataLayer || [];
-         function gtag(){dataLayer.push(arguments);}
-         gtag('js', new Date());
-         
-         gtag('config', 'UA-179472407-1');
-      </script>
-      <title>{{ page.title }}</title>
+	{% include head-common.html %}  
+     
+	{% if page.canonical %}
+	<link rel="canonical" href="{{ page.canonical }}" />
+	{% else %}
+	<!-- This is the else for if canonical -->	   
+	{% endif %}
+
+	{% if page.blurb %}
+	<meta name="description" content="{{ page.blurb }}"/>   
+	{% else %}
+	<meta name="description" content="These UiPath practice exams are the best way to test if you can successfully answer all the questions on the Uipath Associate and Deveoper Certification."/>   
+	{% endif %}
 	   
+	<title>{{ page.title }}</title>  
+
+	{% include boostrap-css.html %}
+	{% include style-common.html %}  
 	   
-{% if page.canonical %}
-<link rel="canonical" href="{{ page.canonical }}" />
-{% else %}
-<!-- This is the else for if canonical -->	   
-{% endif %}
-	   
-<!-- canonical attempt: {{ page.description }} -->
-{% if page.blurb %}
-<meta name="description" content="{{ page.blurb }}"/>   
-{% else %}
-<meta name="description" content="Get UiPath Certified Fast with our online UiPath Practice tests, exam answers, study guides and tutorials. Learn RPA and quickly get your UiPath Associate and Developer Certification "/>   
-{% endif %}
-	   
-<meta name="keywords" content="UiPath Certification, UiPath Associate Exam, UiPath Developer Exam, UiPath Certification Questions, UiPath Certification Questions and Answers, UiPath Braindump"/>
-<meta name="robots" content="index, follow" />
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-   
-	   
- {% include boostrap-css.html %}        
-	   
-	   <style>
-         html { font-size: 12pt; }	
-         h1 { font-size: 1.50em; }
-         h2 { font-size: 1.25em; }
-         h3 { font-size: 1.1em; }
-         h4 { font-size: 1.05em; }
-         h5 { font-size: .83em; }
-         h6 { font-size: .75em; }
-         a, u {text-decoration: none; color:#0d47a1}  
-         a:hover {
-         background-color: #f9fbfd; color #4285F4;
-         }
-         .header, .footer {
-         background: white;
-         text-align: center;
-         }
-         .main {
-         background: white;
-         text-align: left;
-         }
-         .aside-1 {
-         background: white;
-         }
-         .aside-2 {
-         background: white;
-         }
-      </style>
-	   
-	</head>
+   </head>		
+	
    <body>
       <div class="container">
          <div class="row">
