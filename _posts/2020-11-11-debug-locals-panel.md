@@ -2,6 +2,7 @@
 layout: answered-question
 author: Serge
 title: Which panel only displays on debug?
+heading: UiPath Debugger Activities
 blurb: Do you know your UiPath debugging panel? Make sure you can answer this UiPath Associate test question.
 difficulty: 6
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
