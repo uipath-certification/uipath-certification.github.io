@@ -3,6 +3,7 @@ layout: answered-question
 author: Serge
 title: Learn when to use UiPath attended or unattended robots for RPA
 blurb: Learn when to use attended vs unattended robots? Your RPA architecture depends on this knowledge.
+heading: UiPath PDF Activity and Invoices
 difficulty: 6
 objective: 1.1 Identify and describe the different types of robots, i.e., attended versus unattended robots
 canonical: https://www.rpacertified.com//2020/11/11/unattended-robots-when-to-use.html
