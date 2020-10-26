@@ -145,6 +145,27 @@ And so that's the key differentiating factor that they want you to know in terms
    </div>
 </div>
 
-	
+<div class="col-12 mb-2 d-flex align-items-stretch">
+   <div class="card mb-2" >
+	   <div class="card-header"><h2>Thoughts on UiPath Exam Dumps</h2></div>
+      <div class="row g-0">
+         <div class=" col-lg-4">
+		 <p class="card-text text-center">
+            <img src="/assets/louder-uipath-exam-dump.jpg"  alt="mad man" class="img-fluid img-thumbnail">
+         </p>
+		 </div>
+         <div class="col-12 col-sm-12 col-lg-8">
+            <div class="card-body">
+               <h4>Pass your UiPath Certification Exam with Integrity</h4>
+               <p class="card-text">We don't endorse cheating on this site. Hopefully this UiPath Exam braindump helps guide your studies and helps you focus on what's most important. That's what an exam dump should be. Some guidancea and insight, but no cheating.</p>
+		    
+		               <p class="card-text">Good luck with your exam preparation. Study hard, so lots of practice exams, and I'm confident you'll pass the UiPath Associate Certification Exam.</p>    
+
+	       
+            </div>
+         </div>
+      </div>
+   </div>
+</div>	
 	
 </div>
