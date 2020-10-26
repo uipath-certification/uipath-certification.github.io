@@ -100,6 +100,10 @@ The fact that the community edition of UiPath Studio is just as capable as the E
 <p class="card-text">	
 	What you need to realize for this objective is that RPA and UI path need to be computer-based. We're not creating real world androids here. They are virtual robots. Anything that is repeated constantly and consistently can be automated through a <a href="https://www.rpacertified.com//2020/10/12/workflow-sequences-flowcharts-quiz.html">sequence or workflow project</a>. So if there's a task that has significant pieces of it, that is variable, that changes from time to time where the steps change, you're not going to be able to automate that. However, if there is a consistent and predictable number of steps, then automation is possible and they want you to be able to recognize that as far as explaining the functionality of various products, studio robots, orchestrator, etc.
 </p>
+
+<div class="embed-responsive embed-responsive-16by9">
+  			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/X2AGYqIy4kk"></iframe>
+</div>
 <p class="card-text">
 And I would say those particular points are really covered more in depth in the other sections. So if you understand the UI path studio section or understand the UI path orchestrator section, then by default, you're going to understand those particular topics. So I would say that particular topic, I wouldn't even concentrate on it in this because the other sections, the other exam objectives we'll cover that attended versus unattended. Robots is something that I felt they hammered fairly hard on during the exam. 
 	</p>
