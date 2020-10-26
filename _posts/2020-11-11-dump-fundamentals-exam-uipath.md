@@ -77,7 +77,7 @@ I would say this section was fairly light with the exception of the section on t
 </p>
 <h2>UiPath Studio Community vs Enterprise</h2>
 <p class="card-text">
-The other thing to know is that anything you create an UI path studio community edition can be deployed to UI path orchestrator. You can still create robots with the Community Edition. You can still use the scripts or packages that you create in UiPath Studio and deploy to UI path orchestrator. So they want you to really know that even though you're using the community edition, everything that you create is 100% valid. It's not like you create a program and then you need some sort of key to unlock it.
+The other thing to know is that anything you create an UI path studio community edition can be deployed to UI path orchestrator. You can still create robots with the Community Edition. You can still use the scripts or packages that you create in UiPath Studio and deploy to UI path orchestrator. Knowledge of <a href="https://www.rpacertified.com//2020/11/11/uipath-studio-programs.html">UiPath Studio and Orchestrator</a> is important. They want you to really know that even though you're using the community edition, everything that you create is 100% valid. It's not like you create a program and then you need some sort of key to unlock it.
 
 </p>
 <p class="card-text">
@@ -94,7 +94,7 @@ The fact that the community edition of UiPath Studio is just as capable as the E
 
 <h2>What RPA activities can UiPath automate?</h2>
 <p class="card-text">	
-	What you need to realize for this objective is that RPA and UI path need to be computer-based. We're not creating real world androids here. They are virtual robots. Anything that is repeated constantly and consistently can be automated. So if there's a task that has significant pieces of it, that is variable, that changes from time to time where the steps change, you're not going to be able to automate that. However, if there is a consistent and predictable number of steps, then automation is possible and they want you to be able to recognize that as far as explaining the functionality of various products, studio robots, orchestrator, etc.
+	What you need to realize for this objective is that RPA and UI path need to be computer-based. We're not creating real world androids here. They are virtual robots. Anything that is repeated constantly and consistently can be automated through a <a href="https://www.rpacertified.com//2020/10/12/workflow-sequences-flowcharts-quiz.html">sequence or workflow project</a>. So if there's a task that has significant pieces of it, that is variable, that changes from time to time where the steps change, you're not going to be able to automate that. However, if there is a consistent and predictable number of steps, then automation is possible and they want you to be able to recognize that as far as explaining the functionality of various products, studio robots, orchestrator, etc.
 </p>
 <p class="card-text">
 And I would say those particular points are really covered more in depth in the other sections. So if you understand the UI path studio section or understand the UI path orchestrator section, then by default, you're going to understand those particular topics. So I would say that particular topic, I wouldn't even concentrate on it in this because the other sections, the other exam objectives we'll cover that attended versus unattended. Robots is something that I felt they hammered fairly hard on during the exam. 
@@ -127,7 +127,7 @@ And I would say those particular points are really covered more in depth in the 
 
 
 <p class="card-text">
-And so that's the key differentiating factor that they want you to know in terms of the difference between an attended versus an unattended robot with UI path studio overview. 
+And so that's the key differentiating factor that they want you to know in terms of the difference between an <a href="https://www.rpacertified.com//2020/11/11/attend-robot-use-cases.html">attended versus an unattended robot</a> with UI path studio overview. 
 </p>
 
 
@@ -159,7 +159,7 @@ And so that's the key differentiating factor that they want you to know in terms
          <div class="col-12 col-sm-12 col-lg-8">
             <div class="card-body">
                <h4>Pass your UiPath Certification Exam with Integrity</h4>
-               <p class="card-text">We don't endorse cheating on this site. Hopefully this UiPath Exam braindump helps guide your studies and helps you focus on what's most important. That's what an exam dump should be. Some guidancea and insight, but no cheating.</p>
+               <p class="card-text">We don't endorse cheating on this site. Hopefully this UiPath Exam braindump helps guide your studies and helps you focus on what's most important. That's what an exam dump should be. Some guidance and insight. But no cheating.</p>
 		    
 		               <p class="card-text">Good luck with your exam preparation. Study hard, so lots of practice exams, and I'm confident you'll pass the UiPath Associate Certification Exam.</p>    
 
