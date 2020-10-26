@@ -56,7 +56,7 @@ blurb: Here's a non-cheat UiPath Exam Dump on the RPA Fundamentals objective of 
 		 </div>
          <div class="col-12 col-sm-12 col-lg-8">
             <div class="card-body">
-            <h4>Robotic Process Automation (RPA) Fundamentals</h4>
+            <h2>Robotic Process Automation (RPA) Fundamentals</h2>
             <ul>
             <li>Identify sample use cases that describes the processes and workloads that can be automated</li>
             <li>Identify and describe the different types of robots, i.e., attended versus unattended robots</li>
@@ -80,6 +80,17 @@ Obviously the key difference of an attended and an unattended robot is that an a
 <p class="card-text">
 And so that's the key differentiating factor that they want you to know in terms of the difference between an attended versus an unattended robot with UI path studio overview. 
 </p>
+
+
+            <h3>UiPath Fundamentals Practice Questions and Answers</h3>
+	    <p class="card-text">
+		Here are some UiPath Mock Exams on the RPA Fundamentals Associate Exam objectives:
+		</p>
+            <ul>
+            <li>Know when to use <a href="http://www.rpacertified.com/2020/10/12/workflow-sequences-flowcharts-quiz.html">sequences vs workflows exam</a></li>
+            <li>UiPath objective on <a href="https://www.rpacertified.com/2020/01/01/attended-vs-unattened-quiz.html">unattended vs attended questions</a></li>
+            <li>Differences between Studio <a href="https://www.rpacertified.com/2020/01/01/community-vs-enterprise-studio.html">Community and Enterprise test</a></li>
+            </ul>
 	       
             </div>
          </div>
