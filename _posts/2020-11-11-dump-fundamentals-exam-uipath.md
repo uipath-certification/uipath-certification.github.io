@@ -76,7 +76,7 @@ blurb: Here's a non-cheat UiPath Exam Dump on the RPA Fundamentals objective of 
 I would say this section was fairly light with the exception of the section on the distinction between attended versus unattended robots. In terms of differentiating between UiPath Studio, <a href="https://www.rpacertified.com//2020/11/11/uipath-studio-trail-license.html">Community Edition versus Enterprise Edition</a>, the key that you needed to know there was simply that the enterprise edition is full featured and full licensed, while UI path studio has a limited feature set. That was one thing that you should know, which is fairly obvious. 
 </p>
 
-<img src="/assets/uipath-brain-dump-long-no-text.jpg" class="img-fluid" alt="UiPath Associate Exam Braindump">
+<img src="/assets/uipath-brain-dump-long-no-text.jpg" class="img-fluid mb-3" alt="UiPath Associate Exam Braindump">
 <h2>UiPath Studio Community vs Enterprise</h2>
 <p class="card-text">
 The other thing to know is that anything you create an UI path studio community edition can be deployed to UI path orchestrator. You can still create robots with the Community Edition. You can still use the scripts or packages that you create in UiPath Studio and deploy to UI path orchestrator. Knowledge of <a href="https://www.rpacertified.com//2020/11/11/uipath-studio-programs.html">UiPath Studio and Orchestrator</a> is important. They want you to really know that even though you're using the community edition, everything that you create is 100% valid. It's not like you create a program and then you need some sort of key to unlock it.
