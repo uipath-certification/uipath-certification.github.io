@@ -12,7 +12,7 @@ blurb: Here's a non-cheat UiPath Exam Dump on the RPA Fundamentals objective of 
 	
 	
 
-    <div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
+    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
         <div class="card">
             <div class="card-header">Study the Objectives</div>
             <img src="/assets/uipath-exam-dumps-meme.jpg" class="card-img-top" alt="uipath braindump meme" />
