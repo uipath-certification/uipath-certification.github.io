@@ -26,7 +26,7 @@ blurb: Here's a non-cheat UiPath Exam Dump on the RPA Fundamentals objective of 
             <div class="card-header">Take UiPath practice tests</div>
             <img src="/assets/one-does-not-simply.jpg" class="card-img-top" alt="UiPath Dump Meme " />
             <div class="card-body d-flex flex-column">
-                <p class="card-text">We've got plenty of UiPath questions and answers on this site to test your mettle. Learn honestly and pass with integrity.</p>
+                <p class="card-text">We've got plenty of UiPath questions and answers on this site to test your mettle. Learn honestly. Pass with integrity.</p>
             </div>
         </div>
     </div>
