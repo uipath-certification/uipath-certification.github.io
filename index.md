@@ -41,7 +41,23 @@ canonical: https://www.rpacertified.com
 		</div>
 	</div>
  </div>
- 
+
+
+
+  <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+						<div class="card" >
+		<div class="card-header">Cheat Free Exam Dumps</div>
+		<img src="/assets/uipath-exam-dumps-meme-600.jpg" class="card-img-top" alt="pass UiPath Associate Exam">
+		<div class="card-body  d-flex flex-column">
+			
+			<p class="card-text">Gain honest insights from other test takers without cheating. </p>
+			<p class="text-center mt-auto"><a href="/cert-brain-dumps-uipath.html" class="text-center btn btn-outline-primary btn-sm">Exam Dumps</a></p>
+		</div>
+	</div>
+ </div>
+
+
+
  
    <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
 	<div class="card" >
@@ -57,17 +73,7 @@ canonical: https://www.rpacertified.com
  </div>
  
  
-  <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
-						<div class="card" >
-		<div class="card-header">Cheat Free Exam Dumps</div>
-		<img src="/assets/uipath-exam-dumps-meme-600.jpg" class="card-img-top" alt="pass UiPath Associate Exam">
-		<div class="card-body  d-flex flex-column">
-			
-			<p class="card-text">Gain honest insights from other test takers without cheating. </p>
-			<p class="text-center mt-auto"><a href="/cert-brain-dumps-uipath.html" class="text-center btn btn-outline-primary btn-sm">Exam Dumps</a></p>
-		</div>
-	</div>
- </div>
+
  
  
  
