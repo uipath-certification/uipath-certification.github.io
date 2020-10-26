@@ -22,7 +22,7 @@ blurb: Here's a non-cheat UiPath Exam Dump on the RPA Fundamentals objective of 
         </div>
     </div>
     <div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
-        <div class="card">
+        <div class="card  d-none d-lg-block">
             <div class="card-header">Take UiPath practice tests</div>
             <img src="/assets/one-does-not-simply.jpg" class="card-img-top" alt="UiPath Dump Meme " />
             <div class="card-body d-flex flex-column">
@@ -32,7 +32,7 @@ blurb: Here's a non-cheat UiPath Exam Dump on the RPA Fundamentals objective of 
     </div>
 
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
-        <div class="card">
+        <div class="card  d-none d-lg-block">
             <div class="card-header">Learn the Material</div>
             <img src="/assets/think-uipath-cheat.jpg" class="card-img-top" alt="UiPath cheat" />
             <div class="card-body d-flex flex-column">
