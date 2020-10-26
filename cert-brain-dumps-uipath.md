@@ -81,7 +81,7 @@ canonical: https://www.rpacertified.com/cert-brain-dumps-uipath.html
 				<p class="card-text">Here are our currently available UiPath certification exam dumps:</p>
                 <ul >
 				
-<li class="card-text">RPA fundamentals exam Dump</li>
+<li class="card-text"><a href="/2020/11/11/dump-fundamentals-exam-uipath.html">RPA fundamentals UiPath Exam Dump</a></li>
 <li class="card-text">Certification braindump on UiPath studio overview</li>
 <li class="card-text">UiPath programming braindump</li>
 <li class="card-text">Exam braindump on static and dynamic selectors</li>
