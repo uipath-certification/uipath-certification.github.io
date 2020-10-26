@@ -34,7 +34,7 @@ blurb: Here's a non-cheat UiPath Exam Dump on the RPA Fundamentals objective of 
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
         <div class="card">
             <div class="card-header">Learn the Material</div>
-            <img src="/assets/think-uipath-cheat.jpg" class="card-img-top" alt="UiPath cheat />
+            <img src="/assets/think-uipath-cheat.jpg" class="card-img-top" alt="UiPath cheat" />
             <div class="card-body d-flex flex-column">
                 <p class="card-text">From UiPath Academy to online YouTube tutorials, there are a variety of high quality, free online learning resources at your disposal.</p>
             </div>
