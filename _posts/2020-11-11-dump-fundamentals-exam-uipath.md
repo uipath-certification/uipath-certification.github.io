@@ -90,11 +90,17 @@ The fact that the community edition of UiPath Studio is just as capable as the E
 <p class="card-text">
 And I would say those particular points are really covered more in depth in the other sections. So if you understand the UI path studio section or understand the UI path orchestrator section, then by default, you're going to understand those particular topics. So I would say that particular topic, I wouldn't even concentrate on it in this because the other sections, the other exam objectives we'll cover that attended versus unattended. Robots is something that I felt they hammered fairly hard on during the exam. 
 	</p>
+	
+<h2>Attended vs Unattended UiPath Robots</h2>	
 <p class="card-text">
 	
 	They want you to know when to use an attended robot when to use an unattended robot, what the benefits and drawbacks to them are. And I think they also want you to understand the hierarchy of value that you get with an unattended robot versus an attended robot.
 </p>
-<h2>Attended vs Unattended UiPath Robots</h2>
+
+<figure class="figure">
+  <img src="https://files.readme.io/4b716bb-att.png" class="figure-img img-fluid rounded" alt="UiPath Attended Robot Example">
+  <figcaption class="figure-caption">Example of a UiPath attended Robot.</figcaption>
+</figure>
 
 <p class="card-text">
 	Obviously the key difference between an <a href="https://www.rpacertified.com//2020/11/11/unattended-robots-when-to-use.html">attended vs unattended robot</a> is that an attended robot needs to be kicked off by a user. A user has to actually log onto a machine, click a button and say, go to get the attended robot to work. An unattended robot does not require that an unattended robot can be kicked off by UI path orchestrator, not. So with an attended robot, an unintended robot can be scheduled and unattended robot can respond to a queue. An unattended robot does not need human intervention to work. 
@@ -104,6 +110,13 @@ And I would say those particular points are really covered more in depth in the 
 	
 	So obviously an unattended robot is the ultimate goal. When we do RPA programming, we want as much unattached, as many unattended robots as possible and as little human interaction as possible. So the unattended robot really is the, the ultimate value that UI path can provide. Now, if there's a requirement for human interaction, then we need to have an attended robot.
 </p>
+
+<figure class="figure">
+  <img src="https://files.readme.io/f1099fa-unattended_2.png" class="figure-img img-fluid rounded" alt="Unattended Robot UiPath">
+  <figcaption class="figure-caption">Example of an unattended UiPath robot.</figcaption>
+</figure>
+
+
 <p class="card-text">
 And so that's the key differentiating factor that they want you to know in terms of the difference between an attended versus an unattended robot with UI path studio overview. 
 </p>
