@@ -81,7 +81,14 @@ The other thing to know is that anything you create an UI path studio community 
 <p class="card-text">
 The fact that the community edition of UiPath Studio is just as capable as the Enterprise Edition is something I think the test creators wanted to emphasize. That is, that even though UiPath studio may not have as many features as enterprise edition, that everything that you create with UI path studio is a hundred percent valid in terms of use cases that describe the processes and workloads that can be automated. 
 	
+	
+	
 </p>
+
+<figure class="figure">
+  <img src="/assets/uipath-studio-community-vs-enterprise-cloud.jpg" class="figure-img img-fluid rounded" alt="UiPath Enterprise vs Community Edition">
+  <figcaption class="figure-caption">UiPath Enterprise Server vs Community Cloud offerings.</figcaption>
+</figure>
 
 <h2>What RPA activities can UiPath automate?</h2>
 <p class="card-text">	
