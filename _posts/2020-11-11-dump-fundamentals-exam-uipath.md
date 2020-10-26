@@ -73,6 +73,7 @@ blurb: Here's a non-cheat UiPath Exam Dump on the RPA Fundamentals objective of 
 <p class="card-text">
 I would say this section was fairly light with the exception of the section on the distinction between attended versus unattended robots. In terms of differentiating between UiPath Studio, <a href="https://www.rpacertified.com//2020/11/11/uipath-studio-trail-license.html">Community Edition versus Enterprise Edition</a>, the key that you needed to know there was simply that the enterprise edition is full featured and full licensed, while UI path studio has a limited feature set. That was one thing that you should know, which is fairly obvious. 
 </p>
+<h2>UiPath Studio Community vs Enterprise</h2>
 <p class="card-text">
 The other thing to know is that anything you create an UI path studio community edition can be deployed to UI path orchestrator. You can still create robots with the Community Edition. You can still use the scripts or packages that you create in UiPath Studio and deploy to UI path orchestrator. So they want you to really know that even though you're using the community edition, everything that you create is 100% valid. It's not like you create a program and then you need some sort of key to unlock it.
 
@@ -93,8 +94,10 @@ And I would say those particular points are really covered more in depth in the 
 	
 	They want you to know when to use an attended robot when to use an unattended robot, what the benefits and drawbacks to them are. And I think they also want you to understand the hierarchy of value that you get with an unattended robot versus an attended robot.
 </p>
+<h2>Attended vs Unattended UiPath Robots</h2>
+
 <p class="card-text">
-Obviously the key difference of an attended and an unattended robot is that an attended robot needs to be kicked off by a user. A user has to actually log onto a machine, click a button and say, go to get the attended robot to work. An unattended robot does not require that an unattended robot can be kicked off by UI path orchestrator, not. So with an attended robot, an unintended robot can be scheduled and unattended robot can respond to a queue. An unattended robot does not need human intervention to work. 
+	Obviously the key difference between an <a href="https://www.rpacertified.com//2020/11/11/unattended-robots-when-to-use.html">attended vs unattended robot</a> is that an attended robot needs to be kicked off by a user. A user has to actually log onto a machine, click a button and say, go to get the attended robot to work. An unattended robot does not require that an unattended robot can be kicked off by UI path orchestrator, not. So with an attended robot, an unintended robot can be scheduled and unattended robot can respond to a queue. An unattended robot does not need human intervention to work. 
 	
 </p>
 <p class="card-text">	
