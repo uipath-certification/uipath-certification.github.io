@@ -88,7 +88,9 @@ The fact that the community edition of UiPath Studio is just as capable as the E
 </p>
 
 <figure class="figure">
+	<a href="https://www.uipath.com/fr/start-trial">
   <img src="/assets/uipath-studio-community-vs-enterprise-cloud.jpg" class="figure-img img-fluid rounded" alt="UiPath Enterprise vs Community Edition">
+	</a>
   <figcaption class="figure-caption">UiPath Enterprise Server vs Community Cloud offerings.</figcaption>
 </figure>
 
