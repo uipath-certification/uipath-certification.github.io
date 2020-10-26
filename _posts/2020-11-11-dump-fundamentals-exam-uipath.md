@@ -78,13 +78,28 @@ The other thing to know is that anything you create an UI path studio community 
 
 </p>
 <p class="card-text">
-So I think that was one key point that they want to emphasize. That is, that even though UiPath studio may not have as many features as enterprise edition, that everything that you create with UI path studio is a hundred percent valid in terms of use cases that describe the processes and workloads that can be automated. What you need to realize here is that RPA and UI path need to be computer-based. We're not creating real world androids here. They are virtual robots. Anything that is repeated constantly and consistently can be automated. So if there's a task that has significant pieces of it, that is variable, that changes from time to time where the steps change, you're not going to be able to automate that. However, if there is a consistent and predictable number of steps, then automation is possible and they want you to be able to recognize that as far as explaining the functionality of various products, studio robots, orchestrator, etc.
+The fact that the community edition of UiPath Studio is just as capable as the Enterprise Edition is something I think the test creators wanted to emphasize. That is, that even though UiPath studio may not have as many features as enterprise edition, that everything that you create with UI path studio is a hundred percent valid in terms of use cases that describe the processes and workloads that can be automated. 
+	
+</p>
+
+<h2>What RPA activities can UiPath automate?</h2>
+<p class="card-text">	
+	What you need to realize for this objective is that RPA and UI path need to be computer-based. We're not creating real world androids here. They are virtual robots. Anything that is repeated constantly and consistently can be automated. So if there's a task that has significant pieces of it, that is variable, that changes from time to time where the steps change, you're not going to be able to automate that. However, if there is a consistent and predictable number of steps, then automation is possible and they want you to be able to recognize that as far as explaining the functionality of various products, studio robots, orchestrator, etc.
 </p>
 <p class="card-text">
-And I would say those particular points are really covered more in depth in the other sections. So if you understand the UI path studio section or understand the UI path orchestrator section, then by default, you're going to understand those particular topics. So I would say that particular topic, I wouldn't even concentrate on it in this because the other sections, the other exam objectives we'll cover that attended versus unattended. Robots is something that I felt they hammered fairly hard on during the exam. They want you to know when to use an attended robot when to use an unattended robot, what the benefits and drawbacks to them are. And I think they also want you to understand the hierarchy of value that you get with an unattended robot versus an attended robot.
+And I would say those particular points are really covered more in depth in the other sections. So if you understand the UI path studio section or understand the UI path orchestrator section, then by default, you're going to understand those particular topics. So I would say that particular topic, I wouldn't even concentrate on it in this because the other sections, the other exam objectives we'll cover that attended versus unattended. Robots is something that I felt they hammered fairly hard on during the exam. 
+	</p>
+<p class="card-text">
+	
+	They want you to know when to use an attended robot when to use an unattended robot, what the benefits and drawbacks to them are. And I think they also want you to understand the hierarchy of value that you get with an unattended robot versus an attended robot.
 </p>
 <p class="card-text">
-Obviously the key difference of an attended and an unattended robot is that an attended robot needs to be kicked off by a user. A user has to actually log onto a machine, click a button and say, go to get the attended robot to work. An unattended robot does not require that an unattended robot can be kicked off by UI path orchestrator, not. So with an attended robot, an unintended robot can be scheduled and unattended robot can respond to a queue. An unattended robot does not need human intervention to work. So obviously an unattended robot is the ultimate goal. When we do RPA programming, we want as much unattached, as many unattended robots as possible and as little human interaction as possible. So the unattended robot really is the, the ultimate value that UI path can provide. Now, if there's a requirement for human interaction, then we need to have an attended robot.
+Obviously the key difference of an attended and an unattended robot is that an attended robot needs to be kicked off by a user. A user has to actually log onto a machine, click a button and say, go to get the attended robot to work. An unattended robot does not require that an unattended robot can be kicked off by UI path orchestrator, not. So with an attended robot, an unintended robot can be scheduled and unattended robot can respond to a queue. An unattended robot does not need human intervention to work. 
+	
+</p>
+<p class="card-text">	
+	
+	So obviously an unattended robot is the ultimate goal. When we do RPA programming, we want as much unattached, as many unattended robots as possible and as little human interaction as possible. So the unattended robot really is the, the ultimate value that UI path can provide. Now, if there's a requirement for human interaction, then we need to have an attended robot.
 </p>
 <p class="card-text">
 And so that's the key differentiating factor that they want you to know in terms of the difference between an attended versus an unattended robot with UI path studio overview. 
