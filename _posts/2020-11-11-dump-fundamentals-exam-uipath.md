@@ -50,8 +50,9 @@ blurb: Here's a non-cheat UiPath Exam Dump on the RPA Fundamentals objective of 
    <div class="card-header"><h1>RPA Fundamentals UiPath Braindump</h1></div>
       <div class="row g-0">
          <div class=" col-lg-4">
-		 <p class="card-text text-center">
+            <p class="card-text text-center d-none d-lg-block">
             <img src="/assets/uipath-exam-dumps.jpg"  alt="UiPath Exam Dumps RPA Objective" class="img-fluid img-thumbnail">
+            <img src="/assets/uipath-exam-dumps.jpg"  alt="UiPath Exam Dumps RPA Objective" class="img-fluid img-thumbnail">    
          </p>
 		 </div>
          <div class="col-12 col-sm-12 col-lg-8">
