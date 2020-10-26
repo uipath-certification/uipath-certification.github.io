@@ -1,0 +1,92 @@
+---
+layout: default
+title: RPA Fundamentals UiPath Exam Dump
+blurb: Here's a non-cheat UiPath Exam Dump on the RPA Fundamentals objective of the Associate Certification Exam.
+
+---
+
+<div class="row">
+
+
+
+	
+	
+
+    <div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
+        <div class="card">
+            <div class="card-header">Study Hard</div>
+            <img src="/assets/uipath-exam-dumps-meme.jpg" class="card-img-top" alt="uipath braindump meme change my mind" />
+            <div class="card-body d-flex flex-column">
+                <p class="card-text">The best way to cheat is to study hard and be prepared. It's the best way to scam the system.</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
+        <div class="card">
+            <div class="card-header">Do Practice Tests</div>
+            <img src="/assets/one-does-not-simply.jpg" class="card-img-top" alt="UiPath Exam Dump Meme Simply" />
+            <div class="card-body d-flex flex-column">
+                <p class="card-text">With hundreds of practice exams at your disposal, you have the resources needed to get UiPath Certified with integrity.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
+        <div class="card">
+            <div class="card-header">Focus on the Objectives</div>
+            <img src="/assets/think-uipath-cheat.jpg" class="card-img-top" alt="UiPath meme study hard" />
+            <div class="card-body d-flex flex-column">
+                <p class="card-text">Read the exam objectives, get knowledgeable on each subject and Tweet us when you pass. We want to hear about it!</p>
+            </div>
+        </div>
+    </div>
+	</div>
+
+
+<div class="row">
+	
+	<div class="col-12 mb-2 d-flex align-items-stretch">
+   <div class="card mb-2" >
+   <div class="card-header"><h1>RPA Fundamentals UiPath Braindump</h1></div>
+      <div class="row g-0">
+         <div class=" col-lg-4">
+		 <p class="card-text text-center">
+            <img src="/assets/uipath-exam-dumps.jpg"  alt="UiPath Exam Dumps RPA Objective" class="img-fluid img-thumbnail">
+         </p>
+		 </div>
+         <div class="col-12 col-sm-12 col-lg-8">
+            <div class="card-body">
+            <h4>Robotic Process Automation (RPA) Fundamentals</h4>
+            <ul>
+            <li>Identify sample use cases that describes the processes and workloads that can be automated</li>
+            <li>Identify and describe the different types of robots, i.e., attended versus unattended robots</li>
+            <li>Explain the functionality of the various UiPath products, i.e., Studio, Robots, and Orchestrator</li>
+            <li>Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition</li>
+            </ul>
+
+<p class="card-text">
+I would say this section was fairly light with the exception of the section on the distinction between attended versus unattended robots. In terms of differentiating between UiPath Studio, Community Edition versus Enterprise Edition, the key that you needed to know there was simply that the enterprise edition is full featured and full licensed, while UI path studio has a limited feature set. That was one thing that you should know, which is fairly obvious. The other thing to know is that anything you create an UI path studio community edition can be deployed to UI path orchestrator. You can still create robots with the Community Edition. You can still use the scripts or packages that you create in UiPath Studio and deploy to UI path orchestrator. So they want you to really know that even though you're using the community edition, everything that you create is 100% valid. It's not like you create a program and then you need some sort of key to unlock it.
+
+</p>
+<p class="card-text">
+So I think that was one key point that they want to emphasize. That is, that even though UiPath studio may not have as many features as enterprise edition, that everything that you create with UI path studio is a hundred percent valid in terms of use cases that describe the processes and workloads that can be automated. What you need to realize here is that RPA and UI path need to be computer-based. We're not creating real world androids here. They are virtual robots. Anything that is repeated constantly and consistently can be automated. So if there's a task that has significant pieces of it, that is variable, that changes from time to time where the steps change, you're not going to be able to automate that. However, if there is a consistent and predictable number of steps, then automation is possible and they want you to be able to recognize that as far as explaining the functionality of various products, studio robots, orchestrator, etc.
+</p>
+<p class="card-text">
+And I would say those particular points are really covered more in depth in the other sections. So if you understand the UI path studio section or understand the UI path orchestrator section, then by default, you're going to understand those particular topics. So I would say that particular topic, I wouldn't even concentrate on it in this because the other sections, the other exam objectives we'll cover that attended versus unattended. Robots is something that I felt they hammered fairly hard on during the exam. They want you to know when to use an attended robot when to use an unattended robot, what the benefits and drawbacks to them are. And I think they also want you to understand the hierarchy of value that you get with an unattended robot versus an attended robot.
+</p>
+<p class="card-text">
+Obviously the key difference of an attended and an unattended robot is that an attended robot needs to be kicked off by a user. A user has to actually log onto a machine, click a button and say, go to get the attended robot to work. An unattended robot does not require that an unattended robot can be kicked off by UI path orchestrator, not. So with an attended robot, an unintended robot can be scheduled and unattended robot can respond to a queue. An unattended robot does not need human intervention to work. So obviously an unattended robot is the ultimate goal. When we do RPA programming, we want as much unattached, as many unattended robots as possible and as little human interaction as possible. So the unattended robot really is the, the ultimate value that UI path can provide. Now, if there's a requirement for human interaction, then we need to have an attended robot.
+</p>
+<p class="card-text">
+And so that's the key differentiating factor that they want you to know in terms of the difference between an attended versus an unattended robot with UI path studio overview. 
+</p>
+	       
+            </div>
+         </div>
+      </div>
+   </div>
+</div>
+
+	
+	
+</div>
