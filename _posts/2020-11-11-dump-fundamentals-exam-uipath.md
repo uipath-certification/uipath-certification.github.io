@@ -14,29 +14,29 @@ blurb: Here's a non-cheat UiPath Exam Dump on the RPA Fundamentals objective of 
 
     <div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
         <div class="card">
-            <div class="card-header">Study Hard</div>
-            <img src="/assets/uipath-exam-dumps-meme.jpg" class="card-img-top" alt="uipath braindump meme change my mind" />
+            <div class="card-header">Study the Objectives</div>
+            <img src="/assets/uipath-exam-dumps-meme.jpg" class="card-img-top" alt="uipath braindump meme" />
             <div class="card-body d-flex flex-column">
-                <p class="card-text">The best way to cheat is to study hard and be prepared. It's the best way to scam the system.</p>
+                <p class="card-text">Study hard and focus on the exam objectives. That's the best use of your valuable time.</p>
             </div>
         </div>
     </div>
     <div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
         <div class="card">
-            <div class="card-header">Do Practice Tests</div>
-            <img src="/assets/one-does-not-simply.jpg" class="card-img-top" alt="UiPath Exam Dump Meme Simply" />
+            <div class="card-header">Take UiPath practice tests</div>
+            <img src="/assets/one-does-not-simply.jpg" class="card-img-top" alt="UiPath Dump Meme " />
             <div class="card-body d-flex flex-column">
-                <p class="card-text">With hundreds of practice exams at your disposal, you have the resources needed to get UiPath Certified with integrity.</p>
+                <p class="card-text">We've got plenty of UiPath questions and answers on this site to test your mettle. Learn honestly and pass with integrity.</p>
             </div>
         </div>
     </div>
 
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
         <div class="card">
-            <div class="card-header">Focus on the Objectives</div>
-            <img src="/assets/think-uipath-cheat.jpg" class="card-img-top" alt="UiPath meme study hard" />
+            <div class="card-header">Learn the Material</div>
+            <img src="/assets/think-uipath-cheat.jpg" class="card-img-top" alt="UiPath cheat />
             <div class="card-body d-flex flex-column">
-                <p class="card-text">Read the exam objectives, get knowledgeable on each subject and Tweet us when you pass. We want to hear about it!</p>
+                <p class="card-text">From UiPath Academy to online YouTube tutorials, there are a variety of high quality, free online learning resources at your disposal.</p>
             </div>
         </div>
     </div>
