@@ -5,7 +5,7 @@ title: UiPath Ideal Automation
 blurb: Which of the following describes the most ideal type of activity to automate with UiPath? 
 difficulty: 5
 objective: 2.3 Explain the significance of connecting an automation project to the version control solution
-canonical: https://www.rpacertified.com//2020/11/11/debug-git-tfs-svn.html
+canonical:
 ---
 
 <h1>Uipath Ideal Automation</h1>
