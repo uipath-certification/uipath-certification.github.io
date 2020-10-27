@@ -1,4 +1,3 @@
-
 ---
 layout: answered-question
 author: Serge
@@ -6,9 +5,8 @@ title: Which Activity?
 blurb: Client receives a spreadsheet containing orders.  The orders must be input into an internal web-based order system.  Which is the best activity to use: 
 difficulty: 5
 objective: 5.2 Identify and describe the various control flow activities such as If, Switch, Break, Parallel, While, etc
-canonical:
+canonical: mki
 ---
-
 <h1>Which Activity?</h1>
 
 Question: Client receives a spreadsheet containing orders.  The orders must be input into an internal web-based order system.  Which is the best activity to use:  
