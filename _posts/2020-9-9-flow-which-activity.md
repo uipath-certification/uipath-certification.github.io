@@ -5,7 +5,7 @@ title: Which Activity?
 blurb: Which is the best activity to use?
 difficulty: 5
 objective: 5.2 Identify and describe the various control flow activities such as If, Switch, Break, Parallel, While, etc
-canonical: mki
+canonical: 
 ---
 <h1>Which Activity?</h1>
 
