@@ -4,7 +4,7 @@ author: Serge
 title: UiPath Ideal Automation
 blurb: Which of the following describes the most ideal type of activity to automate with UiPath? 
 difficulty: 5
-objective: 2.3 Explain the significance of connecting an automation project to the version control solution
+objective: 5.1 Explain how to use control flow activities, workflow types such as sequences and flowcharts, and their functions
 canonical:
 ---
 
