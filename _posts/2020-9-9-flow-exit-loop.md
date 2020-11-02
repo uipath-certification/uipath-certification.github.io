@@ -13,7 +13,7 @@ canonical:
 Question:  How can you exit from a For Each activity in UiPath?
 
  - [ ] &nbsp;  Exit
- - [X] &nbsp;  Breakpoint will cause the process to pause indefinitely
+ - [X] &nbsp;  Break
  - [ ] &nbsp;  Leave
  - [ ] &nbsp;  Goto
 
