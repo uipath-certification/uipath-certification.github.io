@@ -10,7 +10,7 @@ canonical:
 
 <h1>What is the result of this workflow?</h1>
 
-Question:  <img src="https://github.com/uipath-certification/uipath-certification.github.io/blob/master/assets/TryCatch - Indesoutofrange.jpg" class="img-fluid" alt="UiPath, split">
+Question:  <img src="https://github.com/uipath-certification/uipath-certification.github.io/blob/master/assets/TryCatch%20-%20Indexoutofrange.jpg" class="img-fluid" alt="UiPath, split">
 
  - [X] &nbsp;  IndexOutOfRangeException
  - [ ] &nbsp;  This Item: null
