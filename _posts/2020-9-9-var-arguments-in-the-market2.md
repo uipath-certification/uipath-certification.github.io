@@ -10,7 +10,7 @@ canonical:
 
 <h1>What is the result of the workflow?</h1>
 
-Question:  <img src="https://github.com/uipath-certification/uipath-certification.github.io/blob/master/assets/Arguments -In-In_Cart2.jpg" class="img-fluid" alt="UiPath, split">
+Question:  <img src="https://github.com/uipath-certification/uipath-certification.github.io/blob/master/assets/Arguments%20-In-In_Cart2%20.jpg" class="img-fluid" alt="UiPath, split">
 
  - [ ] &nbsp;  “, Orange”
  - [ ] &nbsp;  “Orange”
