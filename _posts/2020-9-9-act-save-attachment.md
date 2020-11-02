@@ -1,8 +1,8 @@
 ---
 layout: answered-question
 author: Serge
-title: In Order to Save Attachments activity, it  can save all the attachments of an email to:
-blurb: In Order to Save Attachments activity, it  can save all the attachments of an email to:
+title: In Order to Save Attachments activity, it  can save all the attachments of an email to
+blurb: In Order to Save Attachments activity, it  can save all the attachments of an email to
 difficulty: 9
 objective: 7.1 Identify and explain how to automate e-mail and how email automation is helpful
 canonical: 
