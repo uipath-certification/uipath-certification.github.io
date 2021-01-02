@@ -145,9 +145,10 @@
     <button id="resister" onclick="register(); return false;"  class="btn btn-primary">Register</button>
     <button id="reset"  onclick="clearForm(); return false;" class="btn btn-primary">Clear</button>
     <button id="reject" onclick="reject(); return false;"  class="btn btn-danger">Reject</button>
+    <button id="rejectRecord" onclick="rejectRecord(); return false;"  class="btn btn-danger">Reject</button>
     
  </div>
- 
+ rejectRecord
  
  
  
@@ -321,6 +322,69 @@ reject = function() {
 
 }	
 	
+rejectRecord = function() {
+
+	let form = document.querySelector('form');
+	//let flag = form.checkValidity();
+	//let flag2 = form.reportValidity();
+	
+	//if (!flag) {
+		//return;
+	//}
+
+	
+	//let form = document.querySelector('form');
+	//if(!form.recordId.value) {
+	//	alert("Record Id is required.");
+	//	return;
+	//}
+	
+	//document.getElementById('status-div').classList.add('invisible');
+	//document.getElementById('success-message').classList.add('invisible');
+	//document.getElementById('failure-message').classList.add('invisible');
+
+
+
+	document.getElementById('registrations').classList.remove('invisible');
+	
+        let data = new FormData(form);
+	let registrant = new Registrant(form);
+	registrants.push(registrant);
+
+	var html = "";
+	for (var i=0; i < registrants.length; i++) {
+	
+
+		  html += "<tr class='alert alert-danger' id='row-" + i + "'>";
+
+	
+		
+		html += "<th scope='row'>" + registrants[i].recordId + "</th>";
+		html += "<td>" + registrants[i].firstName + "</td>";
+		html += "<td>" + registrants[i].lastName + "</td>";
+		html += "<td>" + registrants[i].city + "</td>";
+		html += "<td>" + registrants[i].state + "</td>";
+		html += "<td>" + registrants[i].zip + "</td>";
+		
+		document.getElementById('statusMessageAlert').removeAttribute('class');
+		//document.getElementById('statusMessageAlert').addAttribute('class');
+
+		  html += "<td id='valid-" + i + "'>failed</td>";
+		  document.getElementById('statusMessageAlert').classList.add('alert' ,  'show');
+		  document.getElementById('statusMessageAlert').classList.add('alert-danger');
+		  document.getElementById('statusMessageAlert').classList.add('alert-danger');
+		  document.getElementById('status-message-text').innerHTML = "Rejected";
+		  document.getElementById('status-message-detail').innerHTML = ": Registrant rejected.";
+		  
+		  
+
+		
+		html += "</tr>";
+		
+	}
+	document.getElementById("registration-history-body").innerHTML = html;
+
+}		
 	 
 	
 register = function() {
