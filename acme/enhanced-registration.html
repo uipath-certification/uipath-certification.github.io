@@ -1,0 +1,442 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
+
+
+<title>UiPath Example</title>
+<style>
+.no-gutters {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.no-gutters > [class*="col-"] {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+</style>
+</head>
+<body>
+<div class="container ">
+
+<div id="nav-div" class="row no-gutters">
+<div class="col col-xs-12 col-sm-12 col-md-8 col-lg-8 mx-3 mt-3" id="inner-nav-div">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown">
+               <span class="navbar-toggler-icon"></span>
+               </button>
+               <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                  <ul class="navbar-nav ml-auto">
+                     <li class="nav-item active">
+                        <a class="nav-link" href="index.html">
+                        Log In</a>
+                     </li>
+                     <li class="nav-item">
+                        <a class="nav-link" href="registration.html">Registration</a>
+                     </li>
+
+                  </ul>
+               </div>
+            </nav>
+			</div>
+</div>
+
+<div id="status-div" class="row no-gutters">
+<div class="col col-xs-12 col-sm-12 col-md-8 col-lg-8 mx-3 mt-3" id="alert-div">
+<div id="statusMessageAlert" class="alert alert-info show alert-dismissible fade show" role="alert">
+  <strong><span id="status-message-text"></span></strong>
+  <span id="status-message-detail">Please ensure all data fields are complete.</span>
+</div>
+
+
+</div>
+</div>
+
+
+<div class="row no-gutters">
+<div class="col card col-xs-12 col-sm-12 col-md-8 col-lg-8 mx-3 " id="registration-form-div">
+
+	<div class="card-header ">
+    User Registration Form
+	</div>
+<form id="registration-form" class="row g-3 mx-3 my-3">
+<ul class="errorMessages"></ul>
+  <div class="col-md-2">
+    <label for="recordId" class="form-label">Record Id</label>
+    <input type="text" class="form-control" id="recordId" value="Joe">
+  </div>
+  
+  <div class="col-md-10"></div>
+
+
+
+  <div class="col-md-4">
+    <label for="firstName" class="form-label">First Name</label>
+    <input type="text" class="form-control" id="firstName" value="Joe" required>
+  </div>
+    <div class="col-md-4">
+    <label for="middleName" class="form-label">Middle Name</label>
+    <input type="text" class="form-control" id="middleName" value="Joe Joe">
+  </div>
+  <div class="col-md-4">
+    <label for="lastName" class="form-label">Last Name</label>
+    <input type="text" class="form-control" id="lastName" value="Shabidoo">
+  </div>
+  <div class="col-md-6">
+    <label for="email" class="form-label">Email</label>
+    <input type="email" class="form-control" id="email" value="joe@example.com">
+  </div>
+  <div class="col-md-6">
+    <label for="phone" class="form-label">Phone (###-###-####)</label>
+    <input type="tel" class="form-control" id="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" value="905-683-3333" required>
+  </div>
+  <div class="col-md-6">
+    <label for="city" class="form-label">City</label>
+    <input type="text" class="form-control" id="city" value="Dallas">
+  </div>
+  <div class="col-md-3">
+    <label for="state" class="form-label">State Code</label>
+    <input type="text" class="form-control" id="state" value="TX">
+  </div>
+  <div class="col-md-3">
+    <label for="zip" class="form-label">Zip</label>
+    <input type="text" class="form-control" id="zip" value="90210">
+  </div>
+  
+  
+  <div class="col-md-4">
+    <label for="employment" class="form-label">Employment</label>
+    <input type="text" class="form-control" id="employment" value="Full-time">
+  </div>
+  <div class="col-md-2">
+    <label for="age" class="form-label">Age</label>
+    <input type="text" class="form-control" id="age" value="Dallas">
+  </div>
+  <div class="col-md-4">
+    <label for="maritalstatus" class="form-label">Marital Status</label>
+    <input type="text" class="form-control" id="maritalstatus" value="Single">
+  </div>
+  <div class="col-md-2">
+    <label for="dependents" class="form-label">Dependents</label>
+    <input type="text" class="form-control" id="dependents" value="0">
+  </div>  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <div class="col-12">
+    <button id="resister" onclick="register(); return false;"  class="btn btn-primary">Register</button>
+    <button id="reset"  onclick="clearForm(); return false;" class="btn btn-primary">Clear</button>
+    <button id="reject" onclick="register2(); return false;"  class="btn btn-danger">Reject</button>
+
+    
+ </div>
+
+ 
+ 
+ 
+ 
+</form>
+</div>
+
+</div>
+
+
+
+
+<div id="registrations" class="row invisible no-gutters">
+
+	<div class="col card col-xs-12 col-sm-12 col-md-8 col-lg-8 mx-3 my-3" id="resistration-history">
+	<div class="card-header ">
+    User Registration History
+	</div>
+	<div class="card-body">
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Fist Name</th>
+      <th scope="col">Last Name</th>
+      <th scope="col">City</th>
+	  <th scope="col">State</th>
+	  <th scope="col">Zip</th>
+	  <th scope="col">Status</th>
+    </tr>
+  </thead>
+  <tbody id="registration-history-body">
+  
+  </tbody>
+</table>
+	</div>
+	
+	</div>
+
+</div>
+
+
+
+<div id="excel-downoads" class="row invisible">
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 mx-3 my-3">
+
+</div>
+</div>
+</div>
+
+
+<script>
+document.title = "Registration";
+
+var registrants = new Array();
+
+
+function Registrant(form) {
+	this.recordId = form.recordId.value;
+	this.firstName = form.firstName.value;
+	this.middleName = form.middleName.value;
+	this.lastName = form.middleName.value;
+	this.email = form.email.value;
+	this.phone = form.phone.value;
+	this.city = form.city.value;
+	this.state = form.state.value;
+	this.zip = form.zip.value;
+	this.employment = form.employment.value;
+	this.maritalstatus = form.maritalstatus.value;
+	this.age = form.age.value;
+	this.dependents = form.dependents.value;
+	this.rejected = false;
+	this.valid = validate();
+
+
+
+}
+
+clearForm = function() {
+	
+	let form = document.querySelector('form');
+	//let flag = form.checkValidity();
+	//let flag2 = form.reportValidity();
+	//console.log(flag);
+	//console.log(flag2);
+	
+	
+	form.recordId.value = "";
+	form.firstName.value = "";
+	form.middleName.value = "";
+	form.lastName.value = "";
+	form.email.value = "";
+	form.phone.value = "";
+	form.city.value = "";
+	form.state.value = "";
+	form.zip.value = "";
+	form.employment.value = "";
+	form.maritalstatus.value = "";
+	form.age.value = "";
+	form.dependents.value = "";
+	document.getElementById('statusMessageAlert').removeAttribute('class');
+	document.getElementById('status-message-text').innerHTML = "";
+	document.getElementById('status-message-detail').innerHTML = "Please ensure all data fields are complete.";
+	
+			  document.getElementById('statusMessageAlert').classList.add('alert',  'show');
+		  document.getElementById('statusMessageAlert').classList.add('alert-info');
+
+
+}
+
+
+	 
+	
+register = function() {
+
+	let form = document.querySelector('form');
+	//let flag = form.checkValidity();
+	//let flag2 = form.reportValidity();
+	
+	//if (!flag) {
+		//return;
+	//}
+
+	
+	//let form = document.querySelector('form');
+	if(!form.recordId.value) {
+		alert("Record Id is required.");
+		return;
+	}
+	
+	//document.getElementById('status-div').classList.add('invisible');
+	//document.getElementById('success-message').classList.add('invisible');
+	//document.getElementById('failure-message').classList.add('invisible');
+
+
+
+	document.getElementById('registrations').classList.remove('invisible');
+	
+    let data = new FormData(form);
+	let registrant = new Registrant(form);
+	registrants.push(registrant);
+
+	var html = "";
+	for (var i=0; i < registrants.length; i++) {
+	
+	
+		if(registrants[i].rejected){
+			console.log("We have a rejected registrant!");
+			html += "<tr class='alert alert-danger' id='row-" + i + "'>";
+		} else {
+			if (registrants[i].valid) {
+			  html += "<tr id='row-" + i + "'>";
+			} else {
+			  html += "<tr class='alert alert-warning' id='row-" + i + "'>";
+			}
+		}
+	
+		
+		html += "<th scope='row'>" + registrants[i].recordId + "</th>";
+		html += "<td>" + registrants[i].firstName + "</td>";
+		html += "<td>" + registrants[i].lastName + "</td>";
+		html += "<td>" + registrants[i].city + "</td>";
+		html += "<td>" + registrants[i].state + "</td>";
+		html += "<td>" + registrants[i].zip + "</td>";
+		
+		document.getElementById('statusMessageAlert').removeAttribute('class');
+		//document.getElementById('statusMessageAlert').addAttribute('class');
+		if(registrants[i].rejected){
+			  html += "<td id='valid-" + i + "'>rejected</td>";
+			  document.getElementById('statusMessageAlert').classList.add('alert' ,  'show');
+			  document.getElementById('statusMessageAlert').classList.add('alert-danger');
+			  //document.getElementById('statusMessageAlert').classList.add('alert-danger');
+			  document.getElementById('status-message-text').innerHTML = "Rejected";
+			  document.getElementById('status-message-detail').innerHTML = ": Registrant rejected.";
+			} else {
+				if (!registrants[i].valid) {
+				  html += "<td id='valid-" + i + "'>failed</td>";
+				  document.getElementById('statusMessageAlert').classList.add('alert' ,  'show');
+				  document.getElementById('statusMessageAlert').classList.add('alert-warning');
+				  //document.getElementById('statusMessageAlert').classList.add('alert-warning');
+				  document.getElementById('status-message-text').innerHTML = "Error";
+				  document.getElementById('status-message-detail').innerHTML = ": Registrant failed validation.";
+				  
+				  
+				} else {
+				  html += "<td id='valid-" + i + "'>success</td>";
+
+				  document.getElementById('status-message-text').innerHTML = "Success";
+				  document.getElementById('status-message-detail').innerHTML = ": Registrant added successfully.";
+				  document.getElementById('statusMessageAlert').classList.add('alert',  'show');
+				  document.getElementById('statusMessageAlert').classList.add('alert-success');
+				  
+				}
+			}
+		html += "</tr>";
+	}
+	document.getElementById("registration-history-body").innerHTML = html;
+
+}
+
+validate = function() {
+	let inputs = document.getElementsByTagName("input");
+    for(let i = 0; i < inputs.length; i++) {
+        input = inputs[i];
+        if(!input.value) {
+            return false;
+        }
+    }
+	let form = document.querySelector('form');
+	var phone = form.phone.value;
+    var phoneMatch = phone.match(/[0-9]{3}-[0-9]{3}-[0-9]{4}/g);
+    if (phoneMatch == null || phoneMatch.length==0) {
+		return false;
+	}
+    return true;
+
+}
+
+register2 = function() {
+	console.log("register2");
+	let form = document.querySelector('form');
+	document.getElementById('registrations').classList.remove('invisible');
+    let data = new FormData(form);
+	let registrant = new Registrant(form);
+	registrant.rejected = true;
+	console.log(registrant.rejected);
+	registrants.push(registrant);
+
+	var html = "";
+	for (var i=0; i < registrants.length; i++) {
+	
+	
+		if(registrants[i].rejected){
+			console.log("We have a rejected registrant!");
+			html += "<tr class='alert alert-danger' id='row-" + i + "'>";
+		} else {
+			if (registrants[i].valid) {
+			  html += "<tr id='row-" + i + "'>";
+			} else {
+			  html += "<tr class='alert alert-warning' id='row-" + i + "'>";
+			}
+		}
+	
+		
+		html += "<th scope='row'>" + registrants[i].recordId + "</th>";
+		html += "<td>" + registrants[i].firstName + "</td>";
+		html += "<td>" + registrants[i].lastName + "</td>";
+		html += "<td>" + registrants[i].city + "</td>";
+		html += "<td>" + registrants[i].state + "</td>";
+		html += "<td>" + registrants[i].zip + "</td>";
+		
+		document.getElementById('statusMessageAlert').removeAttribute('class');
+		//document.getElementById('statusMessageAlert').addAttribute('class');
+		if(registrants[i].rejected){
+
+			  html += "<td id='valid-" + i + "'>rejected</td>";
+			  document.getElementById('statusMessageAlert').classList.add('alert' ,  'show');
+			  document.getElementById('statusMessageAlert').classList.add('alert-danger');
+			  //document.getElementById('statusMessageAlert').classList.add('alert-danger');
+			  document.getElementById('status-message-text').innerHTML = "Rejected";
+			  document.getElementById('status-message-detail').innerHTML = ": Registrant rejected.";
+			} else {
+				if (!registrants[i].valid) {
+				  html += "<td id='valid-" + i + "'>failed</td>";
+				  document.getElementById('statusMessageAlert').classList.add('alert' ,  'show');
+				  document.getElementById('statusMessageAlert').classList.add('alert-warning');
+				  //document.getElementById('statusMessageAlert').classList.add('alert-warning');
+				  document.getElementById('status-message-text').innerHTML = "Error";
+				  document.getElementById('status-message-detail').innerHTML = ": Registrant failed validation.";
+				  
+				  
+				} else {
+				  html += "<td id='valid-" + i + "'>success</td>";
+
+				  document.getElementById('status-message-text').innerHTML = "Success";
+				  document.getElementById('status-message-detail').innerHTML = ": Registrant added successfully.";
+				  document.getElementById('statusMessageAlert').classList.add('alert',  'show');
+				  document.getElementById('statusMessageAlert').classList.add('alert-success');
+				  
+				}
+			}
+		html += "</tr>";
+	}
+	document.getElementById("registration-history-body").innerHTML = html;
+}
+
+
+
+</script>
+</body>
+</html>
