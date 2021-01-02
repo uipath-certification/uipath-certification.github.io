@@ -286,7 +286,10 @@ register = function() {
 	
     let data = new FormData(form);
 	let registrant = new Registrant(form);
-	registrants.push(registrant);
+	
+	if (registrant.valid) {
+		registrants.push(registrant);
+	}
 
 	var html = "";
 	for (var i=0; i < registrants.length; i++) {
