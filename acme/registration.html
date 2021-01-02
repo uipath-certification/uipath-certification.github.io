@@ -144,8 +144,8 @@
   <div class="col-12">
     <button id="resister" onclick="register(); return false;"  class="btn btn-primary">Register</button>
     <button id="reset"  onclick="clearForm(); return false;" class="btn btn-primary">Clear</button>
-    <button id="reject" onclick="reject(); return false;"  class="btn btn-danger">Reject</button>
-    <button id="rejectRecord" onclick="rejectRecord(); return false;"  class="btn btn-danger">Reject</button>
+    <button id="reject" onclick="register2(); return false;"  class="btn btn-danger">Reject</button>
+
     
  </div>
 
@@ -220,8 +220,9 @@ function Registrant(form) {
 	this.maritalstatus = form.maritalstatus.value;
 	this.age = form.age.value;
 	this.dependents = form.dependents.value;
-	
+	this.rejected = false;
 	this.valid = validate();
+
 
 
 }
@@ -293,10 +294,16 @@ register = function() {
 	var html = "";
 	for (var i=0; i < registrants.length; i++) {
 	
-		if (registrants[i].valid) {
-		  html += "<tr id='row-" + i + "'>";
+	
+		if(registrants[i].rejected){
+			console.log("We have a rejected registrant!");
+			html += "<tr class='alert alert-danger' id='row-" + i + "'>";
 		} else {
-		  html += "<tr class='alert alert-warning' id='row-" + i + "'>";
+			if (registrants[i].valid) {
+			  html += "<tr id='row-" + i + "'>";
+			} else {
+			  html += "<tr class='alert alert-warning' id='row-" + i + "'>";
+			}
 		}
 	
 		
@@ -309,27 +316,34 @@ register = function() {
 		
 		document.getElementById('statusMessageAlert').removeAttribute('class');
 		//document.getElementById('statusMessageAlert').addAttribute('class');
-		if (!registrants[i].valid) {
-		  html += "<td id='valid-" + i + "'>failed</td>";
-		  document.getElementById('statusMessageAlert').classList.add('alert' ,  'show');
-		  document.getElementById('statusMessageAlert').classList.add('alert-danger');
-		  document.getElementById('statusMessageAlert').classList.add('alert-danger');
-		  document.getElementById('status-message-text').innerHTML = "Error";
-		  document.getElementById('status-message-detail').innerHTML = ": Registrant failed validation.";
-		  
-		  
-		} else {
-		  html += "<td id='valid-" + i + "'>success</td>";
+		if(registrants[i].rejected.true){
+			  html += "<td id='valid-" + i + "'>rejected</td>";
+			  document.getElementById('statusMessageAlert').classList.add('alert' ,  'show');
+			  document.getElementById('statusMessageAlert').classList.add('alert-danger');
+			  //document.getElementById('statusMessageAlert').classList.add('alert-danger');
+			  document.getElementById('status-message-text').innerHTML = "Rejected";
+			  document.getElementById('status-message-detail').innerHTML = ": Registrant rejected.";
+			} else {
+				if (!registrants[i].valid) {
+				  html += "<td id='valid-" + i + "'>failed</td>";
+				  document.getElementById('statusMessageAlert').classList.add('alert' ,  'show');
+				  document.getElementById('statusMessageAlert').classList.add('alert-warning');
+				  //document.getElementById('statusMessageAlert').classList.add('alert-warning');
+				  document.getElementById('status-message-text').innerHTML = "Error";
+				  document.getElementById('status-message-detail').innerHTML = ": Registrant failed validation.";
+				  
+				  
+				} else {
+				  html += "<td id='valid-" + i + "'>success</td>";
 
-		  document.getElementById('status-message-text').innerHTML = "Success";
-		  document.getElementById('status-message-detail').innerHTML = ": Registrant added successfully.";
-		  document.getElementById('statusMessageAlert').classList.add('alert',  'show');
-		  document.getElementById('statusMessageAlert').classList.add('alert-success');
-		  
-		}
-		
+				  document.getElementById('status-message-text').innerHTML = "Success";
+				  document.getElementById('status-message-detail').innerHTML = ": Registrant added successfully.";
+				  document.getElementById('statusMessageAlert').classList.add('alert',  'show');
+				  document.getElementById('statusMessageAlert').classList.add('alert-success');
+				  
+				}
+			}
 		html += "</tr>";
-		
 	}
 	document.getElementById("registration-history-body").innerHTML = html;
 
@@ -353,11 +367,72 @@ validate = function() {
 
 }
 
+register2 = function() {
+	console.log("register2");
+	let form = document.querySelector('form');
+	document.getElementById('registrations').classList.remove('invisible');
+    let data = new FormData(form);
+	let registrant = new Registrant(form);
+	registrant.rejected = true;
+	console.log(registrant.rejected);
+	registrants.push(registrant);
 
+	var html = "";
+	for (var i=0; i < registrants.length; i++) {
+	
+	
+		if(registrants[i].rejected){
+			console.log("We have a rejected registrant!");
+			html += "<tr class='alert alert-danger' id='row-" + i + "'>";
+		} else {
+			if (registrants[i].valid) {
+			  html += "<tr id='row-" + i + "'>";
+			} else {
+			  html += "<tr class='alert alert-warning' id='row-" + i + "'>";
+			}
+		}
+	
+		
+		html += "<th scope='row'>" + registrants[i].recordId + "</th>";
+		html += "<td>" + registrants[i].firstName + "</td>";
+		html += "<td>" + registrants[i].lastName + "</td>";
+		html += "<td>" + registrants[i].city + "</td>";
+		html += "<td>" + registrants[i].state + "</td>";
+		html += "<td>" + registrants[i].zip + "</td>";
+		
+		document.getElementById('statusMessageAlert').removeAttribute('class');
+		//document.getElementById('statusMessageAlert').addAttribute('class');
+		if(registrants[i].rejected.true){
+			  html += "<td id='valid-" + i + "'>rejected</td>";
+			  document.getElementById('statusMessageAlert').classList.add('alert' ,  'show');
+			  document.getElementById('statusMessageAlert').classList.add('alert-danger');
+			  //document.getElementById('statusMessageAlert').classList.add('alert-danger');
+			  document.getElementById('status-message-text').innerHTML = "Rejected";
+			  document.getElementById('status-message-detail').innerHTML = ": Registrant rejected.";
+			} else {
+				if (!registrants[i].valid) {
+				  html += "<td id='valid-" + i + "'>failed</td>";
+				  document.getElementById('statusMessageAlert').classList.add('alert' ,  'show');
+				  document.getElementById('statusMessageAlert').classList.add('alert-warning');
+				  //document.getElementById('statusMessageAlert').classList.add('alert-warning');
+				  document.getElementById('status-message-text').innerHTML = "Error";
+				  document.getElementById('status-message-detail').innerHTML = ": Registrant failed validation.";
+				  
+				  
+				} else {
+				  html += "<td id='valid-" + i + "'>success</td>";
 
-
-
-
+				  document.getElementById('status-message-text').innerHTML = "Success";
+				  document.getElementById('status-message-detail').innerHTML = ": Registrant added successfully.";
+				  document.getElementById('statusMessageAlert').classList.add('alert',  'show');
+				  document.getElementById('statusMessageAlert').classList.add('alert-success');
+				  
+				}
+			}
+		html += "</tr>";
+	}
+	document.getElementById("registration-history-body").innerHTML = html;
+}
 
 
 
