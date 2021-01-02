@@ -297,6 +297,12 @@ register = function() {
 	let registrant = new Registrant(form);
 	if(registrant.valid) {
 	registrants.push(registrant);
+	} else {
+						  document.getElementById('statusMessageAlert').classList.add('alert' ,  'show');
+				  document.getElementById('statusMessageAlert').classList.add('alert-warning');
+				  //document.getElementById('statusMessageAlert').classList.add('alert-warning');
+				  document.getElementById('status-message-text').innerHTML = "Error";
+				  document.getElementById('status-message-detail').innerHTML = ": Registrant failed validation.";
 	}
 
 	var html = "";
