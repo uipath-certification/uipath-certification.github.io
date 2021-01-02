@@ -307,6 +307,7 @@ register = function() {
 		//document.getElementById('statusMessageAlert').classList.add('alert-warning');
 		document.getElementById('status-message-text').innerHTML = "Error";
 		document.getElementById('status-message-detail').innerHTML = ": Registrant failed validation.";
+		console.log("Done with warning");
 	}
 
 	var html = "";
@@ -364,6 +365,21 @@ register = function() {
 		html += "</tr>";
 	}
 	document.getElementById("registration-history-body").innerHTML = html;
+	
+	if(registrant.valid) {
+	//registrants.push(registrant);
+	} else {
+		console.log("registrant is invalid 2");
+		document.getElementById('statusMessageAlert').removeAttribute('class');
+		document.getElementById('status-message-text').innerHTML = "";
+		document.getElementById('status-message-detail').innerHTML = "Please ensure all data fields are complete.";
+		document.getElementById('statusMessageAlert').classList.add('alert' ,  'show');
+		document.getElementById('statusMessageAlert').classList.add('alert-warning');
+		//document.getElementById('statusMessageAlert').classList.add('alert-warning');
+		document.getElementById('status-message-text').innerHTML = "Error";
+		document.getElementById('status-message-detail').innerHTML = ": Registrant failed validation.";
+		console.log("Done with warning");
+	}
 
 }
 
