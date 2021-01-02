@@ -289,7 +289,9 @@ register = function() {
 	
     let data = new FormData(form);
 	let registrant = new Registrant(form);
+	if(registrant.valid) {
 	registrants.push(registrant);
+	}
 
 	var html = "";
 	for (var i=0; i < registrants.length; i++) {
@@ -375,9 +377,9 @@ register2 = function() {
 	let registrant = new Registrant(form);
 	registrant.rejected = true;
 	console.log(registrant.rejected);
-	if(registrant.valid) {
+
 	registrants.push(registrant);
-	}
+
 
 	var html = "";
 	for (var i=0; i < registrants.length; i++) {
