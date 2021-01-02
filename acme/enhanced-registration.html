@@ -298,6 +298,10 @@ register = function() {
 	if(registrant.valid) {
 	registrants.push(registrant);
 	} else {
+		console.log("registrant is invalid");
+		document.getElementById('statusMessageAlert').removeAttribute('class');
+		document.getElementById('status-message-text').innerHTML = "";
+		document.getElementById('status-message-detail').innerHTML = "Please ensure all data fields are complete.";
 		document.getElementById('statusMessageAlert').classList.add('alert' ,  'show');
 		document.getElementById('statusMessageAlert').classList.add('alert-warning');
 		//document.getElementById('statusMessageAlert').classList.add('alert-warning');
