@@ -95,13 +95,16 @@
          }
          function hangUp() {
            document.getElementById("myStatus").innerHTML = "Available";
-           document.getElementById("callInfo").innerHTML = "&nbsp;";
+           //document.getElementById("callInfo").innerHTML = "&nbsp;";
            document.getElementById("hang-upl-button").setAttribute("disabled", "true");
            document.getElementById("hold-call-button").setAttribute("disabled", "true");
            document.getElementById("hold-call-button").innerHTML = "Put call on hold";
            //document.getElementById("answer-call-button").removeAttribute("disabled");
 		   document.getElementById("phoneNumber").innerHTML = "";
            document.getElementById("phonesvg").setAttribute("fill", "grey");
+		   document.getElementById("phoneNumber").innerHTML = "No incoming calls.";
+		   
+		   
          }
 		 
 		 var count=0;
@@ -136,8 +139,8 @@
                      </svg>
                   </div>
                   
-                  <h5 id="phoneNumber"></h5>
-				  <h5 id="callInfo"></h5>
+                  <h5 id="phoneNumber">No incoming calls.</h5>
+
                </div>
             </div>
          </div>
