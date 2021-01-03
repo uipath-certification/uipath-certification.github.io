@@ -74,6 +74,7 @@
    <body>
       <script>
          function startCall() {
+           document.getElementById("incomingCallSpan").innerHTML = "";
            document.getElementById("myStatus").innerHTML = "Call active";
            //document.getElementById("callInfo").innerHTML = "Customer#123";
            document.getElementById("answer-call-button").setAttribute("disabled", "true");
@@ -86,6 +87,7 @@
 		   
          }
          function putOnHold() {
+           document.getElementById("incomingCallSpan").innerHTML = "";
            if(document.getElementById("myStatus").innerHTML == "Call active") {
              document.getElementById("myStatus").innerHTML = "On hold";
              document.getElementById("hold-call-button").innerHTML = "Resume call";
@@ -132,7 +134,7 @@
 		   document.getElementById("phoneNumber").innerHTML = number;
            document.getElementById("phonesvg").setAttribute("fill", "red");
 		   document.getElementById("answer-call-button").removeAttribute("disabled");
-		   document.getElementById("incomingCallSpan").innerHTML = "<h4 id='incomingCall' class='mt-3'>Call in progress.</h4>";
+		   document.getElementById("incomingCallSpan").innerHTML = "<h4 id='incomingCall' class='mt-3'>Incoming call...</h4>";
          }
          
          
