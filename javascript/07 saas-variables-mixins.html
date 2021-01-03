@@ -1,0 +1,86 @@
+<html>
+<head>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
+<style>
+         body {
+         padding: 2em; 
+         }
+
+</style>
+</head>
+<body>
+
+ 
+<h1>Variables</h1>
+
+<pre>
+
+$favorite-font: Helvetica, sans-serif;
+$favorite-color: #00FF00;
+
+body {
+	font: 150% $favorite-font;
+	color: $favorite-color;
+}
+
+p {
+	font: 150% $favorite-color;
+	color: $favorite-color;
+}
+
+h1 {color: $favorite-color; }
+
+</pre>
+
+<h1>Mixins</h1>
+
+
+<div class="orange-overlay">
+<h2> Orange Overlay </h2>
+</div>
+
+<div class="green-overlay">
+<h2> Green Overlay </h2>
+</div>
+
+<div class="custom-overlay">
+<h2> Custom Red Overlay </h2>
+</div>
+<pre>
+@mixin overlay() {
+  bottom: 0;
+  top: 0;
+  right: 0;
+  position: absolute;
+  opacity: 0.9;
+}
+
+.orange-overlay {
+  @include overlay();
+  background: orange;
+  left: 22;
+}
+
+.green-overlay {
+  @include overlay();
+  background: green;
+  left: 333;
+}
+
+.custom-overlay {
+  bottom: 10;
+  top: 10;
+  left: 777;
+  right: 0;
+  position: absolute;
+  opacity: 0.8;
+  background: red;
+
+}
+</pre>
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,158 @@
+Who invented bootstrap?
+
+Facebook
+Twitter
+Google
+Apache
+
+Apache vs MIT license
+
+
+How many media query ranged does the default boostrap implementation account for?
+
+12
+6
+5
+4
+
+
+Which JavaScript language is a requirement to use some of the Bootstra 5 GUI components?
+
+jQuery
+Dojo
+Prototype
+Pure JavaScript
+
+
+A collection of properties in SaSS is known as a:
+
+Struct
+Mixin
+Variable
+Object
+
+
+What is the proper order?
+
+jQuery Popper Boostrap
+Popper jQuery Boostrap
+jQuery Boostrap Popper 
+Boostrap Popper jQuery
+
+
+Where should external JavaScript and CSS file references reside in the HTML
+(top = head tag. bottom = before /body tag)
+
+JavaScript on the top and CSS on the bottom
+JavaScript on the bottom and CSS on the top
+JavaScript and CSS on the bottom
+JavaScript and CSS on the top
+
+RWD stands for:
+
+Rear Wheel Drive
+Responsive Web Design
+Reactive Web Development
+Responsive Web Development
+
+
+What was Bootstrap's original project name?
+
+Oak
+Gradle
+Blueprint
+Jumpstart
+
+
+CDNs are problematic due to
+
+Firewalls
+
+
+In which file are the standard bootstrap colors defined?
+
+_variables.scss
+_utilities.scss
+_colors.scss
+_bootstrap.scss
+
+What is the name of the project that bootstrap uses to create a consistent look across browsers?
+
+baseline
+reset
+normalize
+standarize
+
+
+What is the name of the file that defines the default HTML line height for bootstrap applications?
+
+normalize.css
+baseline.css
+bootstrap.css
+reset.css
+
+
+The media query breakpoints of 1200, 992 and 768are:
+
+Set based the open browser standards organization
+Set permanently in the bootstrap CSS file
+Set permanently in the bootstrap JavaScript file
+Configurable through CSS
+
+
+https://getbootstrap.com/docs/3.4/customize/
+
+
+What is the standard line height for the HTML tag when bootstap loads?
+
+line-height: 1.15;
+line-height: 1.00; 
+line-height: 1.25;
+line-height: 1.10;
+
+Multiple images contained in a single file are known as:
+
+Sprites
+Vectors
+SVGs
+Galleries
+
+
+What component have you never used?
+
+1 REM is equivalent to:
+
+1 pixel
+The HTML element's font size
+To the containing/parent element's font size
+The viewport size
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

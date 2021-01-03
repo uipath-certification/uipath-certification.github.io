@@ -1,0 +1,161 @@
+<style>
+.wrapper-c {
+  display: flex;  
+  flex-flow: row wrap;
+  font-weight: bold;
+  text-align: center;
+  width: 419px;
+}
+
+.wrapper-c > * {
+  padding: 10px;
+  flex:  100%;
+
+  
+}
+
+.header-c {
+  background: tomato;
+}
+
+.footer-c  {
+  background: lightgreen;
+}
+
+.main-c {
+  text-align: left;
+  background: deepskyblue;
+}
+
+.aside-1-c  {
+  background: gold;
+}
+
+.aside-2-c  {
+  background: hotpink;
+}
+
+@media all and (min-width: 600px) {
+  .aside-c  { flex: 1 0 0; }
+    .wrapper-c {
+    width: 560px;
+  }
+}
+
+@media all and (min-width: 800px) {
+  .main-c    { flex: 3 0px; }
+  .aside-1-c  { order: 1; } 
+  .main-c    { order: 2; }
+  .aside-2-c { order: 3; }
+  .footer-c   { order: 4; }
+      .wrapper-c {
+    width: 760px;
+  }
+}
+
+@media all and (min-width: 1000px) {
+  .main-c    { flex: 3 0px; }
+  .aside-1-c  { order: 1; } 
+  .main-c    { order: 2; }
+  .aside-2-c { order: 3; }
+  .footer-c   { order: 4; }
+      .wrapper-c {
+    width: 960px;
+  }
+}
+
+body {
+  padding: 2em; 
+}
+
+</style>
+
+<hr/>
+<pre>
+&lt;div class="container"&gt;
+</pre>
+
+<div class="wrapper-c">
+  <header class="header-c ">Header</header>
+  <article class="main-c">
+    <p>The desert sky was blood red. She held on tight, as we sped, through the Valley of the Dead Vultures, into an underworld of sub-culture.</p>  
+  </article>
+  <aside class="aside-c  aside-1-c ">Aside 1</aside>
+  <aside class="aside-c  aside-2-c ">Aside 2</aside>
+  <footer class="footer-c ">Footer</footer>
+</div>
+
+
+<pre>
+&lt;/div&gt;
+
+<hr/>
+&lt;div class="container-fluid"&gt;
+</pre>
+
+<style>
+.wrapper {
+  display: flex;  
+  flex-flow: row wrap;
+  font-weight: bold;
+  text-align: center;
+}
+
+.wrapper > * {
+  padding: 10px;
+  flex: 1 100%;
+}
+
+.header {
+  background: tomato;
+}
+
+.footer {
+  background: lightgreen;
+}
+
+.main {
+  text-align: left;
+  background: deepskyblue;
+}
+
+.aside-1 {
+  background: gold;
+}
+
+.aside-2 {
+  background: hotpink;
+}
+
+@media all and (min-width: 600px) {
+  .aside { flex: 1 0 0; }
+}
+
+@media all and (min-width: 800px) {
+  .main    { flex: 3 0px; }
+  .aside-1 { order: 1; } 
+  .main    { order: 2; }
+  .aside-2 { order: 3; }
+  .footer  { order: 4; }
+}
+
+body {
+  padding: 2em; 
+}
+
+</style>
+
+<div class="wrapper">
+  <header class="header">Header</header>
+  <article class="main">
+    <p>The desert sky was blood red. She held on tight, as we sped, through the Valley of the Dead Vultures, into an underworld of sub-culture.</p>  
+  </article>
+  <aside class="aside aside-1">Aside 1</aside>
+  <aside class="aside aside-2">Aside 2</aside>
+  <footer class="footer">Footer</footer>
+</div>
+
+<pre>
+&lt;/div&gt;
+</pre>
+<hr/>
