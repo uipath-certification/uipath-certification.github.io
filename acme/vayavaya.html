@@ -80,6 +80,10 @@
            document.getElementById("hold-call-button").removeAttribute("disabled");
            document.getElementById("hang-upl-button").removeAttribute("disabled");
 		   document.getElementById("phonesvg").setAttribute("fill", "blue");
+		   
+		   
+		   
+		   
          }
          function putOnHold() {
            if(document.getElementById("myStatus").innerHTML == "Call active") {
@@ -103,7 +107,7 @@
 		   document.getElementById("phoneNumber").innerHTML = "";
            document.getElementById("phonesvg").setAttribute("fill", "grey");
 		   document.getElementById("phoneNumber").innerHTML = "No incoming calls.";
-		   document.getElementById("incomingCall").innerHTML = "&nbsp;";
+		   document.getElementById("incomingCallSpan").innerHTML = "";
 		   
 		   
          }
@@ -114,15 +118,21 @@
 		   
 		 function incomingCall() {
 		   hangUp();
+		   
+		   
+		   document.getElementById("incomingCallSpan").innerHTML = "";
+		   
+		   
 		   var number = numbers[count%3];
 		   count++;
 		   
 
-		   document.getElementById("incomingCall").innerHTML = "Call in progress.";
+		   //document.getElementById("incomingCall").innerHTML = "Call in progress.";
            //document.getElementById("myStatus").innerHTML = "Active caller.";
 		   document.getElementById("phoneNumber").innerHTML = number;
            document.getElementById("phonesvg").setAttribute("fill", "red");
 		   document.getElementById("answer-call-button").removeAttribute("disabled");
+		   document.getElementById("incomingCallSpan").innerHTML = "<h4 id='incomingCall' class='mt-3'>Call in progress.</h4>";
          }
          
          
@@ -143,7 +153,7 @@
                   </div>
                   
                   <h5 id="phoneNumber">No incoming calls.</h5>
-				  <span id="incomingCallSpan"><h4 id="incomingCall" class="mt-3">&nbsp;</h4></span>
+				  <span id="incomingCallSpan"></span>
                </div>
             </div>
          </div>
