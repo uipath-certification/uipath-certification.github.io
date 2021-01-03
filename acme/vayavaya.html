@@ -82,7 +82,7 @@
            document.getElementById("hang-upl-button").removeAttribute("disabled");
          document.getElementById("phonesvg").setAttribute("fill", "blue");
          
-         
+         document.getElementById("btn-trigger").setAttribute("disabled", "true");
          
          
          }
@@ -110,6 +110,7 @@
            document.getElementById("phonesvg").setAttribute("fill", "grey");
          document.getElementById("phoneNumber").innerHTML = "No incoming calls.";
          document.getElementById("incomingCallSpan").innerHTML = "";
+		 document.getElementById("btn-trigger").removeAttribute("disabled");
          
          
          }
@@ -119,8 +120,20 @@
          var numbers = ["905-555-1212", "716-555-4545", "416-555-5140"];
          
          function incomingCall() {
+		 
+		 document.getElementById("newsletter").checked=false;
+		 document.getElementById("discountcard").checked=false;
+		 document.getElementById("rewards").checked=false;
+		 
+		 document.getElementById("callername").value="";
+		 document.getElementById("callercity").value="";
+		 document.getElementById("callerstatus").value="";
+		 
+		 document.getElementById("phonesvg").setAttribute("fill", "grey");
+		 
+		 
          hangUp();
-         
+         document.getElementById("btn-trigger").setAttribute("disabled", "true");
          
          document.getElementById("incomingCallSpan").innerHTML = "";
          
