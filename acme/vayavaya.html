@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="robots" content="index, follow">
+      <title>VayaVaya</title>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
+      <style>
+         blockquote {
+         background: #f9f9f9;
+         border-left: 10px solid #ccc;
+         margin: 1.5em 10px;
+         padding: 0.5em 10px;
+         }
+         blockquote:before {
+         color: #ccc;
+         font-size: 4em;
+         line-height: 0.1em;
+         margin-right: 0.25em;
+         vertical-align: -0.4em;
+         }
+         blockquote p {
+         display: inline;
+         }
+         html {
+         font-size: 12pt;
+         }
+         h1 {
+         font-size: 1.09em;
+         }
+         h2 {
+         font-size: 1.07em;
+         }
+         h3 {
+         font-size: 1.05em;
+         }
+         h4 {
+         font-size: 1.03em;
+         }
+         h5 {
+         font-size: .83em;
+         }
+         h6 {
+         font-size: .75em;
+         }
+         a,
+         u {
+         text-decoration: none;
+         color: #0d47a1
+         }
+         a:hover {
+         background-color: #f9fbfd;
+         color: #4285F4;
+         }
+         .header,
+         .footer {
+         background: white;
+         text-align: center;
+         }
+         .main {
+         background: white;
+         text-align: left;
+         }
+         .aside-1 {
+         background: white;
+         }
+         .aside-2 {
+         background: white;
+         }
+      </style>
+   </head>
+   <body>
+      <script>
+         function startCall() {
+           document.getElementById("myStatus").innerHTML = "Call active";
+           //document.getElementById("callInfo").innerHTML = "Customer#123";
+           document.getElementById("btn-success").setAttribute("disabled", "true");
+           document.getElementById("btn-warning").removeAttribute("disabled");
+           document.getElementById("btn-danger").removeAttribute("disabled");
+		   document.getElementById("phonesvg").setAttribute("fill", "blue");
+         }
+         function putOnHold() {
+           if(document.getElementById("myStatus").innerHTML == "Call active") {
+             document.getElementById("myStatus").innerHTML = "On hold";
+             document.getElementById("btn-warning").innerHTML = "Resume call";
+			 document.getElementById("phonesvg").setAttribute("fill", "orange");
+           }
+           else {
+             document.getElementById("myStatus").innerHTML = "Call active";
+             document.getElementById("btn-warning").innerHTML = "Put call on hold";
+			 document.getElementById("phonesvg").setAttribute("fill", "blue");
+           }
+         }
+         function hangUp() {
+           document.getElementById("myStatus").innerHTML = "Available";
+           document.getElementById("callInfo").innerHTML = "&nbsp;";
+           document.getElementById("btn-danger").setAttribute("disabled", "true");
+           document.getElementById("btn-warning").setAttribute("disabled", "true");
+           document.getElementById("btn-warning").innerHTML = "Put call on hold";
+           //document.getElementById("btn-success").removeAttribute("disabled");
+		   document.getElementById("phoneNumber").innerHTML = "";
+           document.getElementById("phonesvg").setAttribute("fill", "grey");
+         }
+		 
+		 var count=0;
+		 //var mod = count%3;
+		 var numbers = ["905-555-1212", "716-555-4545", "416-555-5140"];
+		   
+		 function incomingCall() {
+		   hangUp();
+		   var number = numbers[count%3];
+		   count++;
+		   
+		 
+           //document.getElementById("callstatus").innerHTML = "Incoming Call Active";
+		   document.getElementById("phoneNumber").innerHTML = number;
+           document.getElementById("phonesvg").setAttribute("fill", "red");
+		   document.getElementById("btn-success").removeAttribute("disabled");
+         }
+         
+         
+         
+      </script>
+      <div class="container  mt-5">
+      <div class="row">
+         <div class=" col-12  col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch col-auto mb-3">
+            <div class="card col-auto align-items-stretch w-100">
+               <div class="card-header">IVR Mockup: VayaVaya</div>
+               <div class="card-body  d-flex flex-column">
+				  <h4 id="myStatus" class="mt-3">Available</h4>
+                  <div class="my-2 col-auto text-center">
+                     <svg id="phonesvg" xmlns="http://www.w3.org/2000/svg" width="150" height="150" fill="grey" class="bi bi-telephone-fill" viewBox="0 0 16 16">
+                        <path fill-rule="evenodd" d="M1.885.511a1.745 1.745 0 0 1 2.61.163L6.29 2.98c.329.423.445.974.315 1.494l-.547 2.19a.678.678 0 0 0 .178.643l2.457 2.457a.678.678 0 0 0 .644.178l2.189-.547a1.745 1.745 0 0 1 1.494.315l2.306 1.794c.829.645.905 1.87.163 2.611l-1.034 1.034c-.74.74-1.846 1.065-2.877.702a18.634 18.634 0 0 1-7.01-4.42 18.634 18.634 0 0 1-4.42-7.009c-.362-1.03-.037-2.137.703-2.877L1.885.511z"/>
+                     </svg>
+                  </div>
+                  
+                  <h5 id="phoneNumber"></h5>
+				  <h5 id="callInfo"></h5>
+               </div>
+            </div>
+         </div>
+         <div class="  d-none col-12  col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+         </div>
+         <div class="  d-none col-12   col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+         </div>
+         <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+            <div class="card w-100">
+               <div class="card-header w-100">Incoming Calls</div>
+               <div class="card-body  d-flex flex-column">
+                  <div class="col-sm-12  w-100"><button onclick="startCall()" type="button" class="btn btn-success center-block btn-block" id="btn-success" disabled="">Answer Call</button>&nbsp;</div>
+                  <div class="col-sm-12 w-100"><button onclick="putOnHold()" type="button" class="btn btn-warning center-block btn-block" id="btn-warning" disabled="">Put call on hold&nbsp;</button>&nbsp;</div>
+                  <div class="col-sm-12 w-100"><button onclick="hangUp()" type="button" class="btn btn-danger center-block btn-block" id="btn-danger" disabled="">Hang up&nbsp;</button>&nbsp;</div>
+               </div>
+            </div>
+         </div>
+         <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+            <div class="card w-100">
+               <div class="card-header">Caller Profile</div>
+               <div class="card-body  d-flex flex-column">
+                  <label for="callername">Name</label><input type="text" id="callername"/>
+                  <label for="callercity" >City</label><input type="text" id="callercity"/>
+                  <label for="callerstatus" >Status</label><input type="text" id="callerstatus"/>
+               </div>
+            </div>
+         </div>
+         <div class=" col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2  d-flex align-items-stretch">
+            <div class="card w-100">
+               <div class="card-header w-100">Service Offerings</div>
+               <div class="card-body  d-flex flex-column">
+			   <h2 class="my-2">Check all that apply</h2>
+                  <p><input type="checkbox" id="newsletter"/> Monthly Newsletter</p>
+                  <p><input type="checkbox" id="discountcard"/>	Discount Card</p>
+                  <p><input type="checkbox" id="rewards"/>		Rewards Program</p>
+               </div>
+            </div>
+         </div>
+      </div>
+	  
+	  <button onclick="incomingCall()" type="button" class="btn btn-outline-primary btn-sm center-block" id="btn-trigger">Trigger call</button>
+	  </div>
+	  
+   </body>
+</html>
