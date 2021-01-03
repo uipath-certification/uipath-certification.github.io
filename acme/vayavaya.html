@@ -76,30 +76,30 @@
          function startCall() {
            document.getElementById("myStatus").innerHTML = "Call active";
            //document.getElementById("callInfo").innerHTML = "Customer#123";
-           document.getElementById("btn-success").setAttribute("disabled", "true");
-           document.getElementById("btn-warning").removeAttribute("disabled");
-           document.getElementById("btn-danger").removeAttribute("disabled");
+           document.getElementById("answer-call-button").setAttribute("disabled", "true");
+           document.getElementById("hold-call-button").removeAttribute("disabled");
+           document.getElementById("hang-upl-button").removeAttribute("disabled");
 		   document.getElementById("phonesvg").setAttribute("fill", "blue");
          }
          function putOnHold() {
            if(document.getElementById("myStatus").innerHTML == "Call active") {
              document.getElementById("myStatus").innerHTML = "On hold";
-             document.getElementById("btn-warning").innerHTML = "Resume call";
+             document.getElementById("hold-call-button").innerHTML = "Resume call";
 			 document.getElementById("phonesvg").setAttribute("fill", "orange");
            }
            else {
              document.getElementById("myStatus").innerHTML = "Call active";
-             document.getElementById("btn-warning").innerHTML = "Put call on hold";
+             document.getElementById("hold-call-button").innerHTML = "Put call on hold";
 			 document.getElementById("phonesvg").setAttribute("fill", "blue");
            }
          }
          function hangUp() {
            document.getElementById("myStatus").innerHTML = "Available";
            document.getElementById("callInfo").innerHTML = "&nbsp;";
-           document.getElementById("btn-danger").setAttribute("disabled", "true");
-           document.getElementById("btn-warning").setAttribute("disabled", "true");
-           document.getElementById("btn-warning").innerHTML = "Put call on hold";
-           //document.getElementById("btn-success").removeAttribute("disabled");
+           document.getElementById("hang-upl-button").setAttribute("disabled", "true");
+           document.getElementById("hold-call-button").setAttribute("disabled", "true");
+           document.getElementById("hold-call-button").innerHTML = "Put call on hold";
+           //document.getElementById("answer-call-button").removeAttribute("disabled");
 		   document.getElementById("phoneNumber").innerHTML = "";
            document.getElementById("phonesvg").setAttribute("fill", "grey");
          }
@@ -114,10 +114,10 @@
 		   count++;
 		   
 		 
-           //document.getElementById("callstatus").innerHTML = "Incoming Call Active";
+           document.getElementById("myStatus").innerHTML = "Incoming Call...";
 		   document.getElementById("phoneNumber").innerHTML = number;
            document.getElementById("phonesvg").setAttribute("fill", "red");
-		   document.getElementById("btn-success").removeAttribute("disabled");
+		   document.getElementById("answer-call-button").removeAttribute("disabled");
          }
          
          
@@ -149,9 +149,9 @@
             <div class="card w-100">
                <div class="card-header w-100">Incoming Calls</div>
                <div class="card-body  d-flex flex-column">
-                  <div class="col-sm-12  w-100"><button onclick="startCall()" type="button" class="btn btn-success center-block btn-block" id="btn-success" disabled="">Answer Call</button>&nbsp;</div>
-                  <div class="col-sm-12 w-100"><button onclick="putOnHold()" type="button" class="btn btn-warning center-block btn-block" id="btn-warning" disabled="">Put call on hold&nbsp;</button>&nbsp;</div>
-                  <div class="col-sm-12 w-100"><button onclick="hangUp()" type="button" class="btn btn-danger center-block btn-block" id="btn-danger" disabled="">Hang up&nbsp;</button>&nbsp;</div>
+                  <div class="col-sm-12  w-100"><button onclick="startCall()" type="button" class="btn btn-success center-block btn-block" id="answer-call-button" disabled="">Answer Call</button>&nbsp;</div>
+                  <div class="col-sm-12 w-100"><button onclick="putOnHold()" type="button" class="btn btn-warning center-block btn-block" id="hold-call-button" disabled="">Put call on hold&nbsp;</button>&nbsp;</div>
+                  <div class="col-sm-12 w-100"><button onclick="hangUp()" type="button" class="btn btn-danger center-block btn-block" id="hang-upl-button" disabled="">Hang up&nbsp;</button>&nbsp;</div>
                </div>
             </div>
          </div>
