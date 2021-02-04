@@ -19,7 +19,7 @@ I'm [Cameron McKenzie](https://www.mcnz.com/), @cameronmcnz on Twitter, and I wa
 
  Now there's a problem here, as cool as picture in picture is, notice the fact that I can still interact with this user interface so if I start typing stuff in here you know I can really mess up the input of data because nothing's blocking input. 
  
- ## Block User Input vs. UiPath Picture-in-Picture
+## Block User Input vs. UiPath Picture-in-Picture
  
  Nothing's stopping me from typing things in and you can see that's a valid user but in fact the registration has failed so that is no good so how can you change that. I'm going to stop this automation.
 
@@ -28,7 +28,6 @@ Where is UiPath assistant? There it is right there. Let's give that a little bit
 ## Block User Input Activity Example
 
 Now over here in UiPath studio I've got my project that's all the code for it's a lot of code there too much for me to talk about right now but trust me that's it now there's this cool activity called block user input. I'll type block over here. You'll see it over here. 
-
 
 ### UiPath Studio and Block User Input
 
@@ -49,5 +48,7 @@ But look what happens if I try and go and actually click on the page. I'm trying
 And there you go, that's the key. Don't just run your things picture-in-picture but add that block user input and then the user sitting in front of the terminal can't mess things up and there you go that's how easy it is to block user input when you're running your UiPath robots alongside a user. 
 
 Now if you enjoyed that tutorial why don't you head over to [theserverside.com](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Make-this-UiPath-Hello-World-example-the-first-project-in-your-RPA-journey). I'm the editor-in-chief over there got lots of great tutorials on UiPath and robots and rpa you name it if you're interested my personal antics you can always follow me on Twitter at @cameronmcnz and do the subscribe thing on that youtube channel.
+
+#### Block User Input Image
 
 <img src="https://files.readme.io/d9118e5-2020-02-18_16-44-44.png" alt="UiPath Block User Input Activity" class="img-fluid"/>
