@@ -6,9 +6,6 @@ blurb: Nothing worse than fighting the user over the keyboard in mouse. Here's a
 
 ---
 
-
-
-
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://www.youtube.com/embed/rX80eKPdA28" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
