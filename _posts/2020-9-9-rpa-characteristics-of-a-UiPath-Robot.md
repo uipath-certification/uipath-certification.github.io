@@ -3,7 +3,7 @@ layout: answered-question
 author: Serge
 title: What describes a characteristic of a UiPath Robot Question
 blurb: Which of the following best describes the characteristic of a UiPath Robot? Don't let this horrible UiPath Certification Question confuse you!
-difficulty: 8
+difficulty: 9
 objective: 1.2 Identify and describe the different types of robots, i.e., attended versus unattended robots
 canonical: 
 ---
@@ -19,7 +19,7 @@ Question:  Which one of the following statements about UiPath Robots is true?
 
 Option C is correct.
 
-This is a horrible UiPath Questions. 
+This is a horrible UiPath Question. Even how it's worded bugs me: "Which of the following best describes the characteristic of a UiPath Robot?"
 
 I was asked to include this question on this site by a number of readers, but it's a horrible questions, it's worded poorly and questions on the certificatione exam will be much clearer than this.
 
@@ -41,9 +41,11 @@ Of course, that option is not true, and I think that's more clear in what it is 
 
 ### Required permissions to create UiPath Robots
 
+Here's a snippet from the UiPath documentation for more insight on the permission issue:
+
 <ul>
 <li>Permission to create Robots (<strong>Create</strong> permissions on Robots and <strong>View</strong> permissions on Machines)</li>
-<li>The name of the Standard Machine which has to be connected to Orchestrator, and on which a Robot is installed (can be found in the Control Panel - <code class="rdmd-code lang-" data-lang="" name=""><button class="rdmd-code-copy fa"></button><div class="cm-s-neo">Control Panel\System and Security\System</div></code> or the <strong>UiPath Robot Settings</strong>)</li>
+<li>The name of the Standard Machine which has to be connected to Orchestrator, and on which a Robot is installed (can be found in the Control Panel - <code class="rdmd-code lang-" data-lang="" name=""><div class="cm-s-neo">Control Panel\System and Security\System</div></code> or the <strong>UiPath Robot Settings</strong>)</li>
 <li>The username that is used to access the specified machine</li>
 <li>The password for the specified username (not required for Attended Robots)</li>
 </ul>
