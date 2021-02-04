@@ -7,9 +7,8 @@ blurb: The UiPath Picture-in-Picture feature (PiP) is a net way to run attended 
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe src="https://www.youtube.com/embed/OBHm7BJSr7Q" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/KOjVaJ7aPdA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
-
 
 
 # UiPath Picture-in-Picture Tutorial (PiP)
@@ -46,7 +45,7 @@ There are some drawbacks to Uipath PiP and one of the drawbacks  is the fact tha
 
 My user input, my keyboard, my mouse, - that's not blocked.  
 
-So the great thing about Picture-in-Picture is it allows you to look at what's going on and see the process run but it doesn't actually block the user input if you want to do that you got to use the block user input activity.
+So the great thing about Picture-in-Picture is it allows you to look at what's going on and see the process run but it doesn't actually block the user input if you want to do that you got to use the [UiPath block user input activity](https://www.rpacertified.com/2021/02/04/block-user-input-tutorial-uipath.html).
 
 #### UiPath Block user input & PiP 
 
