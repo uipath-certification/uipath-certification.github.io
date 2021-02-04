@@ -6,7 +6,7 @@ blurb: Nothing worse than fighting the user over the keyboard in mouse. Here's a
 
 ---
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/OBHm7BJSr7Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OBHm7BJSr7Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 # UiPath Block User Input Tutorial
