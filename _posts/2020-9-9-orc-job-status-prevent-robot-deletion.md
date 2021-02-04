@@ -2,13 +2,11 @@
 layout: answered-question
 author: Serge
 title: Which job status(es) will prevent the deletion of an associated robot?
-blurb: Which job status(es) will prevent the deletion of an associated robot?
+blurb: This Uipath test question checks if you know which status prefents Orchestrator robot deletion.
 difficulty: 6
 objective: 8.1 Describe how to provision attended and unattended robots to UiPath Orchestrator
 canonical: 
 ---
-
-<h1>Which job status(es) will prevent the deletion of an associated robot?</h1>
 
 Question:  Which job status(es) will prevent the deletion of an associated robot?
 
