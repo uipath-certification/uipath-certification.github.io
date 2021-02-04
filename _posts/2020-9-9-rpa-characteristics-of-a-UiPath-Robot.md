@@ -2,17 +2,17 @@
 layout: answered-question
 author: Serge
 title: What describes a characteristic of a UiPath Robot Question
-blurb: What describes a characteristic of a UiPath Robot? Don't let this horrible UiPath Certification Question confuse you!
-difficulty: 6
+blurb: Which of the following best describes the characteristic of a UiPath Robot? Don't let this horrible UiPath Certification Question confuse you!
+difficulty: 8
 objective: 1.2 Identify and describe the different types of robots, i.e., attended versus unattended robots
 canonical: 
 ---
 
-Question:  What describes a characteristic of a UiPath Robot?
+Question:  Which one of the following statements about UiPath Robots is true?
 
  - [ ] &nbsp;  Standard robots can work on both standard machines and templates
- - [ ] &nbsp;  No specific permission is required for the user to create a robot
- - [X] &nbsp;  Only attended and development robots can be floating robots
+ - [ ] &nbsp;  Any user who can log into Orchestrator can create or delete UiPath Robots
+ - [X] &nbsp;  Only attended and development robots can be floating robots (In other words, unattened robots cannot be floating robots)
  - [ ] &nbsp;  Robots cannot be deleted even if they do not have any pending or active jobs attached to them
 
 ## Uipath Cert Question Answer
@@ -34,6 +34,22 @@ Of course, if you're doing development, you're obviously logged into the machine
 Honestly, whoever came up with this question should be ashamed of themselves. The other options here are confusing. Yes, standard robots can only work on standard machines, specifically the machine defined when the standard robot was created. But the wording here is confusing.
 
 What does 'no specific permission is required' even mean? That's poor wording and confusing. The UiPath Associate exam questions tend to be clear. The goal of the exam is to test your knowlege, not trick you with poor wording.
+
+I reworded this answer to be more precise: <em>Any user who can log into Orchestrator can create or delete UiPath Robots</em>
+
+Of course, that option is not true, and I think that's more clear in what it is asking. There are a variety of rights and roles you can assign in UiPath Orchestrator. And you need create permissions to create a UiPath Robot.
+
+### Required permissions to create UiPath Robots
+
+<ul>
+<li>Permission to create Robots (<strong>Create</strong> permissions on Robots and <strong>View</strong> permissions on Machines)</li>
+<li>The name of the Standard Machine which has to be connected to Orchestrator, and on which a Robot is installed (can be found in the Control Panel - <code class="rdmd-code lang-" data-lang="" name=""><button class="rdmd-code-copy fa"></button><div class="cm-s-neo">Control Panel\System and Security\System</div></code> or the <strong>UiPath Robot Settings</strong>)</li>
+<li>The username that is used to access the specified machine</li>
+<li>The password for the specified username (not required for Attended Robots)</li>
+</ul>
+
+<img src="https://files.readme.io/736f0a0-standard_robot.gif" alt="Create UiPath Robot Permissions" class="img-fluid"/>
+
 
 Option D is fair I guess. You can delete robots, so to suggest you can't seems silly.
 
