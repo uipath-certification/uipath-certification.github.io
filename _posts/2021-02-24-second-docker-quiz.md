@@ -1,8 +1,8 @@
 ---
 layout: practice-test
 author: Cameron
-title: Introduction to Docker Quiz
-blurb: Here is a tough Intro to Docker quiz.
+title: Second Docker Quiz
+blurb: Here a much tougher Docker quiz.
 
 ---
 
