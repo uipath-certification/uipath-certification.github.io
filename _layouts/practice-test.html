@@ -1093,7 +1093,6 @@
 			options:[
 			{text:"enrivonrment variables", correct:false, selected:false}, 
 			{text:"users and groups", correct:false, selected:false},
-			{text:"mounted file systems", correct:false, selected:false},
 			{text:"process trees", correct:false, selected:false},
 			{text:"All of the above", correct:true, selected:false}
 			],
@@ -1134,95 +1133,95 @@
          "3.0", "3.0"
       ]},
 
-	  {id:61, query:"query",  "answer":"answer", "difficulty": "5",
+	  {id:61, query:"Which of the following are correct?",  "answer":"answer", "difficulty": "5",
 			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
+			{text:"A docker image is akin to a virtual machine image", correct:true, selected:false}, 
+			{text:"A docker image is akin to an EC2 instance", correct:false, selected:false},
+			{text:"A docker container is akin to a virtual machine image", correct:false, selected:false},
+			{text:"A docker container is akin to an EC2 instance", correct:true, selected:false}
 			],
       "objectives":[
          "3.0", "3.0"
       ]},
 
-	  {id:62, query:"query",  "answer":"answer", "difficulty": "5",
+	  {id:62, query:"Which of the following are correct?",  "answer":"answer", "difficulty": "5",
 			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
+			{text:"Docker images can be built", correct:false, selected:false}, 
+			{text:"Docker containers can be built", correct:false, selected:false},
+			{text:"Docker images can be started and stopped", correct:false, selected:false},
+			{text:"Docker containers can be started and stopped", correct:false, selected:false}
 			],
       "objectives":[
          "3.0", "3.0"
       ]},
 
-	  {id:63, query:"query",  "answer":"answer", "difficulty": "5",
+	  {id:63, query:"Docker images are:",  "answer":"https://www.dictionary.com/browse/phantasmagoric", "difficulty": "5",
 			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
+			{text:"idempotent", correct:false, selected:false}, 
+			{text:"immutable", correct:false, selected:false},
+			{text:"phantasmagoric", correct:false, selected:false},
+			{text:"ephemeral", correct:true, selected:false}
 			],
       "objectives":[
          "3.0", "3.0"
       ]},
 
-	  {id:64, query:"query",  "answer":"answer", "difficulty": "5",
+	  {id:64, query:"Docker containers:",  "answer":"https://docs.docker.com/storage/volumes/", "difficulty": "5",
 			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
+			{text:"Cannot access the host file system", correct:false, selected:false}, 
+			{text:"Can only access network file systems to persist data", correct:false, selected:false},
+			{text:"Can store data internally but the data is lost on shutdown", correct:false, selected:false},
+			{text:"Can use volumes to access files on the host system", correct:true, selected:false}
 			],
       "objectives":[
          "3.0", "3.0"
       ]},
 
-	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+	  {id:65, query:"Information on how to build a Docker image is stored in a:",  "answer":"answer", "difficulty": "5",
 			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
+			{text:"Dockerfile", correct:true, selected:false}, 
+			{text:"Jenkinsfile", correct:false, selected:false},
+			{text:"docker-compose yaml file", correct:false, selected:false},
+			{text:"dockerimage", correct:false, selected:false}
 			],
       "objectives":[
          "3.0", "3.0"
       ]},
 
-	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+	  {id:66, query:"Which of the following two commands will successfully build a Docker image:",  "answer":"answer", "difficulty": "5",
 			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
+			{text:"docker compose -t rps-image:v1.0", correct:false, selected:false}, 
+			{text:"docker build -t rps-image:v1.0", correct:false, selected:false},
+			{text:"docker build -t rps-image:v1.0 .", correct:true, selected:false},
+			{text:"docker build -t rps-image:v1.1 -f my-docker-image-file.txt", correct:true, selected:false}
 			],
       "objectives":[
          "3.0", "3.0"
       ]},
 
-	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+	  {id:67, query:"Docker locks down all internal ports to the outside world unless they are opened up as a:",  "answer":"https://github.com/learn-devops-fast/rock-paper-scissors/wiki/Fun-with-Docker", "difficulty": "5",
 			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
+			{text:"runtime", correct:false, selected:false}, 
+			{text:"proxy", correct:false, selected:false},
+			{text:"process", correct:false, selected:false},
+			{text:"service", correct:true, selected:false}
 			],
       "objectives":[
          "3.0", "3.0"
       ]},
 
-	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+	  {id:68, query:"Which is not a core tenant of the 12-factor app?",  "answer":"https://www.youtube.com/watch?v=_83MEuLoz9Y", "difficulty": "5",
 			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
+			{text:"A single codebase for service", correct:false, selected:false}, 
+			{text:"Externalization of configuration in the environment", correct:false, selected:false},
+			{text:"Export services via port bindings", correct:false, selected:false},
+			{text:"Don't throw salt in your eyes", correct:true, selected:false}
 			],
       "objectives":[
          "3.0", "3.0"
       ]},
 
-	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+	  {id:69, query:"query",  "answer":"answer", "difficulty": "5",
 			options:[
 			{text:"aaaaa", correct:false, selected:false}, 
 			{text:"aaaaa", correct:false, selected:false},
