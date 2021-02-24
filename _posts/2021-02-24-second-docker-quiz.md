@@ -1,5 +1,5 @@
 ---
-layout: practice-test
+layout: docker-test
 author: Cameron
 title: Second Docker Quiz
 blurb: Here a much tougher Docker quiz.
