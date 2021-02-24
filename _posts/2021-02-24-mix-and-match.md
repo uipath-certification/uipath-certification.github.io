@@ -2,7 +2,7 @@
 layout: default
 author: Serge
 title: Docker mix and match
-blurb: A little docker mix and match
+blurb: A little docker commands mix and match to test your Docker shell script prowess.
 
 ---
 
