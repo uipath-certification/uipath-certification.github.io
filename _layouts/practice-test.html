@@ -1113,7 +1113,7 @@
 
 	  {id:59, query:"If you attempt to build a Docker image based on a container that has not been previously downloaded to your machine:",  "answer":"https://hub.docker.com/u/cameronmcnz", "difficulty": "5",
 			options:[
-			{text:"Docker will return a 408: image not found message:false}, 
+			{text:"Docker will return a 408: image not found message", correct:false, selected:false}, 
 			{text:"Docker will pull the image from GitHub", correct:false, selected:false},
 			{text:"Docker will pull the image from DockerHub", correct:true, selected:false},
 			{text:"Docker will return a 404: file not found message", correct:false, selected:false}
@@ -1221,34 +1221,34 @@
          "3.0", "3.0"
       ]},
 
-	  {id:69, query:"query",  "answer":"answer", "difficulty": "5",
+	  {id:69, query:"How do you run an Ubuntu docker container in interative mode?",  "answer":"answer", "difficulty": "5",
 			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
+			{text:"docker run --hostname basic_host ubuntu /bin/bash", correct:false, selected:false}, 
+			{text:"docker run -i", correct:true, selected:false},
+			{text:"docker run -interactive --hostname basic_host ubuntu /bin/bash", correct:true, selected:false},
+			{text:"docker run -t --hostname basic_host ubuntu /bin/bash", correct:false, selected:false}
 			],
       "objectives":[
          "3.0", "3.0"
       ]},
 
-	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+	  {id:70, query:"Which of the following commands will remove a docker container?",  "answer":"", "difficulty": "5",
 			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
+			{text:"Dockerfile remove *containerid*", correct:false, selected:false}, 
+			{text:"Dockerfile rmi *containerid*", correct:false, selected:false},
+			{text:"docker rmi *containerid*", correct:false, selected:false},
+			{text:"docker rm *containerid*", correct:true, selected:false}
 			],
       "objectives":[
          "3.0", "3.0"
       ]},
 
-	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+	  {id:30, query:"Which of the following is true?",  "answer":"https://stackoverflow.com/questions/34782678/difference-between-running-and-starting-a-docker-container", "difficulty": "5",
 			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
+			{text:"You run a container id", correct:false, selected:false}, 
+			{text:"You run an image id", correct:true, selected:false},
+			{text:"You start a container id", correct:true, selected:false},
+			{text:"You run an image id", correct:false, selected:false}
 			],
       "objectives":[
          "3.0", "3.0"
