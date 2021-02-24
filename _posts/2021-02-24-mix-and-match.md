@@ -1,13 +1,15 @@
 ---
 layout: default
 author: Serge
-title: Docker mix and match
-blurb: A little docker mix and match
+title: Docker command line mix and match
+blurb: A little docker mix and match activity to see how well you know the docker command line.
 
 ---
 
-Match the activity to the command.
+Can you match the activity to the command
+
 <table>
+  <tr><th>Action</th><th>Command</th></tr>
 <tr>
   <td>&nbsp;&nbsp;switch to the root user&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;<input type="checkbox"/>gradle build &nbsp;&nbsp;</td>
