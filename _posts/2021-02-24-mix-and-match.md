@@ -9,88 +9,88 @@ blurb: A little docker mix and match
 Match the activity to the command.
 <table>
 <tr>
-  <td>switch to the root user</td>
-  <td><input type="checkbox"/>gradle build </td>
+  <td>&nbsp;&nbsp;switch to the root user&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>gradle build &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>copy a GitHub directory</td>
-  <td><input type="checkbox"/>docker volume rm hello </td>
+  <td>&nbsp;&nbsp;copy a GitHub directory&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>docker volume rm hello &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>compile and package a Java project</td>
-  <td><input type="checkbox"/>docker-compose build   </td>
+  <td>&nbsp;&nbsp;compile and package a Java project&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>docker-compose build   &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>list all docker images   </td>
-  <td><input type="checkbox"/>docker-compose up -d    </td>
+  <td>&nbsp;&nbsp;list all docker images   &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>docker-compose up -d    &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>run a docker ubuntu image   </td>
-  <td><input type="checkbox"/>docker run -p 8099:8080 -t rps    </td>
+  <td>&nbsp;&nbsp;run a docker ubuntu image   &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>docker run -p 8099:8080 -t rps    &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>list all <em>running</em> containers   </td>
-  <td><input type="checkbox"/>docker ps -a    </td>
+  <td>&nbsp;&nbsp;list all <em>running</em> containers   &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>docker ps -a    &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>list all containers   </td>
-  <td><input type="checkbox"/>docker ps -a    </td>
+  <td>&nbsp;&nbsp;list all containers   &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>docker ps -a    &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>remove a docker container   </td>
-  <td><input type="checkbox"/>docker run -v hello:/world -it ubuntu /bin/bash    </td>
+  <td>&nbsp;&nbsp;remove a docker container   &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>docker run -v hello:/world -it ubuntu /bin/bash    &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>run a command in a running container   </td>
-  <td><input type="checkbox"/>cat thefile.txt    </td>
+  <td>&nbsp;&nbsp;run a command in a running container   &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>cat thefile.txt    &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>create a custom image based on a container   </td>
-  <td><input type="checkbox"/>gedit Dockerfile    </td>
+  <td>&nbsp;&nbsp;create a custom image based on a container   &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>gedit Dockerfile    &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>creat and edit a Dockerfile   </td>
-  <td><input type="checkbox"/>docker run ubuntu    </td>
+  <td>&nbsp;&nbsp;creat and edit a Dockerfile   &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>docker run ubuntu    &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>Build a docker image   </td>
-  <td><input type="checkbox"/>git clone    </td>
+  <td>&nbsp;&nbsp;Build a docker image   &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>git clone    &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>Run a Java JAR file   </td>
-  <td><input type="checkbox"/>docker images    </td>
+  <td>&nbsp;&nbsp;Run a Java JAR file   &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>docker images    &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>Create a docker volume   </td>
-  <td><input type="checkbox"/> docker exec   </td>
+  <td>&nbsp;&nbsp;Create a docker volume   &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/> docker exec   &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>Build an application with docker compose   </td>
-  <td><input type="checkbox"/>echo "abc-123" > test.txt    </td>
+  <td>&nbsp;&nbsp;Build an application with docker compose   &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>echo "abc-123" > test.txt    &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>run an application built with docker-compose   </td>
-  <td><input type="checkbox"/>docker volume create myvolume    </td>
+  <td>&nbsp;&nbsp;run an application built with docker-compose   &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>docker volume create myvolume    &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>map external port 8099 to internal port 8080    </td>
-  <td><input type="checkbox"/>docker build -t dev-image:v1.0 . </td>
+  <td>&nbsp;&nbsp;map external port 8099 to internal port 8080    &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>docker build -t dev-image:v1.0 . &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>Map the internal folder world to host folder hello    </td>
-  <td><input type="checkbox"/>docker commit *id* my-image:v1.1    </td>
+  <td>&nbsp;&nbsp;Map the internal folder world to host folder hello    &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>docker commit *id* my-image:v1.1    &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>View content of a file named thefile.txt   </td>
-  <td><input type="checkbox"/>java -cp myjar.jar com.mcnz.DesktopGame    </td>
+  <td>&nbsp;&nbsp;View content of a file named thefile.txt   &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>java -cp myjar.jar com.mcnz.DesktopGame    &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>Remove a docker volume   </td>
-  <td><input type="checkbox"/>docker rm --containerid-- </td>
+  <td>&nbsp;&nbsp;Remove a docker volume   &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>docker rm --containerid-- &nbsp;&nbsp;</td>
 </tr>
 <tr>
-  <td>Create a file named named test.txt containing abc-123   </td>
-  <td><input type="checkbox"/>docker ps    </td>
+  <td>&nbsp;&nbsp;Create a file named named test.txt containing abc-123   &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>docker ps    &nbsp;&nbsp;</td>
 </tr>
   
   </table>
