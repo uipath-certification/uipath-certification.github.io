@@ -30,7 +30,7 @@ Match the activity to the command.
 </tr>
 <tr>
   <td>&nbsp;&nbsp;list all <em>running</em> containers   &nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;<input type="checkbox"/>&nbsp;&nbsp;docker ps -a    &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;<input type="checkbox"/>&nbsp;&nbsp;sudo -i    &nbsp;&nbsp;</td>
 </tr>
 <tr>
   <td>&nbsp;&nbsp;list all containers   &nbsp;&nbsp;</td>
