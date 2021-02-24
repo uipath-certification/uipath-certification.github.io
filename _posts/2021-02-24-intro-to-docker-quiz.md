@@ -2,7 +2,7 @@
 layout: docker-test
 author: Cameron
 title: Introduction to Docker Quiz
-blurb: Here is a tough Intro to Docker quiz.
+blurb: Here is a tough Intro to Docker quiz to test your container knoweldge.
 
 ---
 
