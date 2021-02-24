@@ -1,5 +1,5 @@
 ---
-layout: practice-test
+layout: docker-test
 author: Cameron
 title: Introduction to Docker Quiz
 blurb: Here is a tough Intro to Docker quiz.
