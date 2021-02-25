@@ -1,8 +1,8 @@
 ---
 layout: docker-test
-author: Cameron
+author: Serge
 title: Second Docker Quiz
-blurb: Here a much tougher Docker quiz for you to tackle
+blurb: Here is a much tougher Docker quiz for you to tackle
 ---
 
 <script>
