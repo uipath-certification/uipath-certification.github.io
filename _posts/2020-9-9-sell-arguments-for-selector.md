@@ -1,14 +1,14 @@
 ---
 layout: answered-question
 author: Serge
-title: Which argument type does the selector property accept?
-blurb: Which argument type does the selector property accept?
+title: Argument Types in Selectors
+blurb: When you need to know what the type of argument to send a selector
 difficulty: 6
 objective: 4.1 Identify, describe, and demonstrate how dynamic versus static selectors are used
 canonical: 
 ---
 
-<h1>Which argument type does the selector property accept?</h1>
+<h1>Argument Types in Selectors</h1>
 
 Question:  Which argument type does the selector property accept?
 
@@ -21,5 +21,5 @@ Question:  Which argument type does the selector property accept?
 
 Option B is correct.
 
-The correct answer is B.  Selectors will take only string arguments type.  As Selector properties are XML parameters that only take strings
+The correct answer is B.  Selectors will only take string arguments type as they are XML attributes.  You cannot use integers, boolean or objects, unless converted to a string first.
 
