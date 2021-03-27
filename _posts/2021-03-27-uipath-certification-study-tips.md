@@ -85,6 +85,9 @@ Do a research project that automates Excel and PDF activities. Hands-on time wit
 
 This <a href="http://www.rpacertified.com">RPA Certified</a> website helped me a great deal with passing the exam as well.
 
+<a href="http://www.youtube.com/watch?v=X2AGYqIy4kk">
+<img src="https://www.rpacertified.com/assets/uipath-braindump.jpg" class="rounded float-right" alt="UiPath Academy">
+</a>
 With their study guides, resources and different types of mock exam questions you get a good chance to analyze your RPA knowledge and UiPath know-how. 
 
 The important factor that I would suggest this website to other candidates is that the Certification Exam has many poorly worded questions that verge on being ambiguous. (I mean the questions are worse. Going through some tricky questions beforehand will save you from losing marks in the exam, as you'll be ready when a poorly worded question arises. Overlooking this might cost you the $150 exam fee. Trust me you don not want your sensible thinking to make you lose marks.
@@ -121,7 +124,7 @@ When I write, I did feel like I had practical knowledge I needed, and a strong u
 
 By the time I scheduled the UiPath Associate exam, I was pretty much comfortable with most of the concepts and felt I would be comfortable with the test-taking time constraint. 
 
-##### You'll pass your UiPath certification
+#### You'll pass your UiPath certification
 
 As you approach your exam date, I suggest Googling for any possible free UiPath practice tests to do a last-minute test of your knowledge. If you are consistently scoring greater than 80% in online practice tests, you're definitely ready to schedule the UiPath exam.
 
