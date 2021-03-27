@@ -27,6 +27,8 @@ But for those who want to pass the UiPath Associate exam, with a strong score th
 
 ## Take practice UiPath Certification tests
 
+<img src="uipath-test-question.jpg" class="rounded float-right" alt="UiPath Practice Test">
+
 It's never too early to take a practice test.
 
 Before you even dive into the theory, take a mock UiPath practice exam or two first. Get intimidated. Fail the test. Get exposed to all the scary terms and unknown concepts you'll need to become an expert on.
@@ -34,9 +36,6 @@ Before you even dive into the theory, take a mock UiPath practice exam or two fi
 When you study, the terms that seemed foreign to you when you failed those practice tests will jump off the page at you. The concepts will get stuck in your head. When you take the same test again, it won't be intimidating anymore. And as you begin to pass the same practice tests that you may have failed a week before, you are proving to yourself that you're learning what you need to know to pass the exam.
 
 Don't be de-motivated with a poor score, especially in the beginning. The entire purpose of a first practice test is to point out your weaknesses and guide your study.
-
-
-
 
 ## Leverage UiPath Academy and the online RPA documentation 
 
