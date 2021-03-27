@@ -103,6 +103,10 @@ Just assume you are going to fail the first time. Use the first attempt as a $15
 
 #### When are you UiPath ready?
 
+<a href="https://www.rpacertified.com/study-guide-uipath.html">
+<img src="https://www.rpacertified.com/assets/uipath-certified-associate-badge.jpg" class="rounded float-right" alt="UiPath Practice Tests">
+</a>
+
 Most people that take this approach actually pass the first time. Not with a great score, but they pass, or at least come very close. 
 
 If you pass on this slightly premature attempt, that's awesome. But if you don't, you get feedback on where your skills are weak, and you know where to focus your study. When you attempt the UiPath Certification exam the next time, you'll pass with flying colors.
