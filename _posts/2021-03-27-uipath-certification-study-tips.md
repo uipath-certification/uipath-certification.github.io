@@ -30,6 +30,11 @@ When you study, the terms that seemed foreign to you when you failed those pract
 
 Don't be de-motivated with a poor score, especially in the beginning. The entire purpose of a first practice test is to point out your weaknesses and guide your study.
 
+<figure class="figure">
+  <img src="https://www.rpacertified.com/assets/how-to-pass-uipath-certification.jpg" alt="How to pass UiPath Certification exams." class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  <figcaption class="figure-caption">Follow my UiPath Certification tips and you'll pass the Associate exam with flying colors.</figcaption>
+</figure>
+
 
 ## Leverage UiPath Academy and the online RPA documentation 
 
