@@ -1,5 +1,5 @@
 ---
-layout: answered-question
+layout: featured-post
 author: Karan Adapala
 title: How to pass the UiPath Certification exam
 blurb: Follow these study tips and you'll pass the UiPath Certification exam on your first try, just like I did!   
