@@ -27,7 +27,7 @@ But for those who want to pass the UiPath Associate exam, with a strong score th
 
 ## Take practice UiPath Certification tests
 
-<img src="https://www.rpacertified.com/assets/practice-test.jpg" class="rounded float-left" alt="UiPath Practice Test">
+<img src="https://www.rpacertified.com/assets/practice-text.jpg" class="rounded float-left" alt="UiPath Practice Test">
 
 It's never too early to take a practice test.
 
