@@ -48,7 +48,7 @@ Practice UiPath certification tests will quickly reveal the areas of study in wh
 
 The free, online <a href="https://academy.uipath.com/">UiPath Academy courses</a> provide great depth and coverage of UiPath exam test topics. Very few companies have such a well organized and in depth free online catalog of courses. Every aspiring UiPath Associate needs to take advantage of them.
 
-<img src="https://www.rpacertified.com/assets/uipath-academy.jpg" class="rounded float-right img-thumbnail" alt="UiPath Academy">
+<img src="https://www.rpacertified.com/assets/uipath-academy.jpg" class="rounded float-right" alt="UiPath Academy">
 
 I highly recommend UiPath's _RPA Starter Course_ and the _RPA Developer Track._
 
@@ -85,9 +85,6 @@ Do a research project that automates Excel and PDF activities. Hands-on time wit
 
 This <a href="http://www.rpacertified.com">RPA Certified</a> website helped me a great deal with passing the exam as well.
 
-<a href="http://www.youtube.com/watch?v=X2AGYqIy4kk">
-<img src="https://www.rpacertified.com/assets/uipath-braindump.jpg" class="rounded float-left img-thumbnail" alt="UiPath Academy">
-</a>
 With their study guides, resources and different types of mock exam questions you get a good chance to analyze your RPA knowledge and UiPath know-how. 
 
 The important factor that I would suggest this website to other candidates is that the Certification Exam has many poorly worded questions that verge on being ambiguous. (I mean the questions are worse. Going through some tricky questions beforehand will save you from losing marks in the exam, as you'll be ready when a poorly worded question arises. Overlooking this might cost you the $150 exam fee. Trust me you don not want your sensible thinking to make you lose marks.
