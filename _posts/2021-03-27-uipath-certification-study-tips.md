@@ -6,23 +6,19 @@ blurb: Follow these study tips and you'll pass the UiPath Certification exam on 
 
 ---
 
-How I have prepared for the UiPath RPA Developer Associate Certification
+# How I passed the UiPath Certification Exam with 84%
 
+The UiPath RPA Developer Associate Exam is a tricky one. 
 
-UiPath RPA Developer Associate Exam is a tricky one. 
+The certification requires a 70% passing mark to pass. The 50 or so multiple-choice questions are challenging. In short, it is not a straight-forward test to take. 
 
-Though the certification requires 70% passing mark and consists of multiple-choice questions, it is not a straight-forward test. 
+But for those who want to pass the UiPath Associate exam, with a strong score the first time around, I have some insights. My advice, as a relatively new RPA developer who passed with 84%, is to follow these five tips:
 
-In this document I will take you through the steps that I have followed to prepare for the exam and how they turned out to be beneficial in helping me score 84% in the actual test.
-
-For anyone who wants to pass the UiPath Certification exam on their first attempt, my advice as a relatively new RPA developer who passed with 84%, is to follow these three tips:
-
-1. Get practical, hands-on knowledge
-
-2. Perpetually take UiPath practice tests and mock exams
-
-3. Take full advantage of UiPath Academy training and online resources 
-
+1. Perpetually take UiPath practice tests and mock exams
+2. Take full advantage of UiPath Academy training and online resources 
+3. Get practical, hands-on knowledge 
+4. Dig deeper into the tooling
+5. Don't over-study
 
 ## Take practice UiPath Certification tests
 
@@ -46,7 +42,6 @@ I highly recommend UiPath's _RPA Starter Course_ and the _RPA Developer Track._
 I went through the pertinent UiPath Academy course material multiple times until I could pass all of the final assessments that the lessons use to evaluate your knowledge. 
 
 To get the most out of UiPath Academy, take notes on the topics that are unclear. Maybe even write down your understanding of how a concept works. If you're unclear about UI Selectors or Anchor Tags, try to describe the concept as though you were trying to teach it to another UiPath developer. You'll be amazed at how quickly you learn when you try to explain things to others.
-
 
 
 ## Get practical experience with UiPath Tools
