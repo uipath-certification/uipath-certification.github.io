@@ -48,6 +48,8 @@ Practice UiPath certification tests will quickly reveal the areas of study in wh
 
 The free, online <a href="https://academy.uipath.com/">UiPath Academy courses</a> provide great depth and coverage of UiPath exam test topics. Very few companies have such a well organized and in depth free online catalog of courses. Every aspiring UiPath Associate needs to take advantage of them.
 
+<img src="https://www.rpacertified.com/assets/uipath-academy.jpg" class="rounded float-right" alt="UiPath Academy">
+
 I highly recommend UiPath's _RPA Starter Course_ and the _RPA Developer Track._
 
 I went through the pertinent UiPath Academy course material multiple times until I could pass all of the final assessments that the lessons use to evaluate your knowledge. 
