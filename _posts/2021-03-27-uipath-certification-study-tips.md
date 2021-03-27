@@ -34,7 +34,7 @@ It's never too early to take a practice test.
 Before you even dive into the theory, take a mock UiPath practice exam or two first. Get intimidated. Fail the test. Get exposed to all the scary terms and unknown concepts you'll need to become an expert on.
 
 <a href="https://www.rpacertified.com/cert-questions-answers.html">
-<img src="https://www.rpacertified.com/assets/uipath-test-question.jpg" class="rounded float-left img-thumbnail" alt="UiPath Practice Tests">
+<img src="https://www.rpacertified.com/assets/uipath-test-question.jpg" class="rounded float-left" alt="UiPath Practice Tests">
 </a>
 It's unconventional advice. But you'll thank me for it when you pass the UiPath exam.
 
