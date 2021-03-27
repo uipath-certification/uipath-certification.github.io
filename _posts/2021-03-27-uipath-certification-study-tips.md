@@ -13,6 +13,7 @@ blurb: Follow these study tips and you'll pass the UiPath Certification exam on 
 
 # How I passed the UiPath Certification Exam with 84%
 _Written by RPA Certified Associate Developer Karan Adapala_
+<hr/>
 
 The UiPath RPA Developer Associate Exam is a tricky one. 
 
