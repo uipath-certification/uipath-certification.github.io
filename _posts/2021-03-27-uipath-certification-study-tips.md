@@ -34,7 +34,7 @@ It's never too early to take a practice test.
 Before you even dive into the theory, take a mock UiPath practice exam or two first. Get intimidated. Fail the test. Get exposed to all the scary terms and unknown concepts you'll need to become an expert on.
 
 <a href="https://www.rpacertified.com/cert-questions-answers.html">
-<img src="https://www.rpacertified.com/assets/uipath-test-question.jpg" class="rounded float-left" alt="UiPath Practice Tests">
+<img src="https://www.rpacertified.com/assets/uipath-test-question.jpg" class="rounded float-left img-thumbnail" alt="UiPath Practice Tests">
 </a>
 It's unconventional advice. But you'll thank me for it when you pass the UiPath exam.
 
@@ -48,7 +48,7 @@ Practice UiPath certification tests will quickly reveal the areas of study in wh
 
 The free, online <a href="https://academy.uipath.com/">UiPath Academy courses</a> provide great depth and coverage of UiPath exam test topics. Very few companies have such a well organized and in depth free online catalog of courses. Every aspiring UiPath Associate needs to take advantage of them.
 
-<img src="https://www.rpacertified.com/assets/uipath-academy.jpg" class="rounded float-right" alt="UiPath Academy">
+<img src="https://www.rpacertified.com/assets/uipath-academy.jpg" class="rounded float-right img-thumbnail" alt="UiPath Academy">
 
 I highly recommend UiPath's _RPA Starter Course_ and the _RPA Developer Track._
 
@@ -86,7 +86,7 @@ Do a research project that automates Excel and PDF activities. Hands-on time wit
 This <a href="http://www.rpacertified.com">RPA Certified</a> website helped me a great deal with passing the exam as well.
 
 <a href="http://www.youtube.com/watch?v=X2AGYqIy4kk">
-<img src="https://www.rpacertified.com/assets/uipath-braindump.jpg" class="rounded float-ledt" alt="UiPath Academy">
+<img src="https://www.rpacertified.com/assets/uipath-braindump.jpg" class="rounded float-left img-thumbnail" alt="UiPath Academy">
 </a>
 With their study guides, resources and different types of mock exam questions you get a good chance to analyze your RPA knowledge and UiPath know-how. 
 
@@ -113,7 +113,7 @@ Just assume you are going to fail the first time. Use the first attempt as a $15
 #### When are you UiPath ready?
 
 <a href="https://www.rpacertified.com/study-guide-uipath.html">
-<img src="https://www.rpacertified.com/assets/uipath-certified-associate-badge.jpg" class="rounded float-right" alt="UiPath Practice Tests">
+<img src="https://www.rpacertified.com/assets/uipath-certified-associate-badge.jpg" class="rounded float-right img-thumbnail" alt="UiPath Practice Tests">
 </a>
 
 Most people that take this approach actually pass the first time. Not with a great score, but they pass, or at least come very close. 
