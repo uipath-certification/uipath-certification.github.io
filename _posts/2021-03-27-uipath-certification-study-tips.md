@@ -132,3 +132,11 @@ When I wrote the exam, I passed. I garnered a score of 84%.
 
 And if you follow these UiPath Certification exam taking tips, you'll pass with flying colors as well. I have confidence in you.
 
+<hr/>
+
+<a href="https://www.rpacertified.com/study-guide-uipath.html">
+<img src="https://media-exp1.licdn.com/dms/image/C5603AQEfsn4Nj9RIQA/profile-displayphoto-shrink_200_200/0/1569670866883" class="rounded float-left img-thumbnail" alt="UiPath Practice Tests">
+</a>
+<a href="https://www.linkedin.com/in/karan-adapala/">Raghu Karan Adapala</a> is a UiPath Certified, Full-stack RPA Developer at <a href="https://xennialconsulting.com/">Xennial Consulting</a> in Toronto, Canada.
+
+
