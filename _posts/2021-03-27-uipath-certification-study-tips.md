@@ -86,7 +86,7 @@ Do a research project that automates Excel and PDF activities. Hands-on time wit
 This <a href="http://www.rpacertified.com">RPA Certified</a> website helped me a great deal with passing the exam as well.
 
 <a href="http://www.youtube.com/watch?v=X2AGYqIy4kk">
-<img src="https://www.rpacertified.com/assets/uipath-braindump.jpg" class="rounded float-right" alt="UiPath Academy">
+<img src="https://www.rpacertified.com/assets/uipath-braindump.jpg" class="rounded float-ledt" alt="UiPath Academy">
 </a>
 With their study guides, resources and different types of mock exam questions you get a good chance to analyze your RPA knowledge and UiPath know-how. 
 
