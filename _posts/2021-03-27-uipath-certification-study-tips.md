@@ -48,6 +48,8 @@ I went through the pertinent UiPath Academy course material multiple times until
 
 To get the most out of UiPath Academy, take notes on the topics that are unclear. Maybe even write down your understanding of how a concept works. If you're unclear about UI Selectors or Anchor Tags, try to describe the concept as though you were trying to teach it to another UiPath developer. You'll be amazed at how quickly you learn when you try to explain things to others.
 
+It's also worthwhile complimenting your learning with <a href="https://youtube.com/playlist?list=PL_RrEj88onS-QrvtnW0EQ3i7qJUbKTdJ8">UiPath YouTube videos</a> and other third-party <a href="">RPA tutorials</a> as well.
+
 
 ## Get practical experience with UiPath Tools
 
@@ -64,6 +66,12 @@ I am not saying that the theory is not important. It is. But investing a great d
 What's better than theorizing UiPath and RPA concepts? 
 
 Do a research project that automates Excel and PDF activities. Hands-on time with the tooling is how I mastered most of the RPA concepts I needed to know in order to pass the UiPath Certification exam. It's the only way to really learn how UiPath works. 
+
+<figure class="figure">
+  <img src="https://itknowledgeexchange.techtarget.com/coffee-talk/files/2020/08/uipath-helloworld-example.gif" alt="Learn UiPath Associate Exam concepts online" class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  <figcaption class="figure-caption">There are many, great online tutorials the help you learn UiPath Certification concepts. This tutorial is from <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Make-this-UiPath-Hello-World-example-the-first-project-in-your-RPA-journey">theserverside.com.</a></figcaption>
+</figure>
+
 
 ### UiPath dumps and shared experiences
 
@@ -107,16 +115,5 @@ As you approach your exam date, I suggest Googling for any possible free UiPath 
 
 When I wrote the exam, I passed. I garnered a score of 84%.
 
-And if you follow these UiPath 
+And if you follow these UiPath Certification exam taking tips, you'll pass with flying colors as well. I have confidence in you.
 
-
-<figure class="figure">
-  <img src="https://itknowledgeexchange.techtarget.com/coffee-talk/files/2020/08/uipath-helloworld-example.gif" alt="Git flow init branches" class="img-fluid mx-auto d-block img-thumbnail rounded ">
-  <figcaption class="figure-caption">UiPath Hello World example tutorial.</figcaption>
-</figure>
-
-<div class="embed-responsive embed-responsive-16by9">
-<iframe src="https://www.youtube.com/embed/dvs25P_X5CQ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
-</div>
- 
-If you want to learn more, head over to [theserverside.com](https://www.theserverside.com/video/Get-automated-with-this-RPA-and-UiPath-tutorial-for-beginners) I've got lots of tutorials over there on everything that has to do with enterprise software development if you want to learn about my personal antics you can follow me on Twitter, @cameronmcnz, and I always recommend people subscribe on YouTube.
