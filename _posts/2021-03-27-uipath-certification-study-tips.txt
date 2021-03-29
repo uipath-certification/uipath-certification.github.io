@@ -11,7 +11,7 @@ blurb: Follow these study tips and you'll pass the UiPath Certification exam on 
   <figcaption class="figure-caption">Follow my UiPath Certification tips and you'll pass the Associate exam with flying colors.</figcaption>
 </figure>
 
-# How I passed the UiPath Certification Exam with 84%
+## How I passed the UiPath Certification Exam with 84%
 _Written by RPA Certified Associate Developer Karan Adapala_
 <hr/>
 
