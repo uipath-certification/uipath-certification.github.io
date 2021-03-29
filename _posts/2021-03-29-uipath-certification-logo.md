@@ -5,13 +5,13 @@ title: UiPath Certification Logo
 blurb: Here's where to download the UiPath Certification Logo, along with the rules for usage and advice on how and when to include the UiPath Logo in your resume.   
 
 ---
-# UiPath Associate and Developer Certification Logos
+<h1 style="text-align: center"> UiPath Associate and Developer Certification Logos</h1>
 <figure class="figure">
   <img src="https://www.rpacertified.com/assets/uipath-associate-developer-certification-roadmap.jpg" alt="UiPath Associate Developer Logos" class="img-fluid mx-auto d-block img-thumbnail rounded ">
   <figcaption class="figure-caption">The Developer and Associate UiPath Certification Logos reflect your level of skills with RPA development tools like Studio and Orchestrator.</figcaption>
 </figure>
 
-# UiPath Certification Logo: Download and Usage
+## UiPath Certification Logo: Download and Usage
 _Written by RPA Certified Associate Developer Sal Pece_
 <hr/>
 
