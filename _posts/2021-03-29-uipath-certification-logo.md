@@ -32,8 +32,8 @@ https://www.certmetrics.com/uipath/public/verification.aspx
 <hr/>
 
 <a href="https://www.rpacertified.com/study-guide-uipath.html">
-<img src="https://www.rpacertified.com/assets/karan.jpg" class="rounded float-left img-thumbnail" alt="UiPath Practice Tests">
+<img src="https://www.rpacertified.com/assets/sal-pece.jpg" class="rounded float-left img-thumbnail" alt="UiPath Practice Tests">
 </a>
-<a href="https://www.linkedin.com/in/karan-adapala/">Raghu Karan Adapala</a> is a UiPath Certified, Full-stack RPA Developer at <a href="https://xennialconsulting.com/">Xennial Consulting</a> in Toronto, Canada.
+<a href="https://www.linkedin.com/in/karan-adapala/">Sal Pece</a> is the CEO of <a href="https://xennialconsulting.com/">Xennial Consulting</a> in Toronto, Canada.
 
 
