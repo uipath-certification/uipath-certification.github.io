@@ -1,6 +1,6 @@
 ---
 layout: featured-post
-author: Karan Adapala
+author: Karan Adapala, Cameron McKenzie
 title: How to pass the UiPath Certification exam
 blurb: Follow these study tips and you'll pass the UiPath Certification exam on your first try, just like I did!   
 
@@ -40,7 +40,7 @@ It's unconventional advice. But you'll thank me for it when you pass the UiPath 
 
 When you study, the terms that seemed foreign to you when you failed those practice tests will jump off the page at you. The concepts will get stuck in your head. When you take the same test again, it won't be intimidating anymore. And as you begin to pass the same practice tests that you may have failed a week before, you are proving to yourself that you're learning what you need to know to pass the exam.
 
-Don't be de-motivated with a poor score, especially in the beginning. The entire purpose of a first practice test is to point out your weaknesses and guide your study.
+Don't be demotivated with a poor score, especially in the beginning. The entire purpose of a first practice test is to point out your weaknesses and guide your study.
 
 ## Leverage UiPath Academy and the online RPA documentation 
 
@@ -65,7 +65,7 @@ Theoretical knowledge is one thing, but practical, hands on knowledge is another
 
 A UiPath developer can spend a great deal of time reading and learning RPA concepts, but the best way to learn is to work through problems, troubleshoot errors when they arise and attempt to answer your own questions about UiPath Studio or UiPath Orchestrator when concepts become unclear.
 
-If you want to learn to play the drums, you might want to watch a YouTube video or two on how to get started. But if you never pick up a set of drumsticks, you'll never become John Bonham or Neil Peart. UiPath Studio, UiPath Orchestrator and UiPath Assistant are the drumsticks you need to get hands on experience with want to rythmically pass the UiPath Certification exam.
+If you want to learn to play the drums, you might want to watch a YouTube video or two on how to get started. But if you never pick up a set of drumsticks, you'll never become John Bonham or Neil Peart. UiPath Studio, UiPath Orchestrator and UiPath Assistant are the drumsticks you need to get hands on experience with to rythmically pass the UiPath Certification exam.
 
 One can learn far more by implementing a task than by simply reading about it. 
 
@@ -98,7 +98,7 @@ Sometimes it makes sense to learn more than you need to know in order to pass th
 
 The UiPath Associate exam does not cover the REFramework. 
 
-However, learning this framework and implementing a projects using its linear approach to UiPath automation, and then evaluating the advantages and disadvantages of such an approach, gave me a great deal of confidence and knowledge. By learning UiPath's REFramework, I was forced to learn RPA best practices concerning workflows, variable naming conventions, inter-process communication and how passing arguments between different sequences and independently deployed projects.
+However, learning this framework and implementing a projects using its linear approach to UiPath automation, and then evaluating the advantages and disadvantages of such an approach, gave me a great deal of confidence and knowledge. By learning UiPath's REFramework, I was forced to learn RPA best practices concerning workflows, variable naming conventions, inter-process communication and how passing arguments work 0between different sequences and independently deployed projects.
 
 #### Don't overstudy
 
