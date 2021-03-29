@@ -5,7 +5,7 @@ title: How to pass the UiPath Certification exam
 blurb: Follow these study tips and you'll pass the UiPath Certification exam on your first try, just like I did!   
 
 ---
-
+<h1 style="text-align: center">How to get UiPath Certified</h1>
 <figure class="figure">
   <img src="https://www.rpacertified.com/assets/how-to-pass-uipath-certification.jpg" alt="How to pass UiPath Certification exams." class="img-fluid mx-auto d-block img-thumbnail rounded ">
   <figcaption class="figure-caption">Follow my UiPath Certification tips and you'll pass the Associate exam with flying colors.</figcaption>
