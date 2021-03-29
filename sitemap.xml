@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
       xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
@@ -9,852 +10,892 @@
 
 <url>
   <loc>https://www.rpacertified.com/</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/index.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.91</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/associate-objectives.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.91</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/study-guide-uipath.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.91</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.90</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/cert-questions-answers.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.91</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.95</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/cert-brain-dumps-uipath.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
   <priority>0.91</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/youtube-linkedin-twitter.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.91</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/12/all-uipath-exam-questions.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.91</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/10/privacy-policy.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.91</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.10</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/exam-prep.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.91</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.rpacertified.com/2021/03/27/uipath-certification-study-tips.html</loc>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.93</priority>
+</url>
+<url>
+  <loc>https://www.rpacertified.com/2021/03/29/uipath-certification-logo.html</loc>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.96</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/01/01/attended-vs-unattened-quiz.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/01/01/community-vs-enterprise-studio.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/01/exam-studio-git-packages-svn-tfs-github.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/dump-fundamentals-exam-uipath.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rpacertified.com/2021/03/27/uipath-certification-study-tips.txt</loc>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rpacertified.com/2021/02/24/second-docker-quiz.html</loc>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rpacertified.com/2021/02/24/mix-and-match.html</loc>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rpacertified.com/2021/02/24/intro-to-docker-quiz.html</loc>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rpacertified.com/2021/02/08/uipath-hello-world-example-tutorial.html</loc>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.rpacertified.com/2021/02/06/StudioX-Username-PasswordX-Activity-Credentials.html</loc>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2021/02/05/UiPath-Windows-Credentials-Manager-Username-Password-Example.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2021/02/04/picture-in-picture-pip-uipath.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2021/02/04/block-user-input-tutorial-uipath.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/unattended-robots-when-to-use.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/unattended-robots-use-case.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/unattended-rights-batch.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/uipath-studio-updates.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/uipath-studio-trail-license.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/uipath-studio-programs.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/uipath-studio-enterprise-vs-community.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/uipath-robot-security-isoloation.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/uipath-enterprise-server-saas.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/standard-robots-unattended-uipath.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/input-output-argument-names.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/floating-robots-unattended.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/debugger-not-working-uipath.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/debug-step-into-over-out.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/debug-retry-uipath.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/debug-restart-button.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/debug-panels.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/debug-manage-packaged-version.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/debug-log-file-location.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/debug-locals-panel.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/debug-git-workflow-diff.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/debug-git-tfs-svn.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/debug-edit-variable.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/debug-compare-files-studio.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/attend-robot-use-cases.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/UiPath-Enterprise-trial.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/11/Studio-Community-Orchestrator.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/11/01/pdf-uipath-associate-exam-objectives.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/15/image-uipath-certification-exam-objectives.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/12/workflow-sequences-flowcharts-quiz.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/12/variable-naming-conventions-test.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/12/new-exam-layout-test.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/12/kebab-camel-pascal-case-quiz.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/11/state-machine.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/11/sequence-flowchart-combined.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/11/linear-sequence-projects.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/11/in-argument-naming-convention.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/11/flowchart-project-definition.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/10/variables-case-sensitive-uipath.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/10/variable-naming-conventions.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/10/variable-names.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/10/uipath-argument-naming-convention.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/10/sequence-projects.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/10/screaming-snake-case.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/10/pascal-case-naming-convention.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/10/kebab-case-convention.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/10/camelcase-naming-convention.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/10/07/excel-write-range.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/var-what-is-an-argument.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/var-variables-and-argument-differences.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/var-interactions-in-variable-panel.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/var-components-of-a-dictionary-variable.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/var-arguments-in-the-market3.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/var-arguments-in-the-market2.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/var-arguments-in-the-market1.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/var-argument-directions.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/var-Storing-text2.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/var-Storing-text.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/sell-wildcard-character.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/sell-used-as-an-anchor.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/sell-selector-in-variable.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/sell-function-for-anchor-based-activity.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/sell-full-list-of-attributes.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/sell-describe-anchor.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/sell-click-image-activity.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/sell-cant-find-desired-image.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/sell-arguments-for-selector.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/rpa-use-of-flowchart.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/rpa-uipath-automation-type.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/rpa-panel-to-see-scope-of-variable.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/rpa-ideal-automation.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/rpa-global-exception.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/rpa-develop-workflows.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/rpa-characteristics-of-a-UiPath-Robot.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/rpa-Manual-steps.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/orc-run-multiple-instances-of-same-process.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/orc-queues-in-uipath.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/orc-orchestrator-used-for.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/orc-job-status-prevent-robot-deletion.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/orc-job-status-no-robots.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/orc-default-transaction-variable.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/orc-default-orchestrator-packages.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/orc-characteristics-of-an-asset.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/orc-available-functions-for-attended-robot.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/orc-Orchestrator-download-package.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/flow-workflows-available-in-uipath.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/flow-which-has-more-parameters.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/flow-which-activity.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/flow-try-catch-result.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/flow-trigger-a-work-flow.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/flow-handling-exceptions.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/flow-feature-of-a-flowchart.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/flow-exit-loop.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/flow-decision-in-a-sequence.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/flow-dataflow-for-UI-navigation.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/flow-counter-evaluated-before-loop.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/flow-activity-to-interate2.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/flow-activity-to-interate.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/flow-Which-Control-flow-for-payment-system.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/flow-Activity-to-loop-through-a-collection.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/debug-which-GIT-Command.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/debug-pause-execution.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/debug-function-of-uipath-version-control.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/debug-during-execution-see-steps-of-workflow.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/debug-break-point-left-production.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/debug-add-logs.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/data-type-of-objects-in-generic-variable.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/data-test.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/data-string-format.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/data-manipulate-string.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/data-extract-pattern-based-data.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/data-extract-month.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/data-check-if-checkbox-selected.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/data-array-value.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/data-SQL-nonQuery.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/data-SQL-Query.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/data-Array-result-after-splitting6.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/data-Array-result-after-splitting5.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/data-Array-result-after-splitting4.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/data-Array-result-after-splitting3.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/data-Array-result-after-splitting2.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/data-Array-result-after-splitting1.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-write-to-a-file-that-does-not-exist.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-web-datascraping.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-vb-property-to-give-date-of-email.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-valid-email.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-show-only-filtered-mail-messages.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-send-message.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-scraping-tables.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-scraping-methods.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-scrape-web-table.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-save-attachment.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-retrieve-value-of-a-cell.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-recording-profiles-available.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-recording-profile-for-full-selectors.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-recommended-for-desktop-reocording.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-optimized-navigation-for-citrix.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-mail-loop-for-each-datatype.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-include-column-headers.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-hidden-ie-browser.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-finding-all-anchor-elements-in-webpage.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-file-access-level-for-read-range.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-extracting-from-citrix.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-excel-activity-to-sort-table.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-data-type-for-an-excel-file.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-background-automation.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-activity-to-read-entire-sheet.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-activity-to-get-column-from-datarow.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-access-to-package.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-Native-screenscraping.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/09/09/act-Best-DataStructure-for-report.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/2020/01/11/rpa-fundamentals-uipath-cert-objective.html</loc>
-  <lastmod>2021-02-06T12:14:33+00:00</lastmod>
-  <priority>0.76</priority>
+  <lastmod>2021-03-29T23:30:01+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>https://www.rpacertified.com/assets/uipath-associate-certification-exam-objectives.pdf</loc>
-  <lastmod>2021-02-06T12:14:28+00:00</lastmod>
+  <lastmod>2021-03-29T23:29:56+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
