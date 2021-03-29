@@ -1,0 +1,137 @@
+<!DOCTYPE html> 
+<html lang="en">
+   <head>
+      <title>CSS Template</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <style> * { box-sizing: border-box;
+         }
+         body { font-family: Arial, Helvetica, sans-serif;
+         }
+         /* Style the header */ header { background-color: #666; padding: 30px; text-align: center; font-size: 35px; color: white;
+         }
+         /* Container for flexboxes */ section { display: -webkit-flex; display: flex;
+         }
+         /* Style the navigation menu */ nav { -webkit-flex: 1; -ms-flex: 1; flex: 1; background: #ccc; padding: 20px;
+         }
+         /* Style the list inside the menu */ nav ul { list-style-type: none; padding: 0;
+         }
+         /* Style the content */ article { -webkit-flex: 3; -ms-flex: 3; flex: 3; background-color: #f1f1f1; padding: 10px;
+         }
+         /* Style the footer */ footer { background-color: #777; padding: 10px; text-align: center; color: white;
+         }
+         /* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */ @media (max-width: 600px) { section { -webkit-flex-direction: column; 
+         flex-direction: column;
+         }
+         }
+      </style>
+   </head>
+   <body>
+      <header>
+         <h2>Virginia Sales Blog (VSB)</h2>
+         <i>
+            <h5>
+            Helping your neighbors find rare items
+            <h5>
+         </i>
+      </header>
+      <section>
+         <nav>
+            <ul>
+               <iframe 
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d198741.27544912245!2d-77.15466040310726!3d38.89351276345535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7c6de5af6e45b%3A0xc2524522d4885d2a!2sWashington%2C%20DC!5e0!3m2!1sen!2sus!4v1614719787544!5m2!1sen!2sus" 
+                  width="300" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+   </body>
+</html>
+<h3>Where are the Deals?</h3>
+<form action="post_comment.php" method="post" id="commentform">
+<label for="city" class="required">City/Location:</label> <input type="text" name="city" id="city" value="" tabindex="1" required="required"> <br>
+<label for="store" class="required">Store Name:</label> <input type="text" name="store" id="store" value="" tabindex="1" required="required"> <br>
+
+<!--
+<label for="product" class="required">Product:</label> <input type="text" name="product" id="product" value="" tabindex="1" required="required"> <br>
+<label for="quantity" class="required">Quantity:</label> <input type="text" name="quantity" id="quantity" value="" tabindex="1" required="required"> <br>
+<label for="time" class="required">Time:</label> <input type="text" name="time" id="time" value="" tabindex="1" required="required"> <br>
+<label for="comment" class="required">Comment</label> <textarea name="comment" id="comment" rows="2" tabindex="4" required="required"></textarea> <br>
+-->
+
+<input type="hidden" name="comment_post_ID" value="1" id="comment_post_ID" /> 
+
+
+<a href="#" onclick="playRoshambo('scissors')">Product Found!</a>
+
+
+</body> </html> </ul> </nav>
+<article> <h1><p style="color:#FF0000" ;>DEALS</p></h1> <ul> <li>Reston, Target, XBOX Series X, 5, March 1, 2021, 5:37 PM EST, Inventory going fast!</li> <li>Roanoke, Best Buy, PS5, 7, February 28, 2021, 4:00 PM 
+EST, N/A</li> <li>Richmond, Walmart, Clorox Wipes, N/A, February 28, 2021, 7:00 PM EST, People buying in bulk, not sure how many left.</li>
+</ul>
+<style> * { box-sizing: border-box;
+}
+.column { float: left; width: 33.33%; padding: 5px;
+}
+/* Clearfix (clear floats) */ .row::after { content: ""; clear: both; display: table;
+}
+</style> </head> <body>
+<div class="column"> <img src="https://i5.walmartimages.com/asr/afdb71df-4810-4e3e-9c3c-187e88a98619_1.9abc0f91d776fcbf0b8b580e875ed6c0.jpeg" alt="Nintendo Switch" style="width:100%"> 
+
+<div id="switch"> </div><br/>
+<small>This product has been viewed <span id="wins"> </span> times.</small>
+</div> 
+
+
+
+
+
+<div 
+   class="column">
+<img src="https://cdn.vox-cdn.com/thumbor/EeQpOMN1j5f3Qmvo1oanEoByZzY=/1400x1050/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/20030737/xWZMNYm.png" alt="Playstation 5" 
+   style="width:100%">
+</div> <div class="column"> <img src="https://i.ytimg.com/vi/0tUqIHwHDEc/maxresdefault.jpg" alt="Mountains" style="width:100%"> </div> </div> </article>
+</section>
+<footer> <p>Virginia Sales Blog (VSB) (Group 3: Eric, Gabriel, Pradip, Youngsik)</p> </footer>
+
+
+<script>
+
+
+/* This is just JavaScript.
+It is not saved or persisted anywhere.
+It runs only in the page.
+*/
+playRoshambo = function(clientGesture){
+ 		let city = document.getElementById("city").value;
+		let store = document.getElementById("store").value;
+		
+		var d = new Date();
+		//var time = d.getTime();
+		var datestring = d.getDate()  + "-" + (d.getMonth()+1) + "-" + d.getFullYear() + " " +
+d.getHours() + ":" + d.getMinutes();
+		document.getElementById("switch").innerHTML = "This product was seen in " + city + " at a " + store + " on " + datestring;
+}
+
+
+/*
+This calls the Rock Paper Scissors microservice we created three weeks ago.
+This is an example of your page sending a request to a microservice (increase wins).
+And then pulling data back and displaying that data on the page.
+
+
+*/
+let url = "http://100.24.244.253:8080/increasewins";
+let ajaxRequest = new XMLHttpRequest();
+
+ajaxRequest.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        console.log(this.responseText);
+        let score = JSON.parse(this.responseText);
+        document.getElementById("wins").innerHTML = score.wins;
+    }
+};
+ajaxRequest.open("GET", url, true);
+ajaxRequest.send();
+
+</script>
+
+
+</body>
+</html>

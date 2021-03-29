@@ -1,0 +1,505 @@
+<!doctype html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/css/bootstrap.min.css" integrity="sha384-r4NyP46KrjDleawBgD5tp8Y7UzmLA05oM1iAEQ17CSuDqnUK2+k9luXQOfXJCJ4I" crossorigin="anonymous">
+      <title>Hello, world!</title>
+      <style>
+      <style>
+         .wrapper {
+         display: flex;  
+         flex-flow: row wrap;
+         font-weight: bold;
+         text-align: center;
+         }
+         body {
+         padding: 2em; 
+         }
+      </style>
+      </style>
+      <script>
+         var count=0;
+      </script>
+   </head>
+   <body>
+      <h1>Quick Quiz</h1>
+      <div class="container-fluid">
+         <div class="row">
+            <div class="wrapper col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+               <div class="card" >
+                  <div class="card-body">
+                     <h5 class="card-title">Question 1</h5>
+                     <p class="card-text">Which organization incubated the bootstrap project?</p>
+                     <div class="form-check">
+                        <input class="form-check-input  " type="radio" name="1" value=" " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Facebook
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input correct" type="radio" name="1" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Twitter
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="1" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Google
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="1" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Apache
+                        </label>
+                     </div>
+
+                  </div>
+               </div>
+            </div>
+            <div class="wrapper col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+               <div class="card" >
+                  <div class="card-body">
+                     <h5 class="card-title">Question 2</h5>
+                     <p class="card-text">How many media query ranged does the default boostrap implementation account for?</p>
+                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="2" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        12
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input  " type="radio" name="2" value=" " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        6
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input correct" type="radio" name="2" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        5
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="2" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        4
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input in " type="radio" name="2" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        3
+                        </label>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="wrapper col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+               <div class="card" >
+                  <div class="card-body">
+                     <h5 class="card-title">Question 3</h5>
+                     <p class="card-text">Which JavaScript language is a requirement to use some of the Bootstrap 5 GUI components?</p>
+                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="3" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        jQuery
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="3" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Dojo
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input  " type="radio" name="3" value=" " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Prototype
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input correct" type="radio" name="3" value=" " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Pure JavaScript
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input in " type="radio" name="3" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        YUI
+                        </label>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="wrapper col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+               <div class="card" >
+                  <div class="card-body">
+                     <h5 class="card-title">Question 4</h5>
+                     <p class="card-text">A collection of properties in SaSS is known as a:</p>
+                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="4" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Struct
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input correct" type="radio" name="4" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Mixin
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input in " type="radio" name="4" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Variable
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input  " type="radio" name="4" value=" " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Object
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input in " type="radio" name="4" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Interface
+                        </label>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="wrapper col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+               <div class="card" >
+                  <div class="card-body">
+                     <h5 class="card-title">Question 4</h5>
+                     <p class="card-text">What is the proper order?</p>
+                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="5" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        jQuery Popper Boostrap Custom
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="5" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Popper jQuery Boostrap Custom
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input correct " type="radio" name="5" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        jQuery Boostrap Popper Custom
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input in " type="radio" name="5" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Boostrap Popper jQuery Custom
+                        </label>
+                     </div>
+
+                  </div>
+               </div>
+            </div>
+            <div class="wrapper col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+               <div class="card" >
+                  <div class="card-body">
+                     <h5 class="card-title">Question 6</h5>
+                     <p class="card-text">Where should external JavaScript and CSS file references reside in the HTML
+(top = head tag. bottom = before /body tag)</p>
+                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="6" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        JavaScript on the top and CSS on the bottom
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input correct " type="radio" name="6" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        JavaScript on the bottom and CSS on the top
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input in " type="radio" name="6" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        JavaScript and CSS on the bottom
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input  " type="radio" name="6" value=" " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        JavaScript and CSS on the top
+                        </label>
+                     </div>
+                  </div>
+               </div>
+            </div>
+			
+			
+			<div class="wrapper col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+               <div class="card" >
+                  <div class="card-body">
+                     <h5 class="card-title">Question 7</h5>
+                     <p class="card-text">RWD stands for:</p>
+                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="7" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Rear Wheel Drive
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input correct" type="radio" name="7" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Responsive Web Design
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input in " type="radio" name="7" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Reactive Web Development
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input  " type="radio" name="7" value=" " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Responsive Web Development
+                        </label>
+                     </div>
+                  </div>
+               </div>
+            </div>
+			
+			<div class="wrapper col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+               <div class="card" >
+                  <div class="card-body">
+                     <h5 class="card-title">Question 8</h5>
+                     <p class="card-text">What was Bootstrap's original project name?</p>
+                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="8" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Oak
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="8" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Gradle
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input correct " type="radio" name="8" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Blueprint
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input  " type="radio" name="8" value=" " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Jumpstart
+                        </label>
+                     </div>
+                  </div>
+               </div>
+            </div>
+			
+			<div class="wrapper col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+               <div class="card" >
+                  <div class="card-body">
+                     <h5 class="card-title">Question 9</h5>
+                     <p class="card-text">In which file are the standard bootstrap colors defined?</p>
+                     <div class="form-check">
+                        <input class="form-check-input correct" type="radio" name="9" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        _variables.scss
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="9" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        _utilities.scss
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input in " type="radio" name="9" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        _colors.scss
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input  " type="radio" name="9" value=" " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        _bootstrap.scss
+                        </label>
+                     </div>
+                  </div>
+               </div>
+            </div>
+			
+			<div class="wrapper col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+               <div class="card" >
+                  <div class="card-body">
+                     <h5 class="card-title">Question 10</h5>
+                     <p class="card-text">correct</p>
+                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="10" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        normalize.css
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="10" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        baseline.css
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input correct " type="radio" name="10" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        bootstrap.css
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input  " type="radio" name="10" value=" " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        reset.css
+                        </label>
+                     </div>
+                  </div>
+               </div>
+            </div>
+			
+			
+			<div class="wrapper col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+               <div class="card" >
+                  <div class="card-body">
+                     <h5 class="card-title">Question 11</h5>
+                     <p class="card-text">Multiple images contained in a single file are known as:</p>
+                     <div class="form-check">
+                        <input class="form-check-input correct" type="radio" name="11" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Sprites
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input  " type="radio" name="11" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Vectors
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input  " type="radio" name="11" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        SVGs
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input " type="radio" name="11" value=" " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        Galleries
+                        </label>
+                     </div>
+                  </div>
+               </div>
+            </div>
+			
+			
+			<div class="wrapper col-xs-12 col-sm-6 col-md-4 col-lg-3 col-xl-2">
+               <div class="card" >
+                  <div class="card-body">
+                     <h5 class="card-title">Question 12</h5>
+                     <p class="card-text">1 REM is equivalent to:p>
+                     <div class="form-check">
+                        <input class="form-check-input" type="radio" name="12" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        1 pixel
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input correct " type="radio" name="12" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        The HTML element's font size
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input in " type="radio" name="12" value="in " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        To the containing/parent element's font size
+                        </label>
+                     </div>
+                     <div class="form-check">
+                        <input class="form-check-input " type="radio" name="12" value=" " id="flexCheckDefault">
+                        <label class="form-check-label" for="flexCheckDefault">
+                        The viewport size
+                        </label>
+                     </div>
+                  </div>
+               </div>
+            </div>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+         </div>
+      </div>
+      <!-- Button trigger modal -->
+      <button type="button" class="btn btn-primary" onclick="scoreExam()" data-toggle="modal" data-target="#exampleModal">
+      Finish
+      </button>
+      <!-- Modal -->
+      <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+         <div class="modal-dialog">
+            <div class="modal-content">
+               <div class="modal-header">
+                  <h5 class="modal-title" id="exampleModalLabel">Quiz Results</h5>
+                  <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                  </button>
+               </div>
+               <div id="score" class="modal-body">
+               </div>
+               <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                  <button type="button" class="btn btn-primary">Save changes</button>
+               </div>
+            </div>
+         </div>
+      </div>
+
+      <script>
+         function scoreExam() {	
+         
+         var rates = document.querySelectorAll('.correct');
+         var count=0;
+         for(let i = 0; i < rates.length; i++){
+             if(rates[i].checked){ 
+         count=count+1;
+             } 
+         }
+         
+         document.getElementById('score').innerHTML = 'You got '  + count + '  correct.';
+         }
+      </script>	
+      <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+      <script src="https://stackpath.bootstrapcdn.com/bootstrap/5.0.0-alpha1/js/bootstrap.min.js" integrity="sha384-oesi62hOLfzrys4LxRF63OJCXdXDipiYWBnvTl9Y9/TRlw5xlKIEHpNyvvDShgf/" crossorigin="anonymous"></script>
+   </body>
+</html>

@@ -1,132 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
    <head>
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179472407-1"></script>
-      <script>
-         window.dataLayer = window.dataLayer || [];
-         function gtag(){dataLayer.push(arguments);}
-         gtag('js', new Date());
-         
-         gtag('config', 'UA-179472407-1');
-      </script>
-      <title>{{ page.title }}</title>
-	   
-<meta name="description" content="Every UiPath Exam question and answer to help you achieve your Associate Certification or your Developer Cert. Learn RPA quickly and get UiPath certified today!"/>
-<meta name="robots" content="index, follow" />
-<meta name="keywords" content="UiPath Certification, UiPath Associate Exam, UiPath Developer Exam, UiPath Certification Questions, UiPath Certification Questions and Answers, UiPath Braindump"/>
+	{% include head-common.html %}  
 
+	<meta name="description" content="Every UiPath Exam question and answer to help you achieve your Associate Certification or your Developer Cert. Learn RPA quickly and get UiPath certified today!"/>	   
+	<link rel="canonical" href="https://www.rpacertified.com/2020/11/12/all-uipath-exam-questions.html" />   
+	<title>UiPath Associate and Developer Certification Quiz Questions</title>
+
+	{% include boostrap-css.html %}
+	{% include style-common.html %}  	   
 	   
-<link rel="canonical" href="https://www.rpacertified.com/2020/11/12/all-uipath-exam-questions.html" />
-<meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
-	   
-	   
- {% include boostrap-css.html %}   
-	   
-	   <style>
-         html { font-size: 12pt; }	
-         h1 { font-size: 1.50em; }
-         h2 { font-size: 1.25em; }
-         h3 { font-size: 1.1em; }
-         h4 { font-size: 1.05em; }
-         h5 { font-size: .83em; }
-         h6 { font-size: .75em; }
-         a, u {text-decoration: none; color:#0d47a1}  
-         a:hover {
-         background-color: #f9fbfd; color #4285F4;
-         }
-         .header, .footer {
-         background: white;
-         text-align: center;
-         }
-         .main {
-         background: white;
-         text-align: left;
-         }
-         .aside-1 {
-         background: white;
-         }
-         .aside-2 {
-         background: white;
-         }
-      </style>
+   </head>
+	
    <body>
       <div class="container">
          <div class="row">
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
-               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown">
-               <span class="navbar-toggler-icon"></span>
-               </button>
-               <div class="collapse navbar-collapse" id="navbarNavDropdown">
-                  <ul class="navbar-nav ml-auto">
-                     <li class="nav-item active">
-                        <a class="nav-link" href="https://www.rpacertified.com/index.html">
-                        Home</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.rpacertified.com/cert-questions-answers.html">Practice Tests</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.rpacertified.com/study-guide-uipath.html">UiPath Study Guide</a>
-                     </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.rpacertified.com/associate-objectives.html">Objectives</a>
-                     </li>
-                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown">
-                        Contact Me
-                        </a>
-                        <div class="dropdown-menu">
-                           <a class="dropdown-item" href="https://www.rpacertified.com/youtube-linkedin-twitter.html#twitter-uipath">Twitter</a>
-                           <a class="dropdown-item" href="https://www.rpacertified.com/youtube-linkedin-twitter.html#youtube-uipath">YouTube</a>
-                           <a class="dropdown-item" href="https://www.rpacertified.com/youtube-linkedin-twitter.html#linkedin-uipath">LinkedIn</a>
-                        </div>
-                     </li>
-                  </ul>
-               </div>
-            </nav>
+            {% include navigation.html %}  
          </div>
+	  {% include common-cookie-row.html %}      
          <div class="row">
-            <!-- article class="main col col-12 col-sm-12  col-md-8 col-lg-9 order-1 order-sm-1 order-lg-1 mt-3" -->
-               <!--
-			   <div class="card">
-                  <div class="card-header">
-                     {{ page.title }}
-                  </div>
-                  <img src="/assets/background-small4.jpg" class="card-img-top" alt="uipath certification">
-                  <div class="card-body">
-				  </div>
-               </div>
-			   -->
-                     <!-- put a span in to stop the p tag from closing automatically -->
-                     {{ content }} 
-		    
-	      {% for post in site.posts %}
-	      <div  class="aside-2 col col-12  col-sm-12  col-md-4 col-lg-3 order-2 order-sm-2 order-lg-2 mb-3 d-flex align-items-stretch">
-               <div class="card mb-2">
-                  <div class="card-header">
-                     <a href="https://www.rpacertified.com/{{ post.url }}">{{ post.title }}</a>
-                  </div>
-                  <div class="card-body  d-flex flex-column">
-                     <p class="card-text">{{ post.blurb }}</p>
-                     <p class="text-center mt-auto"><a href="https://www.rpacertified.com/{{ post.url }}" class="btn btn-primary btn-sm mt-auto">Check it out</a></p>
-                  </div>
-               </div>
-	      </div>
-              {% endfor %}
-		    
-		    
-		    
-		    
-		    
-
-            <!-- /article-->
 		 
-            <aside  class="aside-2 col col-12  col-sm-12  col-md-4 col-lg-3 order-2 order-sm-2 order-lg-2 mb-3">
-               
-            </aside>
-         </div>
+		 		 
+<div  class="aside-2 col col-12  col-sm-12  col-md-4 col-lg-3 order-2 order-sm-2 order-lg-2 mb-3 d-flex align-items-stretch">
+  <div class="card mb-2">
+    <div class="card-header">
+      <h1>Answers to UiPath Cert Quiz Questions</h1>
+    </div>
+    <div class="card-body  d-flex flex-column">
+      <p class="card-text">Here's all of the UiPath Associate Exam related content on the site.</p>
+      <p class="card-text">This includes links to each UiPath question, answer, quiz, braindump, practice test and blog post.</p>
+      <p class="card-text">Enjoy. And good luck with your certification!</p>
+    </div>
+  </div>
+</div>
+		 
+{% for post in site.posts offset:1 %}
+<div  class="aside-2 col col-12  col-sm-12  col-md-4 col-lg-3 order-2 order-sm-2 order-lg-2 mb-3 d-flex align-items-stretch">
+  <div class="card mb-2">
+    <div class="card-header">
+      <a href="https://www.rpacertified.com/{{ post.url }}">{{ post.title }}</a>
+    </div>
+    <div class="card-body  d-flex flex-column">
+      <p class="card-text">{{ post.blurb }}</p>
+      <p class="text-center mt-auto"><a href="https://www.rpacertified.com/{{ post.url }}" class="btn btn-primary btn-sm mt-auto">Check it out</a></p>
+    </div>
+  </div>
+</div>
+{% endfor %}
+
+<aside  class="aside-2 col col-12  col-sm-12  col-md-4 col-lg-3 order-2 order-sm-2 order-lg-2 mb-3">
+</aside>
+		 
+</div>
+	       
+	      
       </div>
 {% include bootstrap-min.html %} 
 </body>

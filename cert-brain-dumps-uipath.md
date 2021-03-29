@@ -1,8 +1,8 @@
 ---
 layout: default
-title: uipath certification dumps
+title: Free UiPath Certification Dumps
 blurb: Not a traditional braindump, these UiPath Certification Dumps help you guide your studies without cheating or giving away anything specific from the exam. Get RPA Certified with integrity.
-canonical: https://www.rpacertified.com/associate-objectives.html
+canonical: https://www.rpacertified.com/cert-brain-dumps-uipath.html
 ---
 
 <div class="row">
@@ -12,9 +12,9 @@ canonical: https://www.rpacertified.com/associate-objectives.html
    <div class="card mb-2" >
    <div class="card-header">Real Talk on UiPath Exam Dumps</div>
       <div class="row g-0">
-         <div class="bg-secondary bg-gradient d-none d-sm-none d-lg-block col-lg-4">
+         <div class=" col-lg-4">
 		 <p class="card-text text-center">
-            <img src="/assets/uipath-exam-dumps-meme.jpg"  alt="mad man" class="img-fluid img-thumbnail">
+            <img src="/assets/louder-uipath-exam-dump.jpg"  alt="mad man" class="img-fluid img-thumbnail">
          </p>
 		 </div>
          <div class="col-12 col-sm-12 col-lg-8">
@@ -24,7 +24,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
                <p class="card-text">Well I don't want you to cheat your way through the exam. And I'm hiring a good number of RPA Certified professionals. I don't want to hire cheaters either. So these UiPath Certification Exam dumps will be a little different. We're not going to cheat.</p>
 			  <p class="card-text">What I will do is provide insights about each UiPath Exam Objective with regards to how it was covered on the exam. What types of questions were asked? What types of questions were not asked? How did the exam compare to practice exams? Where should you focus your study? That type of information is what a UiPath Exam Braindump should encompass. It shouldn't be a mechanism to facilitate cheating. </p>
 			  <p class="card-text">We want you to get certified with integrity. </p>
-               <p class="card-text"><small class="text-muted">UiPath Associate exam objectives are listed below.</small></p>
+               <p class="card-text"><small class="text-muted">UiPath Associate exam dumps are listed below.</small></p>
 	       
             </div>
          </div>
@@ -37,7 +37,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
     <div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
         <div class="card">
             <div class="card-header">Study Hard</div>
-            <img src="/assets/louder-uipath-exam-dump.jpg" class="card-img-top" alt="uipath braindump meme change my mind" />
+            <img src="/assets/uipath-exam-dumps-meme.jpg" class="card-img-top" alt="uipath braindump meme change my mind" />
             <div class="card-body d-flex flex-column">
                 <p class="card-text">The best way to cheat is to study hard and be prepared. It's the best way to scam the system.</p>
             </div>
@@ -81,7 +81,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
 				<p class="card-text">Here are our currently available UiPath certification exam dumps:</p>
                 <ul >
 				
-<li class="card-text">RPA fundamentals exam Dump</li>
+<li class="card-text"><a href="/2020/11/11/dump-fundamentals-exam-uipath.html">RPA fundamentals UiPath Exam Dump</a></li>
 <li class="card-text">Certification braindump on UiPath studio overview</li>
 <li class="card-text">UiPath programming braindump</li>
 <li class="card-text">Exam braindump on static and dynamic selectors</li>
@@ -91,7 +91,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
 <li class="card-text">Test braindump on UiPath Orchestrator concepts</li>
                 </ul>
 				
-		<h6>Code: rpa</h6>		 
+		 
             </div>
         </div>
     </div>
@@ -112,7 +112,7 @@ canonical: https://www.rpacertified.com/associate-objectives.html
                     <li class="card-text"><a href="https://www.youtube.com/user/potemcam">UiPath on YouTube</a> learning tutorials</li>
                     <li class="card-text">A support group of <a href="https://www.rpacertified.com/youtube-linkedin-twitter.html">UiPath experts</a> to help answer your questions and queries</li>
                 </ol>
-		<h6>Code: var</h6>
+
             </div>
         </div>
     </div>

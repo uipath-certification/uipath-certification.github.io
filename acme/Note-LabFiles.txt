@@ -1,0 +1,9 @@
+The Supporting zip files and the Instructor folder have been removed to reduce the size of the Instructor zip file.  
+
+You will receive an email with a link with the full content.
+
+If you received the Software to prepare the course, then follow the steps in the setup and the Lab files will be extracted under the C:\LabFiles folder.
+
+If you are looking for the lab files during the class, these will be located under C:\LabFiles when the setup is done.
+
+If the students require the LabFiles after the class, you will need to request the Supporting zip file to Web Age Solutions.
