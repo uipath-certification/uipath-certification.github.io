@@ -34,7 +34,7 @@ If you want to use the UiPath Certification logo, you must first pass the exam. 
 The page provides a 'Share this UiPath Certification Badge' link in the lower left hand corner. The link will not only display the UiPath Certification Logo image, but also the details of your cert:
 
 <pre>
-https://www.certmetrics.com/uipath/public/badge.aspx?i=1&t=c&d=2020-09-05&ci=UIP00133983
+<a href="https://www.certmetrics.com/uipath/public/badge.aspx?i=1&t=c&d=2020-09-05&ci=UIP00133983">https://www.certmetrics.com/uipath/public/badge.aspx?i=1&t=c&d=2020-09-05&ci=UIP00133983</a>
 </pre>
 
 ### Download the UiPath Logo Link
@@ -46,7 +46,9 @@ To embed the UiPath Certified badge on a webpage, a link is provided that allows
 </pre>
 
 <figure class="figure">
+  <a href="https://www.certmetrics.com/uipath/public/badge.aspx?i=1&t=c&d=2020-09-05&ci=UIP00133983">
   <img src="https://www.rpacertified.com/assets/uipath-certified-logo.png" alt="UiPath Logo Download" class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  </a>
   <figcaption class="figure-caption">Make sure you have passed the Associate or Developer exam before you download the UiPath Certified logo</figcaption>
 </figure>
 
