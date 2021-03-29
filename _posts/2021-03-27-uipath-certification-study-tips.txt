@@ -5,13 +5,13 @@ title: How to pass the UiPath Certification exam
 blurb: Follow these study tips and you'll pass the UiPath Certification exam on your first try, just like I did!   
 
 ---
-<h1 style="text-align: center">How to get UiPath Certified</h1>
+
 <figure class="figure">
   <img src="https://www.rpacertified.com/assets/how-to-pass-uipath-certification.jpg" alt="How to pass UiPath Certification exams." class="img-fluid mx-auto d-block img-thumbnail rounded ">
   <figcaption class="figure-caption">Follow my UiPath Certification tips and you'll pass the Associate exam with flying colors.</figcaption>
 </figure>
 
-## How I passed the UiPath Certification Exam with 84%
+# How I passed the UiPath Certification Exam with 84%
 _Written by RPA Certified Associate Developer Karan Adapala_
 <hr/>
 
@@ -31,18 +31,12 @@ But for those who want to pass the UiPath Associate exam, with a strong score th
 
 It's never too early to take a practice test.
 
-Before you even dive into the theory, take a mock UiPath practice exam or two first. 
-
-Get intimidated. 
-
-Fail the test. 
-
-Get exposed to all the scary terms and unknown concepts you'll need to become an expert on.
+Before you even dive into the theory, take a mock UiPath practice exam or two first. Get intimidated. Fail the test. Get exposed to all the scary terms and unknown concepts you'll need to become an expert on.
 
 <a href="https://www.rpacertified.com/cert-questions-answers.html">
 <img src="https://www.rpacertified.com/assets/uipath-test-question.jpg" class="rounded float-left img-thumbnail" alt="UiPath Practice Tests">
 </a>
-Perhaps it's unconventional advice. But you'll thank me for it when you pass the UiPath exam and <a href="https://www.rpacertified.com//2021/03/29/uipath-certification-logo.html">download your UiPath Certification Logo</a>.
+It's unconventional advice. But you'll thank me for it when you pass the UiPath exam.
 
 When you study, the terms that seemed foreign to you when you failed those practice tests will jump off the page at you. The concepts will get stuck in your head. When you take the same test again, it won't be intimidating anymore. And as you begin to pass the same practice tests that you may have failed a week before, you are proving to yourself that you're learning what you need to know to pass the exam.
 
