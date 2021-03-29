@@ -60,6 +60,20 @@ In summary, the steps to download the Developer or Associate UiPath Certified Lo
 4. Click on the UiPath Certification Badge logo
 5. Use the links provided to download the logo or share on Facebook, YouTube or Twitter
 
+#### UiPath Certification Verification Code
+
+I conduct RPA Developer jobs interviews for a large healthcare organization in the US. Beside the usual RPA and UiPath Fundamentals, SQL, and common developer skills questions, we explicitly require UiPath that you obtain your RPA Associate certification. 
+
+I recommend adding the UiPath certification logo to the top of your resume.
+
+Remember that displaying the UiPath certification logo IS NOT enough. Please include the Verification Code from your digital certification certificate as well.  Employers can quickly use the following site to validate your credentials.
+
+<figure class="figure">
+  <img src="https://www.rpacertified.com/assets/uipath-cert-verification-code.gif" alt="UiPath Logo Download" class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  <figcaption class="figure-caption">A verification code validates that a UiPath Certification Logo is valid</figcaption>
+</figure>
+
+
 ### UiPath Logo usage guidelines
 
 Note that there are many restrictions on how to use the UiPath Certified logo.
@@ -72,6 +86,8 @@ Note that there are many restrictions on how to use the UiPath Certified logo.
 Violating these rules can result in your privledges to use the UiPath Certification logo or the UiPath Certified badge being revoked.
 
 Use the UiPath logo respectfully and in lines with the usage guidelines and you shouldn't run into any problems.
+
+Oh, and one last piece of advice. If you are committed to getting a good paying job in the RPA industry, make sure you’re certified. Employers won't even look at your resume if you're not.
 
 <hr/>
 
