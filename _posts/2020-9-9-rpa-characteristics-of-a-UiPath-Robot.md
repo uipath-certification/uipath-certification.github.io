@@ -21,7 +21,7 @@ Option C is correct.
 
 This is a horrible UiPath Question. Even how it's worded bugs me: "Which of the following best describes the characteristic of a UiPath Robot?"
 
-I was asked to include this question on this site by a number of readers, but it's a horrible questions. 
+I was asked to include this question on this site by a number of readers, but it's a horrible question. 
 
 It's worded poorly. I assure you, questions on the certification exam will be much clearer than this.
 
