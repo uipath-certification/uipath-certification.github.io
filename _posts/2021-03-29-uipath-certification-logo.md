@@ -1,7 +1,7 @@
 ---
 layout: featured-post
 author: Sal Pece
-title: UiPath Certification Logo Download
+title: UiPath Certification Logo & Badge
 blurb: Here's where to download the UiPath Certification Logo, along with the rules for usage and advice on how and when to include the UiPath Logo in your resume.   
 
 ---
@@ -18,7 +18,7 @@ _Written by RPA Certified Associate Developer Sal Pece_
 
 So, you've passed your UiPath Certification exam and now you're interested in displaying your certification logo prominently on your resume or webpage. But despite searching Google, Bing and DuckDuckGo, you can't figure out where on the UiPath site you go to download UiPath Certification logos. Don't feel bad. You're not alone in your fruitless search.
 
-## Where to download the UiPath Certification Logo
+## Where to download the UiPath Certification Badge
 
 UiPath doesn't put the UiPath Associate logo and the UiPath Developer logo on their site for anyone to just download and include on their resume. You have to _earn_ the right to display the UiPath logo. So the RPA bohemoth doesn't make the file publicly available.
 
@@ -29,7 +29,7 @@ If you want to use the UiPath Certification logo, you must first pass the exam. 
   <figcaption class="figure-caption">Wondering how to download the UiPath Certification logo? Log into your Certmetrics account and the UiPath Cert Logo download link is there.</figcaption>
 </figure>
 
-## UiPath Certified Logo Image
+## UiPath Certified Logo Image (JPG, PNG, GIF)
 
 The page provides a 'Share this UiPath Certification Badge' link in the lower left hand corner. The link will not only display the UiPath Certification Logo image, but also the details of your cert:
 
@@ -37,7 +37,7 @@ The page provides a 'Share this UiPath Certification Badge' link in the lower le
 <a href="https://www.certmetrics.com/uipath/public/badge.aspx?i=1&t=c&d=2020-09-05&ci=UIP00133983">https://www.certmetrics.com/uipath/public/badge.aspx?i=1&t=c&d=2020-09-05&ci=UIP00133983</a>
 </pre>
 
-### Download the UiPath Logo Link
+### UiPath Certified Badge Link Download
 
 To embed the UiPath Certified badge on a webpage, a link is provided that allows you to use the high resolution image 
 
@@ -62,7 +62,7 @@ In summary, the steps to download the Developer or Associate UiPath Certified Lo
 4. Click on the UiPath Certification Badge logo
 5. Use the links provided to download the logo or share on Facebook, YouTube or Twitter
 
-#### UiPath Certification Verification Code
+#### UiPath Certification Verification ID Code
 
 I conduct RPA Developer jobs interviews for a large healthcare organization in the US. Beside the usual RPA and UiPath Fundamentals, SQL, and common developer skills questions, we explicitly require UiPath that you obtain your RPA Associate certification. 
 
@@ -76,7 +76,7 @@ Remember that displaying the UiPath certification logo IS NOT enough. Please inc
 </figure>
 
 
-### UiPath Logo usage guidelines
+### RPA Certified Logo & Badge usage guidelines
 
 Note that there are many restrictions on how to use the UiPath Certified logo.
 
@@ -87,9 +87,9 @@ Note that there are many restrictions on how to use the UiPath Certified logo.
 
 Violating these rules can result in your privledges to use the UiPath Certification logo or the UiPath Certified badge being revoked.
 
-Use the UiPath logo respectfully and in lines with the usage guidelines and you shouldn't run into any problems.
+Use the UiPath Certified logo and badge respectfully and in lines with the usage guidelines and you shouldn't run into any problems.
 
-Oh, and one last piece of advice. If you are committed to getting a good paying job in the RPA industry, make sure you’re certified. Employers won't even look at your resume if you're not.
+Oh, and one last piece of advice. If you are committed to getting a good paying job in the RPA industry, make sure you’re RPA certified. Employers won't even look at your resume if you're not.
 
 <hr/>
 
