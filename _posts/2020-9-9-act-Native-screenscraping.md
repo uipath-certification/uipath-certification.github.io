@@ -31,5 +31,5 @@ UiPath recognizes these shortcomings and they have allowed use of OCR activities
 
 Additionally, UiPath is coming out with another technology called Citrix Automation Delight which should mitigate the native Citrix issue that UiPath has with Citrix.
 
-If you would like to find out more about <a href=https://www.uipath.com/solutions/technology/citrix-automationcitrix>Citrix support, please click on the link.
+If you would like to find out more about <a href=https://www.uipath.com/solutions/technology/citrix-automationcitrix>Citrix support</a>, please click on the link.
 If you would like to see the difference between Full-Text, Native and OCR, please click on this <a href=https://docs.uipath.com/studio/docs/output-or-screen-scraping-methods>link</a>.
