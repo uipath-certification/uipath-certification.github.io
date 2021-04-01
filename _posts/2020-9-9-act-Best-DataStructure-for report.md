@@ -1,14 +1,14 @@
 ---
 layout: answered-question
 author: Serge
-title: What is the best data type for iterating through months of the year within UiPath using a for each loop?
-blurb: When using a for each loop you need to know the data types that it can handle and which suits a particular problem
+title: Datatype best suited within a for each activity.
+blurb: When using a for each activity in UiPath you need to know the data types that it can handle and which suits a particular problem.
 difficulty: 6
 objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation
 canonical: 
 ---
 
-<h1>Data type best suited using a for each loop through a value of months</h1>
+<h1>What is the best data type for iterating through months of the year within UiPath using a for each activity?</h1>
 
 Question:  A user needs to download a report for each month of the year and decides to loop over the months using a "For Each" activity. Which datatype(s) are best-suited to hold the values of the names of the months?
 
@@ -27,4 +27,4 @@ While you could argue that a string is a collection of characters and you should
 
 As a generic type cannot be a collection, we cannot use this to store months.
 
-For more information regarding <a href="https://docs.uipath.com/studio/docs/the-for-each-activity">For Each </a>loops and <a href="https://docs.uipath.com/studio/docs/types-of-variables">data types</a>, please click on the links
+For more information regarding <a href="https://docs.uipath.com/studio/docs/the-for-each-activity">For Each </a>loops and <a href="https://docs.uipath.com/studio/docs/types-of-variables">data types</a>, please click on the links.
