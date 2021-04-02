@@ -62,10 +62,9 @@ function triggerLoginCheck() {
     console.log(response.status);
     if (response.status == 'connected'){
 		//set cheat visible
+	    	console.log("authenticated user");
 		document.getElementById("answerCardBody").classList.remove('d-none');
 		document.getElementById("answerCardBodyDefault").classList.add('d-none');
-		answerCardBody
-	    alert('Welcome');
     }
     
     if (response.status == 'not_authorized'){
