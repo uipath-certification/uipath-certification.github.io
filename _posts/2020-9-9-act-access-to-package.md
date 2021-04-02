@@ -13,7 +13,7 @@ canonical:
 Question:  If the PDF activities are not listed in your activities panel, how can you add them?
 
  - [ ] &nbsp;  Those activities are not available
- - [X] &nbsp;  You have to install pdf activities using the Manage Packages features
+ - [X] &nbsp;  You have to install PDF activities using the Manage Packages features
  - [ ] &nbsp;  Try to find a different but similar activity
  - [ ] &nbsp;  Reboot and they will appear
 
