@@ -51,10 +51,12 @@
 	
 	
 function checkLoginState() {
-	triggerLoginCheck()
+	console.log('checkLoginState');
+	triggerLoginCheck();
 }	
 	
-function triggerLoginCheck() {       
+function triggerLoginCheck() {     
+	console.log('triggerLoginCheck');
  FB.getLoginStatus(function(response) {
 	facebookResponse = response;
     //statusChangeCallback(response);
@@ -62,14 +64,16 @@ function triggerLoginCheck() {
     console.log(response.status);
     if (response.status == 'connected'){
 		//set cheat visible
+	    console.log("seems like we're authorized!");
 		document.getElementById("answerCardBody").classList.remove('d-none');
 		document.getElementById("answerCardBodyDefault").classList.add('d-none');
-		answerCardBody
+		
 	    alert('Welcome');
     }
     
     if (response.status == 'not_authorized'){
 		//set cheat invisible
+	    console.log("not authorized apparently");
 		document.getElementById("answerCardBodyDefault").classList.remove('d-none');
 		document.getElementById("answerCardBody").classList.add('d-none');
 	    FB.login();
