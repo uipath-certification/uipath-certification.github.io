@@ -7,7 +7,7 @@ difficulty: 5
 objective: 7.3 Describe the functions used to extract data from a .pdf file; for example, using OCR
 canonical: 
 ---
-
+ 
 <h1>PDF activities not found in Uipath Studio?</h1>
 <h2>Here's how to find them.</h2>
 
