@@ -79,7 +79,7 @@
       xfbml      : true,
       version    : 'v10.0'
     });
-      
+    triggerLoginCheck();
     FB.AppEvents.logPageView();   
       
   };
@@ -93,8 +93,8 @@
    }(document, 'script', 'facebook-jssdk'));
 	
 	
-	
-FB.getLoginStatus(function(response) {
+function triggerLoginCheck() {       
+ FB.getLoginStatus(function(response) {
     statusChangeCallback(response);
     console.log(response);
     console.log(response.status);
@@ -109,7 +109,11 @@ FB.getLoginStatus(function(response) {
 	
 	
 	
-});
+ });
+}	
+	
+	
+
 	
 	
 	
