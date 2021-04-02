@@ -1,3 +1,11 @@
+---
+layout: practice-test
+author: Serge
+title: Privacy Policy
+blurb: This is the privacy policy for rpacertified. 
+
+---
+
 PRIVACY POLICY
 Our privacy policy discloses how we gather, use and protect your data. Below you can find the legal text.
 
