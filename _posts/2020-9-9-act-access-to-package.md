@@ -27,7 +27,9 @@ The Manage Packages feature has three areas to it: Local, Marketplace and Offici
 <img src="https://github.com/uipath-certification/uipath-certification.github.io/blob/master/assets/Managepackages.jpg"/>
 
 <b><u>The Local area</u></b>: These are packages stored locally on your machine but may have not been made available within your project.
+
 <b><u>The Markeplace</u></b>: This is where developers such as yourself can create their own packages and make them available to everyone connecting to the marketplace.
+
 <b><u>The Official area</u></b>: These are the packages that are officially supported by UiPath, you can get the latest packages as well as test out Beta versions of new packages.
 
 To learn more about Manage Packages please click on this <a href="https://docs.uipath.com/studio/docs/managing-activities-packages">link</a>.
