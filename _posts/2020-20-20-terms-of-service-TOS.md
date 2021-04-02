@@ -3,7 +3,6 @@ layout: practice-test
 author: Serge
 title: Terms of Service TOS
 blurb: These are the Terms of Service for rpacertified. 
-
 ---
 
 1. Our agreement
