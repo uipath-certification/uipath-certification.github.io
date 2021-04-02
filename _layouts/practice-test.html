@@ -231,7 +231,9 @@ function triggerLoginCheck() {
     handleFencepostButtons();
      
     if (exam.graded) {
-      highlightCorrectAnswers();
+		if (facebookResponse.status == 'connected') {
+			highlightCorrectAnswers();
+	    }
     } else {
       clearHighlightedAnswers();
     }
@@ -344,7 +346,7 @@ function triggerLoginCheck() {
 	if (facebookResponse.status == 'connected') {
 		document.getElementById('score').innerHTML = 'You got '  + correctCount + ' out of ' + exam.questions.length + ' correct.';
 	} else {
-		document.getElementById('score').innerHTML = 'Log in with Facebook to find out which ' + wrongCount + ' question(s) you got wrong.';
+		document.getElementById('score').innerHTML = 'Log in with Facebook to find out which question(s) you got right, and which ones you got wrong.';
 	}
 	
     document.getElementById('finish').setAttribute('class', 'invisible');
