@@ -32,7 +32,7 @@ It should go without saying that the other options are incorrect.
 
 The _Manage Packages_ feature has three areas to it: Local, Marketplace and Official.
 
-<img src="https://github.com/uipath-certification/uipath-certification.github.io/blob/master/assets/Managepackages.jpg"/>
+<img src="http://www.rpacertified.com/assets/Managepackages.jpg"/>
 
 <b><u>The Local area</u></b>: These are packages stored locally on your machine but may have not been made available within your project.
 
