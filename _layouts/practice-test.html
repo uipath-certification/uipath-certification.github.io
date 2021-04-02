@@ -340,7 +340,7 @@ function triggerLoginCheck() {
 		highlightCorrectAnswers();
 	}
    	
-	int wrongCount = exam.questions.length - correctCount;
+	wrongCount = exam.questions.length - correctCount;
 	if (facebookResponse.status == 'connected') {
 		document.getElementById('score').innerHTML = 'You got '  + correctCount + ' out of ' + exam.questions.length + ' correct.';
 	} else {
