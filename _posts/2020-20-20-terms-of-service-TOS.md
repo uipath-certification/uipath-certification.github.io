@@ -1,14 +1,6 @@
 ---
 layout: practice-test
 author: Serge
-title: Privacy Policy
-blurb: This is the privacy policy for rpacertified. 
-
----
-
----
-layout: practice-test
-author: Serge
 title: Terms of Service TOS
 blurb: These are the Terms of Service for rpacertified. 
 
