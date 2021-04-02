@@ -322,20 +322,31 @@ function triggerLoginCheck() {
    	let correctCount = 0; 
    	for (i = 0; i < exam.questions.length; i++) {
    		let correct = true;
-   		for (j = 0; j < exam.questions[i].options.length; j++) {
-   			correct = (exam.questions[i].options[j].checked == exam.questions[i].options[j].correct);
-   			if (correct == false) {
-   				
-   				document.getElementById('jumpTo'+i).setAttribute('class', 'btn btn-danger  mr-2');
-   				break;
-   			} else {
-   				document.getElementById('jumpTo'+i).setAttribute('class', 'btn btn-success  mr-2');
-   			}
-   		}
+		if (facebookResponse.status == 'connected') {
+			for (j = 0; j < exam.questions[i].options.length; j++) {
+				correct = (exam.questions[i].options[j].checked == exam.questions[i].options[j].correct);
+				if (correct == false) {
+					document.getElementById('jumpTo'+i).setAttribute('class', 'btn btn-danger  mr-2');
+					break;
+				} else {
+					document.getElementById('jumpTo'+i).setAttribute('class', 'btn btn-success  mr-2');
+				}
+			}
+		}
    		if (correct) {correctCount++}
    	}
-    highlightCorrectAnswers();
-   	document.getElementById('score').innerHTML = 'You got '  + correctCount + ' out of ' + exam.questions.length + ' correct.';
+	
+	if (facebookResponse.status == 'connected') {
+		highlightCorrectAnswers();
+	}
+   	
+	int wrongCount = exam.questions.length - correctCount;
+	if (facebookResponse.status == 'connected') {
+		document.getElementById('score').innerHTML = 'You got '  + correctCount + ' out of ' + exam.questions.length + ' correct.';
+	} else {
+		document.getElementById('score').innerHTML = 'Log in with Facebook to find out which ' + wrongCount + ' question(s) you got wrong.';
+	}
+	
     document.getElementById('finish').setAttribute('class', 'invisible');
    }
    
