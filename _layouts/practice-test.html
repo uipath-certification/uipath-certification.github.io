@@ -51,12 +51,10 @@
 	
 	
 function checkLoginState() {
-	console.log('checkLoginState');
-	triggerLoginCheck();
+	triggerLoginCheck()
 }	
 	
-function triggerLoginCheck() {     
-	console.log('triggerLoginCheck');
+function triggerLoginCheck() {       
  FB.getLoginStatus(function(response) {
 	facebookResponse = response;
     //statusChangeCallback(response);
@@ -64,16 +62,14 @@ function triggerLoginCheck() {
     console.log(response.status);
     if (response.status == 'connected'){
 		//set cheat visible
-	    console.log("seems like we're authorized!");
 		document.getElementById("answerCardBody").classList.remove('d-none');
 		document.getElementById("answerCardBodyDefault").classList.add('d-none');
-		
+		answerCardBody
 	    alert('Welcome');
     }
     
     if (response.status == 'not_authorized'){
 		//set cheat invisible
-	    console.log("not authorized apparently");
 		document.getElementById("answerCardBodyDefault").classList.remove('d-none');
 		document.getElementById("answerCardBody").classList.add('d-none');
 	    FB.login();
@@ -392,7 +388,7 @@ function triggerLoginCheck() {
    </div>
    <div class="card mt-2">
       <div class="card-header" id="answerCard">
-         <a  onclick="document.getElementById('answerCardBody').classList.toggle('collapse');" >Click for Answers and Cheats</a>
+         <a  onclick="document.getElementById('answerCardBody').classList.toggle('collapse');document.getElementById('answerCardBodyDefault').classList.toggle('collapse');" >Click for Answers and Cheats</a>
       </div>
       <div class="card-body collapse d-none" id="answerCardBody">
          <h3 class="card-title" id="answer"></h3>
