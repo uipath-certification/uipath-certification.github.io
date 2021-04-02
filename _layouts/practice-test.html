@@ -58,11 +58,16 @@ function triggerLoginCheck() {
     console.log(response.status);
     if (response.status == 'connected'){
 		//set cheat visible
+		document.getElementById("answerCardBody").classList.remove('d-none');
+		document.getElementById("answerCardBodyDefault").classList.add('d-none');
+		answerCardBody
 	    alert('Welcome');
     }
     
     if (response.status == 'not_authorized'){
 		//set cheat invisible
+		document.getElementById("answerCardBodyDefault").classList.remove('d-none');
+		document.getElementById("answerCardBody").classList.add('d-none');
 	    FB.login();
     }
 	
@@ -390,7 +395,7 @@ function triggerLoginCheck() {
          <p class="card-text"><a  id="answerLink" target="_blank">Answer opens in a new window.</a></p>
       </div>
 	  
-	  <div class="card-body collapse d-none" id="answerCardBodyBlocked">
+	  <div class="card-body collapse d-none" id="answerCardBodyDefault">
          <h3 class="card-title" id="answer"></h3>
          <p>Click this button to cheat.</p>
          <a  id="cheat" class="btn btn-warning my-2" onclick="highlightCorrectAnswers()">Cheat</a>
