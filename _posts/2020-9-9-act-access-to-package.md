@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: PDF Activities missing from activities panel, how do you add them?
-blurb: What do you do when the PDF activities you are looking for aren't listed in the activities panel?
+title: PDF Activities missing from activities panel? How do you add them?
+blurb: Here's what to do when PDF activities are missing from the activities panel in UiPath Studio
 difficulty: 5
 objective: 7.3 Describe the functions used to extract data from a .pdf file; for example, using OCR
 canonical: 
 ---
 
-<h1>PDF activities not listed in activities panel, how to access them?</h1>
+<h1>PDF activities not found in Uipath Studio?</h1>
+<h2>Here's how to find them.</h2>
 
 Question:  If the PDF activities are not listed in your activities panel, how can you add them?
 
@@ -21,8 +22,15 @@ Question:  If the PDF activities are not listed in your activities panel, how ca
 
 Option B is correct.
 
-Whenever an activity is not available, you would need to go to the Manage Packages feature and install them using that method. It should go without saying that the other options should be obviously incorrect now.
-The Manage Packages feature has three areas to it: Local, Marketplace and Official.
+<h3>UiPath Activity Missing and Not Loaded Error</h3>
+
+Whenever an activity you need is missing, just click the _Manage Packages_ button at the top of the screen, search for the package that contains the activity, and install it.
+
+It should go without saying that the other options are incorrect.
+
+<h3>Manage Packages</h3>
+
+The _Manage Packages_ feature has three areas to it: Local, Marketplace and Official.
 
 <img src="https://github.com/uipath-certification/uipath-certification.github.io/blob/master/assets/Managepackages.jpg"/>
 
@@ -32,4 +40,10 @@ The Manage Packages feature has three areas to it: Local, Marketplace and Offici
 
 <b><u>The Official area</u></b>: These are the packages that are officially supported by UiPath, you can get the latest packages as well as test out Beta versions of new packages.
 
+<div class="embed-responsive embed-responsive-16by9">
+  			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cHzL31ylZ2Q"></iframe>
+</div>
+
 To learn more about Manage Packages please click on this <a href="https://docs.uipath.com/studio/docs/managing-activities-packages">link</a>.
+
+
