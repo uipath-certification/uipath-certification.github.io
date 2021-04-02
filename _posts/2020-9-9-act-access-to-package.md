@@ -40,8 +40,9 @@ The _Manage Packages_ feature has three areas to it: Local, Marketplace and Offi
 
 <b><u>The Official area</u></b>: These are the packages that are officially supported by UiPath, you can get the latest packages as well as test out Beta versions of new packages.
 
+
 <div class="embed-responsive embed-responsive-16by9">
-  			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cHzL31ylZ2Q"></iframe>
+<iframe src="https://www.youtube.com/embed/cHzL31ylZ2Q" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 
 To learn more about Manage Packages please click on this <a href="https://docs.uipath.com/studio/docs/managing-activities-packages">link</a>.
