@@ -24,7 +24,7 @@ Option B is correct.
 Whenever an activity is not available, you would need to go to the Manage Packages feature and install them using that method. It should go without saying that the other options should be obviously incorrect now.
 The Manage Packages feature has three areas to it: Local, Marketplace and Official.
 
-<img src="">
+<img src="https://github.com/uipath-certification/uipath-certification.github.io/blob/master/assets/Managepackages.jpg"/>
 
 The Local area: These are packages stored locally on your machine but may have not been made available within your project.
 The Markeplace: This is where developers such as yourself can create their own packages and make them available to everyone connecting to the marketplace.
