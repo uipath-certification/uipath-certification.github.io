@@ -99,11 +99,11 @@ function triggerLoginCheck() {
     //statusChangeCallback(response);
     console.log(response);
     console.log(response.status);
-    if (response.status.equals('connected')){
+    if (response.status == connected'){
 	    alert('Welcome');
     }
     
-    if (response.status.equals('not_authorized')){
+    if (response.status == 'not_authorized'){
 	    FB.login();
     }
 	
