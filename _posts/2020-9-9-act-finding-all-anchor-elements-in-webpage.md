@@ -6,7 +6,7 @@ blurb: Here's how to find all anchors on a webpage.
 difficulty: 9
 objective: 7.3 Describe the functions used to extract data from a .pdf file; for example, using OCR
 canonical: https://www.rpacertified.com//2020/09/09/act-finding-all-anchor-elements-in-webpage.html
-
+keywords: anchor
 ---
 
 <h1>UiPath Anchor</h1>
