@@ -3,7 +3,7 @@ layout: docker-test
 author: Cameron
 title: Introduction to Docker Quiz
 blurb: Here is a tough Intro to Docker quiz to test your container knoweldge.
-
+canonical: https://www.rpacertified.com/2021/02/24/second-docker-quiz.html
 ---
 
 <script>
