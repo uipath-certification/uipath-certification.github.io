@@ -5,8 +5,11 @@ title: UiPath Studio Community Edition Trial
 blurb: How long does a UiPath Studio Community Edition trial last?
 difficulty: 6
 objective: 1.1 Identify and describe the different types of robots, i.e., attended versus unattended robots
-canonical: https://www.rpacertified.com//2020/11/11/uipath-robot-security-isoloation.html
+canonical: https://www.rpacertified.com/2020/11/11/uipath-robot-security-isoloation.html
+keywords: UiPath Studio, Community Edition, Trial IDE, UiPath IDE
 ---
+
+# UiPath Studio attended automations
 
 Question: Which of the following statements are true?
 
@@ -18,6 +21,8 @@ Question: Which of the following statements are true?
 ## Answer
 
 Options a and c are correct.
+
+## UiPath Community IDE Trial
 
 Attended automations require a user in front of the machine to kick them off. Thus, option c is correct. Unattended robots do not require a human present.
 
