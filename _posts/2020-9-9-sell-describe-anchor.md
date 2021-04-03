@@ -1,15 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: What describes an Anchor Base activity in UiPath Studio?
-blurb: What describes an Anchor Base activity in UiPath Studio?
+title: Anchor Activity in UiPath Studio
+blurb: A quick explaination of the UiPath Anchor Base activity in Studio.
 difficulty: 6
 objective: 4.3 Identify and describe how and when to use Anchors
-
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/sell-describe-anchor.html
+keywords: anchor base, UiPath Anchor, UiPath Studio Anchor
 ---
 
-<h1>What describes an Anchor Base activity in UiPath Studio?</h1>
+<h1>UiPath Studio Anchors</h1>
 
 Question:  What describes an Anchor Base activity in UiPath Studio?
 
