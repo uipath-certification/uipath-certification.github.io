@@ -1,12 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: UiPath Studio Community Edition and Orchestrator
+title: UiPath Studio Community Edition & Orchestrator
 blurb: This UiPath Associate exam question deals with UiPath Studio Community Edition and the Orchestrator
 difficulty: 6
 objective: 1.4 Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition
-canonical: 
+canonical: https://www.rpacertified.com//2020/11/11/uipath-studio-programs.html
+keywords: UiPath Orchestrator, UiPath Studio, Studio Orchestrator,
 ---
+# UiPath Orchestrator & Studio Community Edition
+
 
 Question: Which of the following is true about programs written in UiPath Stuido Community Edition?
 
@@ -18,6 +21,8 @@ Question: Which of the following is true about programs written in UiPath Stuido
 ## Answer
 
 Option d is correct.
+
+## UiPath Studio Community IDE
 
 UiPath wants you to realize that the programs created in the Community Edition of UiPath are no different from the ones created in the Enterprise Edition.
 
