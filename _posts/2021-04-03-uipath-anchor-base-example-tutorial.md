@@ -19,12 +19,15 @@ Editors Note: _Many students have asked for guidance on the UiPath Anchor Base a
 In this UiPath Studio tutorial, we will learn how to use the UiPath anchor base activity. 
 ## What is a UiPath Anchor Base?
 A UiPath anchor base activity helps to locate elements on a page based on their relative positions. Sometimes webpages or PDF files do not uniquely identify UiElements with ids. Or, the ids may change over time. To overcome this problem with <a href="https://www.rpacertified.com/2020/09/09/sell-describe-anchor.html">UiPath selectors</a>, a UiPath Anchor can be used. 
+
 The UiPath Anchor Activity is useful when the developer does not have a reliable or predictable selector. 
+
 Let me show you a UiPath Anchor Base example.
 
 ## How to use the Anchor Base activity
 
 To use the UiPath Anchor Base activity, follow these steps:
+
 1. Add the UiPath Anchor Base activity to your workflow
 2. Target an anchor with UiPath's Find Element or Find Image activity
 3. Specify the relative position to the target UiElement with the AnchorPosition property
@@ -33,16 +36,24 @@ To use the UiPath Anchor Base activity, follow these steps:
 ## Anchor Base in UiPath Example
 I opened this RPA challenge website and there is an input field we would like to target with the UiPath _Type Into_ activity. 
 Let’s type something like ‘road’ into the address field.
+
 Just quickly run the workflow in UiPath Studio to verify that the _Type Into_ activity works without even the need for a UiPath Anchor Base activity
 ## Problems with UiPath Selectors
 However, RPA applications that do screen scraping or rely on well-formed HTML and IDs will often run into problems with a basic <a href="https://www.rpacertified.com/2020/09/09/sell-selector-in-variable.html">UiPath selector.</a>
+
 To fix this problem and harden our applications, we can employ the UiPath anchor base activity. 
+
 Delete what we have on the current workflow. Then search for the anchor base activity in UiPath Studio’s Activities panel. Then drag the anchor base activity onto the workflow.
 You always create an anchor base close to your target. 
+
 So let's add our _Type Into_ activity here as the UiPath Anchor Base action to perform. 
+
 Then we will indicate the address field. We can type in ‘road’ again, 
+
 Then we will have an anchor and that's something close to this address field. 
+
 We will just take the address label, because that will always be close to the target field.
+
 The best thing to do is just take this address because that will always be close to our field.
 
 <figure class="figure">
