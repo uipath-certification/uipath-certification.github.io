@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: What happens if Find Image doesn’t actually find the desired image in UiPath?
-blurb: What happens if Find Image doesn’t actually find the desired image in UiPath?
+title: Uipath Find Image failures
+blurb: Here's what happens if a Uipath Find Image activity doesn’t actually find the desired image.
 difficulty: 7
 objective: 4.2 Identify and describe how partial versus full selectors are used
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/sell-cant-find-desired-image.html
+keywords: UiPath Find Image, Uipath Ui Activity
 ---
 
-<h1>What happens if Find Image doesn’t actually find the desired image in UiPath?</h1>
+<h1>Find Image and UiPath Selectors</h1>
 
 Question:  What happens if Find Image doesn’t actually find the desired image in UiPath?
 
