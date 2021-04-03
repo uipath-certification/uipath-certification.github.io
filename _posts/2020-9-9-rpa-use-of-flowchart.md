@@ -1,11 +1,11 @@
 ---
 layout: answered-question
 author: Serge
-title: UiPath Sequences vs Flowcharts: How to choose the right one?
+title: UiPath Sequences vs Flowcharts - How to choose the right one?
 blurb: Here we expain the difference between a UiPath flowchart and sequence, and let you know how to differentiate them on the UiPath Cert Exam.
 difficulty: 6
 objective: 1.1 Identify sample use cases that describes the processes and workloads that can be automated
-canonical: https://www.rpacertified.com//2020/09/09/rpa-use-of-flowchart.html
+canonical: https://www.rpacertified.com/2020/09/09/rpa-use-of-flowchart.html
 keywords: flowchart, sequence, UiPath flowchart, UiPath Sequence, Sequence vs flowchart
 ---
 
