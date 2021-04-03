@@ -1,11 +1,12 @@
 ---
 layout: answered-question
 author: Serge
-title: Which needs to be checked to include column name?
-blurb: Which needs to be checked to include column name?
+title: UiPath CSV File Handling
+blurb: Here's how to properly check UiPath CSV files.
 difficulty: 6
 objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/act-include-column-headers.html
+keywords: UiPath column
 ---
 
 <h1>Which needs to be checked to include column name?</h1>
