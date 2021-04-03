@@ -5,7 +5,8 @@ title: The UiPath Workflow Diff tool
 blurb: What's the easiest way to compare file in Git with UiPath Studio?
 difficulty: 6
 objective: 2.3 Explain the significance of connecting an automation project to the version control solution
-canonical: https://www.rpacertified.com//2020/11/11/debug-git-workflow-diff.html
+canonical: https://www.rpacertified.com/2020/11/11/debug-git-workflow-diff.html
+keywords: diff, UiPath Diff, Diff tool uipath, UiPath Git
 ---
 <h1>UiPath Workflow Diff tool</h1>
 
@@ -19,6 +20,8 @@ Question: What is the name of the tool provided by UiPath Studio to compare file
 ## Answer
 
 Options a is correct.
+
+## UiPath and WinDiff
 
 I'm a big fan of WinDiff, but that's not included as part of UiPath Studio.
 
