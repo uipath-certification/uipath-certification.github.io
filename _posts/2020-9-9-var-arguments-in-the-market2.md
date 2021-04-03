@@ -1,16 +1,16 @@
 ---
 layout: answered-question
 author: Serge
-title: What is the result of the workflow?
-blurb: Result of arguments in invoked workflow
+title: Sequence Diagram RPA Certification Exam Question
+blurb: The ability to evaluate the result of a UiPath Sequence diagram when it runs is an important skill the UiPath Associate exam asks you to demonstrate.
 difficulty: 7
 objective: 3.4 Explain how arguments are used, managed, and the best practice for using the argument direction in the UiPath Studio Arguments panel
-canonical: 
+canonical: https://www.rpacertified.com/2020/09/09/var-arguments-in-the-market2.html
 ---
 
-<h1>What is the result of the workflow?</h1>
+<h1>What is the result of running the following UiPath workflow?</h1>
 
-Question:  <img src="https://github.com/uipath-certification/uipath-certification.github.io/blob/master/assets/Arguments%20-In-In_Cart2%20.jpg" class="img-fluid" alt="UiPath, split">
+Question:  <img src="/assets/Arguments%20-In-In_Cart2%20.jpg" class="img-fluid" alt="UiPath, split">
 
  - [ ] &nbsp;  “, Orange”
  - [ ] &nbsp;  “Orange”
@@ -21,5 +21,7 @@ Question:  <img src="https://github.com/uipath-certification/uipath-certificatio
 
 Option D is correct.
 
-When the workflow Market is invoked, Fruit was sent into In_Cart. We then kept the value and added “, Orange”.  Direction of the argument matters!
+When the workflow Market is invoked, Fruit was sent into In_Cart. We then kept the value and added “, Orange”.  
+
+Direction of the argument matters!
 
