@@ -6,7 +6,7 @@ blurb: Here we explain what a UiPath arumgument is and how it differs from varia
 difficulty: 6
 objective: 3.1 Identify the different variable types available in the UiPath Studio Variables panel
 canonical: https://www.rpacertified.com/2020/09/09/var-what-is-an-argument.html
-keywords: UiPath Argument, RPA Argument, Argument vs Variable, Argument in UiPath Studio, Arguments vs UiPath Activities
+keywords: UiPath Argument, RPA Argument,  Argument in UiPath Studio, Set Argument
 ---
 
 <h1>What is an argument in UiPath?</h1>
