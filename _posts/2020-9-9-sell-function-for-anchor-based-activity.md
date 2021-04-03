@@ -1,15 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: Which function does the Anchor Base activity provide?
-blurb: Which function does the Anchor Base activity provide?
+title: UiPath Anchor Base activity
+blurb: Here's a quick explaination of the UiPath Anchor Base activity features and functions?
 difficulty: 6
 objective: 4.3 Identify and describe how and when to use Anchors
-
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/sell-function-for-anchor-based-activity.html
+keywords: UiPath Anchor Base activity, anchor base, UiPath Anchor
 ---
 
-<h1>Which function does the Anchor Base activity provide?</h1>
+<h1>UiPath Anchor</h1>
 
 Question:  Which function does the Anchor Base activity provide?
 
