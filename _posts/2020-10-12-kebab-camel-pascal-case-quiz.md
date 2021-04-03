@@ -4,6 +4,7 @@ author: Serge
 title: Kebab vs Camel vs Pascal Case in UiPath Studio
 blurb: Do you know the difference between kebab case and camel case?
 canonical: https://www.rpacertified.com//2020/10/12/kebab-camel-pascal-case-quiz.html
+keywords: Mock UiPath Exam, UiPath Practice Exam, UiPath Associate Practice Test
 ---
 <script>
 var exam = null;
