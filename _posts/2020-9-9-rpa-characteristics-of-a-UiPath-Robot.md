@@ -1,11 +1,12 @@
 ---
 layout: answered-question
 author: Serge
-title: What describes a characteristic of a UiPath Robot Question
+title: What describes a characteristic of a UiPath Robot?
 blurb: Which of the following best describes the characteristic of a UiPath Robot? Don't let this horrible UiPath Certification Question confuse you!
 difficulty: 9
 objective: 1.2 Identify and describe the different types of robots, i.e., attended versus unattended robots
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/rpa-characteristics-of-a-UiPath-Robot.html
+keywords: UiPath Certification Question, UiPath Robot, UiPath Characteristics, UiPath Robot
 ---
 
 Question:  Which one of the following statements about UiPath Robots is true?
