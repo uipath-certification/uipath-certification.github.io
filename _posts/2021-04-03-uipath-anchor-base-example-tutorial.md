@@ -53,20 +53,31 @@ The best thing to do is just take this address because that will always be close
 
 ## Find element vs find image
 We can choose two <a href="https://www.rpacertified.com/2020/09/09/act-finding-all-anchor-elements-in-webpage.html">UiPath find types</a> in our anchors: find element and find image.
+
 Always try find element first. If that doesn't work, you can use the find image.
+
 Drag the find element activity into the UiPath anchor base acivity. 
+
 That will be the address here. 
 ## Anchor Base AnchorPosition
 Now we choose the Anchor Base position by specifying the AnchorPosition property.
+
 The chosen anchor is over the target of our _Type Into_ activity, so the Anchor Base AnchorPosition should be on to. 
-You can see that that the position changes in the UiPath Studio worfklow. 
+
+You can see that that the position changes in the UiPath Studio worfklow.
+
 So now we have our AnchorPostion set to top. We can now run our UiPath Anchor Base example application.
+
 Run it two times to verify it works on different sides. 
 ## UiPath Anchor Base Find Image
 But what if the find element didn't work? The UiPath Find Element and Find Image activities compliment each other. If the Find Element fails, you can always try the UiPath Find Image activity.
+
 And what we'll do is that will indicate our anchor base image to be the address JPG. Besides the use of a JPG, GIF or PNG as the target, the UiPath Find Image Anchor works the same way as Find Element does.
+
 Run the RPA application and you’ll see that it works exactly the same as before.
 And that’s a full UiPath Anchor Base tutorial to demonstrate how to improve on the basic selector functionality provided with UiPath Studio.
+
+#### Anchor Base Resources
 
 More information on how to use the UiPath anchor base activity can be found in the <a href="https://docs.uipath.com/activities/docs/anchor-base">production documentation.</a>
 
