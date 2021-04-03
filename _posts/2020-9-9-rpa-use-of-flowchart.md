@@ -9,7 +9,7 @@ canonical: https://www.rpacertified.com//2020/09/09/rpa-use-of-flowchart.html
 keywords: flowchart, sequence, UiPath flowchart, UiPath Sequence, Sequence vs flowchart
 ---
 
-<h1>UiPath Flowchart vs Sequence/h1>
+<h1>UiPath Flowchart vs Sequence</h1>
 
 Question: Which use case best justifies the use of a UiPath flowchart instead of a sequence?
 
