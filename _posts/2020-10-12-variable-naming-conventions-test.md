@@ -4,6 +4,7 @@ author: Serge
 title: UiPath Variable Naming Conventions
 blurb: UiPath Certification questions and answers to test yourself on the rules UiPath Studio analyzer uses to validate method and variable names.
 canonical: https://www.rpacertified.com//2020/10/12/variable-naming-conventions-test.html
+keywords: Naming conventions, Mock exam, UiPath Exam, Practice test
 ---
 <script>
 var exam = null;
