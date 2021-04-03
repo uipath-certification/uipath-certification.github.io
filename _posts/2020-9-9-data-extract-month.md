@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: How do you extract the month?
-blurb: How do you extract the month?
+title: UiPath Programming and the String Split method
+blurb: Learn to use the UiPath String Split method in your RPA automations and pass the certification exam questions on the topic.
 difficulty: 6
 objective: 6.2 Explain how string manipulations, collections, and datatables are used for data manipulation
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/data-extract-month.html
+keywords: UiPath String Split Function, String Split, String Functions
 ---
 
-<h1>How do you extract the month?</h1>
+<h1>UiPath String Split Functio</h1>
 
 Question:  You have been given a date in a string: “10/15/2020”.  What is the best way to extract the month?
 
