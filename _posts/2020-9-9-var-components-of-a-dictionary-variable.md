@@ -1,7 +1,7 @@
 ---
 layout: answered-question
 author: Serge
-title: UiPath Dictionary Variables: What are the components of a Dictionary variable?
+title: UiPath Dictionary Variables. What are the components of a Dictionary variable?
 blurb: Here's how UiPath dictionary variables work, along with what you need to know to pass the Associate exam.
 difficulty: 6
 objective: 3.1 Identify the different variable types available in the UiPath Studio Variables panel
