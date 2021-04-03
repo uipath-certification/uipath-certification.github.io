@@ -3,7 +3,7 @@ layout: answered-question
 author: Serge
 title: UiPath and Windows Credential Manager Example and Tutorial
 blurb: Here's a quick tutorial on how to integrate Windows Credentials Manager with UiPath Studio. Learn to securely save passwords with this UiPath Studio credentials example.
-
+canonical: https://www.rpacertified.com//2021/02/06/StudioX-Username-PasswordX-Activity-Credentials.html
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
