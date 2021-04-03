@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: What activity can you use to read an entire sheet from an entire excel file?
-blurb: What activity can you use to read an entire sheet from an entire excel file?
+title: UiPath Excel Activities
+blurb: Here's a look at the key activites used by UiPath to read Excel activities.
 difficulty: 8
 objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/act-activity-to-read-entire-sheet.html
+keywords: Uipath, Excel
 ---
 
-<h1>What activity can you use to read an entire sheet from an entire excel file?</h1>
+
 
 Question:  What activity can you use to read an entire sheet from an entire excel file?
 
