@@ -1,14 +1,14 @@
 ---
 layout: answered-question
 author: Serge
-title: What is the main feature of a flowchart?
-blurb: What is the main feature of a flowchart?
+title: UiPath Flowchart Benefits and Features
+blurb: What are the benefits and drawbacks to UiPath Flowcharts when compared to sequences, snippets or templates?
 difficulty: 7
 objective: 5.1 Explain how to use control flow activities, workflow types such as sequences and flowcharts, and their functions
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/flow-feature-of-a-flowchart.html
 ---
 
-<h1>What is the main feature of a flowchart?</h1>
+<h1>UiPath Flowchart Features</h1>
 
 Question:  What is the main feature of a flowchart?
 
