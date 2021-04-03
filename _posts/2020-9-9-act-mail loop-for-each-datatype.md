@@ -1,11 +1,12 @@
 ---
 layout: answered-question
 author: Serge
-title: Best DataType Set when looping through a list of emails
-blurb: Best DataType Set when looping through a list of emails
+title: UiPath Email Data Types
+blurb: Here's the best DataType to set when you loop through emails.
 difficulty: 6
 objective: 7.1 Identify and explain how to automate e-mail and how email automation is helpful
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/act-mail-loop-for-each-datatype.html
+keywords: UiPath Email, Email data type
 ---
 
 <h1>Best DataType Set when looping through a list of emails</h1>
