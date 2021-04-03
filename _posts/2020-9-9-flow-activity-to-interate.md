@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: Which activities allow you to iterate through an array of strings?
-blurb: Which activities allow you to iterate through an array of strings?
+title: UiPath String Iteration Best Practices
+blurb: Here are some best practices for those who need to iterate through an array of strings in UiPath Studio.
 difficulty: 7
 objective: 5.1 Explain how to use control flow activities, workflow types such as sequences and flowcharts, and their functions
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/flow-activity-to-interate.html
+keywords: UiPath iteration, UiPath for each row, Studio String array
 ---
 
-<h1>Which activities allow you to iterate through an array of strings?</h1>
+<h1>UiPath Studio String Arrays</h1>
 
 Question:  Which activities allow you to iterate through an array of strings?
 
