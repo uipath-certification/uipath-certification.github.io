@@ -1,16 +1,17 @@
 ---
 layout: answered-question
 author: Serge
-title: Can a package be downloaded from Orchestrator assuming the necessary permissions are granted?
-blurb: Can a package be downloaded from Orchestrator assuming the necessary permissions are granted?
+title: Necessary Package Permissions and UiPath Orchestrator
+blurb: The UiPath exam tests you on package permissions in UiPath Orchestrator. Here's what you need to know about UiPath Orchestrator package downloads and security.
 difficulty: 6
 objective: 8.3 Identify and explain how packages are published to UiPath Orchestrator in the cloud
-canonical: 
+keywords: UiPath Packages, UiPath Orchestrator Permissions, 
+canonical: https://www.rpacertified.com/2020/09/09/orc-Orchestrator-download-package.html
 ---
 
-<h1>Can a package be downloaded from Orchestrator assuming the necessary permissions are granted?</h1>
+<h1>UiPath Orchestrator Packages and Permissions</h1>
 
-Question:  Can a package be downloaded from Orchestrator assuming the necessary permissions are granted?
+Question:  Can a package be downloaded from UiPath Orchestrator assuming the necessary permissions are granted?
 
  - [ ] &nbsp;  Yes; only the current version of the package can be downloaded
  - [X] &nbsp;  Yes; any version of a package can be downloaded
