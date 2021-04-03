@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: How can execution be paused before a particular activity in UiPath?
-blurb: How can execution be paused before a particular activity in UiPath?
+title: How to pause a Process in UiPath Studio
+blurb: The UiPath Associate exam requires knowledge of the debugger in UiPath Studio. Here's how to pause a Uipath process and debut it.
 difficulty: 7
 objective: 2.3 Explain the significance of connecting an automation project to the version control solution
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/debug-pause-execution.html
+keywords: UiPath Process, Pause Process
 ---
 
-<h1>How can execution be paused before a particular activity in UiPath?</h1>
+<h1>UiPath Studio Debugging</h1>
 
 Question:  How can execution be paused before a particular activity in UiPath?
 
