@@ -5,7 +5,7 @@ title: UiPath Anchor Base Example
 blurb: In this quick UiPath Anchor Base example tutorial, you'll quickly learn how to select specific Ui elements in a web page, PDF file, or even a desktop application.
 difficulty: 6
 objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation
-canonical: https://www.rpacertified.com/2021/04/03-uipath-anchor-base-example-tutorial.html
+canonical: https://www.rpacertified.com/2021/04/03/uipath-anchor-base-example-tutorial.html
 keywords: UiPath Anchor, Anchor Base, Anchor Base Tutorial, UiPath Anchor Base, uipath indicate anchor, uipath click image anchor, uipath multiple anchors
 ---
 # Anchor Base UiPath Activity
