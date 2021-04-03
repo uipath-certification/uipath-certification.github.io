@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: During the running of workflow, how can you see the steps the workflow is executing?
-blurb: During the running of workflow, how can you see the steps the workflow is executing?
+title: How to debug a running UiPath workflow
+blurb: Here's how to step through your RPA automation with UiPath debugger tools.
 difficulty: 6
 objective: 2.3 Explain the significance of connecting an automation project to the version control solution
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/debug-during-execution-see-steps-of-workflow.html
+keywords: UiPath Workflow, step into, step over, UiPath Debugger
 ---
 
-<h1>During the running of workflow, how can you see the steps the workflow is executing?</h1>
+<h1>UiPath Step Into Debugger</h1>
 
 Question:  During the running of workflow, how can you see the steps the workflow is executing?
 
