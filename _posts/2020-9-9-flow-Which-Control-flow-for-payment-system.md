@@ -1,16 +1,17 @@
 ---
 layout: answered-question
 author: Serge
-title: What's the best process flow?
+title: UiPath Project Design Best Practices
 blurb: Looking at the best process flow given certain requirements
 difficulty: 6
 objective: 5.2 Identify and describe the various control flow activities such as If, Switch, Break, Parallel, While, etc.
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/flow-Which-Control-flow-for-payment-system.html
+keywords: UiPath Process, UiPath Flow, UiPath Studio, UiPath Payment System
 ---
 
 <h1>What's the best process flow?</h1>
 
-Question:  A developer needs to design a process in the following way:
+Question: A developer needs to design a process in the following way:
 
 1. The process needs to validate the Payment Status field in an application.
 2. There are three possible values in the Payment Status field named: Pending, Paid, or Awaiting Approval.
