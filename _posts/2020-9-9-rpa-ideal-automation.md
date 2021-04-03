@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: UiPath Ideal Automation
+title: The Ideal UiPath Automation 
 blurb: Which of the following describes the most ideal type of activity to automate with UiPath? 
 difficulty: 5
 objective: 5.1 Explain how to use control flow activities, workflow types such as sequences and flowcharts, and their functions
-canonical:
+canonical:https://www.rpacertified.com//2020/09/09/rpa-ideal-automation.html
+keywords: ideal automation, uipath purpose
 ---
 
-<h1>Uipath Ideal Automation</h1>
+<h1>Uipath Automation</h1>
 
 Question: Which of the following describes the most ideal type of activity to automate with UiPath? 
 
