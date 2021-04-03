@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: When should the Add Log Fields activity be used?
-blurb: When should the Add Log Fields activity be used?
+title: Uipath Add Log Fields Activity Explained
+blurb: Here's how to use UiPath Studio's Add Log Fields Activity in your RPA applications.
 difficulty: 10
 objective: 2.2 Identify and describe how to use Manage Packages
-canonical: 
+canonical: https://www.rpacertified.com/2020/09/09/debug-add-logs.html
+keywords: UiPath Log, Log Activity, Add Log Fields
 ---
 
-<h1>When should the Add Log Fields activity be used?</h1>
+<h1>UiPath Add Log Fields</h1>
 
 Question:  When should the Add Log Fields activity be used?
 
