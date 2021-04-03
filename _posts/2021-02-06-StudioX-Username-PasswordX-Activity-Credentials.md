@@ -7,7 +7,7 @@ canonical: https://www.rpacertified.com/2021/02/06/StudioX-Username-PasswordX-Ac
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe src="https://www.youtube.com/embed/7J03lhwLnVQ8" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/sMaLZFY7ys4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 
 # UiPath Get Username and Password Activity
