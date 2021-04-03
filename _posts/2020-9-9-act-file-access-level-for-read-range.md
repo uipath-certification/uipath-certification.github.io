@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: What describes the file access level needed when using the Read Range Workbook activity?
+title: Read Range Workbook activity
 blurb: What describes the file access level needed when using the Read Range Workbook activity?
 difficulty: 6
 objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/act-file-access-level-for-read-range.html
+keywords: UiPath Read Range
 ---
 
-<h1>What describes the file access level needed when using the Read Range Workbook activity?</h1>
+<h1>Read Range Workbook</h1>
 
 Question:  What describes the file access level needed when using the Read Range Workbook activity?
 
