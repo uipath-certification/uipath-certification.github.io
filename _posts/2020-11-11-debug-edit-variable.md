@@ -5,7 +5,8 @@ title: How to edit variables in the debugger
 blurb: Test your debugging skills in UiPath Studio. Here we look at how to troubleshoot and debug with the variable debugger in Studio.
 difficulty: 6
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
-canonical: https://www.rpacertified.com//2020/11/11/debug-edit-variable.html
+canonical: https://www.rpacertified.com/2020/11/11/debug-edit-variable.html
+keywords: UiPath Debugger, UiPath Variables, UiPath Troubleshooting, UiPath Studio, UiPath Studio Debug Tutorial
 ---
 
 <h1>UiPath variable debugging</h1>
@@ -20,6 +21,8 @@ Question: Which of the following statements are true about UiPath variable debug
 ## Answer
 
 Options c is correct.
+
+## UiPath Studio Debug Features
 
 The UiPath Studio Locals panel, which only shows during debugging activities, alows you to inspect variables and subsequently change them at runtime while the program has been paused by a breakpoint.
 
