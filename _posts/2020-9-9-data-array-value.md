@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: What's the results of adding string?
-blurb: What's the results of adding string?
+title: UiPath String Addition
+blurb: Can you answer UiPath Exam questions on String addition, or the addition of GenericArray elements that contain text? Here's a mock Associate exam question to test your knowledge. 
 difficulty: 6
 objective: 6.2 Explain how string manipulations, collections, and datatables are used for data manipulation
-canonical: 
+canonical: https://www.rpacertified.com/2020/09/09/data-array-value.html
+keywords: UiPath String Addition, UiPath GenericArray, String concatenation
 ---
 
-<h1>What's the results of adding string?</h1>
+<h1>GenericArray & String concatenation</h1>
 
 Question:  We have an array with values GenericArray = {“4 Oranges”,”3 Pineapples”}.  We have a variable Result = GenericArray(0)+GenericArray(1).  What is the value of Result?
 
