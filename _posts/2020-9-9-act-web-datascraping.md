@@ -1,14 +1,14 @@
 ---
 layout: answered-question
 author: Serge
-title: What are the uses of web scraping in UiPath?
+title: Web scraping in UiPath
 blurb: What are the uses of web scraping in UiPath?
 difficulty: 8
 objective: 7.3 Describe the functions used to extract data from a .pdf file; for example, using OCR
-canonical: 
+canonical: https://www.rpacertified.com/2020/09/09/act-web-datascraping.html
 ---
 
-<h1>What are the uses of web scraping in UiPath?</h1>
+<h1>UiPath Web Scraping</h1>
 
 Question:  What are the uses of web scraping in UiPath?
 
