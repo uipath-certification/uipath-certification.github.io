@@ -3,7 +3,7 @@ layout: answered-question
 author: Serge
 title: How to Block User Input in UiPath
 blurb: Nothing worse than fighting the user over the keyboard in mouse. Here's a 'how to use the UiPath Block User Input activity' example tutorial.
-
+keywords: Block User Input Tutorial, UiPath Block User Input, UiPath Block User Input Example, RPA, UiPath
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
