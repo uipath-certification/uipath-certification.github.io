@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: Which datatype needed for an Excel file?
-blurb: Which datatype needed for an Excel file?
+title: UiPath Excel File Mapping Datatype
+blurb: Here's how to chose the right UiPath datatype to hold an Excel file
 difficulty: 6
 objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation
-canonical: 
+canonical: https://www.rpacertified.com/2020/09/09/act-data-type-for-an-excel-file.html
+keywords: uipath excel
 ---
 
-<h1>Which datatype needed for an Excel file?</h1>
+<h1>UiPath and Excel</h1>
 
 Question:  Which data type is used for extracting data from a Microsoft Excel file using a Read Range activity?
 
