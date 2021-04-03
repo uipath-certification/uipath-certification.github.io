@@ -13,6 +13,8 @@ keywords: UiPath Anchor, Anchor Base, Anchor Base Tutorial, UiPath Anchor Base, 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://www.youtube.com/embed/BZFG_BL_sd4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
+## Anchor Base Tutorial
+Editors Note: Many students have asked for guidance on the UiPath Anchor Base activity, and how it works with the Find Element and Find Image functions. We've always been fans of Anders Jensen, an we recommend this video fairly often. We've embedded it here and provided a mildly edited transcript of the video to help users get the most out of the content. Enjoy the video, and subscribe to Mr. Jensen's YouTube page if you get a chance.
 
 In this UiPath Studio tutorial, we will learn how to use the UiPath anchor base activity. 
 ## What is a UiPath Anchor Base?
@@ -20,7 +22,7 @@ A UiPath anchor base activity helps to locate elements on a page based on their 
 The UiPath Anchor Activity is useful when the developer does not have a reliable or predictable selector. 
 Let me show you a UiPath Anchor Base example.
 
-## How to use the UiPath Anchor Base
+## How to use the Anchor Base activity
 
 To use the UiPath Anchor Base activity, follow these steps:
 1. Add the UiPath Anchor Base activity to your workflow
@@ -28,7 +30,7 @@ To use the UiPath Anchor Base activity, follow these steps:
 3. Specify the relative position to the target UiElement with the AnchorPosition property
 4. Add the activities to be performed UiElement in the _Drop Action Activity Here_ swimlane of the Anchor Base activity
 
-## Anchor Base Example
+## Anchor Base in UiPath Example
 I opened this RPA challenge website and there is an input field we would like to target with the UiPath _Type Into_ activity. 
 Let’s type something like ‘road’ into the address field.
 Just quickly run the workflow in UiPath Studio to verify that the _Type Into_ activity works without even the need for a UiPath Anchor Base activity
@@ -59,3 +61,4 @@ And what we'll do is that will indicate our anchor base image to be the address 
 Run the RPA application and you’ll see that it works exactly the same as before.
 And that’s a full UiPath Anchor Base tutorial to demonstrate how to improve on the basic selector functionality provided with UiPath Studio.
 
+Find more from Anders Jensen on his <a href="https://andersjensen.org/">webpage.</a>
