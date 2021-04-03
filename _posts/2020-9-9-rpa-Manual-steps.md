@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: How many manual steps needed?
-blurb: How many manual steps needed?
+title: Use case based UiPath Certified Associate Exam Question
+blurb: How well would you do on this use-case based UiPath Associate exam question?
 difficulty: 6
 objective: 1.1 Identify sample use cases that describes the processes and workloads that can be automated
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/rpa-Manual-steps.html
+keywords: UiPath Use Case, Call center
 ---
 
-<h1>How many manual steps needed?</h1>
+<h1>UiPath Use Case</h1>
 
 Question:  Consider the following use case:
 
