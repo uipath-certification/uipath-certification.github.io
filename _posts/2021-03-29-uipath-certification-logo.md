@@ -3,7 +3,7 @@ layout: featured-post
 author: Sal Pece
 title: UiPath Certification Logo & Badge
 blurb: Here's where to download the UiPath Certification Logo, along with the rules for usage and advice on how and when to include the UiPath Logo in your resume.   
-
+canonical: https://www.rpacertified.com//2021/03/29/uipath-certification-logo.html
 ---
 <h1 style="text-align: center"> UiPath Associate and Developer Certification Logos</h1>
 <figure class="figure">
