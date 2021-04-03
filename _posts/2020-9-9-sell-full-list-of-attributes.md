@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: How can a full list of attributes of UI elements be displayed?
-blurb: How can a full list of attributes of UI elements be displayed?
+title: UiPath Ui Explorer tool
+blurb: Here's how to get a full list of attributes and properties of a web page from the UiPath Ui Explorer tool.
 difficulty: 7
 objective: 4.4 Demonstrate the use of UI Explorer to modify selectors
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/sell-full-list-of-attributes.html
+keywords: UiElement, UiPath Elements, Ui Explorer
 ---
 
-<h1>How can a full list of attributes of UI elements be displayed?</h1>
+<h1>UiPath Ui Explorer</h1>
 
 Question:  How can a full list of attributes of UI elements be displayed?
 
