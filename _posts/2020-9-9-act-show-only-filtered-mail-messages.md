@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: Which activity should be used to show only filtered Mail Messages
+title: UiPath Mail Filters
 blurb: Which activity should be used to show only filtered Mail Messages
 difficulty: 6
 objective: 7.1 Identify and explain how to automate e-mail and how email automation is helpful
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/act-show-only-filtered-mail-messages.html
+keywords: uipath mail, filter mail
 ---
 
-<h1>Which activity should be used to show only filtered Mail Messages</h1>
+<h1>Filter Mail</h1>
 
 Question:  In order to show only filtered Mail Message variables, which activity should be used?
 
