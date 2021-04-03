@@ -5,12 +5,13 @@ title: What is the result of ArrString
 blurb: Splitting symbols
 difficulty: 9
 objective: 6.2 Explain how string manipulations, collections, and datatables are used for data manipulation
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/data-Array-result-after-splitting5.html
+keywords: UiPath String, ArrString, Split
 ---
 
 <h1>What is the result of ArrString</h1>
 
-Question:  <img src="https://github.com/uipath-certification/uipath-certification.github.io/blob/master/assets/Split-Symbols.jpg" class="img-fluid" alt="UiPath, split">
+Question:  <img src="/assets/Split-Symbols.jpg" class="img-fluid" alt="UiPath, split">
 
  - [ ] &nbsp;  {[blank],”#”, “#”, “$”, “$”, “%”, “@”, [blank]}
  - [ ] &nbsp;  {“#”, “$”, “%”, “@”, “#”, “$”}
