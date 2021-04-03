@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: In Order to Save Attachments activity, it  can save all the attachments of an email to
-blurb: In Order to Save Attachments activity, it  can save all the attachments of an email to
+title: Email attachments in UiPath
+blurb: Here's how to attach items to UiPath automated emails.
 difficulty: 9
 objective: 7.1 Identify and explain how to automate e-mail and how email automation is helpful
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/act-save-attachment.html
+keywords: uipath attachments, email attachments, UiPath Attachment activity
 ---
 
-<h1>In Order to Save Attachments activity, it  can save all the attachments of an email to:</h1>
+<h1>UiPath Attachment activity</h1>
 
 Question:  In Order to Save Attachments activity, it  can save all the attachments of an email to:
 
