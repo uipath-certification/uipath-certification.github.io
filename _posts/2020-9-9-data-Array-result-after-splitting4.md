@@ -1,8 +1,8 @@
 ---
 layout: answered-question
 author: Serge
-title: What is the result of ArrString
-blurb: Splitting alternating slashes
+title: Can you figure out the final value of this text string?
+blurb: Here's a tricky question on how to perform string manipluation with UiPath.
 difficulty: 8
 objective: 6.2 Explain how string manipulations, collections, and datatables are used for data manipulation
 canonical: https://www.rpacertified.com//2020/09/09/data-Array-result-after-splitting4.html
