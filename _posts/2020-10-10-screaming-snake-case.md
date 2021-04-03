@@ -47,6 +47,8 @@ Kebab case is arguable more readable than snake case, but the dash can be misint
 
 While upper case letters with an underscore is known as SCREAMING_SNAKE_CASE, upper case letters with kebab-case is known as a SCREAM-KEBAB.
 
+## Screaming Snake Case UiPath Exam Question
+
 Question: The variable `UIPATH_ASSOCIATE_EXAM` is said to follow what naming convention ?
 
 - [ ] &nbsp;  camel case
@@ -58,7 +60,7 @@ Question: The variable `UIPATH_ASSOCIATE_EXAM` is said to follow what naming con
 
 The UiPath varaiable `UIPATH_ASSOCIATE_EXAM` is said to be written in screaming snake case. This makes C the most correct answer to this question.
 
-#### UiPath screaming snake case
+#### UiPath & Screaming Snake Case
 
 The use of the underscore to separate words in a UiPath variable is called snake case, so option B is somewhat correct. But when all the letters are uppercase, the naming convention is known as `screaming snake case` so C is the most correct answer of the bunch.
 
