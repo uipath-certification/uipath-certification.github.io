@@ -1,11 +1,12 @@
 ---
 layout: answered-question
 author: Serge
-title: When is it recommended to use desktop recording?
-blurb: When is it recommended to use desktop recording?
+title: UiPath Desktop Recording
+blurb: Here's insights on when it is recommended to use UiPath desktop recording.
 difficulty: 10
 objective: 7.3 Describe the functions used to extract data from a .pdf file; for example, using OCR
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/act-recommended-for-desktop-reocording.html
+keywords: UiPath recording, desktop recording
 ---
 
 <h1>When is it recommended to use desktop recording?</h1>
