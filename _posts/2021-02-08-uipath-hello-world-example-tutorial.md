@@ -3,7 +3,7 @@ layout: answered-question
 author: Serge
 title: UiPath Hello World Introduction Tutorials
 blurb: Get started with UiPath Studio with this Hello World example tutorial.
-
+canonical: https://www.rpacertified.com/2021/02/08/uipath-hello-world-example-tutorial.html
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
