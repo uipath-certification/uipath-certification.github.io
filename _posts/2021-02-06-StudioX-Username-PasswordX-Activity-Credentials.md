@@ -3,7 +3,7 @@ layout: answered-question
 author: Serge
 title: How to use UiPath StudioX getUsernamePasswordX Activity Tutorial
 blurb: Here's a quick UiPath StudioX getUsernamePasswordX example that demonstrates UiPath Windows Credentials Manager integration. It's the best way to manager usernames and passwords.
-
+canonical: https://www.rpacertified.com/2021/02/06/StudioX-Username-PasswordX-Activity-Credentials.html
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
