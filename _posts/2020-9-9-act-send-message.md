@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: What is the way to send an image inside a MailMessage?
+title: UiPath Image Attachments in Emails
 blurb: What is the way to send an image inside a MailMessage?
 difficulty: 9
 objective: 7.1 Identify and explain how to automate e-mail and how email automation is helpful
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/act-send-message.html
+keywords: email, uipath email, uipath outlook, email attachments
 ---
 
-<h1>What is the way to send an image inside a MailMessage?</h1>
+<h1>UiPath Email Attachments</h1>
 
 Question:  What is the way to send an image inside a MailMessage?
 
