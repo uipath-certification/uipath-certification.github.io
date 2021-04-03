@@ -1,16 +1,16 @@
 ---
 layout: answered-question
 author: Serge
-title: Can you run multiple instances of the same process at the same time?
-blurb: Can you run multiple instances of the same process at the same time?
+title: Can you run multiple instances of the same process concurrently?
+blurb: Here we explain the difference between parallel, serial and running multiple UiPath processes at once.
 difficulty: 6
 objective: 8.1 Describe how to provision attended and unattended robots to UiPath Orchestrator
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/orc-run-multiple-instances-of-same-process.html
 ---
 
-<h1>Can you run multiple instances of the same process at the same time?</h1>
+<h1>Running UiPath Processes</h1>
 
-Question:  Can you run multiple instances of the same process at the same time?
+Question:  Is it possible to run multiple instances of the same UiPath process at the same time?
 
  - [ ] &nbsp;  Yes, on the same robot
  - [X] &nbsp;  Yes, on different robots
@@ -21,5 +21,5 @@ Question:  Can you run multiple instances of the same process at the same time?
 
 Option B is correct.
 
-you can run the same process as many times as you want at the same time as long as you are using different robots.  Robots can only run one process at a time
+You can run the same process as many times as you want at the same time as long as you are using different robots. Robots can only run one process at a time.
 
