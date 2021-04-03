@@ -5,7 +5,8 @@ title: How to restart when debugging UiPath
 blurb: What does the UiPath restart button do when debugging? Is it different from Studio's retry button?
 difficulty: 7
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
-canonical: https://www.rpacertified.com//2020/11/11/debug-restart-button.html
+canonical: https://www.rpacertified.com/2020/11/11/debug-restart-button.html
+keywords: restart, UiPath restart, Studio restart, restart button, restart, reset, restart vs reset
 ---
 <h1>UiPath Debug Restart Button</h1>
 Question: Which of the following is true about the UiPath Studio debugger's restart button?
@@ -18,6 +19,8 @@ Question: Which of the following is true about the UiPath Studio debugger's rest
 ## Answer
 
 Options d is correct.
+
+## Restart or Reset?
 
 The restart button kicks your whole UiPath process off right from the start. The restart button clears the current calls stack, resets all the variables and begins the whole sequence or workflow from the project's start.
 
