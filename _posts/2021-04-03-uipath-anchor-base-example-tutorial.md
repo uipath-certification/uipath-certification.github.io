@@ -18,7 +18,7 @@ Editors Note: _Many students have asked for guidance on the UiPath Anchor Base a
 
 In this UiPath Studio tutorial, we will learn how to use the UiPath anchor base activity. 
 ## What is a UiPath Anchor Base?
-A UiPath anchor base activity helps to locate elements on a page based on their relative positions. Sometimes webpages or PDF files do not uniquely identify UiElements with ids. Or, the ids may change over time. To overcome this problem with <a href="https://www.rpacertified.com/2020/09/09/sell-describe-anchor.html">UiPath selectors</a>, a UiPath Anchor can be used. 
+A UiPath anchor base activity helps to locate elements on a page based on their relative positions. Sometimes webpages or PDF files do not uniquely identify UiElements with ids. Or, the ids may change over time. To overcome the fragility problem with <a href="https://www.rpacertified.com/2020/09/09/sell-describe-anchor.html">UiPath selectors</a>, a UiPath Anchor Base activity can be used. 
 
 The UiPath Anchor Activity is useful when the developer does not have a reliable or predictable selector. 
 
