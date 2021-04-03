@@ -2,15 +2,16 @@
 layout: answered-question
 author: Serge
 title: How many Global Exception Handlers can be set per automation project?
-blurb: How many Global Exception Handlers can be set per automation project?
+blurb: Quickly learn the best practice for setting UiPath Global Exception Handlers
 difficulty: 6
 objective: 1.1 Identify sample use cases that describes the processes and workloads that can be automated
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/rpa-global-exception.html
+keywords: UiPath exceptions, global exception handler, UiPath exception handling
 ---
 
-<h1>How many Global Exception Handlers can be set per automation project?</h1>
+<h1>UiPath Global Exceptions</h1>
 
-Question:  Based on best practice, how many Global Exception Handlers can be set per automation project?
+Question: Based on accepted best practices, how many Global Exception Handlers should be set per automation project?
 
  - [ ] &nbsp;  Unlimited number in the project
  - [ ] &nbsp;  One per activity in the project
@@ -21,5 +22,7 @@ Question:  Based on best practice, how many Global Exception Handlers can be set
 
 Option C is correct.
 
-It’s global….only one for the entire project.
+<h1>Global Exception Handler in UiPath Studio</h1>
+
+It’s global. Only one for the entire project.
 
