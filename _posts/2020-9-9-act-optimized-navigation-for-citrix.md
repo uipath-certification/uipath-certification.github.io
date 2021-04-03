@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: Which is the best optimize navigation method to be used in a form within Citrix?
-blurb: Which is the best optimize navigation method to be used in a form within Citrix?
+title: UiPath and Citrix Navigation Methods
+blurb: Here's how you optimize UiPath and Citrix.
 difficulty: 7
 objective: 7.3 Describe the functions used to extract data from a .pdf file; for example, using OCR
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/act-optimized-navigation-for-citrix.html
+keywords: uipath and citrix, citrix studio
 ---
 
-<h1>Which is the best optimize navigation method to be used in a form within Citrix?</h1>
+<h1>Citrix and UiPath</h1>
 
 Question:  Which is the best optimize navigation method to be used in a form within Citrix?
 
