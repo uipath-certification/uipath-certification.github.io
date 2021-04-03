@@ -3,7 +3,8 @@ layout: practice-test
 author: Serge
 title: Variable Naming Convention Practice Test
 blurb: Do you know the difference between kebab case and camel case?
-canonical: https://www.rpacertified.com//2020/10/12/new-exam-layout-test.html
+canonical: https://www.rpacertified.com/2020/10/12/new-exam-layout-test.html
+keywords: Practice test, practice exam, UiPath Practice exam, Mock Associate Exam, UiPath Associate Exam
 ---
 <script>
 var exam = null;
