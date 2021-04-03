@@ -26,8 +26,14 @@
 <meta name="description" content="UiPath Associate Certification practice questions and answers, study guides, braindumps, mock exams, Orhcestrator overview, test objectives and online UiPath tutorials. We help you get RPA certified fast."/>   
 {% endif %}
 	   
+{% if page.keywords %}
+<link rel="keywords" href="{{ page.keywords }}" />
+{% else %}
+<meta name="keywords" content="RPA Certified, UiPath Certification, UiPath Associate Exam, UiPath Developer Exam, UiPath Certification Questions, UiPath Certification Questions and Answers, UiPath Braindump"/>	   
+{% endif %}
 	   
 	   
+<meta property="fb:app_id" content="287616246137792" />   
 <meta name="robots" content="index, follow" />
 <meta charset="utf-8"/>
 <meta name="keywords" content="UiPath Certification, UiPath Associate Exam, UiPath Developer Exam, UiPath Certification Questions, UiPath Certification Questions and Answers, UiPath Braindump"/>
@@ -115,11 +121,7 @@ function triggerLoginCheck() {
 
 </script>	   
 	   
-	   
-<fb:login-button 
-  scope="public_profile,email"
-  onlogin="checkLoginState();">
-</fb:login-button>
+	  
 	   
 	   
       <div class="container">
@@ -179,7 +181,13 @@ function triggerLoginCheck() {
 		    <!--h1>{{ page.title }}</h1-->
                      {{ content }}   
 		    
+
 		    
+{% if page.canonical %}
+<div class="fb-comments" data-href="{{ page.canonical }}" data-width="" data-numposts="20"></div>
+{% else %}
+<div class="fb-comments" data-href="https://www.rpacertified.com/" data-width="" data-numposts="20"></div>	   
+{% endif %}
 		    <div class="fb-comments" data-href="https://www.rpacertified.com/" data-width="" data-numposts="20"></div>
 
             </article>
