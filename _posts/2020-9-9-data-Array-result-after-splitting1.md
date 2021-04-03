@@ -1,11 +1,12 @@
 ---
 layout: answered-question
 author: Serge
-title: What is the result of ArrString
-blurb: Spliting 20/10/2020
+title: How to split strings with slashes in UiPath
+blurb: Here's how to split a string such as 20/10/2020 in UiPath Studio
 difficulty: 6
 objective: 6.2 Explain how string manipulations, collections, and datatables are used for data manipulation
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/data-Array-result-after-splitting1.html
+keywords: UiPath date, Date manipulation, String split method, UiPath String Data, UiPath Text manipulation
 ---
 
 <h1>What is the result of ArrString</h1>
