@@ -5,8 +5,12 @@ title: Connect Community Studio to Orchestrator
 blurb: Have you ever tried connecting Studio Community to Enterprise Orchestrator?
 difficulty: 6
 objective: 1.4 Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition
-canonical: https://www.rpacertified.com//2020/11/11/Studio-Community-Orchestrator.html
+canonical: https://www.rpacertified.com/2020/11/11/Studio-Community-Orchestrator.html
+keywords: UiPath Orchestrator, UiPath Studio, Studio vs Orchestrator, uipath onsite
 ---
+
+# UiPath Studio & Orchestrator
+
 
 Question: Which of the following is true about UiPath Stuido Community Edition (CE)?
 
@@ -18,6 +22,8 @@ Question: Which of the following is true about UiPath Stuido Community Edition (
 ## Answer
 
 Options a and d are correct.
+
+## UiPath Orchestrator and Studio Connections
 
 UiPath Studio can only connect to the community cloud edition of UiPath Orchestrator. It cannot connect on an on-site install.
 
