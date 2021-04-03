@@ -5,12 +5,13 @@ title: What is the result of ArrString
 blurb: Splitting alternating slashes
 difficulty: 8
 objective: 6.2 Explain how string manipulations, collections, and datatables are used for data manipulation
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/data-Array-result-after-splitting4.html
+keywords: UiPath String, Spilt
 ---
 
-<h1>What is the result of ArrString</h1>
+<h1>Which of the following would be the result of the ArrString assignment?</h1>
 
-Question:  <img src="https://github.com/uipath-certification/uipath-certification.github.io/blob/master/assets/Split-AlternatingSlashes.jpg" class="img-fluid" alt="UiPath, split">
+Question:  <img src="/assets/Split-AlternatingSlashes.jpg" class="img-fluid" alt="UiPath, split">
 
  - [ ] &nbsp;  {“\/”,”\/”,”\/”,”\/”,”\/”}
  - [X] &nbsp;  {[blank],”\”,”\”,”\”,”\”,”\”}
