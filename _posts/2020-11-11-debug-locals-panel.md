@@ -6,7 +6,8 @@ heading: UiPath Studio Locals Panel for Debugging
 blurb: Do you know your UiPath debugging panel? Make sure you can answer this UiPath Associate test question.
 difficulty: 6
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
-canonical: https://www.rpacertified.com//2020/11/11/debug-locals-panel.html
+canonical: https://www.rpacertified.com/2020/11/11/debug-locals-panel.html
+keywords: UiPath Studio Locals Panel, UiPath Locals, local panel
 ---
 
 Question: Which UiPath Studio screen only appears while you are actively debugging a program?
@@ -19,6 +20,8 @@ Question: Which UiPath Studio screen only appears while you are actively debuggi
 ## Answer
 
 Options b is correct answer to this UiPath Certification question.
+
+## Locals Panel in UiPath Studio
 
 When you debug a program and a breakpoint is encountered, the Locals panel appears allowing a UiPath developer to look deeper at:
 - A description of the type of UiPath Exceptions thrown
