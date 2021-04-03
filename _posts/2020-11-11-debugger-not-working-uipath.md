@@ -5,7 +5,8 @@ title: Is the UiPath Debugger not working?
 blurb: Is the UiPath Studio Debugger not working? Here are possible causes, and more importantly, a possible solution.
 difficulty: 6
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
-canonical: https://www.rpacertified.com//2020/11/11/debugger-not-working-uipath.html
+canonical: https://www.rpacertified.com/2020/11/11/debugger-not-working-uipath.html
+keywords: UiPath Debugger, Debug Apps, Debug Robots, Broken Robots, Exceptions, try catch, Debug activity
 ---
 
 <h1>UiPath Studio Debugger Features</h1>
@@ -19,6 +20,8 @@ Question: Which of the following are true about the UiPath Studio debugger funct
 ## Answer
 
 Options a, b and c are correct.
+
+## Debugger in UiPath Studio
 
 If there are errors in the project that stop the application from compiling, there is no way the program is going to run and allow the debugger to work. You've got to get your project to compile and be able to run before you can debug your apps.
 
