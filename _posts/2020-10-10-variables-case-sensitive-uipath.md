@@ -5,7 +5,7 @@ title: Are UiPath Variables Case Sensitive? It's a UiPath Exam Question!
 blurb: Are UiPath variables case sensitive? This UiPath Associate Exam Question and Answer clears it up.
 difficulty: 6
 objective: 
-canonical: https://www.rpacertified.com//2020/10/10/variables-case-sensitive-uipath.html
+canonical: https://www.rpacertified.com/2020/10/10/variables-case-sensitive-uipath.html
 ---
 
 Question: Which of the following is true about case sensitive variable names in UiPath
