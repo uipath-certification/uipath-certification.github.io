@@ -1,8 +1,8 @@
 ---
 layout: answered-question
 author: Serge
-title: What is the result of ArrString
-blurb: Splitting symbols
+title: Data Assignment of Strings
+blurb: Sometimes you need UiPath Studio to split a string based on a given symbol or character. Here's how to do it.
 difficulty: 9
 objective: 6.2 Explain how string manipulations, collections, and datatables are used for data manipulation
 canonical: https://www.rpacertified.com//2020/09/09/data-Array-result-after-splitting5.html
