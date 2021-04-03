@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: In UiPath Studio, what can be used as an anchor?
-blurb: In UiPath Studio, what can be used as an anchor?
+title: UiPath Studio Anchor Elements explained
+blurb: Here we explain what can be used as a UiPath Anchor element and how to use UiPath Anchor tags in your RPA programs.
 difficulty: 7
 objective: 4.5 Demonstrate the use a reliable selector
-canonical: 
+keywords: UiPath Anchor, Anchor Tag, Anchor Element
+canonical: https://www.rpacertified.com//2020/09/09/sell-used-as-an-anchor.html
 ---
 
-<h1>In UiPath Studio, what can be used as an anchor?</h1>
+<h1>UiPath Studio Anchors</h1>
 
 Question:  In UiPath Studio, what can be used as an anchor?
 
@@ -21,5 +22,7 @@ Question:  In UiPath Studio, what can be used as an anchor?
 
 Option D is correct.
 
-Anchors need a UI Element to grab onto
+<h2>Anchors in UiPath</h2>
+
+Uipath Anchors need a UI Element to grab onto.
 
