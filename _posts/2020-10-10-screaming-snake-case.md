@@ -1,12 +1,51 @@
 ---
 layout: answered-question
 author: Serge
-title: Screaming Snake Case
-blurb: Have you ever heard of screaming snake case before?
+title: What is Screaming Snake Case? A Definition
+blurb: Have you ever heard of screaming snake case before? Here we'll define the term Screaming Snake Case and even give you a few examples.
 tweet: Are you familiar with screaming snake case. You need to know the various variable name conventions to pass the UiPath Certification exam.   #UiPath #mockexam #UiPathCertification
 difficulty: 7
 canonical: https://www.rpacertified.com/2020/10/10/screaming-snake-case.html
 ---
+
+# What is Screaming Snake Case?
+
+Screaming snake case is a naming convention used by software developers that insists compound words used in variable names be separated by an underscore, and written entirely in upper-case letters.
+
+## Screaming Snake Case Examples
+
+The following are examples of screaming snake case:
+
+- THIS_IS_SCREAMING_SNAKE_CASE
+- JAVA_CONSTANTS_USE_SNAKE_CASE
+- INTEREST_RATE
+- PI
+- MAX_HEAP_SIZE
+
+The reference to screaming comes from the fact that when users type in all capital letters in a Tweet, internet forum or a Facebook group, it is interpreted as the person shouting or screaming.
+
+Snake case, also known as <a href="https://www.theserverside.com/definition/Snake-case">train case,</a> can be written in lower-case letters. But when it is, it is just called snake case, not SCREAMING SNAKE CASE.
+
+- this_is_snake_case_but_not_screaming_snake_case
+- not_screaming_snake_case_either
+
+## How to write in Screaming Snake Case
+
+To write a variable in Screaming Snake Case:
+
+1. Choose a varaible name that consists of more than one word
+2. Separate the independent words with an underscore
+3. Change any lower-case letters to upper-case
+
+## Screaming Snake Case vs Kebab Case
+
+Snake case is often compared to kebab case. In <a href="https://www.theserverside.com/definition/Kebab-case">kebab case</a>, compound word variable names are separated by a dash, not an underscore. 
+
+- this-is-kebab-case
+
+Kebab case is arguable more readable than snake case, but the dash can be misinterpreted as a subtraction sign in code, which may introduce bugs. As such, kebab case is often avoided as a variable naming convention.
+
+While upper case letters with an underscore is known as SCREAMING_SNAKE_CASE, upper case letters with kebab-case is known as a SCREAM-KEBAB.
 
 Question: The variable `UIPATH_ASSOCIATE_EXAM` is said to follow what naming convention ?
 
