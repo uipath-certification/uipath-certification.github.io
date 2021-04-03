@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: What are the recording profiles are available in UiPath Studio?
+title: UiPath Studio Recording Profiles
 blurb: What are the recording profiles are available in UiPath Studio?
 difficulty: 10
 objective: 7.3 Describe the functions used to extract data from a .pdf file; for example, using OCR
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/act-recording-profiles-available.html
+keywords: Recording Profile, UiPath Studio Recording, UiPath Citrix
 ---
 
-<h1>What are the recording profiles are available in UiPath Studio?</h1>
+<h1>Recording Profile types in UiPath</h1>
 
 Question:  What are the recording profiles are available in UiPath Studio?
 
