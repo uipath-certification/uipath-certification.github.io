@@ -27,4 +27,4 @@ Screaming snake case violates the UiPath RegEx rule `([A-Z]|[a-z])+([A-Z]|[a-z]|
 
 Screaming snake case is commonly used for constants. In Java, all [static final constants](https://www.theserverside.com/video/Why-we-use-static-final-in-Java-for-constants) are written in screaming snake case.
 
-<iframe width="280" height="158" src="https://www.youtube.com/embed/-B3fW0A3hzY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="158" src="https://www.youtube.com/embed/MtQoWQForqE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
