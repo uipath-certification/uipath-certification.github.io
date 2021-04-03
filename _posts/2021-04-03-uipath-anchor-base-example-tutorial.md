@@ -5,7 +5,7 @@ title: UiPath Anchor Base Example
 blurb: In this quick UiPath Anchor Base example tutorial, you'll quickly learn how to select specific Ui elements in a web page, PDF file, or even a desktop application.
 difficulty: 6
 objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation
-canonical: https://www.rpacertified.com//2021/04/03-uipath-anchor-base-example-tutorial.html
+canonical: https://www.rpacertified.com/2021/04/03-uipath-anchor-base-example-tutorial.html
 keywords: UiPath Anchor, Anchor Base, Anchor Base Tutorial, UiPath Anchor Base, uipath indicate anchor, uipath click image anchor, uipath multiple anchors
 ---
 # Anchor Base UiPath Activity
@@ -18,7 +18,7 @@ Editors Note: Many students have asked for guidance on the UiPath Anchor Base ac
 
 In this UiPath Studio tutorial, we will learn how to use the UiPath anchor base activity. 
 ## What is a UiPath Anchor Base?
-A UiPath anchor base activity helps to locate elements on a page based on their relative positions. Sometimes webpages or PDF files do not uniquely identify UiElements with ids. Or, the ids may change over time. To overcome this problem, a UiPath Anchor can be used. 
+A UiPath anchor base activity helps to locate elements on a page based on their relative positions. Sometimes webpages or PDF files do not uniquely identify UiElements with ids. Or, the ids may change over time. To overcome this problem with <a href="https://www.rpacertified.com/2020/09/09/sell-describe-anchor.html">UiPath selectors</a>, a UiPath Anchor can be used. 
 The UiPath Anchor Activity is useful when the developer does not have a reliable or predictable selector. 
 Let me show you a UiPath Anchor Base example.
 
@@ -35,17 +35,24 @@ I opened this RPA challenge website and there is an input field we would like to
 Let’s type something like ‘road’ into the address field.
 Just quickly run the workflow in UiPath Studio to verify that the _Type Into_ activity works without even the need for a UiPath Anchor Base activity
 ## Problems with UiPath Selectors
-However, RPA applications that do screen scraping or rely on well-formed HTML and IDs will often run into problems with a basic UiPath selector.
+However, RPA applications that do screen scraping or rely on well-formed HTML and IDs will often run into problems with a basic <a href="https://www.rpacertified.com/2020/09/09/sell-selector-in-variable.html">UiPath selector.</a>
 To fix this problem and harden our applications, we can employ the UiPath anchor base activity. 
-Delete what we have on the current workflow. Then search for the anchor base activity in UiPath Studio’s Activities panel.  The drag the anchor base activity onto the workflow.
+Delete what we have on the current workflow. Then search for the anchor base activity in UiPath Studio’s Activities panel. Then drag the anchor base activity onto the workflow.
 You always create an anchor base close to your target. 
-So let's add our _type into_ activity here as the UiPath Anchor Base action to perform. 
+So let's add our _Type Into_ activity here as the UiPath Anchor Base action to perform. 
 Then we will indicate the address field. We can type in ‘road’ again, 
 Then we will have an anchor and that's something close to this address field. 
 We will just take the address label, because that will always be close to the target field.
-The best thing to do is just take this address because that will always be close to our field and 
+The best thing to do is just take this address because that will always be close to our field.
+
+<figure class="figure">
+  <img src="https://files.readme.io/a06bf4d-anchor_base.png" alt="UiPath Anchor Base Activity" class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  <figcaption class="figure-caption">The UiPath Anchor Base activity can be used to overcome the fragility of PDF and HTML selectors.</figcaption>
+</figure>
+
+
 ## Find element vs find image
-We can choose two find types in our anchors: find element and find image.
+We can choose two <a href="https://www.rpacertified.com/2020/09/09/act-finding-all-anchor-elements-in-webpage.html">UiPath find types</a> in our anchors: find element and find image.
 Always try find element first. If that doesn't work, you can use the find image.
 Drag the find element activity into the UiPath anchor base acivity. 
 That will be the address here. 
@@ -62,3 +69,5 @@ Run the RPA application and you’ll see that it works exactly the same as befor
 And that’s a full UiPath Anchor Base tutorial to demonstrate how to improve on the basic selector functionality provided with UiPath Studio.
 
 Find more from Anders Jensen on his <a href="https://andersjensen.org/">webpage.</a>
+
+More information on how to use the UiPath anchor base activity can be found in the <a href="https://docs.uipath.com/activities/docs/anchor-base">production documentation.</a>
