@@ -1,14 +1,14 @@
 ---
 layout: answered-question
 author: Serge
-title: Which activity can be used to retrieve the value from a certain cell, from a DataRow object?
-blurb: Which activity can be used to retrieve the value from a certain cell, from a DataRow object?
+title: UiPath Data Row objects
+blurb: Here's an explaination of which activity can be used to retrieve the value from a certain cell through a DataRow object.
 difficulty: 6
 objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/act-retrieve-value-of-a-cell.html
 ---
 
-<h1>Which activity can be used to retrieve the value from a certain cell, from a DataRow object?</h1>
+<h1UiPath DataRow Objects</h1>
 
 Question:  Which activity can be used to retrieve the value from a certain cell, from a DataRow object?
 
