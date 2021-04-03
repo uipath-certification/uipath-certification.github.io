@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: Which of the following SQL statements can be executed by using the activity called Execute Query
-blurb: Which of the following SQL statements can be executed by using the activity called Execute Query
+title: UiPath Execute Query
+blurb: Here's what you need to know about the UiPath Excecute Query to pass the cert exam.
 difficulty: 6
 objective: 6.2 Explain how string manipulations, collections, and datatables are used for data manipulation
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/data-SQL-Query.html
+keywords: UiPath Execute Query, UiPath SQL, UiPath CRUD
 ---
 
-<h1>Which of the following SQL statements can be executed by using the activity called Execute Query</h1>
+<h1>UiPath Select Queries</h1>
 
 Question:  Which of the following SQL statements can be executed by using the activity called Execute Query
 
