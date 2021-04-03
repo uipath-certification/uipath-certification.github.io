@@ -3,7 +3,8 @@ layout: answered-question
 author: Serge
 title: How to use Picture-in-Picture in UiPath (PiP)
 blurb: The UiPath Picture-in-Picture feature (PiP) is a net way to run attended and unattended robots. This tutorials shows you how to run them with UiPath Assistant.
-
+canonical: https://www.rpacertified.com//2021/02/04/picture-in-picture-pip-uipath.html
+keywords: UiPath PiP, UiPath Picture in Picture, Tutorial, PiP Example, Picture in Picture tutorial, Picture in Picture example, Picture in Picture benefits
 ---
 
 <div class="embed-responsive embed-responsive-16by9">
