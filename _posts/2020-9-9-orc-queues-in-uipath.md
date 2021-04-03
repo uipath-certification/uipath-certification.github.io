@@ -1,16 +1,17 @@
 ---
 layout: answered-question
 author: Serge
-title: Why are Queues used in UiPath Orchestrator?
-blurb: Why are Queues used in UiPath Orchestrator?
+title: UiPath Orchestrator Queues Explained
+blurb: Here's a quick explaination of how UiPath Queues work and how to set up UiPath Orchestrator queues.
 difficulty: 7
 objective: 8.2 Identify and describe how to use UiPath Orchestrator queues and assets
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/orc-queues-in-uipath.html
+keywords: UiPath Queue, UiPath Orchestrator, Orchestrator Queues, Queue Setup
 ---
 
-<h1>Why are Queues used in UiPath Orchestrator?</h1>
+<h1>Uipath Queues and Orchestrator</h1>
 
-Question:  Why are Queues used in UiPath Orchestrator?
+Question: Why are queues used in UiPath Orchestrator?
 
  - [ ] &nbsp;  Easier to upload workflows
  - [ ] &nbsp;  Rest area for pending robots
@@ -21,5 +22,5 @@ Question:  Why are Queues used in UiPath Orchestrator?
 
 Option C is correct.
 
-Queues are used when jobs require a robot and it is best used to optimize Robot usage.
+UiPath qeues are used when RPA jobs require a robot and it is best used to optimize Robot usage.
 
