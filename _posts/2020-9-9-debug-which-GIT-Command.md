@@ -1,14 +1,14 @@
 ---
 layout: answered-question
 author: Serge
-title: Which GIT command should be used?
-blurb: Which GIT command should be used?
+title: UiPath and Git
+blurb: You need to know the basics of version control with Git to pass the UiPath Certified Associate Exam.
 difficulty: 6
 objective: 2.3 Explain the significance of connecting an automation project to the version control solution
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/debug-which-GIT-Command.html
 ---
 
-<h1>Which GIT command should be used?</h1>
+<h1>Git and UiPath</h1>
 
 Question:  A developer wants to move the current version of a project onto the remote repository in order to collaborate with other developers. Which GIT command should be used to perform this action?
 
