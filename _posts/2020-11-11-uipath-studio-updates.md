@@ -1,12 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: UiPath Studio Community Edition Rules
+title: UiPath Studio Community Edition IDE
 blurb: Do you know when you should and should not use UiPath Studio Community Edition?
 difficulty: 6
 objective: 1.4 Differentiate between the UiPath Studio Community Edition versus the Enterprise Edition
-canonical: 
+canonical: https://www.rpacertified.com/2020/11/11/uipath-studio-updates.html
+keywords: UiPath Studio Community Edition, Community vs Enterprise, UiPath IDE
 ---
+
+<h1>UiPath Studio Community Edition</h1>
 
 Question: Which of the following statements are true about UiPath Studio Community Edition (CE)?
 
@@ -18,6 +21,8 @@ Question: Which of the following statements are true about UiPath Studio Communi
 ## Answer
 
 Options c and d are correct.
+
+<h2>UiPath Community IDE</h1>
 
 UiPath Studio Community Edition  has only self managed updates, so you can't stop it from downloaded the latest stable release from within the tool.
 
