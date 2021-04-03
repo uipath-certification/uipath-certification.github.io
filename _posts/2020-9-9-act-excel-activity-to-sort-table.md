@@ -1,11 +1,12 @@
 ---
 layout: answered-question
 author: Serge
-title: Which Activity?
-blurb: which activity should be used to sort a table directly in an .xlsx file?
+title: UiPath Table Sorts
+blurb: Here is how to sort an xlsx file in UiPath.
 difficulty: 6
 objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/act-excel-activity-to-sort-table.html
+keywords: Excel, Uipath Excel, Excel Activity, Excel Activity Scopre
 ---
 <h1>Which Activity?</h1>
 
