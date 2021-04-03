@@ -5,7 +5,7 @@ title: What is the result of the split function?
 blurb: For a regular string
 difficulty: 6
 objective: 6.2 Explain how string manipulations, collections, and datatables are used for data manipulation
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/data-test.html
 ---
 
 <h1>What is the result of the split function?</h1>
