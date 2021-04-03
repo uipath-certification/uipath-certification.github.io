@@ -3,7 +3,7 @@ layout: featured-post
 author: Karan Adapala, Cameron McKenzie
 title: How to pass the UiPath Certification exam
 blurb: Follow these study tips and you'll pass the UiPath Certification exam on your first try, just like I did!   
-
+canonical: https://www.rpacertified.com//2021/03/27/uipath-certification-study-tips.html
 ---
 
 <figure class="figure">
