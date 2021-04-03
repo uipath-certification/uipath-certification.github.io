@@ -2,7 +2,8 @@
 layout: default
 title: RPA Fundamentals UiPath Exam Dump
 blurb: Here's a non-cheat UiPath Exam Dump on the RPA Fundamentals objective of the Associate Certification Exam.
-
+canonical: https://www.rpacertified.com//2020/11/11/dump-fundamentals-exam-uipath.html
+keywords: UiPath Dump, Exam Dump, UiPath Braindump
 ---
 
 <div class="row">
