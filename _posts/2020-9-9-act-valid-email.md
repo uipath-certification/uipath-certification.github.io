@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: How to verify an email
-blurb: How to verify an email
+title: Regular Expressions in UiPath
+blurb: Here's how to use UiPath RegEx regular expression to parse data and validate fields.
 difficulty: 7
 objective: 7.1 Identify and explain how to automate e-mail and how email automation is helpful
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/act-valid-email.html
+keywords: regex, regular expression, uipath regex, string validation
 ---
 
-<h1>How to verify an email</h1>
+<h1>UiPath RegEx</h1>
 
 Question:  A developer has an input string from a custom form and needs to ensure the string has a valid email format. How can this be verified?
 
