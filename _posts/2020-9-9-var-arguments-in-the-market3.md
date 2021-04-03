@@ -1,16 +1,17 @@
 ---
 layout: answered-question
 author: Serge
-title: What is the result of the workflow?
-blurb: Result of arguments that have two directions
+title: UiPath Certification Workflow Diagram Question
+blurb: This UiPath Diagram will test your knowlege of workflows and sequences and prepare you for similar flowchat questions on the UiPath exam.
 difficulty: 7
 objective: 3.4 Explain how arguments are used, managed, and the best practice for using the argument direction in the UiPath Studio Arguments panel
-canonical: 
+keywords: Uipath Workflow Exam Question, UiPath Workflow, Workflow question
+canonical: https://www.rpacertified.com/2020/09/09/flow-try-catch-result.html
 ---
 
 <h1>What is the result of the workflow?</h1>
 
-Question:  <img src="https://github.com/uipath-certification/uipath-certification.github.io/blob/master/assets/Arguments%20-In-Fruit-In_Cart3%20.jpg" class="img-fluid" alt="UiPath, arguments">
+Question:  <img src="/assets/Arguments%20-In-Fruit-In_Cart3%20.jpg" class="img-fluid" alt="UiPath workflow arguments example">
 
  - [X] &nbsp;  "Apple, Orange”
  - [ ] &nbsp;  “, Orange”
