@@ -5,7 +5,8 @@ title: How to retry when debugging UiPath
 blurb: What does the UiPath retry button do when debugging RPA apps in Studio?
 difficulty: 7
 objective: 2.1 Understand and explain the automation debug functions and usage such as breakpoints
-canonical: https://www.rpacertified.com//2020/11/11/debug-retry-uipath.html
+canonical: https://www.rpacertified.com/2020/11/11/debug-retry-uipath.html
+keywords: UiPath Retry, Retry Button, UiPath Studio Retry, Debug RPA Apps
 ---
 
 <h1>UiPath Debugger's Retry Button</h1>
@@ -22,6 +23,8 @@ Question: Which of the following is true about the retry button?
 Options b is correct.
 
 > The retry option re-runs the previous activity from where an exception was thrown. The exception will be thrown again if it is encountered.
+
+##  UiPath Studio Retry
 
 More details on the UiPath retry button is available in the ([docs](https://docs.uipath.com/studio/docs/debugging-actions))
 
