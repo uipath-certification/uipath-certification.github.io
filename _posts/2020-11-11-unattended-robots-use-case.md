@@ -7,7 +7,7 @@ difficulty: 6
 objective: 1.2 Identify and describe the different types of robots i.e attended versus unattended robots
 canonical: https://www.rpacertified.com/2020/11/11/unattended-robots-use-case.html
 ---
-
+<h1>Unattended Robot Usage</h1>
 
 Question: In contrast with attended robots, unattended robots are best used with:
 
@@ -19,6 +19,8 @@ Question: In contrast with attended robots, unattended robots are best used with
 ## Answer 
 
 Option d is correct.
+
+<h2>When to use unattended robots</h2>
 
 From the documentation:
 
