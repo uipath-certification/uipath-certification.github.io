@@ -3,6 +3,7 @@ layout: docker-test
 author: Serge
 title: Second Docker Quiz
 blurb: Here is a much tougher Docker quiz for you to tackle
+canonical: https://www.rpacertified.com/2021/02/24/second-docker-quiz.html
 ---
 
 <script>
