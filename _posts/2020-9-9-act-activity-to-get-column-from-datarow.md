@@ -1,16 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: What activity is used to get a column value from a specific row of a DataTable?
-blurb: What activity is used to get a column value from a specific row of a DataTable?
+title: UiPath Get Row Item Activity
+blurb: Here's a look at how to get items from a DataTable in UiPath
 difficulty: 6
 objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/act-activity-to-get-column-from-datarow.html
+keywords: UiPath get row, get row activity
 ---
 
-<h1>What activity is used to get a column value from a specific row of a DataTable?</h1>
-
-Question:  What activity is used to get a column value from a specific row of a DataTable?
+Question: What activity is used to get a column value from a specific row of a DataTable?
 
  - [X] &nbsp;  Get row item
  - [ ] &nbsp;  remove data row
