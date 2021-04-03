@@ -14,7 +14,7 @@ keywords: UiPath Anchor, Anchor Base, Anchor Base Tutorial, UiPath Anchor Base, 
 <iframe src="https://www.youtube.com/embed/BZFG_BL_sd4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 ## Anchor Base Tutorial
-Editors Note: Many students have asked for guidance on the UiPath Anchor Base activity, and how it works with the Find Element and Find Image functions. We've always been fans of Anders Jensen, an we recommend this video fairly often. We've embedded it here and provided a mildly edited transcript of the video to help users get the most out of the content. Enjoy the video, and subscribe to Mr. Jensen's YouTube page if you get a chance.
+Editors Note: _Many students have asked for guidance on the UiPath Anchor Base activity, and how it works with the Find Element and Find Image functions. We've always been fans of Anders Jensen, an we recommend this video fairly often. We've embedded it here and provided a mildly edited transcript of the video to help users get the most out of the content. Enjoy the video, and subscribe to Mr. Jensen's YouTube page if you get a chance._
 
 In this UiPath Studio tutorial, we will learn how to use the UiPath anchor base activity. 
 ## What is a UiPath Anchor Base?
@@ -68,6 +68,9 @@ And what we'll do is that will indicate our anchor base image to be the address 
 Run the RPA application and you’ll see that it works exactly the same as before.
 And that’s a full UiPath Anchor Base tutorial to demonstrate how to improve on the basic selector functionality provided with UiPath Studio.
 
+More information on how to use the UiPath anchor base activity can be found in the <a href="https://docs.uipath.com/activities/docs/anchor-base">production documentation.</a>
+
+The sharing of Anders Jensen's content should not be interpreted as his endorsement for this site. We just like his content, and we hope he likes ours too.
+
 Find more from Anders Jensen on his <a href="https://andersjensen.org/">webpage.</a>
 
-More information on how to use the UiPath anchor base activity can be found in the <a href="https://docs.uipath.com/activities/docs/anchor-base">production documentation.</a>
