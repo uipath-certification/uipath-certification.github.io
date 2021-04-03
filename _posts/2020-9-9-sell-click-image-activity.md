@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: Is it possible to click a button with Click Image Activity if the target is not visible on the screen in UiPath?
-blurb: Is it possible to click a button with Click Image Activity if the target is not visible on the screen in UiPath?
+title: UiPath Click Triggers with Visible and Invisible Ui Elements
+blurb: Do you know how to use a UiPath click triggers with invisible UI elements in an app or webpage?
 difficulty: 9
 objective: 4.5 Demonstrate the use a reliable selector
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/sell-click-image-activity.html
+keywords: click image, UiPath Image Click, Studio Click Activity, Click Trigger UiPath
 ---
 
-<h1>Is it possible to click a button with Click Image Activity if the target is not visible on the screen in UiPath?</h1>
+<h1>Click Trigger UiPath</h1>
 
 Question:  Is it possible to click a button with Click Image Activity if the target is not visible on the screen in UiPath?
 
