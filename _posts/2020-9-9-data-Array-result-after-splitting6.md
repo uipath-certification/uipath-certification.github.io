@@ -1,16 +1,17 @@
 ---
 layout: answered-question
 author: Serge
-title: What is the result of ArrString
-blurb: Splitting date with dashes
+title: UiPath Date Field Manipulation
+blurb: Here's how to split dates with dashes in UiPath Studio
 difficulty: 6
 objective: 6.2 Explain how string manipulations, collections, and datatables are used for data manipulation
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/data-Array-result-after-splitting6.html
+keywords: ArrString, UiPath Strings
 ---
 
 <h1>What is the result of ArrString</h1>
 
-Question:  <img src="https://github.com/uipath-certification/uipath-certification.github.io/blob/master/assets/Split-datedashes.jpg" class="img-fluid" alt="UiPath, split">
+Question:  <img src="/assets/Split-datedashes.jpg" class="img-fluid" alt="UiPath, split">
 
  - [ ] &nbsp;  {“306090”}
  - [ ] &nbsp;  {“090603”}
