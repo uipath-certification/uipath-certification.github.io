@@ -1,14 +1,14 @@
 ---
 layout: answered-question
 author: Serge
-title: What should you use to scrape tables from a web page?
+title: UiPath Table Scrpate
 blurb: What should you use to scrape tables from a web page?
 difficulty: 9
 objective: 7.3 Describe the functions used to extract data from a .pdf file; for example, using OCR
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/act-scrape-web-table.html
 ---
 
-<h1>What should you use to scrape tables from a web page?</h1>
+<h1>Uipath Web Data Extraction</h1>
 
 Question:  What should you use to scrape tables from a web page?
 
