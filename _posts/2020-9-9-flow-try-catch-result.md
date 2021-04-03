@@ -1,16 +1,17 @@
 ---
 layout: answered-question
 author: Serge
-title: What is the result of this workflow?
-blurb: Result of a try/catch block workflow
+title: UiPath try cath block exam questions
+blurb: Can you figure out the result of running this UiPath try-catch block? You'll need to be able to if you want to pass the exam.
 difficulty: 7
 objective: 5.3 Explain the importance of error handling and how it can be implemented
-canonical: 
+canonical: https://www.rpacertified.com//2020/09/09/flow-try-catch-result.html
+keywords: try catch, exception handling, IndexOutOfRangeException, UiPath exceptions
 ---
 
-<h1>What is the result of this workflow?</h1>
+<h1>Try catch blocks in UiPath Studio</h1>
 
-Question:  <img src="https://github.com/uipath-certification/uipath-certification.github.io/blob/master/assets/TryCatch%20-%20Indexoutofrange.jpg" class="img-fluid" alt="UiPath, split">
+Question:  <img src="/assets/TryCatch%20-%20Indexoutofrange.jpg" class="img-fluid" alt="UiPath, split">
 
  - [X] &nbsp;  IndexOutOfRangeException
  - [ ] &nbsp;  This Item: null
