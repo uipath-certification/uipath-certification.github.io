@@ -6,6 +6,7 @@ blurb: Here's how to chose the correct activity to implement iterative logic in 
 difficulty: 6
 objective: 5.2 Identify and describe the various control flow activities such as If, Switch, Break, Parallel, While, etc.
 canonical: https://www.rpacertified.com/2020/09/09/flow-counter-evaluated-before-loop.html
+keywords: swtich, do while, iteration, iterative, loops, while loop
 ---
 
 <h1>Iterative Logic in UiPath</h1>
