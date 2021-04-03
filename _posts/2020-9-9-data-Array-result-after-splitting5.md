@@ -9,7 +9,7 @@ canonical: https://www.rpacertified.com//2020/09/09/data-Array-result-after-spli
 keywords: UiPath String, ArrString, Split
 ---
 
-<h1>What is the result of ArrString</h1>
+<h1>After the assignment, what is the value of ArrString?</h1>
 
 Question:  <img src="/assets/Split-Symbols.jpg" class="img-fluid" alt="UiPath, split">
 
