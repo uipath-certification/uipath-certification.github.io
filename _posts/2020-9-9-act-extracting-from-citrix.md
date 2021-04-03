@@ -1,14 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: How can you extract text from a Citrix application?
+title: Citrix Text Extraction
 blurb: How can you extract text from a Citrix application?
 difficulty: 10
 objective: 7.3 Describe the functions used to extract data from a .pdf file; for example, using OCR
-canonical: 
+canonical: https://www.rpacertified.com/2020/09/09/act-extracting-from-citrix.html
+keywords: citrix, uipath, ocr
 ---
 
-<h1>How can you extract text from a Citrix application?</h1>
+
 
 Question:  How can you extract text from a Citrix application?
 
