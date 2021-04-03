@@ -80,6 +80,11 @@ function triggerLoginCheck() {
  });
 }	
 
+function collapseAndExpand() {
+	document.getElementById('answerCardBody').classList.toggle('collapse');
+	document.getElementById('answerCardBodyDefault').classList.toggle('collapse');
+}
+
 </script>	      
    
    
@@ -400,7 +405,7 @@ function triggerLoginCheck() {
    </div>
    <div class="card mt-2">
       <div class="card-header" id="answerCard">
-         <a  onclick="document.getElementById('answerCardBody').classList.toggle('collapse');document.getElementById('answerCardBodyDefault').classList.toggle('collapse');" >Click for Answers and Cheats</a>
+         <a  onclick="collapseAndExpand()" >Click for Answers and Cheats</a>
       </div>
       <div class="card-body collapse d-none" id="answerCardBody">
          <h3 class="card-title" id="answer"></h3>
@@ -418,10 +423,10 @@ function triggerLoginCheck() {
 		 
 
          <p class="card-text">The cheat will tell you the right answer, link to documentation and explain why a certain option is right, and why other options are wrong.</p>
-<fb:login-button 
-  scope="public_profile,email"
-  onlogin="checkLoginState();">
-</fb:login-button>
+			<fb:login-button 
+			  scope="public_profile,email"
+			  onlogin="checkLoginState();">
+			</fb:login-button>
 		  
       </div>
 	  
