@@ -5,7 +5,8 @@ title: Worflow Diff vs Compare Files in UiPath Studio
 blurb: Know the difference between Compare Files and Workflow Diff for the UiPath Certification Exam
 difficulty: 8
 objective: 2.3 Explain the significance of connecting an automation project to the version control solution
-canonical: https://www.rpacertified.com//2020/11/11/debug-compare-files-studio.html
+canonical: https://www.rpacertified.com/2020/11/11/debug-compare-files-studio.html
+keywords: Worflow Diff, Compare Files, UiPath Studio, UiPath Diff, UiPath Compare
 ---
 <h1>UiPath Compare Files tool</h1>
 
@@ -21,6 +22,8 @@ Question: What is the name of the tool provided by UiPath Studio to compare file
 Options d is correct.
 
 Don't confuse UiPath Workflow Diff with Studio's Compare Files feature.
+
+## UiPath Compare Files and Worflow Diff 
 
 The UiPath Compare Files window allows you to compare the content of different .xaml files or project.json files. It is not used to compare versions of the <em>same</em> file.
 
