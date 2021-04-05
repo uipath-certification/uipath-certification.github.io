@@ -29,9 +29,9 @@ The activity treats it this way as there are three ways you can specify the colu
 
 **Column** - This will return an object cotaining the value of the column
 
-If one of these fields is set, the other's are ignored.
+If one of the fields is used, the other two are ignored.
 
-Answer B is incorrect because we need to read the column, not delete a row.
+Answer B is incorrect because we need to read the column, not delete a row. We hope this was obvious before this explanation.
 
 Answer C and D deal with the cell value of a spreadsheet. While a cell contains the row and column information, we were specifically looking for the column in the row of a DataTable.
 
