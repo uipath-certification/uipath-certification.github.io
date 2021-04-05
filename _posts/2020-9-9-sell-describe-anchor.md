@@ -2,7 +2,7 @@
 layout: answered-question
 author: Serge
 title: Anchor Activity in UiPath Studio
-blurb: A quick explaination of the UiPath Anchor Base activity in Studio.
+blurb: UiPath Anchor Associate Cert Question
 difficulty: 6
 objective: 4.3 Identify and describe how and when to use Anchors
 canonical: https://www.rpacertified.com/2020/09/09/sell-describe-anchor.html
