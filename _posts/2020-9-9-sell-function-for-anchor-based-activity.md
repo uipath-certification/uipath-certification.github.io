@@ -2,7 +2,7 @@
 layout: answered-question
 author: Serge
 title: UiPath Anchor Base activity
-blurb: Here's a quick explaination of the UiPath Anchor Base activity features and functions?
+blurb: UiPath Anchor activity features and functions
 difficulty: 6
 objective: 4.3 Identify and describe how and when to use Anchors
 canonical: https://www.rpacertified.com/2020/09/09/sell-function-for-anchor-based-activity.html
