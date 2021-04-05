@@ -1,7 +1,7 @@
 ---
 layout: answered-question
 author: Serge
-title: UiPath Studio Anchor Elements explained
+title: UiPath Studio Anchor Elements
 blurb: Here we explain what can be used as a UiPath Anchor element and how to use UiPath Anchor tags in your RPA programs.
 difficulty: 7
 objective: 4.5 Demonstrate the use a reliable selector
