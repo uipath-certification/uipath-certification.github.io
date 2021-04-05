@@ -24,7 +24,9 @@ You would use Get Row Item typically within a For Each Row for DataTables. This 
 The activity treats it this way as there are three ways you can specify the column.
 
 **ColumnIndex** - This is the index or place of where the column is located within the row.
+
 **ColumnName** - The exact name of the column with in the row. 
+
 **Column** - This will return an object cotaining the value of the column
 
 If one of these fields is set, the other's are ignored.
