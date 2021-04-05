@@ -14,7 +14,7 @@ keywords: UiPath Anchor, Anchor Base, Anchor Base Tutorial, UiPath Anchor Base, 
 <iframe src="https://www.youtube.com/embed/BZFG_BL_sd4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 ## Anchor Base Tutorial
-Editors Note: _Many students have asked for guidance on the UiPath Anchor Base activity, and how it works with the Find Element and Find Image functions. We've always been fans of Anders Jensen, an we recommend this video fairly often. We've embedded it here and provided a mildly edited transcript of the video to help users get the most out of the content. Enjoy the video, and subscribe to Mr. Jensen's YouTube page if you get a chance._
+Editors Note: _Many students have asked for guidance on the UiPath Anchor Base activity, and how it works with the Find Element and Find Image functions. We've always been fans of Anders Jensen, and we recommend this video fairly often. We've embedded it here and provided a mildly edited transcript of the video to help users get the most out of the content. Enjoy the video, and subscribe to Mr. Jensen's YouTube page if you get a chance._
 
 In this UiPath Studio tutorial, we will learn how to use the UiPath anchor base activity. 
 ## What is a UiPath Anchor Base?
