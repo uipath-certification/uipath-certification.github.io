@@ -31,7 +31,7 @@ To use the UiPath Anchor Base activity, follow these steps:
 1. Add the UiPath Anchor Base activity to your workflow
 2. Target an anchor with UiPath's Find Element or Find Image activity
 3. Specify the relative position to the target UiElement with the AnchorPosition property
-4. Add the activities to be performed UiElement in the _Drop Action Activity Here_ swimlane of the Anchor Base activity
+4. Add the activities to be performed in the _Drop Action Activity Here_ swimlane of the Anchor Base activity
 
 ## Anchor Base in UiPath Example
 I opened this RPA challenge website and there is an input field we would like to target with the UiPath _Type Into_ activity. 
@@ -48,9 +48,9 @@ You always create an anchor base close to your target.
 
 So let's add our _Type Into_ activity here as the UiPath Anchor Base action to perform. 
 
-Then we will indicate the address field. We can type in ‘road’ again, 
+Then we will indicate the address field. We can type in ‘road’ again.
 
-Then we will have an anchor and that's something close to this address field. 
+Then we will have an anchor that's close to the address field. 
 
 We will just take the address label, because that will always be close to the target field.
 
@@ -63,17 +63,17 @@ The best thing to do is just take this address because that will always be close
 
 
 ## Find element vs find image
-We can choose two <a href="https://www.rpacertified.com/2020/09/09/act-finding-all-anchor-elements-in-webpage.html">UiPath find types</a> in our anchors: find element and find image.
+We can choose two <a href="https://www.rpacertified.com/2020/09/09/act-finding-all-anchor-elements-in-webpage.html">UiPath find types</a> in our anchors: _Find Element_ and _Find Image._
 
-Always try find element first. If that doesn't work, you can use the find image.
+Always try _Find Element_ first. If that doesn't work, you can use the _Find Image._
 
-Drag the find element activity into the UiPath anchor base acivity. 
+Drag the _Find Element_ activity into the UiPath anchor base acivity. 
 
 That will be the address here. 
 ## Anchor Base AnchorPosition
 Now we choose the Anchor Base position by specifying the AnchorPosition property.
 
-The chosen anchor is over the target of our _Type Into_ activity, so the Anchor Base AnchorPosition should be on to. 
+The chosen anchor is over the target of our _Type Into_ activity, so the Anchor Base AnchorPosition should be on top. 
 
 You can see that that the position changes in the UiPath Studio worfklow.
 
@@ -90,7 +90,7 @@ And that’s a full UiPath Anchor Base tutorial to demonstrate how to improve on
 
 #### Anchor Base Resources
 
-More information on how to use the UiPath anchor base activity can be found in the <a href="https://docs.uipath.com/activities/docs/anchor-base">production documentation.</a>
+More information on how to use the UiPath Anchor Base activity can be found in the <a href="https://docs.uipath.com/activities/docs/anchor-base">production documentation.</a>
 
 The sharing of Anders Jensen's content should not be interpreted as his endorsement for this site. We just like his content, and we hope he likes ours too.
 
