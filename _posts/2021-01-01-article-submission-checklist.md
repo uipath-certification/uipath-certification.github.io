@@ -40,6 +40,8 @@ Date:
 
 - [x] Use keywords on alt tags in images
 
+### Winning at the SEO Game
+
 Search engines love:
 - Lists
 - Tables
