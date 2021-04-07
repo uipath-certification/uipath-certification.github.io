@@ -69,3 +69,17 @@ tweet: Every #goodarticle should have a few @Twitter tweets and smart #haschodes
  
  
  <img src="/assets/anatomy-of-question.jpg" alt="question answers cert page"/>
+ 
+#### SEO External Link Theory
+ 
+Whenever you create a link, you are telling Google "This has more, and maybe better, information on this linked term." So, if you write an article on ['UiPath Cert Logo'](https://www.rpacertified.com/2021/03/29/uipath-certification-logo.html), you don't want to link in that article, on that KWP, to another site. You help that other site in the rankings, and you hurt yourself.
+
+That's also why you limit your external links to one, maybe two. And you don't do external links on KWPs your site wants to own. Always best to do an external link on an innocuous term like 'more documentation.' Don't hand over an important KWP to another site
+
+External links should work to help Google understand your content. For example, Google may be like "I have no idea what this page is about. BUT, there's one link to the UiPath Certification home page here. It must be about UiPath Certification."
+
+You'll notice in the theme, other than social media links, the only other external link in the theme is to: https://www.uipath.com/learning/certification
+
+You'll also notice the link isn't on the KWP 'UiPath Certification' or 'UiPath Associate Exam.' The link is just on UiPath. We will never own the UiPath keyword, so that's safe.
+
+Five internal links are good. Find KWPs for other pages in your content and link to those pages. That reinforces those pages to Google.
