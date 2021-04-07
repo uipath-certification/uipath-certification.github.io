@@ -13,9 +13,13 @@ canonical:
 # Anatomy of an SEO Optimized Article
 
 Title: The title should be less than 60 characters
+
 Blurb: This is the meta. A call to action? An incentive to read? Repeat the keyword phrase
+
 Keyword Phrase: What keyword query might this target? The keyword phrase should be in the title, the blurb and sprinkled in headings throughout the prose
-URL: 
+
+Canonical URL: 
+
 Date: 
 
 ## More items on the article checklist
