@@ -54,6 +54,10 @@ Search engines love:
 
 Always include an image! 
 
+#### Tweet Storms
+
+Add a tweet as a part of the <a href="https://jekyllrb.com/docs/step-by-step/03-front-matter/">'Front Matter'</a> metadata if you're working with markdown.
+
 tweet: Every #goodarticle should have a few @Twitter tweets and smart #haschodes like #uipathcertified #rpa #rpatools #uipathassociate #devopstools
 
 
