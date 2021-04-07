@@ -24,6 +24,8 @@ The UiPath Anchor Activity is useful when the developer does not have a reliable
 
 Let me show you a UiPath Anchor Base example.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks to <a href="https://twitter.com/andersjensenorg?ref_src=twsrc%5Etfw">@andersjensenorg</a> for his insights on how to master the UiPath Anchor Base activity when working with PDF files and webpages.<a href="https://twitter.com/hashtag/UiPath?src=hash&amp;ref_src=twsrc%5Etfw">#UiPath</a> <a href="https://twitter.com/hashtag/UiPathCertified?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertified</a> <a href="https://twitter.com/hashtag/RPACertified?src=hash&amp;ref_src=twsrc%5Etfw">#RPACertified</a> <a href="https://twitter.com/hashtag/RPA?src=hash&amp;ref_src=twsrc%5Etfw">#RPA</a> <a href="https://twitter.com/hashtag/RPACertification?src=hash&amp;ref_src=twsrc%5Etfw">#RPACertification</a> <a href="https://twitter.com/hashtag/UiPathTutorial?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathTutorial</a><a href="https://t.co/cPvgz5YGpt">https://t.co/cPvgz5YGpt</a> <a href="https://t.co/A1xfjS01WX">pic.twitter.com/A1xfjS01WX</a></p>&mdash; RPACertified (@RPACertified) <a href="https://twitter.com/RPACertified/status/1379168674859339779?ref_src=twsrc%5Etfw">April 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## How to use the Anchor Base activity
 
 To use the UiPath Anchor Base activity, follow these steps:
