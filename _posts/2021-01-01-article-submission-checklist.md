@@ -72,7 +72,7 @@ tweet: Every #goodarticle should have a few @Twitter tweets and smart #haschodes
  
 #### SEO External Link Theory
  
-Whenever you create a link, you are telling Google "This has more, and maybe better, information on this linked term." So, if you write an article on ['UiPath Cert Logo'](https://www.rpacertified.com/2021/03/29/uipath-certification-logo.html), you don't want to link in that article, on that KWP, to another site. You help that other site in the rankings, and you hurt yourself.
+Whenever you create a link, you are telling Google "This other site has more, and maybe better, information on this linked term than I do." So, if you write an article on ['UiPath Cert Logo'](https://www.rpacertified.com/2021/03/29/uipath-certification-logo.html), you don't want to link in that article, on that KWP, to another site. You help that other site in the rankings, and you hurt yourself. In fact, nowhere in your site should you ever link that KWP to an any other page than your internal one on that topic.
 
 That's also why you limit your external links to one, maybe two. And you don't do external links on KWPs your site wants to own. Always best to do an external link on an innocuous term like 'more documentation.' Don't hand over an important KWP to another site
 
