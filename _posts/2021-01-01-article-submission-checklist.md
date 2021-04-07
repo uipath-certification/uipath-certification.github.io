@@ -6,7 +6,7 @@ blurb: Here's what goes into a good, solid, SEO optmized article.
 difficulty: 0
 objective: 7.3 Describe the functions used to extract data from a .pdf file; for example, using OCR
 canonical: 
-tweet: Every #goodarticle should have a few @Twitter tweets and smart #haschodes like #uipathcertified #rpa #rpatools #uipathassociate #devopstools
+
 ---
  
  
@@ -37,9 +37,9 @@ Search engines love:
 - Images
 - Media 
 
-
-
 Always include an image! 
+
+tweet: Every #goodarticle should have a few @Twitter tweets and smart #haschodes like #uipathcertified #rpa #rpatools #uipathassociate #devopstools
 
 
 
