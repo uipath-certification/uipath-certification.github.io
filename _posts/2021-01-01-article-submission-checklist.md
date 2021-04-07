@@ -20,25 +20,25 @@ Date:
 
 ## More items on the article checklist
 
-- [x]  Grammar and speel checked in MS Word
+- [x]  &nbsp; Grammar and speel checked in MS Word
 
-- [x]  Use one H1 heard, a few H2s and H3s. Always in order
+- [x]  &nbsp; Use one H1 heard, a few H2s and H3s. Always in order
 
-- [x]  Link to two or three internal rpacertified.com pages on good keywords
+- [x]  &nbsp; Link to two or three internal rpacertified.com pages on good keywords
 
-- [x]  Include an external link to an authority (but not a direct competitor)
+- [x]  &nbsp; Include an external link to an authority (but not a direct competitor)
 
-- [x]  Never link on the keyword phrase. (Do you know why?)
+- [x]  &nbsp; Never link on the keyword phrase. (Do you know why?)
 
-- [x]  Write a quick tweet that describes the article and tweet it!
+- [x]  &nbsp; Write a quick tweet that describes the article and tweet it!
 
-- [x]  Don't use a title that already exists on the site. Keep the content unique!
+- [x]  &nbsp; Don't use a title that already exists on the site. Keep the content unique!
 
-- [x] Re-read the article before submission. Better yet? Have someone else proof it
+- [x]  &nbsp; Re-read the article before submission. Better yet? Have someone else proof it
 
-- [x]  Can you include a video from Potemcan's YouTube channel?
+- [x]  &nbsp; Can you include a video from Potemcan's YouTube channel?
 
-- [x] Use keywords on alt tags in images
+- [x]  &nbsp; Use keywords on alt tags in images
 
 ### Winning at the SEO Game
 
