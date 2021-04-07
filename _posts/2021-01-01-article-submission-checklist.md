@@ -20,26 +20,26 @@ Date:
 
 ## More items on the article checklist
 
-[ ] Grammar and speel checked in MS Word
+ [ ]  Grammar and speel checked in MS Word
 
-[ ] Use one H1 heard, a few H2s and H3s. Always in order
+ [ ]  Use one H1 heard, a few H2s and H3s. Always in order
 
-[ ] Link to two or three internal rpacertified.com pages on good keywords
+ [ ]  Link to two or three internal rpacertified.com pages on good keywords
 
-[ ] Include an external link to an authority (but not a direct competitor)
+ [ ]  Include an external link to an authority (but not a direct competitor)
 
-[ ] Never link on the keyword phrase. (Do you know why?)
+ [ ]  Never link on the keyword phrase. (Do you know why?)
 
 
-[ ] Write a quick tweet that describes the article and tweet it!
+ [ ]  Write a quick tweet that describes the article and tweet it!
 
-[ ] Don't use a title that already exists on the site. Keep the content unique!
+ [ ]  Don't use a title that already exists on the site. Keep the content unique!
 
-[ ] Re-read the article before submission. Better yet? Have someone else proof it
+ [ ]  Re-read the article before submission. Better yet? Have someone else proof it
 
-[ ] Can you include a video from Potemcan's YouTube channel?
+ [ ]  Can you include a video from Potemcan's YouTube channel?
 
-[ ] Use keywords on alt tags in images
+ [ ]  Use keywords on alt tags in images
 
 Search engines love:
 - Lists
