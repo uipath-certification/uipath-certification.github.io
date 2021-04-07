@@ -62,5 +62,5 @@ tweet: Every #goodarticle should have a few @Twitter tweets and smart #haschodes
 
 
 
- 
+ <img src="/assets/blurb-and-title.jpg" alt="Seo optimized"/>
  
