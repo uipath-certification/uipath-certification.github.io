@@ -61,6 +61,11 @@ Add a tweet as a part of the <a href="https://jekyllrb.com/docs/step-by-step/03-
 tweet: Every #goodarticle should have a few @Twitter tweets and smart #haschodes like #uipathcertified #rpa #rpatools #uipathassociate #devopstools
 
 
+#### Search Engine Listing
 
  <img src="/assets/blurb-and-title.jpg" alt="Seo optimized"/>
  
+#### The Question Format
+ 
+ 
+ <img src="/assets/anatomy-of-question.jpg" alt="question answers cert page"/>
