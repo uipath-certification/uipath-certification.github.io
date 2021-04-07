@@ -7,7 +7,7 @@ difficulty: 5
 objective: 7.3 Describe the functions used to extract data from a .pdf file; for example, using OCR
 canonical: 
 ---
-
+ 
 
 <table class="table table-search-results">
     <thead>
