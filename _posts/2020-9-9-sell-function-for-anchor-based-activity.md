@@ -1,15 +1,15 @@
 ---
 layout: answered-question
 author: Serge
-title: UiPath Anchor Base activity
-blurb: UiPath Anchor activity features and functions
+title: Provided Anchor Base Functions UiPath Exam Question
+blurb: This UiPath Associate exam question covers the functions the Anchor Base activity provides developers
 difficulty: 6
 objective: 4.3 Identify and describe how and when to use Anchors
 canonical: https://www.rpacertified.com/2020/09/09/sell-function-for-anchor-based-activity.html
 keywords: UiPath Anchor Base activity, anchor base, UiPath Anchor
 ---
 
-<h1>UiPath Anchor</h1>
+<h1>UiPath Anchor Exam Question</h1>
 
 Question:  Which function does the Anchor Base activity provide?
 
@@ -22,5 +22,5 @@ Question:  Which function does the Anchor Base activity provide?
 
 Option A is correct.
 
-When there isn’t a reliable selector available, an <a href="https://www.rpacertified.com/2021/04/03/uipath-anchor-base-example-tutorial.html">UiPath Anchor Base</a> activity is useful so you can search for other UI Elements around it.
+When there isn’t a reliable selector available, a <a href="https://www.rpacertified.com/2021/04/03/uipath-anchor-base-example-tutorial.html">UiPath Anchor Base</a> activity is useful so you can search for other UI Elements around it.
 
