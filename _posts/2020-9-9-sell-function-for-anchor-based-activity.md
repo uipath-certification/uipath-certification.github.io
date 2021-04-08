@@ -46,15 +46,19 @@ When there isn’t a reliable selector available, a <a href="https://www.rpacert
     </div>
 	
 	<div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
-        <div class="card ">
+        <div class="card w-100">
             <div class="card-header">
             UiPath Anchor Tutorial on YouTube
             </div>
 
             <div class="card-body">
+	Want to learn more about the UiPath Anchor Base activity?
+	Check out this UiPath Youtube tutorial from <a href="http://www.twitter.com/cameronmcnz">@cameronmcnz</a>.	    
+	    
 <div class="embed-responsive embed-responsive-16by9">
-  			<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rjtHXD2nI8Q"></iframe>
-		     </div>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rjtHXD2nI8Q"></iframe>
+</div>
+#UiPath #UiPathCertified #RPACertified #RPA #RPACertification #UiPathTutorial
             </div>
         </div>
     </div>
