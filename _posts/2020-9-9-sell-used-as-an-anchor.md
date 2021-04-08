@@ -29,7 +29,7 @@ The <a href="https://www.rpacertified.com/2021/04/03/uipath-anchor-base-example-
 <div class="row">
 	
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
-        <div class="card ">
+        <div class="card  w-100">
             <div class="card-header">
             UiPath on Twitter
             </div>
