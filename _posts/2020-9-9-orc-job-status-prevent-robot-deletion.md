@@ -28,8 +28,8 @@ As a refresher, here are all the possible job states:
 
 <table border="1" class="table table-striped">
 <tr>
-  <th>&nbsp;&nbsp;Job State&nbsp;&nbsp;</th>
-  <th>&nbsp;&nbsp;Description &nbsp;&nbsp;</th>
+  <th class="table-primary">&nbsp;&nbsp;Job State&nbsp;&nbsp;</th>
+  <th class="table-primary">&nbsp;&nbsp;Description &nbsp;&nbsp;</th>
 </tr>
 <tr>
   <td>&nbsp;&nbsp;Pending&nbsp;&nbsp;</td>
