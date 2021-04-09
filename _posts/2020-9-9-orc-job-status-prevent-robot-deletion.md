@@ -26,46 +26,46 @@ If anything is in use, you cannot delete it.  All the other options the robot is
 
 As a refresher, here are all the possible job states:
 
-<table border="1px solid black">
-<tr border="1px solid black">
-  <td border="1px solid black">&nbsp;&nbsp;Job State&nbsp;&nbsp;</td>
-  <td border="1px solid black">&nbsp;&nbsp;Description &nbsp;&nbsp;</td>
+<table border="1">
+<tr>
+  <th>&nbsp;&nbsp;Job State&nbsp;&nbsp;</th>
+  <th>&nbsp;&nbsp;Description &nbsp;&nbsp;</th>
 </tr>
-<tr border="1px solid black">
-  <td border="1px solid black">&nbsp;&nbsp;Pending&nbsp;&nbsp;</td>
-  <td border="1px solid black">&nbsp;&nbsp;Job is queued on the same Robot or it is trying to establish a connection with the Robot (only different jobs on the same Robot can be queued) &nbsp;&nbsp;</td>
+<tr>
+  <td>&nbsp;&nbsp;Pending&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;Job is queued on the same Robot or it is trying to establish a connection with the Robot (only different jobs on the same Robot can be queued) &nbsp;&nbsp;</td>
 </tr>
-<tr border="1px solid black">
-  <td border="1px solid black">&nbsp;&nbsp;Running&nbsp;&nbsp;</td>
-  <td border="1px solid black">&nbsp;&nbsp;The robot has started executing the designated process. &nbsp;&nbsp;</td>
+<tr>
+  <td>&nbsp;&nbsp;Running&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;The robot has started executing the designated process. &nbsp;&nbsp;</td>
 </tr>
-<tr border="1px solid black">
-  <td border="1px solid black">&nbsp;&nbsp;Successful&nbsp;&nbsp;</td>
-  <td border="1px solid black">&nbsp;&nbsp;The robot has finished running or has been stopped manually &nbsp;&nbsp;</td>
+<tr>
+  <td>&nbsp;&nbsp;Successful&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;The robot has finished running or has been stopped manually &nbsp;&nbsp;</td>
 </tr>
-<tr border="1px solid black">
-  <td border="1px solid black">&nbsp;&nbsp;Faulted&nbsp;&nbsp;</td>
-  <td border="1px solid black">&nbsp;&nbsp;The job failed to start or threw an unhandled error during execution &nbsp;&nbsp;</td>
+<tr>
+  <td>&nbsp;&nbsp;Faulted&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;The job failed to start or threw an unhandled error during execution &nbsp;&nbsp;</td>
 </tr>
-<tr border="1px solid black">
-  <td border="1px solid black">&nbsp;&nbsp;Stopping&nbsp;&nbsp;</td>
-  <td border="1px solid black">&nbsp;&nbsp;Triggered by clicking the Stop button is pressed in Orchestrator &nbsp;&nbsp;</td>
+<tr>
+  <td>&nbsp;&nbsp;Stopping&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;Triggered by clicking the Stop button is pressed in Orchestrator &nbsp;&nbsp;</td>
 </tr>
-<tr border="1px solid black">
-  <td border="1px solid black">&nbsp;&nbsp;Terminating&nbsp;&nbsp;</td>
-  <td border="1px solid black">&nbsp;&nbsp;Triggered by clicking the Kill button in Orchestrator &nbsp;&nbsp;</td>
+<tr>
+  <td>&nbsp;&nbsp;Terminating&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;Triggered by clicking the Kill button in Orchestrator &nbsp;&nbsp;</td>
 </tr>
-<tr border="1px solid black">
-  <td border="1px solid black">&nbsp;&nbsp;Suspended&nbsp;&nbsp;</td>
-  <td border="1px solid black">&nbsp;&nbsp;Triggered with the purpose of allowing user intervention or completion of an intermediate process &nbsp;&nbsp;</td>
+<tr>
+  <td>&nbsp;&nbsp;Suspended&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;Triggered with the purpose of allowing user intervention or completion of an intermediate process &nbsp;&nbsp;</td>
 </tr>
-<tr border="1px solid black">
-  <td border="1px solid black">&nbsp;&nbsp;Resumed&nbsp;&nbsp;</td>
-  <td border="1px solid black">&nbsp;&nbsp;Triggered when the job transitions from the suspended state after user task completion or completion of an intermediate process  &nbsp;&nbsp;</td>
+<tr>
+  <td>&nbsp;&nbsp;Resumed&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;Triggered when the job transitions from the suspended state after user task completion or completion of an intermediate process  &nbsp;&nbsp;</td>
 </tr>
-<tr border="1px solid black">
-  <td border="1px solid black">&nbsp;&nbsp;Stopped&nbsp;&nbsp;</td>
-  <td border="1px solid black">&nbsp;&nbsp;A job is in this state if it stopped by using the Kill button, or by canceling it from the system tray before it finished executing and no errors were throws &nbsp;&nbsp;</td>
+<tr>
+  <td>&nbsp;&nbsp;Stopped&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;A job is in this state if it stopped by using the Kill button, or by canceling it from the system tray before it finished executing and no errors were throws &nbsp;&nbsp;</td>
 </tr>
  </table>
 
