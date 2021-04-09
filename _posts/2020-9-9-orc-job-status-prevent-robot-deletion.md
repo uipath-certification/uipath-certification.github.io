@@ -22,9 +22,9 @@ Question:  Which job status(es) will prevent the deletion of an associated robot
 
 Option A is correct.
 
-If anything is in use, you cannot delete it.  All the other options the robot is in use in some capacity.
+f a an attended or unattended UiPath robot is running, it cannot be deleted from UiPath Orchestrator.
 
-As a refresher, here are all the possible job states:
+As a refresher, here are all the possible UiPath Orchestrator job states:
 
 <table border="1" class="table table-striped">
 <tr>
@@ -68,7 +68,9 @@ As a refresher, here are all the possible job states:
   <td>&nbsp;&nbsp;A job is in this state if it stopped by using the Kill button, or by canceling it from the system tray before it finished executing and no errors were throws &nbsp;&nbsp;</td>
 </tr>
  </table>
+ 
+ <img src="https://files.readme.io/ed3d862-job_details.png" alt="Delete UiPath Job Robot/>
 
 If your goal is to terminate or delete a job in UiPath Orchestrator, you will require administrative access and may have to look at killing any rogue jobs or processes. 
 
-For more information on Orchestrator job states, please see this <a href="https://docs.uipath.com/orchestrator/docs/job-states">link</a>
+For more information on Orchestrator job states, check out the <a href="https://docs.uipath.com/orchestrator/docs/job-states">documentation</a>
