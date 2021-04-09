@@ -26,12 +26,7 @@ If anything is in use, you cannot delete it.  All the other options the robot is
 
 As a refresher, here are all the possible job states:
 
-<style> table.example-table, td.example-table { 
-  border: 1px solid black; 
-  border-collapse: collapse; } 
-</style>
-
-<table class="example-table">
+<table border="1">
 <tr>
   <th>&nbsp;&nbsp;Job State&nbsp;&nbsp;</th>
   <th>&nbsp;&nbsp;Description &nbsp;&nbsp;</th>
