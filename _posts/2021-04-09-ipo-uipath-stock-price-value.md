@@ -1,5 +1,5 @@
 ---
-layout: answered-question
+layout: featured-post
 author: Jenny
 title: 'UiPath IPO: Price and Valuation Insights'
 blurb: 'Will the UiPath IPO be a boom or a bust? Here are the insights you need into the UiPath IPO price, value, news and IPO date. NYSE stock ticker symbol: PATH'
