@@ -21,6 +21,11 @@ Question:  Which job status(es) will prevent the deletion of an associated robot
 ## Answer
 
 Option A is correct.
+| Column 1 Header | Column 2 Header | Column 3 Header |
+| --------------- | --------------- | --------------- |
+| Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
+| Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
+| Row 3 Column 1 | Row 3 Column 2 | Row 3 Column 3 |
 
 If anything is in use, you cannot delete it.  All the other options the robot is in use in some capacity
 
