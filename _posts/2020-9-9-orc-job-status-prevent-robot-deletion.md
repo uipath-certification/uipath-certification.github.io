@@ -2,14 +2,14 @@
 layout: answered-question
 author: Serge
 title: Which job status(es) will prevent the deletion of an associated robot?
-blurb: This Uipath test question checks if you know which status prefents Orchestrator robot deletion.
+blurb: This Uipath test question checks if you know which status prevents Orchestrator robot deletion.
 difficulty: 6
 objective: 8.1 Describe how to provision attended and unattended robots to UiPath Orchestrator
 canonical: https://www.rpacertified.com//2020/09/09/orc-job-status-prevent-robot-deletion.html
 keywords: job status, UiPath jobs, UiPath Status, UiPath Certification Status, UiPath Cert Jobs
 ---
 
-<h1>UiPath Job Status</h1>
+<h1>UiPath Job Status Deletion</h1>
 
 Question:  Which job status(es) will prevent the deletion of an associated robot?
 
@@ -22,11 +22,11 @@ Question:  Which job status(es) will prevent the deletion of an associated robot
 
 Option A is correct.
 
-If anything is in use, you cannot delete it.  All the other options the robot is in use in some capacity
+If anything is in use, you cannot delete it.  All the other options the robot is in use in some capacity.
 
 As a refresher, here are all the possible job states:
 
-<table>
+<table border="1">
 <tr>
   <th>&nbsp;&nbsp;Job State&nbsp;&nbsp;</th>
   <th>&nbsp;&nbsp;Description &nbsp;&nbsp;</th>
@@ -69,6 +69,6 @@ As a refresher, here are all the possible job states:
 </tr>
  </table>
 
-If your goal is to terminate/delete the job, you will require administrative access and may have to look at killing any rogue jobs/processes. 
+If your goal is to terminate or delete a job in UiPath Orchestrator, you will require administrative access and may have to look at killing any rogue jobs or processes. 
 
 For more information on Orchestrator job states, please see this <a href="https://docs.uipath.com/orchestrator/docs/job-states">link</a>
