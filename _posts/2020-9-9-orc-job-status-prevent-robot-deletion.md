@@ -83,7 +83,7 @@ What do these job statuses mean? This table provides a bit more detail:
 </tr>
  </table>
  
-<img src="https://files.readme.io/ed3d862-job_details.png" alt="Delete UiPath Job Robot/>
+<img src="https://files.readme.io/ed3d862-job_details.png" alt="Delete UiPath Job Robot"/>
                                                                 
 ### UiPath Job Deletion
 
