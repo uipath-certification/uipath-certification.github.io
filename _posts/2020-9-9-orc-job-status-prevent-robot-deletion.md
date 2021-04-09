@@ -13,14 +13,60 @@ keywords: job status, UiPath jobs, UiPath Status, UiPath Certification Status, U
 
 Question:  Which job status(es) will prevent the deletion of an associated robot?
 
- - [ ] &nbsp;  Running and Pending
+ - [X] &nbsp;  Running and Pending
  - [ ] &nbsp;  Faulted and Pending
- - [X] &nbsp;  Suspended and Stopped
+ - [ ] &nbsp;  Suspended and Stopped
  - [ ] &nbsp;  Running Only
 
 ## Answer
 
-Option C is correct.
+Option A is correct.
 
 If anything is in use, you cannot delete it.  All the other options the robot is in use in some capacity
 
+As a refresher, here are all the possible job states:
+<table>
+<tr>
+  <td>&nbsp;&nbsp;Job State&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;Description &nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;Pending&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;Job is queued on the same Robot or it is trying to establish a connection with the Robot (only different jobs on the same Robot can be queued) &nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;Running&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;The robot has started executing the designated process. &nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;Successful&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;The robot has finished running or has been stopped manually &nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;Faulted&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;The job failed to start or threw an unhandled error during execution &nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;Stopping&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;Triggered by clicking the Stop button is pressed in Orchestrator &nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;Terminating&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;Triggered by clicking the Kill button in Orchestrator &nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;Suspended&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;Triggered with the purpose of allowing user intervention or completion of an intermediate process &nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;Resumed&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;Triggered when the job transitions from the suspended state after user task completion or completion of an intermediate process  &nbsp;&nbsp;</td>
+</tr>
+<tr>
+  <td>&nbsp;&nbsp;Stopped&nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;A job is in this state if it stopped by using the Kill button, or by canceling it from the system tray before it finished executing and no errors were throws &nbsp;&nbsp;</td>
+</tr>
+
+For more information on Orchestrator job states, please see this <a href="https://docs.uipath.com/orchestrator/docs/job-states">link</a>
+
+If your goal is to terminate/delete the job, you will require administrative access and may have to look at killing any rogue jobs/processes. 
