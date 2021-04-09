@@ -26,18 +26,14 @@ If anything is in use, you cannot delete it.  All the other options the robot is
 
 As a refresher, here are all the possible job states:
 
-table, th, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-<table>
-<tr>
-  <td>&nbsp;&nbsp;Job State&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;Description &nbsp;&nbsp;</td>
+<table border="1px solid black">
+<tr border="1px solid black">
+  <td border="1px solid black">&nbsp;&nbsp;Job State&nbsp;&nbsp;</td>
+  <td border="1px solid black">&nbsp;&nbsp;Description &nbsp;&nbsp;</td>
 </tr>
-<tr>
-  <td>&nbsp;&nbsp;Pending&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;Job is queued on the same Robot or it is trying to establish a connection with the Robot (only different jobs on the same Robot can be queued) &nbsp;&nbsp;</td>
+<tr border="1px solid black">
+  <td border="1px solid black">&nbsp;&nbsp;Pending&nbsp;&nbsp;</td>
+  <td border="1px solid black">&nbsp;&nbsp;Job is queued on the same Robot or it is trying to establish a connection with the Robot (only different jobs on the same Robot can be queued) &nbsp;&nbsp;</td>
 </tr>
 <tr>
   <td>&nbsp;&nbsp;Running&nbsp;&nbsp;</td>
