@@ -62,17 +62,11 @@ Okay. So how can RPA helped me? And this is really from a perspective from UiPat
 	<div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card w-100">
             <div class="card-header">
-            UiPath Anchor Tutorial on YouTube
+            Get UiPath Certified
             </div>
 
             <div class="card-body">
-	Want to learn more about the UiPath Anchor Base activity?
-	Check out this UiPath Youtube tutorial from <a href="http://www.twitter.com/cameronmcnz">@cameronmcnz</a>.	    
-	    
-<div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rjtHXD2nI8Q"></iframe>
-</div>
-#UiPath #UiPathCertified #RPACertified #RPA #RPACertification #UiPathTutorial
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Practice makes perfect. Which is why we&#39;ve made hundreds of sample <a href="https://twitter.com/UiPath?ref_src=twsrc%5Etfw">@UiPath</a> exam questions available to aspiring <a href="https://twitter.com/hashtag/UiPathCertified?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertified</a> professional. <a href="https://twitter.com/hashtag/UiPath?src=hash&amp;ref_src=twsrc%5Etfw">#UiPath</a> <a href="https://twitter.com/hashtag/UiPathCertified?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertified</a> <a href="https://twitter.com/hashtag/RPACertified?src=hash&amp;ref_src=twsrc%5Etfw">#RPACertified</a> <a href="https://twitter.com/hashtag/RPA?src=hash&amp;ref_src=twsrc%5Etfw">#RPA</a> <a href="https://twitter.com/hashtag/RPACertification?src=hash&amp;ref_src=twsrc%5Etfw">#RPACertification</a> <a href="https://twitter.com/hashtag/UiPathAssociate?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathAssociate</a> <a href="https://twitter.com/hashtag/UiPathCertification?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertification</a><a href="https://t.co/htjIqrls5l">https://t.co/htjIqrls5l</a> <a href="https://t.co/BsSRiYcnan">pic.twitter.com/BsSRiYcnan</a></p>&mdash; Sergio Salerno (@salernos316) <a href="https://twitter.com/salernos316/status/1379372059692830723?ref_src=twsrc%5Etfw">April 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
         </div>
     </div>
