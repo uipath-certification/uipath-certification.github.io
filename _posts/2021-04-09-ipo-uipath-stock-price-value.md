@@ -14,6 +14,10 @@ canonical: https://www.rpacertified.com/2021/04/09/ipo-uipath-stock-price-value.
 <iframe src="https://www.youtube.com/embed/fumZ1NpRHcE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 
+## UiPath Stock Analysis
+
+_Editors Note: We were interested in doing research and analysis on the UiPath stock IPO (PATH), but felt we couldn't do much better than this video from Mr. FIRED Up Wealth. Here is a mildly edited transcript of the video. Enjoy._
+
 What's up guys. Eric here, Mr. Fired-up wealth. If I told you that there was a robotic process automation company, that's really best of breed that might be coming out on IPO and you can actually own shares of the company. Would you want to learn more about the business? Well, that's exactly what we're going to cover today without further ado let's get started.
 
 ## What is RPA with UiPath?
@@ -34,7 +38,7 @@ And you'll see that later on in the video, but this really comes down to. Trying
 
 Okay. So how can RPA helped me? And this is really from a perspective from UiPath, trying to sell this to a business, but as an investor, it's important to understand how UiPath can win business, how they can grow. So. How can RPA help me rapid return on investment enhance processes, better customer experience, eliminate repeat work, improve service delivery, enhanced ability to manage your employees.
 
-## UiPath Value Proposition
+## UiPath Stock Value Proposition
 
 Reduction of costs, increased compliance. Non-invasive technology, scalability, and flexibility. Any sized business can use it. And insight and analytics, which is very important, especially in today's age. These are all very good reasons why you might want to buy or invest in UiPath if you are a business.
 
@@ -84,7 +88,7 @@ And machine learning process, mining decision management, and more can be used t
 
 And it's talking about all the different things you can use it for. So industry specific processes here and up here, it says potential for RPA low to high. So this dark blue is kind of low potential for RPA. This, this orange color, the bright orange color is high potential for RPA. And you can see that there, you know, you can see in banking there's, um, there's quite a bit for the accounts receivable, the accounts payable, the general ledger and manufacturing as well.
 
-#### UiPath Financials
+#### UiPath IPO Financials
 
 You can see the different areas. So. Uh, banking financials, they have here card activation. Could it be something that robots could help with? Um, RPA frauds claim discovery is another one insurance. You've got claims processing and new business preparation. You think of lemonade insurance. They use like AI chat bots and there's, there's quite a few different insurance industry or Sharon's companies in the insurance industry that use claims processing bots like that.
 
@@ -125,6 +129,8 @@ And I'm not saying you should just necessarily buy it just because the price is 
 We of 36% year over year for blue prism, you can see 2018 UiPath. Is one 55 revenue, blue prism, 71, 2019. You know, these UiPath basically double, but they both, they all have good growth. Yeah. And then a UiPath here is four and 26 versus one 79 and then five 79 and two 44. So pretty good growth there. Um, in terms of revenue, it looks like 579.
 
 Million dollars. So, you know, you can take that easily to get a price to sales ratio. So on valuation, if you use the F Y 21 revenue estimates, here are the falling price of sales. So UiPath. The market cap based on, on series E in July, which is obviously different now, but that was $10.2 billion. It's going to be, as we mentioned earlier, a lot higher blue prism, much smaller at about 2.2 billion.
+
+#### UiPath Price Multiple
 
 Now, UiPath based on this number was a 17.6 price of sales. Multiple. This gives you some good numbers here. Blue prism is only a nine, so this could be an opportunity. It does trade OTC though. So keep that in mind. But UiPath. So, you know, at $10 million, if the sales multiple is 17.6, you know, if the, uh, the market cap ends up being $30 billion, you basically, you know, take that time street.
 
