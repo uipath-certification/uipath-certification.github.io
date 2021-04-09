@@ -27,9 +27,9 @@ If anything is in use, you cannot delete it.  All the other options the robot is
 As a refresher, here are all the possible job states:
 
 <table border="0">
-<tr>
-  <th>&nbsp;&nbsp;Job State&nbsp;&nbsp;</th>
-  <th>&nbsp;&nbsp;Description &nbsp;&nbsp;</th>
+<tr border="0">
+  <th border="0">&nbsp;&nbsp;Job State&nbsp;&nbsp;</th>
+  <th border="0">&nbsp;&nbsp;Description &nbsp;&nbsp;</th>
 </tr>
 <tr>
   <td>&nbsp;&nbsp;Pending&nbsp;&nbsp;</td>
