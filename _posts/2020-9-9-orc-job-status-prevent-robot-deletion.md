@@ -66,6 +66,7 @@ As a refresher, here are all the possible job states:
   <td>&nbsp;&nbsp;Stopped&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;A job is in this state if it stopped by using the Kill button, or by canceling it from the system tray before it finished executing and no errors were throws &nbsp;&nbsp;</td>
 </tr>
+ </table>
 
 For more information on Orchestrator job states, please see this <a href="https://docs.uipath.com/orchestrator/docs/job-states">link</a>
 
