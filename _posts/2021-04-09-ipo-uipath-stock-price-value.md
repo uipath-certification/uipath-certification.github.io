@@ -5,7 +5,7 @@ title: 'UiPath IPO: Price and Valuation Insights'
 blurb: 'Will the UiPath IPO be a boom or a bust? Here are the insights you need into the UiPath IPO price, value, news and IPO date. NYSE stock ticker symbol: PATH'
 difficulty: -1
 objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation
-canonical: https://www.rpacertified.com//2021/04/09/ipo-uipath-stock-price-value.html
+canonical: https://www.rpacertified.com/2021/04/09/ipo-uipath-stock-price-value.html
 ---
 
 # UiPath IPO
