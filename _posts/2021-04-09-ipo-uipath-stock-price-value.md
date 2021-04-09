@@ -88,6 +88,8 @@ And they're important reasons for us to understand as investors, this infographi
 
 You want to make something real quick. You want to do a quick and simple automation. You're going to manage, deploy and optimize automation, uh, at enterprise scale. So you want to build a scale up for any size organization. You can run. Automations through robots that will work with applications and data, of course engage people and robots as one team for seamless process collaboration.
 
+## UiPath IPO Investment Facts
+
 That's very powerful, quick facts about UiPath. This is good information. So they've been a leader in every Gartner magic quadrant, Forrester wave and Everest peak matrix for RPA. So they are considered best of breed. Read number one in all major independent user review sites for RPA, including gardener, peer sites.
 
 Trust radius all the big ones. Right? So they're number one in all major independent reviews. They're on the disruptor. 50 from CNBC they're on the Forbes, AI 50, they're the only RPA provider named to the Forbes, AI 50 in 2020. So next I want to show you some quick infographics here. This here is the magic quadrant.
@@ -110,7 +112,7 @@ And then also artificial intelligence, our AI handling, which really handles day
 
 They can move files and folders. They can copy and paste data. They can fill in forms, extract structured, even semi-structured data from documents, scraped browsers, and much more. So let's look at that. This is just a quick infographic on their website, logging in the application. We mentioned these right.
 
-Connect the system, API APIs, though. That's really critical when you think of. You know, a SAS solution, a cloud type SAS environment with within large complex organizations, you have an enterprise software solution you might use best of breed and have lots of different products that have to communicate to each other.
+Connect the system APIs, though. That's really critical when you think of. You know, a SAS solution, a cloud type SAS environment with within large complex organizations, you have an enterprise software solution you might use best of breed and have lots of different products that have to communicate to each other.
 
 And so connecting the API APIs can help with that as many, as well, as many other reasons, it can help with an organization, but, you know, RPAs can copy and paste data so that people don't have to do it. It saves them time. They can move. Data from files and folders that can move files and folders. They can extract process, extract, and process structured.
 
@@ -118,15 +120,15 @@ And even semi-structured information from PDF documents, from your emails, from 
 
 There's a lot of things that you can do with these RPA, with these robots. Something really simple. If you're in our discord, if you're, if you're not, you can join patron and join discord, but we have robots in there that essentially do tasks. Like when a new user comes in, you have to accept the rules.
 
-That's all automated through. Robots. And we've got different, several different robots in there that do different things that can play music for you. It can pull up charts, it can, uh, provide information about specific, you know, commands that you give it. Some of that's even automated though, where it just post the rules to the group every 12 hours and so on.
+That's all automated through Robots. And we've got different, several different robots in there that do different things that can play music for you. It can pull up charts, it can, uh, provide information about specific, you know, commands that you give it. Some of that's even automated though, where it just post the rules to the group every 12 hours and so on.
 
 #### How UiPath Robots Work
 
-So that's just one simple example of how, you know, robots can work. So you think of like chat bots, you think of, you know, lots of different ways that you can use robotic process automation. So that. You know, the admins like for discord or for the employees that accompany don't have to sit at a desk all day and do this stuff manually.
+So that's just one simple example of how, you know, <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/Create-your-first-RPA-robot-to-UiPath-Orchestrator-tutorial">RPA robots</a> can work. So you think of like chat bots, you think of, you know, lots of different ways that you can use robotic process automation. So that. You know, the admins like for discord or for the employees that accompany don't have to sit at a desk all day and do this stuff manually.
 
 It takes a lot of time. You can use that time to focus on more productive, more effective, more efficient things for your organization. Another cool infographic from that same white paper Gartner coined the term hyper automation to describe how the combination of robotic process automation, RPA, and disruptive technologies such as artificial intelligence, AI.
 
-And machine learning process, mining decision management, and more can be used together in an end to end automation solution. This is from Everest group right here. I think this is good information. What processes are relevant RPA and it shows you the different industries here on the left-hand side. So you've got banking, insurance, healthcare, manufacturing high-tech and telecomm energy and utilities.
+And machine learning process, mining decision management, and more can be used together in an end to end <a href="https://www.theserverside.com/video/Get-automated-with-this-RPA-and-UiPath-tutorial-for-beginners">RPA automated solution.</a> This is from Everest group right here. I think this is good information. What processes are relevant RPA and it shows you the different industries here on the left-hand side. So you've got banking, insurance, healthcare, manufacturing high-tech and telecomm energy and utilities.
 
 And it's talking about all the different things you can use it for. So industry specific processes here and up here, it says potential for RPA low to high. So this dark blue is kind of low potential for RPA. This, this orange color, the bright orange color is high potential for RPA. And you can see that there, you know, you can see in banking there's, um, there's quite a bit for the accounts receivable, the accounts payable, the general ledger and manufacturing as well.
 
@@ -148,13 +150,13 @@ So this is a pretty impressive growth story. They've grown very quickly. They've
 
 #### Bloomberg UiPath IPO Insights
 
-Number three again for the second consecutive year on the Forbes cloud, a 102,020. And in December 17th, 2020 Bloomberg Bloomberg reported that UiPath filed confidentially for an initial public offering, which is why we're talking about the, the, the company and the, and the potential stock. Cause it might be something that we could look into as an investment for a portfolio.
+Number three again for the second consecutive year on the Forbes cloud, a 102,020. And in December 17th, 2020 <a href="https://www.bloomberg.com/profile/company/1506427D:US">Bloomberg reported UiPath</a> filed confidentially for an initial public offering, which is why we're talking about the, the, the company and the, and the potential stock. Cause it might be something that we could look into as an investment for a portfolio.
 
 Now funding. I won't focus too much on the earlier years up here, but it is important to realize this is fairly new. February 1st, 2021 UiPath raised $750 million in series F funding at a post-money valuation of $35 billion. Now. They originally was in the, I think $20 billion range now 35 billion, like a lot of these IPOs, they get higher and higher and higher.
 
 So this is getting pretty expensive. And when you look at, you know, the price to sales ratios and things like that, but they are best of breed. There are a few other companies that compete. I think you'll see more and more businesses get into this space. I'm going to show you what I mean here in a second.
 
-So this is older information and it talks about that they are valued at $20 billion. As I mentioned, you can see right here. CNBC reported that the company had 360 million in annual revenue at the time with more than 6,300 customers. So you can see it grew from 5,000 to 6,300. And customers include Amazon and Verizon, which I think is pretty important.
+So this is older information and it talks about that they are valued at $20 billion. As I mentioned, you can see right here. <a href="https://www.cnbc.com/2021/03/26/uipath-files-s-1-for-ipo.html">CNBC reported UiPath</a> had 360 million in annual revenue at the time with more than 6,300 customers. So you can see it grew from 5,000 to 6,300. And customers include Amazon and Verizon, which I think is pretty important.
 
 UI pass AI automation platform yeah. Is meant to automate millions of repetitive mind-numbing tasks for businesses and governments. All over the world, improving productivity, customer experience and employee job satisfaction. Very well said. Gardner expects worldwide robotic process automation, RPA software revenue to reach about $2 billion this year.
 
@@ -184,7 +186,7 @@ Right. So that's why you're paying up a lot of times, you know, in advance on a 
 
 And I'll put the link in here. So you can go take a look at this, but I could spend an hour going through all this stuff. This is what I want to point out though. A winner take all market. The future of RPA market will be defined by its ability to break into more use cases with deeper business integration.
 
-There's a real opportunity to cross the cha the chasm and deliver useful low code systems, a subject matter expert in business areas that have strong potential to drive change. The idea of hyper automation is a buzz, a worthy word, but it has meaning. Companies that bring RP together will pro with process mining and machine intelligence, which is really what UiPath does.
+There's a real opportunity to cross the chasm and deliver useful low code systems, a subject matter expert in business areas that have strong potential to drive change. The idea of hyper automation is a buzz, a worthy word, but it has meaning. Companies that bring RP together will pro with process mining and machine intelligence, which is really what UiPath does.
 
 #### Invest in UiPath IPO
 
