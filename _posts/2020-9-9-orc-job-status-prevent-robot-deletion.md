@@ -27,9 +27,9 @@ If anything is in use, you cannot delete it.  All the other options the robot is
 As a refresher, here are all the possible job states:
 
 <table border="1">
-<tr border="1">
-  <th border="1">&nbsp;&nbsp;Job State&nbsp;&nbsp;</th>
-  <th border="1">&nbsp;&nbsp;Description &nbsp;&nbsp;</th>
+<tr>
+  <th>&nbsp;&nbsp;Job State&nbsp;&nbsp;</th>
+  <th>&nbsp;&nbsp;Description &nbsp;&nbsp;</th>
 </tr>
 <tr>
   <td>&nbsp;&nbsp;Pending&nbsp;&nbsp;</td>
@@ -69,6 +69,6 @@ As a refresher, here are all the possible job states:
 </tr>
  </table>
 
-For more information on Orchestrator job states, please see this <a href="https://docs.uipath.com/orchestrator/docs/job-states">link</a>
-
 If your goal is to terminate/delete the job, you will require administrative access and may have to look at killing any rogue jobs/processes. 
+
+For more information on Orchestrator job states, please see this <a href="https://docs.uipath.com/orchestrator/docs/job-states">link</a>
