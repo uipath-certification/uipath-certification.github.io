@@ -25,7 +25,12 @@ Option A is correct.
 If anything is in use, you cannot delete it.  All the other options the robot is in use in some capacity
 
 As a refresher, here are all the possible job states:
-<table border="1px solid black">
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+<table>
 <tr>
   <td>&nbsp;&nbsp;Job State&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;Description &nbsp;&nbsp;</td>
