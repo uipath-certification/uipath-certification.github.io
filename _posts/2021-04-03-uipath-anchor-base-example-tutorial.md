@@ -108,7 +108,7 @@ Find more from Anders Jensen on his <a href="https://andersjensen.org/">webpage.
 
             <div class="card-body">
 <!-- **************************** -->            
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Looking for a good UiPath Anchor Base tutorial? We&#39;ve added the <a href="https://twitter.com/andersjensenorg?ref_src=twsrc%5Etfw">@andersjensenorg</a> transcript so you can read and watch at the same time.<a href="https://twitter.com/hashtag/UiPath?src=hash&amp;ref_src=twsrc%5Etfw">#UiPath</a> <a href="https://twitter.com/hashtag/UiPathCertified?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertified</a> <a href="https://twitter.com/hashtag/RPACertified?src=hash&amp;ref_src=twsrc%5Etfw">#RPACertified</a> <a href="https://twitter.com/hashtag/RPA?src=hash&amp;ref_src=twsrc%5Etfw">#RPA</a> <a href="https://twitter.com/hashtag/RPACertification?src=hash&amp;ref_src=twsrc%5Etfw">#RPACertification</a> <a href="https://twitter.com/hashtag/UiPathTutorial?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathTutorial</a><a href="https://t.co/dN4E9rzXKX">https://t.co/dN4E9rzXKX</a> <a href="https://t.co/z0QKYGK5FO">pic.twitter.com/z0QKYGK5FO</a></p>&mdash; rpacertified (@rpacertified) <a href="https://twitter.com/rpacertified/status/1380133641003614211?ref_src=twsrc%5Etfw">April 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Interested in the <a href="https://twitter.com/UiPath?ref_src=twsrc%5Etfw">@UiPath</a> IPO? The best <a href="https://twitter.com/hashtag/UiPath?src=hash&amp;ref_src=twsrc%5Etfw">#UiPath</a> stock analysis we could find is from <a href="https://twitter.com/FIREDUpWealth?ref_src=twsrc%5Etfw">@FiredUpWealth</a>, so we&#39;ve profiled him and his insights. Here&#39;s what you need to know about the <a href="https://twitter.com/hashtag/UiPathIPO?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathIPO</a><a href="https://t.co/6lAv3GJNOs">https://t.co/6lAv3GJNOs</a> <a href="https://t.co/4yIp9lsUag">pic.twitter.com/4yIp9lsUag</a></p>&mdash; rpacertified (@rpacertified) <a href="https://twitter.com/rpacertified/status/1380514151039139840?ref_src=twsrc%5Etfw">April 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
@@ -122,16 +122,19 @@ Find more from Anders Jensen on his <a href="https://andersjensen.org/">webpage.
 	<div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card w-100">
             <div class="card-header">
-            UiPath Anchor Tutorial on YouTube
+            UiPath OCT Tutorial on YouTube
             </div>
 
             <div class="card-body">
-	Want to learn more about the UiPath Anchor Base activity?
+	    
+	Here's how to take UiPath OCR to the next level.
 	Check out this UiPath Youtube tutorial from <a href="http://www.twitter.com/cameronmcnz">@cameronmcnz</a>.	    
 	    
+<p/>	    
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rjtHXD2nI8Q"></iframe>
+<iframe class="embed-responsive-item" src="https://youtu.be/y-Yi9f4AnQA"></iframe>
 </div>
+<p/>
 #UiPath #UiPathCertified #RPACertified #RPA #RPACertification #UiPathTutorial
             </div>
         </div>
