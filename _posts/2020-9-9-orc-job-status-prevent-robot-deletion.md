@@ -84,6 +84,8 @@ What do these job statuses mean? This table provides a bit more detail:
  </table>
  
 <img src="https://files.readme.io/ed3d862-job_details.png" alt="Delete UiPath Job Robot/>
+                                                                
+### UiPath Job Deletion
 
 If your goal is to terminate or delete an RPA job in UiPath Orchestrator, you will require administrative access and may have to look at killing any rogue jobs or UiPath processes that are running.
 
