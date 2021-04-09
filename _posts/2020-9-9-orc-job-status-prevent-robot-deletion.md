@@ -5,8 +5,8 @@ title: Which job status(es) will prevent the deletion of an associated robot?
 blurb: Watch out for pending and running job statuses if you are asked how to delete an associate robot in Orchestrator on the UiPath Certification Exam.
 difficulty: 6
 objective: 8.1 Describe how to provision attended and unattended robots to UiPath Orchestrator
-canonical: https://www.rpacertified.com//2020/09/09/orc-job-status-prevent-robot-deletion.html
-keywords: job status, UiPath jobs, UiPath Status, UiPath Certification Status, UiPath Cert Jobs
+canonical: https://www.rpacertified.com/2020/09/09/orc-job-status-prevent-robot-deletion.html
+keywords: job status, delete UiPath robot, delete robot, UiPath jobs, UiPath Status, UiPath Certification Status, UiPath Cert Jobs
 ---
 
 <h1>UiPath Job Status Deletion</h1>
@@ -22,9 +22,23 @@ Question:  Which job status(es) will prevent the deletion of an associated robot
 
 If the UiPath jobs status is running or pending, the associated <a href="https://www.rpacertified.com/2020/09/09/orc-available-functions-for-attended-robot.html">UiPath Robot</a> cannot be deleted from UiPath Orchestrator. So option A is correct.
 
-###
+### UiPath Job Status List
 
-As a refresher, here are all the possible UiPath Orchestrator job states:
+These are the possible UiPath Orhcestrator job statuses for robots:
+
+- Pending
+- Running
+- Successful
+- Faulted
+- Stopping
+- Terminating
+- Suspended
+- Resumed
+- Stopped
+
+#### RPA Robot States
+
+What do these job statuses mean? This table provides a bit more detail:
 
 <table border="1" class="table table-striped">
 <tr>
