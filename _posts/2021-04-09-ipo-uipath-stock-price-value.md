@@ -14,22 +14,6 @@ canonical: https://www.rpacertified.com/2021/04/09/ipo-uipath-stock-price-value.
 <iframe src="https://www.youtube.com/embed/BZFG_BL_sd4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 
----
-layout: answered-question
-author: Jenny
-title: 'UiPath IPO: Price and Valuation Insights'
-blurb: 'Will the UiPath IPO be a boom or a bust? Here are the insights you need into the UiPath IPO price, value, news and IPO date. NYSE stock ticker symbol: PATH'
-difficulty: -1
-objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation
-canonical: https://www.rpacertified.com//2021/04/09/ipo-uipath-stock-price-value.html
----
-
-# UiPath IPO
-
-<div class="embed-responsive embed-responsive-16by9">
-<iframe src="https://www.youtube.com/embed/BZFG_BL_sd4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
-</div>
-
 What's up guys. Eric here, Mr. Fired-up wealth. If I told you that there was a robotic process automation company, that's really best of breed that might be coming out on IPO and you can actually own shares of the company. Would you want to learn more about the business? Well, that's exactly what we're going to cover today without further ado let's get started.
 
 ## What is RPA with UiPath?
