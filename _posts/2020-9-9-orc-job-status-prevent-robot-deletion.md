@@ -25,7 +25,7 @@ Option A is correct.
 If anything is in use, you cannot delete it.  All the other options the robot is in use in some capacity
 
 As a refresher, here are all the possible job states:
-<table>
+<table border="1px solid black">
 <tr>
   <td>&nbsp;&nbsp;Job State&nbsp;&nbsp;</td>
   <td>&nbsp;&nbsp;Description &nbsp;&nbsp;</td>
