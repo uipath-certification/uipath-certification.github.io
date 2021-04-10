@@ -36,6 +36,11 @@ These are the possible UiPath Orhcestrator job statuses for robots:
 - Resumed
 - Stopped
 
+ <figure class="figure">
+  <img src="https://files.readme.io/ed3d862-job_details.png" alt="Delete UiPath Job Robot" class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  <figcaption class="figure-caption">UiPath Orchestrator can report the robot job status, based on which you can decide if an associated robot can be deleted.</figcaption>
+</figure>
+
 #### RPA Robot States
 
 What do these job statuses mean? This table provides a bit more detail:
@@ -83,7 +88,9 @@ What do these job statuses mean? This table provides a bit more detail:
 </tr>
  </table>
  
-<img src="https://files.readme.io/ed3d862-job_details.png" alt="Delete UiPath Job Robot"/>
+ 
+
+ 
                                                                 
 ### UiPath Job Deletion
 
