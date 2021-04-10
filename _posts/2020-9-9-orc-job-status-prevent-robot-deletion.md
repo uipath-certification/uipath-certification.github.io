@@ -47,44 +47,44 @@ What do these UiPath robot job statuses mean? This table provides a bit more det
 
 <table border="1" class="table table-striped">
 <tr>
-  <th class="table-primary">&nbsp;&nbsp;Job Status &nbsp;&nbsp;</th>
-  <th class="table-primary">&nbsp;&nbsp;UiPath Orchestrator Job Status Detail &nbsp;&nbsp;</th>
+  <th class="table-primary"> Job Status  </th>
+  <th class="table-primary"> UiPath Orchestrator Job Status Detail  </th>
 </tr>
 <tr>
-  <td>&nbsp;&nbsp;Pending&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;Job is queued on the same Robot or it is trying to establish a connection with the Robot. Note that only different jobs on the same Robot can be queued. &nbsp;&nbsp;</td>
+  <td> Pending </td>
+  <td> Job is queued on the same Robot or it is trying to establish a connection with the Robot. Note that only different jobs on the same Robot can be queued.  </td>
 </tr>
 <tr>
-  <td>&nbsp;&nbsp;Running&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;The UiPath robot has started executing the designated process. &nbsp;&nbsp;</td>
+  <td> Running </td>
+  <td> The UiPath robot has started executing the designated process.  </td>
 </tr>
 <tr>
-  <td>&nbsp;&nbsp;Successful&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;The UiPath robot has finished running or has been stopped manually &nbsp;&nbsp;</td>
+  <td> Successful </td>
+  <td> The UiPath robot has finished running or has been stopped manually  </td>
 </tr>
 <tr>
-  <td>&nbsp;&nbsp;Faulted&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;The UiPath job failed to start or threw an unhandled error during execution &nbsp;&nbsp;</td>
+  <td> Faulted </td>
+  <td> The UiPath job failed to start or threw an unhandled error during execution  </td>
 </tr>
 <tr>
-  <td>&nbsp;&nbsp;Stopping&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;This job status is triggered by clicking the Stop button. &nbsp;&nbsp;</td>
+  <td> Stopping </td>
+  <td> This job status is triggered by clicking the Stop button.  </td>
 </tr>
 <tr>
-  <td>&nbsp;&nbsp;Terminating&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;Ths UiPath Orchestrator job status is triggered when the RPA admin clicks the Kill button in Uipath Orchestrator &nbsp;&nbsp;</td>
+  <td> Terminating </td>
+  <td> Ths UiPath Orchestrator job status is triggered when the RPA admin clicks the Kill button in Uipath Orchestrator  </td>
 </tr>
 <tr>
-  <td>&nbsp;&nbsp;Suspended&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;This job status is triggered to allow user intervention or completion of an intermediate automation process &nbsp;&nbsp;</td>
+  <td> Suspended </td>
+  <td> This job status is triggered to allow user intervention or completion of an intermediate automation process  </td>
 </tr>
 <tr>
-  <td>&nbsp;&nbsp;Resumed&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;Triggered when the UiPath job transitions from a suspended state after user task completion or completion of an intermediate process  &nbsp;&nbsp;</td>
+  <td> Resumed </td>
+  <td> Triggered when the UiPath job transitions from a suspended state after user task completion or completion of an intermediate process   </td>
 </tr>
 <tr>
-  <td>&nbsp;&nbsp;Stopped&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;A job is in this state if it stopped by using the Kill button, or by canceling it from the system tray before it finished executing and no errors were throws &nbsp;&nbsp;</td>
+  <td> Stopped </td>
+  <td> A job is in this state if it stopped by using the Kill button, or by canceling it from the system tray before it finished executing and no errors were throws  </td>
 </tr>
  </table>
                                                                 
