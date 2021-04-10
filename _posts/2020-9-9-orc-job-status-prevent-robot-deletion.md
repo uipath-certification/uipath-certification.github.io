@@ -119,15 +119,7 @@ If your goal is to terminate or delete an RPA job in UiPath Orchestrator, you wi
 
             <div class="card-body">
 	    
-	<p>Here's how to take UiPath Orchestrator skills to the next level.</p>
-	<p>Check out this UiPath Youtube tutorial from <a href="http://www.twitter.com/cameronmcnz">@cameronmcnz</a>.	 </p>  
-	    
-<p/>	    
-<div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/db3uqUmI3dI"></iframe>
-</div>
-<p/>
-<p>#UiPath #UiPathCertified #RPACertified #RPA #RPACertification #UiPathTutorial</p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s a great way to learn more about <a href="https://twitter.com/UiPath?ref_src=twsrc%5Etfw">@UiPath</a> Orchestrator and how attended and unattended <a href="https://twitter.com/hashtag/RPA?src=hash&amp;ref_src=twsrc%5Etfw">#RPA</a> robots are managed.<a href="https://twitter.com/hashtag/RPATools?src=hash&amp;ref_src=twsrc%5Etfw">#RPATools</a> <a href="https://twitter.com/hashtag/RPACloud?src=hash&amp;ref_src=twsrc%5Etfw">#RPACloud</a> <a href="https://twitter.com/hashtag/DevOps?src=hash&amp;ref_src=twsrc%5Etfw">#DevOps</a> <a href="https://twitter.com/hashtag/automation?src=hash&amp;ref_src=twsrc%5Etfw">#automation</a> <a href="https://twitter.com/hashtag/uipathcertified?src=hash&amp;ref_src=twsrc%5Etfw">#uipathcertified</a> <a href="https://twitter.com/hashtag/uipathassociate?src=hash&amp;ref_src=twsrc%5Etfw">#uipathassociate</a> <a href="https://twitter.com/hashtag/uipathcertification?src=hash&amp;ref_src=twsrc%5Etfw">#uipathcertification</a><a href="https://t.co/dDNogVY4lr">https://t.co/dDNogVY4lr</a> via <a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube</a></p>&mdash; Cameron McKenzie (@cameronmcnz) <a href="https://twitter.com/cameronmcnz/status/1380675000802418688?ref_src=twsrc%5Etfw">April 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </div>
         </div>
     </div>
@@ -136,3 +128,5 @@ If your goal is to terminate or delete an RPA job in UiPath Orchestrator, you wi
 
 
 For more information on Orchestrator job states, check out the <a href="https://docs.uipath.com/orchestrator/docs/job-states">documentation</a>
+
+<iframe src="https://www.youtube.com/embed/xtpk2RORXDA" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
