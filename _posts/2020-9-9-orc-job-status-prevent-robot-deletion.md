@@ -11,7 +11,7 @@ keywords: job status, delete UiPath robot, delete robot, UiPath jobs, UiPath Sta
 
 <h1>UiPath Job Status Deletion</h1>
 
-Question:  Which job status(es) will prevent the deletion of an associated robot?
+Question: Which job status(es) will prevent the deletion of an associated robot?
 
  - [X] &nbsp;  Running and Pending
  - [ ] &nbsp;  Faulted and Pending
@@ -20,7 +20,7 @@ Question:  Which job status(es) will prevent the deletion of an associated robot
 
 ## Answer
 
-If the UiPath jobs status is running or pending, the associated <a href="https://www.rpacertified.com/2020/09/09/orc-available-functions-for-attended-robot.html">UiPath Robot</a> cannot be deleted from UiPath Orchestrator. So option A is correct.
+If the UiPath job status is _running_ or _pending,_ the associated <a href="https://www.rpacertified.com/2020/09/09/orc-available-functions-for-attended-robot.html">UiPath Robot</a> cannot be deleted from UiPath Orchestrator. So option A is correct.
 
 ### UiPath Job Status List
 
@@ -43,44 +43,44 @@ These are the possible UiPath Orhcestrator job statuses for robots:
 
 #### RPA Robot States
 
-What do these job statuses mean? This table provides a bit more detail:
+What do these UiPath robot job statuses mean? This table provides a bit more detail:
 
 <table border="1" class="table table-striped">
 <tr>
-  <th class="table-primary">&nbsp;&nbsp;Job State&nbsp;&nbsp;</th>
-  <th class="table-primary">&nbsp;&nbsp;Description &nbsp;&nbsp;</th>
+  <th class="table-primary">&nbsp;&nbsp;UiPath Job Status &nbsp;&nbsp;</th>
+  <th class="table-primary">&nbsp;&nbsp;Orchestrator Job Status Detail &nbsp;&nbsp;</th>
 </tr>
 <tr>
   <td>&nbsp;&nbsp;Pending&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;Job is queued on the same Robot or it is trying to establish a connection with the Robot (only different jobs on the same Robot can be queued) &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;Job is queued on the same Robot or it is trying to establish a connection with the Robot. Note that only different jobs on the same Robot can be queued. &nbsp;&nbsp;</td>
 </tr>
 <tr>
   <td>&nbsp;&nbsp;Running&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;The robot has started executing the designated process. &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;The UiPath robot has started executing the designated process. &nbsp;&nbsp;</td>
 </tr>
 <tr>
   <td>&nbsp;&nbsp;Successful&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;The robot has finished running or has been stopped manually &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;The UiPath robot has finished running or has been stopped manually &nbsp;&nbsp;</td>
 </tr>
 <tr>
   <td>&nbsp;&nbsp;Faulted&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;The job failed to start or threw an unhandled error during execution &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;The UiPath job failed to start or threw an unhandled error during execution &nbsp;&nbsp;</td>
 </tr>
 <tr>
   <td>&nbsp;&nbsp;Stopping&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;Triggered by clicking the Stop button is pressed in Orchestrator &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;This job status is triggered by clicking the Stop button. &nbsp;&nbsp;</td>
 </tr>
 <tr>
   <td>&nbsp;&nbsp;Terminating&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;Triggered by clicking the Kill button in Orchestrator &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;Ths UiPath Orchestrator job status is triggered when the RPA admin clicks the Kill button in Uipath Orchestrator &nbsp;&nbsp;</td>
 </tr>
 <tr>
   <td>&nbsp;&nbsp;Suspended&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;Triggered with the purpose of allowing user intervention or completion of an intermediate process &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;This job status is triggered to allow user intervention or completion of an intermediate automation process &nbsp;&nbsp;</td>
 </tr>
 <tr>
   <td>&nbsp;&nbsp;Resumed&nbsp;&nbsp;</td>
-  <td>&nbsp;&nbsp;Triggered when the job transitions from the suspended state after user task completion or completion of an intermediate process  &nbsp;&nbsp;</td>
+  <td>&nbsp;&nbsp;Triggered when the UiPath job transitions from a suspended state after user task completion or completion of an intermediate process  &nbsp;&nbsp;</td>
 </tr>
 <tr>
   <td>&nbsp;&nbsp;Stopped&nbsp;&nbsp;</td>
