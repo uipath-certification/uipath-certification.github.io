@@ -38,7 +38,7 @@ These are the possible UiPath Orhcestrator job statuses for robots:
 
  <figure class="figure">
   <img src="https://files.readme.io/ed3d862-job_details.png" alt="Delete UiPath Job Robot" class="img-fluid mx-auto d-block img-thumbnail rounded ">
-  <figcaption class="figure-caption">UiPath Orchestrator can report the robot job status, based on which you can decide if an associated robot can be deleted.</figcaption>
+  <figcaption class="figure-caption">Ensure the UiPath Orchestrator job status is not running or pending if you wish to delete the associated robot. </figcaption>
 </figure>
 
 #### RPA Robot States
