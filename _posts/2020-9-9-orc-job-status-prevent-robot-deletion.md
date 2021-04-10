@@ -47,8 +47,8 @@ What do these UiPath robot job statuses mean? This table provides a bit more det
 
 <table border="1" class="table table-striped">
 <tr>
-  <th class="table-primary">&nbsp;&nbsp;UiPath Job Status &nbsp;&nbsp;</th>
-  <th class="table-primary">&nbsp;&nbsp;Orchestrator Job Status Detail &nbsp;&nbsp;</th>
+  <th class="table-primary">&nbsp;&nbsp;Job Status &nbsp;&nbsp;</th>
+  <th class="table-primary">&nbsp;&nbsp;UiPath Orchestrator Job Status Detail &nbsp;&nbsp;</th>
 </tr>
 <tr>
   <td>&nbsp;&nbsp;Pending&nbsp;&nbsp;</td>
