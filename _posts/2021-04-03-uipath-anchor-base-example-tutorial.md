@@ -132,7 +132,7 @@ Find more from Anders Jensen on his <a href="https://andersjensen.org/">webpage.
 	    
 <p/>	    
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://youtu.be/y-Yi9f4AnQA"></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/y-Yi9f4AnQA"></iframe>
 </div>
 <p/>
 #UiPath #UiPathCertified #RPACertified #RPA #RPACertification #UiPathTutorial
