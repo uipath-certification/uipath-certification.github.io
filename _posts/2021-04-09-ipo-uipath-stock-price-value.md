@@ -1,20 +1,20 @@
 ---
 layout: featured-post
 author: Jenny
-title: 'UiPath IPO: Price and Valuation Insights'
+title: 'UiPath IPO Analysis: Price and Valuation Insights'
 blurb: 'Will the UiPath IPO be a boom or a bust? Here are the insights you need into the UiPath IPO price, value, news and IPO date. NYSE stock ticker symbol: PATH'
 difficulty: -1
 keywords: UiPath, UiPath IPO, UiPath Stock Price, RPA Investment, UiPath Analysis, UiPath Stock Symbol, UiPath Stock Market, UiPath Stock Value, IPO News, Uipath News, RPA News
 canonical: https://www.rpacertified.com/2021/04/09/ipo-uipath-stock-price-value.html
 ---
 
-# UiPath IPO
+# UiPath IPO Analysis
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://www.youtube.com/embed/fumZ1NpRHcE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 
-## UiPath Stock Analysis
+## UiPath Stock Valuation
 
 _Editors Note: We were interested in doing research and analysis on the UiPath stock IPO (PATH), but felt we couldn't do much better than this video from Mr. FIRED Up Wealth. Here is a mildly edited transcript of the video. Enjoy._
 
@@ -27,6 +27,8 @@ Okay. The first thing we're going to do is we're going to talk about Robotic Pro
 Uh, business process, RPA robots utilize the user interface to capture data and manipulate applications, just like humans. Do they interpret trigger responses and communicate with other systems in order to perform on a vast variety of repetitive tasks? Only substantially better and RPA, a software robot never sleeps and makes zero mistakes.
 
 Now this is a cartoon kind of from their website that goes through and shows you the story behind UiPath and why RPA is so powerful. So important. It talks about, you know, why, why RPA needs to be adopted by businesses. And it really comes down to your employees, especially office workers. More and more are just bogged down with mundane tasks with data entry.
+
+## RPA Market Insights
 
 And they're not really focused on what they're getting paid for. And so how can we make that process more automated through robots so that our employees can be happy and productive because quite frankly, Who wants to just go to the office and data entry all day. And there, a lot of times these people are paid a lot of money, you know, $35 an hour or more to do data entry.
 
@@ -82,13 +84,15 @@ And they're important reasons for us to understand as investors, this infographi
 
 You want to make something real quick. You want to do a quick and simple automation. You're going to manage, deploy and optimize automation, uh, at enterprise scale. So you want to build a scale up for any size organization. You can run. Automations through robots that will work with applications and data, of course engage people and robots as one team for seamless process collaboration.
 
-## UiPath IPO Investment Facts
+## RPA Stock Investment Facts
 
 That's very powerful, quick facts about UiPath. This is good information. So they've been a leader in every Gartner magic quadrant, Forrester wave and Everest peak matrix for RPA. So they are considered best of breed. Read number one in all major independent user review sites for RPA, including gardener, peer sites.
 
 Trust radius all the big ones. Right? So they're number one in all major independent reviews. They're on the disruptor. 50 from CNBC they're on the Forbes, AI 50, they're the only RPA provider named to the Forbes, AI 50 in 2020. So next I want to show you some quick infographics here. This here is the magic quadrant.
 
 You probably see it quite a bit. If you follow especially software and in SAS. You know, Gardner does these magic quadrants really to show you the best of breed. And so you can see in the top right-hand side of that magic quadrant, the leader's UiPath is the top. You see other companies in there like Microsoft, you see other companies like SAP, there's that blue prism in there, but a UiPath is really considered best of breed.
+
+## Analysis of UiPath IPO Price
 
 They have 40 offices around the world. They were actually created originally. And Romania, and they now are headquartered in New York city, but you can see all the different offices. They're very global. Now this is a cool infographic. I got from a white paper. This is from Gardner research and it says just a few automations can save 20 minutes of work per person, daily, enabling 10,000 employees with a software robot will save more than $30 million a year.
 
@@ -126,7 +130,7 @@ And machine learning process, mining decision management, and more can be used t
 
 And it's talking about all the different things you can use it for. So industry specific processes here and up here, it says potential for RPA low to high. So this dark blue is kind of low potential for RPA. This, this orange color, the bright orange color is high potential for RPA. And you can see that there, you know, you can see in banking there's, um, there's quite a bit for the accounts receivable, the accounts payable, the general ledger and manufacturing as well.
 
-#### UiPath IPO Financials
+#### UiPath IPO Price Financials
 
 You can see the different areas. So. Uh, banking financials, they have here card activation. Could it be something that robots could help with? Um, RPA frauds claim discovery is another one insurance. You've got claims processing and new business preparation. You think of lemonade insurance. They use like AI chat bots and there's, there's quite a few different insurance industry or Sharon's companies in the insurance industry that use claims processing bots like that.
 
