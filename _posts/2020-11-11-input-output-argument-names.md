@@ -1,7 +1,7 @@
 ---
 layout: answered-question
 author: Serge
-title: how to name UiPath Arguments
+title: Names for UiPath Arguments
 blurb: In and Out isn't just for burgers. It's for UiPath arguments too. Know your UiPath Argument naming conventions to pass the Associate and Developer UiPath exams.
 difficulty: 7
 objective: 
@@ -32,8 +32,9 @@ The UiPath Studio analyser uses the following RegEx to validate an argument that
 
 Make sure you know the <a href="https://www.rpacertified.com/2020/10/10/variable-naming-conventions.html">UiPath naming conventions,</a> or else you'll lose easy marks on the Associate exam.
 
+Find our more about <a href="https://www.rpacertified.com/2020/11/11/input-output-argument-names.html">UiPath Agrument naming conventions</a> and <a href="https://www.rpacertified.com/2020/10/10/variable-naming-conventions.html">UiPath Variable Naming conventions.</a>
 
-
+You can also reference the [docmentation](https://docs.uipath.com/studio/v2019/docs/st-nmg-002).
 
 
 <div class="row">
