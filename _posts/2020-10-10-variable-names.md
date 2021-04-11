@@ -30,7 +30,7 @@ The regex UiPath uses to validate variable names is `([A-Z]|[a-z])+([A-Z]|[a-z]|
 
 Okay, RegEx is as confusing as hell, so nobody expects you to understand that. But what you need to know is that variable names must be camel cased, start with a letter, and the second letter has to be a character too. The fact that the second character can't be a number throws a lot of people off.
 
-Make sure you know the <a href="https://www.rpacertified.com/2020/10/12/variable-naming-conventions-test.html">UiPath naming conventions</> well before you schedule your UiPath Associate Exam test taking.
+Make sure you know the <a href="https://www.rpacertified.com/2020/10/10/variable-naming-conventions.html">UiPath naming conventions</a> well before you schedule your UiPath Associate Exam test taking.
   
   
 
