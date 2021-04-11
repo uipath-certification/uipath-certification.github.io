@@ -1,7 +1,7 @@
 ---
 layout: answered-question
 author: Serge
-title: UiPath Arguments Naming Conventions
+title: how to name UiPath Arguments
 blurb: In and Out isn't just for burgers. It's for UiPath arguments too. Know your UiPath Argument naming conventions to pass the Associate and Developer UiPath exams.
 difficulty: 7
 objective: 
