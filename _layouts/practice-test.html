@@ -60,14 +60,16 @@ function triggerLoginCheck() {
     //statusChangeCallback(response);
     console.log(response);
     console.log(response.status);
-    if (response.status == 'connected'){
+    //if (response.status == 'connected'){
+    if (true){
 		//set cheat visible
 	    	console.log("authenticated user");
 		document.getElementById("answerCardBody").classList.remove('d-none');
 		document.getElementById("answerCardBodyDefault").classList.add('d-none');
     }
     
-    if (response.status == 'not_authorized'){
+    //if (response.status == 'not_authorized'){
+    if (false){
 		//set cheat invisible
 		document.getElementById("answerCardBodyDefault").classList.remove('d-none');
 		document.getElementById("answerCardBody").classList.add('d-none');
