@@ -25,8 +25,9 @@ The correct answer is out_name, as it complies with the UiPath argument naming R
 - OutRegex: ^out_(dt_)?([A-Z]|[a-z])+([0-9])*$
 - InOutRegex: ^io_(dt_)?([A-Z]|[a-z])+([0-9])*$.
 
+Find our more about <a href="https://www.rpacertified.com/2020/11/11/input-output-argument-names.html">UiPath Agrument naming conventions</a> and <a href="https://www.rpacertified.com/2020/10/10/variable-naming-conventions.html">UiPath Variable Naming conventions.</a>
 
-More  [details](https://docs.uipath.com/studio/v2019/docs/st-nmg-002) on how to name arguments here.
+You can also reference the [docmentation](https://docs.uipath.com/studio/v2019/docs/st-nmg-002).
 
 
 <div class="row">
