@@ -231,7 +231,7 @@ According to this article, it could be, you know, one company takes all and that
 	Check out this UiPath Youtube tutorial from <a href="http://www.twitter.com/cameronmcnz">@cameronmcnz</a>.	    
 	    
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rjtHXD2nI8Q"></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/KCCBJ711Z5Q"></iframe>
 </div>
 #UiPath #UiPathCertified #RPACertified #RPA #RPACertification #UiPathTutorial
             </div>
