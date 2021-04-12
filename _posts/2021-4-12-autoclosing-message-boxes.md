@@ -42,3 +42,5 @@ Once all are filled in, run the workflow to see that it appears to be a regular 
 This will achieve automating your Message Box and keep the workflow going. While the goal is to erase and remove these Message Boxes when the developer has finished debugging, if one of these Message Boxes remain in the workflow, it will slow down the workflow but it will not cause any errors or hang the automation. This is another drawback of the regular Message Box.
 
 Please leave a comment on the article, add us on Facebook, follow us on Twitter and LinkedIn. Tell us what your favorite debugging tool is. Would you use this tool? Let us know here at RPACertified.
+
+<img src="https://www.rpacertified.com/assets/Messagebox-gone-Meme.jpg"/>
