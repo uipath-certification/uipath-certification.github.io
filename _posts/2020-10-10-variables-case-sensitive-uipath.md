@@ -33,12 +33,12 @@ This old forum talks about the issue in more [detail](https://forum.uipath.com/t
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card  w-100">
             <div class="card-header">
-            UiPath on Twitter
+            Join the Conversation on Twitter
             </div>
 
             <div class="card-body">
 <!-- **************************** -->            
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How well do you know your <a href="https://twitter.com/UiPath?ref_src=twsrc%5Etfw">@UiPath</a> naming conventions? Don&#39;t get tricked up on this on the <a href="https://twitter.com/hashtag/UiPathCertification?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertification</a> exam.<a href="https://twitter.com/hashtag/UiPathAssociate?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathAssociate</a> <a href="https://twitter.com/hashtag/UiPathDeveloper?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathDeveloper</a> <a href="https://twitter.com/hashtag/UiPathCertified?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertified</a> <a href="https://twitter.com/hashtag/RPA?src=hash&amp;ref_src=twsrc%5Etfw">#RPA</a> <a href="https://twitter.com/hashtag/RPACertified?src=hash&amp;ref_src=twsrc%5Etfw">#RPACertified</a> <a href="https://twitter.com/hashtag/RPATools?src=hash&amp;ref_src=twsrc%5Etfw">#RPATools</a><a href="https://t.co/FOuRypB49p">https://t.co/FOuRypB49p</a> <a href="https://t.co/QpDdoFXast">pic.twitter.com/QpDdoFXast</a></p>&mdash; rpacertified (@rpacertified) <a href="https://twitter.com/rpacertified/status/1381316612574343172?ref_src=twsrc%5Etfw">April 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Are you sensitive? Case sensitive? Do you know if <a href="https://twitter.com/UiPath?ref_src=twsrc%5Etfw">@UiPath</a> is or not?<a href="https://twitter.com/hashtag/RPA?src=hash&amp;ref_src=twsrc%5Etfw">#RPA</a> <a href="https://twitter.com/hashtag/RPAProgramming?src=hash&amp;ref_src=twsrc%5Etfw">#RPAProgramming</a> <a href="https://twitter.com/hashtag/UiPathCertified?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertified</a> <a href="https://twitter.com/hashtag/UiPathExam?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathExam</a> <a href="https://twitter.com/hashtag/UiPathStudio?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathStudio</a><a href="https://t.co/ASZRFVzFw7">https://t.co/ASZRFVzFw7</a> <a href="https://t.co/yEEifjLLak">pic.twitter.com/yEEifjLLak</a></p>&mdash; rpacertified (@rpacertified) <a href="https://twitter.com/rpacertified/status/1381406846326616066?ref_src=twsrc%5Etfw">April 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
 
