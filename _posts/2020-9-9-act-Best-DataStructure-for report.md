@@ -28,3 +28,6 @@ While you could argue that a string is a collection of characters and you should
 As a generic type cannot be a collection, we cannot use this to store months.
 
 For more information regarding <a href="https://docs.uipath.com/studio/docs/the-for-each-activity">For Each </a>loops and <a href="https://docs.uipath.com/studio/docs/types-of-variables">datatypes</a>, please click on the links.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What&#39;s your answer?<a href="https://twitter.com/hashtag/UiPathExam?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathExam</a> <a href="https://twitter.com/hashtag/RPA?src=hash&amp;ref_src=twsrc%5Etfw">#RPA</a> <a href="https://twitter.com/hashtag/RPAProgramming?src=hash&amp;ref_src=twsrc%5Etfw">#RPAProgramming</a> <a href="https://twitter.com/hashtag/UiPathCertified?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertified</a> <a href="https://twitter.com/hashtag/UiPathStudio?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathStudio</a><a href="https://t.co/mahDQMRDQt">https://t.co/mahDQMRDQt</a> <a href="https://t.co/xEq8b7pk1C">pic.twitter.com/xEq8b7pk1C</a></p>&mdash; Sergio Salerno (@salernos316) <a href="https://twitter.com/salernos316/status/1381561191407964160?ref_src=twsrc%5Etfw">April 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
