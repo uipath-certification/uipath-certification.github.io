@@ -5,7 +5,7 @@ title: Datatype best suited within a for each activity.
 blurb: When using a for each activity in UiPath you need to know the datatypes that it can handle and which suits a particular problem.
 difficulty: 6
 objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation
-canonical: 
+canonical: https://www.rpacertified.com/2020/09/09/act-Best-DataStructure-for-report.html
 ---
 
 <h1>What is the best datatype for iterating through months of the year within UiPath using a for each activity?</h1>
