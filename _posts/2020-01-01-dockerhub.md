@@ -6,6 +6,11 @@ blurb: Here's how to push stuff to dockerhub.
 
 ---
 
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://youtu.be/embed/vkZ6aXjHFCU" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+</div>
+
+
 CTRL+SHIFT+C to copy a container or image id
 CTRL+SHIFT+V to paste
 
