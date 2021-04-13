@@ -27,34 +27,48 @@ https://www.rpacertified.com/2021/04/12/kubernetes-quiz.html
 
 
 ### Run the image on http://localhost:8066
+
 sudo -i
 ### docker pull cameronmcnz/cross-spock-lizard
+
 docker run -p 8066:8080 -t cameronmcnz/cross-spock-lizard
 
 ### Get the container id and open the OS
 
 docker ps
+
 docker exec –it aabbccddeefff00 /bin/ash
+
 touch echo “Ridley Bent” >> imarockstar.txt
+
 ls
+
 exit
 
 ### Create a new image
 
 docker commit aabbccddeefff00 ridley:v1.0
+
 docker images
+
 docker run -p 8099:8080 –t ridley:v1.0
 
 ### Get the image id and tag it
+
 docker images
+
 docker tag <imageid> cameronmcnz/ridley:latest
   
   
 ### Push the image to dockerhub  
+
 docker login 
+
 ### cameronmcnz
 ### autoBAHn.
+
 docker push cameronmcnz/ridley:latest
+
 docker logout
 
 
