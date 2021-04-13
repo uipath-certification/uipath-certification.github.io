@@ -18,7 +18,8 @@ https://hub.docker.com/u/cameronmcnz
 
 ### Run the image on http://localhost:8066
 sudo -i
-sudo docker run -p 8066:8080 -t cameronmcnz\spock-lizard-cameron
+### docker pull cameronmcnz/cross-spock-lizard
+docker run -p 8066:8080 -t cameronmcnz/cross-spock-lizard
 
 ### Get the container id and open the OS
 
@@ -40,7 +41,10 @@ docker tag <imageid> cameronmcnz/ridley:latest
   
   
 ### Push the image to dockerhub  
-docker login –username=cameronmcnzdocker push cameronmcnz/ridley:latest
+docker login 
+### cameronmcnz
+### autoBAHn.
+docker push cameronmcnz/ridley:latest
 docker logout
 
 
