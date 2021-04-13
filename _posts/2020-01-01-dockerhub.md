@@ -6,12 +6,12 @@ blurb: Here's how to push stuff to dockerhub.
 
 ---
 
-
+CTRL+SHIFT+C to copy a container or image id
+CTRL+SHIFT+V to paste
 
 https://github.com/learn-devops-fast/rock-paper-scissors
-![image](https://user-images.githubusercontent.com/72342420/114593811-85295400-9c5a-11eb-9369-204ebcb6bd18.png)
 https://hub.docker.com/u/cameronmcnz
-![image](https://user-images.githubusercontent.com/72342420/114593837-8ce8f880-9c5a-11eb-81c3-7cc5697eaebe.png)
+
 
 
 <pre>
@@ -41,6 +41,7 @@ docker tag <imageid> cameronmcnz/ridley:latest
   
 ### Push the image to dockerhub  
 docker login –username=cameronmcnzdocker push cameronmcnz/ridley:latest
+docker logout
 
 
 </pre>
