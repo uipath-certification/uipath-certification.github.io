@@ -15,7 +15,7 @@ https://hub.docker.com/u/cameronmcnz
 
 
 
-<pre>
+
 
 ### Run the image on http://localhost:8066
 sudo -i
@@ -49,4 +49,4 @@ docker push cameronmcnz/ridley:latest
 docker logout
 
 
-</pre>
+
