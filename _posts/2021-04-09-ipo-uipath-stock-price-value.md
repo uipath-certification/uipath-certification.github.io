@@ -18,6 +18,8 @@ canonical: https://www.rpacertified.com/2021/04/09/ipo-uipath-stock-price-value.
 
 Many RPA developers have been asking for insights on the UiPath stock IPO. We found this overview to be particularly insightful, so we are recommending it as a starting point for anying that is interested in investing.
 
+For more investment insights, follow <a href="http://www.twitter.com/FIREDUpWealth">@FIREDUpWealth</a> on Twitter.
+
 
 
 <div class="row">
