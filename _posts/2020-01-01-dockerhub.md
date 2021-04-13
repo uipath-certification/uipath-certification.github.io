@@ -10,16 +10,20 @@ Docker Example
 <iframe src="https://www.youtube.com/embed/vkZ6aXjHFCU" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 
-
+## Some hints:
 CTRL+SHIFT+C to copy a container or image id
 CTRL+SHIFT+V to paste
+
+## Useful Links:
 
 https://github.com/learn-devops-fast/rock-paper-scissors
 
 https://hub.docker.com/u/cameronmcnz
 
+https://www.rpacertified.com/2021/04/12/kubernetes-quiz.html
 
 
+## Commands to run in your VM!
 
 
 ### Run the image on http://localhost:8066
