@@ -23,6 +23,76 @@
    </head>		
 	
    <body>
+   
+<!-- facebook login -->
+<script>
+
+  var facebookResponse;
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '287616246137792',
+      cookie     : true,
+      xfbml      : true,
+      version    : 'v10.0'
+    });
+    
+    FB.AppEvents.logPageView();   
+    triggerLoginCheck();
+      
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+	
+	
+function checkLoginState() {
+	triggerLoginCheck()
+}	
+	
+function triggerLoginCheck() {       
+ FB.getLoginStatus(function(response) {
+	facebookResponse = response;
+    //statusChangeCallback(response);
+    console.log(response);
+    console.log(response.status);
+    //if (response.status == 'connected'){
+    if (true){
+		//set cheat visible
+	    	console.log("authenticated user");
+		document.getElementById("answerCardBody").classList.remove('d-none');
+		document.getElementById("answerCardBodyDefault").classList.add('d-none');
+    }
+    
+    //if (response.status == 'not_authorized'){
+    if (false){
+		//set cheat invisible
+		document.getElementById("answerCardBodyDefault").classList.remove('d-none');
+		document.getElementById("answerCardBody").classList.add('d-none');
+	    FB.login();
+    }
+	
+	
+	
+	
+ });
+}	
+
+function collapseAndExpand() {
+console.log("start collapse and expand");
+	document.getElementById('answerCardBody').classList.toggle('collapse');
+	document.getElementById('answerCardBodyDefault').classList.toggle('collapse');
+console.log("end collapse and expand");
+}
+
+</script>	      
+   
+   
+   
       <div class="container">
          <div class="row">
 {% include navigation.html %}  
@@ -170,7 +240,9 @@
     handleFencepostButtons();
      
     if (exam.graded) {
-      highlightCorrectAnswers();
+		//if (facebookResponse.status == 'connected') {
+			highlightCorrectAnswers();
+	    //}
     } else {
       clearHighlightedAnswers();
     }
@@ -261,20 +333,31 @@
    	let correctCount = 0; 
    	for (i = 0; i < exam.questions.length; i++) {
    		let correct = true;
-   		for (j = 0; j < exam.questions[i].options.length; j++) {
-   			correct = (exam.questions[i].options[j].checked == exam.questions[i].options[j].correct);
-   			if (correct == false) {
-   				
-   				document.getElementById('jumpTo'+i).setAttribute('class', 'btn btn-danger  mr-2');
-   				break;
-   			} else {
-   				document.getElementById('jumpTo'+i).setAttribute('class', 'btn btn-success  mr-2');
-   			}
-   		}
+		if (facebookResponse.status == 'connected') {
+			for (j = 0; j < exam.questions[i].options.length; j++) {
+				correct = (exam.questions[i].options[j].checked == exam.questions[i].options[j].correct);
+				if (correct == false) {
+					document.getElementById('jumpTo'+i).setAttribute('class', 'btn btn-danger  mr-2');
+					break;
+				} else {
+					document.getElementById('jumpTo'+i).setAttribute('class', 'btn btn-success  mr-2');
+				}
+			}
+		}
    		if (correct) {correctCount++}
    	}
-    highlightCorrectAnswers();
-   	document.getElementById('score').innerHTML = 'You got '  + correctCount + ' out of ' + exam.questions.length + ' correct.';
+	
+	if (facebookResponse.status == 'connected') {
+		highlightCorrectAnswers();
+	}
+   	
+	wrongCount = exam.questions.length - correctCount;
+	if (facebookResponse.status == 'connected') {
+		document.getElementById('score').innerHTML = 'You got '  + correctCount + ' out of ' + exam.questions.length + ' correct.';
+	} else {
+		document.getElementById('score').innerHTML = 'Login with Facebook to find out which question(s) you got right, and which ones you got wrong.';
+	}
+	
     document.getElementById('finish').setAttribute('class', 'invisible');
    }
    
@@ -326,16 +409,32 @@
    </div>
    <div class="card mt-2">
       <div class="card-header" id="answerCard">
-         <a  onclick="document.getElementById('answerCardBody').classList.toggle('collapse');" >Click for Answers and Cheats</a>
+         <a  onclick="collapseAndExpand()" >Click for Answers and Cheats</a>
       </div>
-      <div class="card-body collapse" id="answerCardBody">
+      <div class="card-body collapse d-none" id="answerCardBody">
          <h3 class="card-title" id="answer"></h3>
          <p>Click this button to cheat.</p>
          <a  id="cheat" class="btn btn-warning my-2" onclick="highlightCorrectAnswers()">Cheat</a>
          <h3>Full Answer</h3>
-         <p class="card-text">If that's not enough, here's the detailed UiPath Certification question answer.</p>
+         <p class="card-text">If the cheat is not enough, here's the detailed UiPath Certification question answer:</p>
          <p class="card-text"><a  id="answerLink" target="_blank">Answer opens in a new window.</a></p>
       </div>
+	  
+	  <div class="card-body " id="answerCardBodyDefault">
+         <h3 class="card-title" id="answer"></h3>
+         <p class="card-text">Our cheats are awesome!</p>
+		 <p class="card-text">We'd just appreciate it if you logged into our rpacertified Facebook app to gain access to it.</p>
+		 
+
+         <p class="card-text">The cheat will tell you the right answer, link to documentation and explain why a certain option is right, and why other options are wrong.</p>
+			<fb:login-button 
+			  scope="public_profile,email"
+			  onlogin="checkLoginState();">
+			</fb:login-button>
+		  
+      </div>
+	  
+	  
    </div>
    <!-- Modal -->
    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -1133,7 +1232,7 @@
          "3.0", "3.0"
       ]},
 
-	  {id:61, query:"Which of the following are correct?",  "answer":"https://github.com/learn-devops-fast/rock-paper-scissors/wiki/Fun-with-Docker", "difficulty": "5",
+	  {id:61, query:"Which of the following are correct?",  "answer":"answer", "difficulty": "5",
 			options:[
 			{text:"A docker image is akin to a virtual machine image", correct:true, selected:false}, 
 			{text:"A docker image is akin to an EC2 instance", correct:false, selected:false},
@@ -1146,16 +1245,16 @@
 
 	  {id:62, query:"Which of the following are correct?",  "answer":"answer", "difficulty": "5",
 			options:[
-			{text:"Docker images can be built", correct:true, selected:false}, 
+			{text:"Docker images can be built", correct:false, selected:false}, 
 			{text:"Docker containers can be built", correct:false, selected:false},
 			{text:"Docker images can be started and stopped", correct:false, selected:false},
-			{text:"Docker containers can be started and stopped", correct:true, selected:false}
+			{text:"Docker containers can be started and stopped", correct:false, selected:false}
 			],
       "objectives":[
          "3.0", "3.0"
       ]},
 
-	  {id:63, query:"Docker containers are:",  "answer":"https://www.dictionary.com/browse/phantasmagoric", "difficulty": "5",
+	  {id:63, query:"Docker images are:",  "answer":"https://www.dictionary.com/browse/phantasmagoric", "difficulty": "5",
 			options:[
 			{text:"idempotent", correct:false, selected:false}, 
 			{text:"immutable", correct:false, selected:false},
@@ -1177,7 +1276,7 @@
          "3.0", "3.0"
       ]},
 
-	  {id:65, query:"Information on how to build a Docker image is stored in a:",  "answer":"https://github.com/learn-devops-fast/rock-paper-scissors/wiki/Fun-with-Docker", "difficulty": "5",
+	  {id:65, query:"Information on how to build a Docker image is stored in a:",  "answer":"answer", "difficulty": "5",
 			options:[
 			{text:"Dockerfile", correct:true, selected:false}, 
 			{text:"Jenkinsfile", correct:false, selected:false},
@@ -1188,7 +1287,7 @@
          "3.0", "3.0"
       ]},
 
-	  {id:66, query:"Which of the following two commands will successfully build a Docker image:",  "answer":"https://github.com/learn-devops-fast/rock-paper-scissors/wiki/Fun-with-Docker", "difficulty": "5",
+	  {id:66, query:"Which of the following two commands will successfully build a Docker image:",  "answer":"answer", "difficulty": "5",
 			options:[
 			{text:"docker compose -t rps-image:v1.0", correct:false, selected:false}, 
 			{text:"docker build -t rps-image:v1.0", correct:false, selected:false},
@@ -1221,7 +1320,7 @@
          "3.0", "3.0"
       ]},
 
-	  {id:69, query:"How do you run an Ubuntu docker container in interative mode?",  "answer":"https://github.com/learn-devops-fast/rock-paper-scissors/wiki/Fun-with-Docker", "difficulty": "5",
+	  {id:69, query:"How do you run an Ubuntu docker container in interative mode?",  "answer":"answer", "difficulty": "5",
 			options:[
 			{text:"docker run --hostname basic_host ubuntu /bin/bash", correct:false, selected:false}, 
 			{text:"docker run -i", correct:true, selected:false},
@@ -1232,7 +1331,7 @@
          "3.0", "3.0"
       ]},
 
-	  {id:70, query:"Which of the following commands will remove a docker container?",  "answer":"https://github.com/learn-devops-fast/rock-paper-scissors/wiki/Fun-with-Docker", "difficulty": "5",
+	  {id:70, query:"Which of the following commands will remove a docker container?",  "answer":"", "difficulty": "5",
 			options:[
 			{text:"Dockerfile remove *containerid*", correct:false, selected:false}, 
 			{text:"Dockerfile rmi *containerid*", correct:false, selected:false},
@@ -1242,63 +1341,6 @@
       "objectives":[
          "3.0", "3.0"
       ]},
-
-	  {id:71, query:"Which of the following is true?",  "answer":"https://stackoverflow.com/questions/34782678/difference-between-running-and-starting-a-docker-container", "difficulty": "5",
-			options:[
-			{text:"You run a container id", correct:false, selected:false}, 
-			{text:"You run an image id", correct:true, selected:false},
-			{text:"You start a container id", correct:true, selected:false},
-			{text:"You run an image id", correct:false, selected:false}
-			],
-      "objectives":[
-         "3.0", "3.0"
-      ]},
-
-	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
-			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
-			],
-      "objectives":[
-         "3.0", "3.0"
-      ]},
-
-	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
-			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
-			],
-      "objectives":[
-         "3.0", "3.0"
-      ]},
-
-	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
-			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
-			],
-      "objectives":[
-         "3.0", "3.0"
-      ]},
-
-	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
-			options:[
-			{text:"aaaaa", correct:false, selected:false}, 
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false},
-			{text:"aaaaa", correct:false, selected:false}
-			],
-      "objectives":[
-         "3.0", "3.0"
-      ]},	  
-
-			  
 
 	  {id:71, query:"A cloud-native, microservice app will be packaged and deployed:",  "answer":"answer", "difficulty": "5",
 			options:[
@@ -1311,7 +1353,7 @@
          "3.0", "3.0"
       ]},
 
-	  {id:30, query:"The Docker logo is a:",  "answer":"https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png", "difficulty": "5",
+	  {id:72, query:"The Docker logo is a:",  "answer":"https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png", "difficulty": "5",
 			options:[
 			{text:"Butler", correct:false, selected:false}, 
 			{text:"Sailboat", correct:false, selected:false},
@@ -1322,7 +1364,7 @@
          "3.0", "3.0"
       ]},
 
-	  {id:30, query:"A group of killer whales hunting together is known as a:",  "answer":"https://youtu.be/-oqAU5VxFWs", "difficulty": "5",
+	  {id:73, query:"A group of killer whales hunting together is known as a:",  "answer":"https://youtu.be/-oqAU5VxFWs", "difficulty": "5",
 			options:[
 			{text:"congress", correct:false, selected:false}, 
 			{text:"mob", correct:false, selected:false},
@@ -1333,7 +1375,7 @@
          "3.0", "3.0"
       ]},
 
-	  {id:30, query:"An Kubernetes parlance, an individual, standalone computer that performs work is known as a:",  "answer":"https://kubernetes.io/docs/concepts/overview/components/", "difficulty": "5",
+	  {id:74, query:"An Kubernetes parlance, an individual, standalone computer that performs work is known as a:",  "answer":"https://kubernetes.io/docs/concepts/overview/components/", "difficulty": "5",
 			options:[
 			{text:"Node", correct:true, selected:false}, 
 			{text:"VM", correct:false, selected:false},
@@ -1344,7 +1386,7 @@
          "3.0", "3.0"
       ]},
 
-	  {id:30, query:"The Kubernetes master servers that manage configuration are said to be part of the:",  "answer":"https://kubernetes.io/docs/concepts/overview/components/", "difficulty": "5",
+	  {id:75, query:"The Kubernetes master servers that manage configuration are said to be part of the:",  "answer":"https://kubernetes.io/docs/concepts/overview/components/", "difficulty": "5",
 			options:[
 			{text:"Worker Plane", correct:false, selected:false}, 
 			{text:"Kubernetes Plane", correct:false, selected:false},
@@ -1356,7 +1398,7 @@
       ]},	  
 	  
 	  
-	  {id:30, query:"All of the nodes participating in a Kubernetes configuration is known as a:",  "answer":"answer", "difficulty": "5",
+	  {id:76, query:"All of the nodes participating in a Kubernetes configuration is known as a:",  "answer":"answer", "difficulty": "5",
 			options:[
 			{text:"group", correct:false, selected:false}, 
 			{text:"physical cluster", correct:true, selected:false},
@@ -1368,7 +1410,7 @@
       ]},	 
 	  
 	  
-	  {id:30, query:"Which one of the following two is not installed as part of the Kubernetes master?",  "answer":"https://kubernetes.io/docs/concepts/overview/components/", "difficulty": "5",
+	  {id:77, query:"Which one of the following two is not installed as part of the Kubernetes master?",  "answer":"https://kubernetes.io/docs/concepts/overview/components/", "difficulty": "5",
 			options:[
 			{text:"container runtime", correct:true, selected:false}, 
 			{text:"kubelet", correct:true, selected:false},
@@ -1380,7 +1422,7 @@
       ]},	 
 	  
 	  
-	  {id:30, query:"Which one of the following is not installed as part of the Kubernetes worker node?",  "answer":"https://kubernetes.io/docs/concepts/overview/components/", "difficulty": "5",
+	  {id:78, query:"Which one of the following is not installed as part of the Kubernetes worker node?",  "answer":"https://kubernetes.io/docs/concepts/overview/components/", "difficulty": "5",
 			options:[
 			{text:"cloud-controller-manager", correct:false, selected:false}, 
 			{text:"etcd configuration database", correct:false, selected:false},
@@ -1392,7 +1434,7 @@
       ]},	 
 	  
 	  
-	  {id:30, query:"In a large Kubernetes deployment, isolated access to resources (pods, services, replica sets) can be provisioned through a:",  "answer":"https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/", "difficulty": "5",
+	  {id:79, query:"In a large Kubernetes deployment, isolated access to resources (pods, services, replica sets) can be provisioned through a:",  "answer":"https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/", "difficulty": "5",
 			options:[
 			{text:"control group", correct:false, selected:false}, 
 			{text:"namespace", correct:true, selected:false},
@@ -1404,7 +1446,7 @@
       ]},	 
 	  
 	  
-	  {id:30, query:"Four nodes in your 20 node cluster have GeForce RTX 3080 GPUs specifically optimized for bitcoin mining. These nodes should be configured with:",  "answer":"https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/", "difficulty": "5",
+	  {id:80, query:"Four nodes in your 20 node cluster have GeForce RTX 3080 GPUs specifically optimized for bitcoin mining. These nodes should be configured with:",  "answer":"https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/", "difficulty": "5",
 			options:[
 			{text:"an annotation indicating their Bitcoin processing optimization", correct:false, selected:false}, 
 			{text:"a note indicating their Bitcoin processing optimization", correct:false, selected:false},
@@ -1416,7 +1458,7 @@
       ]},	 
 	  
 	  
-	  {id:30, query:"Decisions about workload management and scaling are typically part of:",  "answer":"https://kubernetes.io/docs/concepts/workloads/controllers/deployment/", "difficulty": "5",
+	  {id:81, query:"Decisions about workload management and scaling are typically part of:",  "answer":"https://kubernetes.io/docs/concepts/workloads/controllers/deployment/", "difficulty": "5",
 			options:[
 			{text:"development", correct:false, selected:false}, 
 			{text:"deployment", correct:true, selected:false},
@@ -1428,7 +1470,7 @@
       ]},	 
 	  
 	  
-	  {id:30, query:"When an cloud-native application is live, running and accessible over the Internet, we refer to it as a:",  "answer":"https://kubernetes.io/docs/concepts/services-networking/service/", "difficulty": "5",
+	  {id:82, query:"When an cloud-native application is live, running and accessible over the Internet, we refer to it as a:",  "answer":"https://kubernetes.io/docs/concepts/services-networking/service/", "difficulty": "5",
 			options:[
 			{text:"agent", correct:false, selected:false}, 
 			{text:"runtime", correct:false, selected:false},
@@ -1440,7 +1482,7 @@
       ]},	 
 	  
 	  
-	  {id:30, query:"Non-confidential data used at application startup is best:",  "answer":"https://kubernetes.io/docs/concepts/configuration/configmap/", "difficulty": "5",
+	  {id:83, query:"Non-confidential data used at application startup is best:",  "answer":"https://kubernetes.io/docs/concepts/configuration/configmap/", "difficulty": "5",
 			options:[
 			{text:"stored as property files inside the app", correct:false, selected:false}, 
 			{text:"stored as Kubernetes secrets", correct:false, selected:false},
@@ -1452,7 +1494,7 @@
       ]},	 
 	  
 	  
-	  {id:30, query:"Memory and CPU limits can be placed on a namespace through:",  "answer":"https://kubernetes.io/docs/concepts/policy/resource-quotas/", "difficulty": "5",
+	  {id:84, query:"Memory and CPU limits can be placed on a namespace through:",  "answer":"https://kubernetes.io/docs/concepts/policy/resource-quotas/", "difficulty": "5",
 			options:[
 			{text:"resource quotas", correct:true, selected:false}, 
 			{text:"namespace quotas", correct:false, selected:false},
@@ -1464,7 +1506,7 @@
       ]},	 
 	  
 	  
-	  {id:30, query:"query",  "answer":"answer", "difficulty": "5",
+	  {id:85, query:"query",  "answer":"answer", "difficulty": "5",
 			options:[
 			{text:"aaaaa", correct:false, selected:false}, 
 			{text:"aaaaa", correct:false, selected:false},
@@ -1473,8 +1515,8 @@
 			],
       "objectives":[
          "3.0", "3.0"
-      ]},	 			  
-			  
+      ]},	 
+
 	  
 	];
 	
