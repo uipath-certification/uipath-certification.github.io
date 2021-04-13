@@ -54,4 +54,4 @@ docker push cameronmcnz/ridley:latest
 docker logout
 
 
-
+https://kubernetes.io/docs/concepts/architecture/cloud-controller/
