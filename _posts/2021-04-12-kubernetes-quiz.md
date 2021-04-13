@@ -3,7 +3,7 @@ layout: docker-test
 author: Cameron
 title: Kubernetes Quiz
 blurb: Here is a tougher Kubernetes quiz for you.
-
+canonical: 
 ---
 
 <script>
@@ -15,7 +15,7 @@ window.addEventListener('load', function () {
  var questionBank = localStorage.getItem("questions");
  //console.log("The size is: " + questionBank.length);
  questionBank = JSON.parse(questionBank);
- questionBank = questionBank.slice(71,84);
+ questionBank = questionBank.slice(71,85);
  
  try {
   exam = new Exam(questionBank);
