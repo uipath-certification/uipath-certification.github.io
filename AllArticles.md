@@ -44,5 +44,14 @@ canonical: https://www.rpacertified.com/AllArticles.html
         </div>
     </div>
 </div>
+<div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
+    <div class="card">
+        <div class="card-header">How I passed the UiPath Certification Exam with 84%</div>
+        <img src="/assets/uipath-certification-study-guide.gif" class="card-img-top" alt="uipath certification" />
+        <div class="card-body d-flex flex-column">
+            <p class="card-text">Follow these study tips and you'll pass the UiPath <a href="https://www.rpacertified.com//2021/03/27/uipath-certification-study-tips.html">Certification</a> exam on your first try, just like I did!</p>
+        </div>
+    </div>
+</div>
 
 </div>
