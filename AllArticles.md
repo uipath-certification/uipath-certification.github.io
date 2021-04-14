@@ -1,3 +1,10 @@
+---
+layout: default
+title: RPA Articles, tips and how-tos.
+blurb: Keep up with all the news, tips and how-tos for all your RPA needs. You can reach out to us and request articles on RPA related topics.
+canonical: https://www.rpacertified.com/AllArticles.html
+---
+
 <div class="row">
 
 <div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
