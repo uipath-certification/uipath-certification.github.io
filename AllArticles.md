@@ -25,4 +25,14 @@ canonical: https://www.rpacertified.com/AllArticles.html
         </div>
     </div>
 </div>
+<div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
+    <div class="card">
+        <div class="card-header">UiPath IPO</div>
+        <img src="/assets/uipath-ipo-stock.jpg" class="card-img-top" alt="uipath certification" />
+        <div class="card-body d-flex flex-column">
+            <p class="card-text">Will the UiPath IPO be a boom or a bust? Here are the <a href="https://www.rpacertified.com/2021/04/09/ipo-uipath-stock-price-value.html">insights</a> you need into the UiPath IPO price, value, news and IPO date. NYSE stock ticker symbol: PATH.</p>
+        </div>
+    </div>
+</div>
+
 </div>
