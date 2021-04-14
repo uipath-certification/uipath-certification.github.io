@@ -31,7 +31,7 @@ canonical: https://www.rpacertified.com/AllArticles.html
         <div class="card-header">Anchor Base UiPath Activity</div>
         <a href="https://www.rpacertified.com/2021/04/03/uipath-anchor-base-example-tutorial.html"><img src="/assets/anders-jensen.jpg" class="card-img-top" alt="uipath certification" /></a>
         <div class="card-body d-flex flex-column">
-            <p class="card-text">In this quick <a href="https://www.rpacertified.com/2021/04/03/uipath-anchor-base-example-tutorial.html">UiPath Anchor Base example tutorial</a>, you'll quickly learn how to select specific Ui elements in a web page, PDF file, or even a desktop application.</p>
+            <p class="card-text">In this quick UiPath <a href="https://www.rpacertified.com/2021/04/03/uipath-anchor-base-example-tutorial.html">Anchor Base</a> example tutorial, you'll quickly learn how to select specific Ui elements in a web page, PDF file, or even a desktop application.</p>
         </div>
     </div>
 </div>
