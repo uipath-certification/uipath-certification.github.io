@@ -18,6 +18,16 @@ canonical: https://www.rpacertified.com/AllArticles.html
 </div>
 <div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
     <div class="card">
+        <div class="card-header">UiPath Associate and Developer Certification Logos</div>
+        <img src="/assets/uipath-associate-developer-certification-roadmap.jpg" class="card-img-top" alt="uipath certification" />
+        <div class="card-body d-flex flex-column">
+            <p class="card-text">Look into this <a href="https://www.rpacertified.com//2021/03/29/uipath-certification-logo.html">article</a> which will describe where to download the UiPath Certification Logo, along with the rules for usage and advice on how and when to include the UiPath Logo in your resume.</p>
+        </div>
+    </div>
+</div>
+
+<div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
+    <div class="card">
         <div class="card-header">Anchor Base UiPath Activity</div>
         <img src="/assets/anders-jensen.jpg" class="card-img-top" alt="uipath certification" />
         <div class="card-body d-flex flex-column">
