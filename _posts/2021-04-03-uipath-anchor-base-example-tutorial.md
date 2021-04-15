@@ -8,7 +8,7 @@ objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, an
 canonical: https://www.rpacertified.com/2021/04/03/uipath-anchor-base-example-tutorial.html
 keywords: UiPath Anchor, Anchor Base, Anchor Base Tutorial, UiPath Anchor Base, uipath indicate anchor, uipath click image anchor, uipath multiple anchors
 ---
-# Anchor Base UiPath Activity
+# Anchor Base UiPath Activity Example
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://www.youtube.com/embed/BZFG_BL_sd4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
