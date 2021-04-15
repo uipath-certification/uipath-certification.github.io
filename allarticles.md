@@ -1,8 +1,8 @@
 ---
 layout: default
-title: RPA Articles, tips and how-tos.
-blurb: Keep up with all the news, tips and how-tos for all your RPA needs. You can reach out to us and request articles on RPA related topics.
-canonical: https://www.rpacertified.com/AllArticles.html
+title: Articles on RPA, UiPath and popular RPA Tools 
+blurb: Keep up with all the news, tips and how-tos with these popular articles on RPA, UiPath and various RPA Tools
+canonical: https://www.rpacertified.com/allarticles.html
 ---
 
 <div class="row">
