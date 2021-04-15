@@ -61,13 +61,7 @@ Kick along with kicking off that process, we need to attach the Adobe PDF window
             </div>
 
             <div class="card-body">
-	Want to learn more about the UiPath Anchor Base activity?
-	Check out this UiPath Youtube tutorial from <a href="http://www.twitter.com/cameronmcnz">@cameronmcnz</a>.	    
-	    
-<div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rjtHXD2nI8Q"></iframe>
-</div>
-#UiPath #UiPathCertified #RPACertified #RPA #RPACertification #UiPathTutorial
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The best way to cheat? As far as <a href="https://twitter.com/rpacertified?ref_src=twsrc%5Etfw">@rpacertified</a> is concerned, it&#39;s to study hard.<a href="https://twitter.com/hashtag/UiPath?src=hash&amp;ref_src=twsrc%5Etfw">#UiPath</a> <a href="https://twitter.com/hashtag/UiPathAssociate?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathAssociate</a> <a href="https://twitter.com/hashtag/UiPathDeveloper?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathDeveloper</a> <a href="https://twitter.com/hashtag/RPA?src=hash&amp;ref_src=twsrc%5Etfw">#RPA</a> <a href="https://twitter.com/hashtag/RPATools?src=hash&amp;ref_src=twsrc%5Etfw">#RPATools</a> <a href="https://t.co/6YNpeqDCJz">pic.twitter.com/6YNpeqDCJz</a></p>&mdash; rpacertified (@rpacertified) <a href="https://twitter.com/rpacertified/status/1381409073808179202?ref_src=twsrc%5Etfw">April 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
             </div>
         </div>
     </div>
@@ -176,7 +170,7 @@ For more details on how to use this popular activity, check out this <a href="ht
 	<div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card w-100">
             <div class="card-header">
-            UiPath Web Scraping Example
+            Web Scraping or UiPath Anchor Base?
             </div>
 
             <div class="card-body">
