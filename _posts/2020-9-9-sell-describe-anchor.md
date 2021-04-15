@@ -1,21 +1,21 @@
 ---
 layout: answered-question
 author: Serge
-title: Anchor Base Activity & UiPath Studio Tutorial
+title: Anchor Base Tutorial & UiPath Studio
 blurb: Here's a quick UiPath Anchor Base Tutorial, along with insights on how to use the Find Element and Find By Image activities.
 difficulty: 6
 objective: 4.3 Identify and describe how and when to use Anchors
 canonical: https://www.rpacertified.com/2020/09/09/sell-describe-anchor.html
-keywords: anchor base, UiPath Anchor, Anchor Base tutorial, UiPath Tutorial, Tutorial, 
+keywords: anchor base, UiPath Anchor, Anchor Base tutorial, UiPath Tutorial, Tutorial, UiPath Find Element
 ---
 
-<h1>UiPath Anchor Activity Tutorial</h1>
+<h1>UiPath Anchor Base Tutorial</h1>
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://www.youtube.com/embed/rjtHXD2nI8Q" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 
-## Anchor Base in UiPath Studio
+## Anchor Base Activity in UiPath Studio
 
 Hey, I'm Cameron McKenzie, @cameronmcnz onTwitter, and in this UiPath Anchor Base Tutorial, I wanted to talk to you about extracting data from your PDFs. 
 I previous did a tutorial on how to do some basic data extraction in UiPath Studio with the use of the anchor base activity, but if you ever start doing some complex data extraction from PDFs of web pages, you need it to be anchor based.
@@ -32,7 +32,7 @@ I need to actually get the name and folder of that file. It's in a folder called
 
 Kick along with kicking off that process, we need to attach the Adobe PDF window to this process so that we can interact with it in order to do that. Yeah. Look for the attach window commands or not click the attachment window command down here. Now it does say, what screen do you want to attach? And the easiest way to do that is to kind of.
 
-## Studio, Anchor Base and PDFs
+## Studio, UiPath Anchor Base and PDFs
 
 Move UiPath Studio and it's anchor base features off to the left and put your PDF to the right click indicate window on screen. And then just click on your PDF file in the tool realizes, okay. It's that PDF Adobe Acrobat viewer that it wants to, that we want to use when we go through this PDF file. No, by the way, in the selector, they always specify the actual name of the file.
 
@@ -44,7 +44,7 @@ Invoice date and invoice total, all of type string I'll have scope throughout th
 
 Now the invoice number is going to change from time to time. So I want you to look under where it says invoice number, which will always be there and give me the value associated with it. And you do that by adding something I think in called an anchor activity, the anchor base activity. I'm going to drop that in here.
 
-### UiPath Anchor Base Tutorial & Find Element
+### Anchor Base Tutorial & UiPath Find Element
 
 It's got two parts to it. Where's the anchor. And what's the text that you want to get based on that anchor and to fill in the anchor, you use the UiPath find element activity. Let me see if I can find teh Uipath find element activity  under UI automation element, find I'm going to go find element. And again, it says, what element are you looking for?
 
@@ -64,7 +64,7 @@ Indicate the element inside the window for the anchor that I'm going to be looki
 
 And so in that case, you want to change the anchor based there to indicate that we're going, that the anchor is on top of the field that we're looking for. No, it was, it kind of switches the weight structure on the page too. I always think that's kind of cool. Nice little attention to detail as they say, but now I've got one more.
 
-#### Anchor Base & UiPath Find By Element
+#### UiPath Find By Element & Anchor Base Activities
 
 I want to get the total. So I'm going to go anchor base over here. I'm going to use a UiPath find element activity. I'm going to do a, get text, get texts. I didn't mean to hit that. Excuse me. The get text field is going to initialize the invoice tool. Cool. So,
 
@@ -96,11 +96,11 @@ Question:  Which of the following best describes the purpose of the Anchor Base 
  - [ ] &nbsp;  The Anchor Base in UiPath Studio can be used with any type of activity available in the Activities panel
  - [ ] &nbsp;  The UiPath Studio Anchor Base Activity provides faster identification of available elements in desktop apps
 
-## Anchor Base Certification Question Answer
+##### Anchor Base Certification Question Answer
 
 Option A is correct.
 
-## Anchor Base and UiPath Studio
+##### Anchor Base and UiPath Studio
 
 The answer provided here is the very definition and use of the <a href="https://www.rpacertified.com/2021/04/03/uipath-anchor-base-example-tutorial.html">UiPath Anchor Base</a> activity.
 
