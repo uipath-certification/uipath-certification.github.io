@@ -2,21 +2,21 @@
 layout: answered-question
 author: YouTube
 title: UiPath Anchor Base Example
-blurb: In this quick UiPath Anchor Base example tutorial, you'll quickly learn how to select specific Ui elements in a web page, PDF file, or even a desktop application.
+blurb: In this quick UiPath Anchor Base example, you'll quickly learn how to select specific Ui elements in a web page, PDF file, or even a desktop application.
 difficulty: 6
 objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation
 canonical: https://www.rpacertified.com/2021/04/03/uipath-anchor-base-example-tutorial.html
-keywords: UiPath Anchor, Anchor Base, Anchor Base Tutorial, UiPath Anchor Base, uipath indicate anchor, uipath click image anchor, uipath multiple anchors
+keywords: UiPath Anchor, Anchor Base, Anchor Base Example, UiPath Anchor Base, uipath indicate anchor, uipath click image anchor, uipath multiple anchors
 ---
 # Anchor Base UiPath Activity Example
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://www.youtube.com/embed/BZFG_BL_sd4" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
-## Anchor Base Tutorial
+## Anchor Base Example
 Editors Note: _Many students have asked for guidance on the UiPath Anchor Base activity, and how it works with the Find Element and Find Image functions. We've always been fans of Anders Jensen, and we recommend this video fairly often. We've embedded it here and provided a mildly edited transcript of the video to help users get the most out of the content. Enjoy the video, and subscribe to Mr. Jensen's YouTube page if you get a chance._
 
-In this UiPath Studio tutorial, we will learn how to use the UiPath anchor base activity. 
+In this UiPath Studio anchor example, we will learn how to use the UiPath anchor base activity. 
 ## What is a UiPath Anchor Base?
 A UiPath anchor base activity helps to locate elements on a page based on their relative positions. Sometimes webpages or PDF files do not uniquely identify UiElements with IDs. Or, the IDs may change over time. To overcome the fragility problem with <a href="https://www.rpacertified.com/2020/09/09/sell-describe-anchor.html">UiPath selectors</a>, a UiPath Anchor Base activity can be used. 
 
@@ -24,7 +24,7 @@ The UiPath Anchor Activity is useful when the developer does not have a reliable
 
 Let me show you a UiPath Anchor Base example.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Looking for a good UiPath Anchor Base tutorial? We&#39;ve added the <a href="https://twitter.com/andersjensenorg?ref_src=twsrc%5Etfw">@andersjensenorg</a> transcript so you can read and watch at the same time.<a href="https://twitter.com/hashtag/UiPath?src=hash&amp;ref_src=twsrc%5Etfw">#UiPath</a> <a href="https://twitter.com/hashtag/UiPathCertified?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertified</a> <a href="https://twitter.com/hashtag/RPACertified?src=hash&amp;ref_src=twsrc%5Etfw">#RPACertified</a> <a href="https://twitter.com/hashtag/RPA?src=hash&amp;ref_src=twsrc%5Etfw">#RPA</a> <a href="https://twitter.com/hashtag/RPACertification?src=hash&amp;ref_src=twsrc%5Etfw">#RPACertification</a> <a href="https://twitter.com/hashtag/UiPathTutorial?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathTutorial</a><a href="https://t.co/dN4E9rzXKX">https://t.co/dN4E9rzXKX</a> <a href="https://t.co/z0QKYGK5FO">pic.twitter.com/z0QKYGK5FO</a></p>&mdash; rpacertified (@rpacertified) <a href="https://twitter.com/rpacertified/status/1380133641003614211?ref_src=twsrc%5Etfw">April 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Looking for a good UiPath Anchor Base anchor? We&#39;ve added the <a href="https://twitter.com/andersjensenorg?ref_src=twsrc%5Etfw">@andersjensenorg</a> transcript so you can read and watch at the same time.<a href="https://twitter.com/hashtag/UiPath?src=hash&amp;ref_src=twsrc%5Etfw">#UiPath</a> <a href="https://twitter.com/hashtag/UiPathCertified?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertified</a> <a href="https://twitter.com/hashtag/RPACertified?src=hash&amp;ref_src=twsrc%5Etfw">#RPACertified</a> <a href="https://twitter.com/hashtag/RPA?src=hash&amp;ref_src=twsrc%5Etfw">#RPA</a> <a href="https://twitter.com/hashtag/RPACertification?src=hash&amp;ref_src=twsrc%5Etfw">#RPACertification</a> <a href="https://twitter.com/hashtag/UiPathExample?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathExample</a><a href="https://t.co/dN4E9rzXKX">https://t.co/dN4E9rzXKX</a> <a href="https://t.co/z0QKYGK5FO">pic.twitter.com/z0QKYGK5FO</a></p>&mdash; rpacertified (@rpacertified) <a href="https://twitter.com/rpacertified/status/1380133641003614211?ref_src=twsrc%5Etfw">April 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## How to use the Anchor Base activity
 
@@ -88,7 +88,7 @@ But what if the find element didn't work? The UiPath Find Element and Find Image
 And what we'll do is that will indicate our anchor base image to be the address JPG. Besides the use of a JPG, GIF or PNG as the target, the UiPath Find Image Anchor works the same way as Find Element does.
 
 Run the RPA application and you’ll see that it works exactly the same as before.
-And that’s a full UiPath Anchor Base tutorial to demonstrate how to improve on the basic selector functionality provided with UiPath Studio.
+And that’s a full UiPath <a href="https://www.rpacertified.com/2020/09/09/sell-describe-anchor.html">Anchor Base tutorial</a> to demonstrate how to improve on the basic selector functionality provided with UiPath Studio.
 
 #### Anchor Base Resources
 
@@ -122,20 +122,20 @@ Find more from Anders Jensen on his <a href="https://andersjensen.org/">webpage.
 	<div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card w-100">
             <div class="card-header">
-            UiPath OCT Tutorial on YouTube
+            UiPath OCR Example on YouTube
             </div>
 
             <div class="card-body">
 	    
 	Here's how to take UiPath OCR to the next level.
-	Check out this UiPath Youtube tutorial from <a href="http://www.twitter.com/cameronmcnz">@cameronmcnz</a>.	    
+	Check out this UiPath Youtube video from <a href="http://www.twitter.com/cameronmcnz">@cameronmcnz</a>.	    
 	    
 <p/>	    
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/y-Yi9f4AnQA"></iframe>
 </div>
 <p/>
-#UiPath #UiPathCertified #RPACertified #RPA #RPACertification #UiPathTutorial
+#UiPath #UiPathCertified #RPACertified #RPA #RPACertification #UiPathExample
             </div>
         </div>
     </div>
