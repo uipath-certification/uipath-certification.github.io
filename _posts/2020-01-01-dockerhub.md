@@ -35,7 +35,7 @@ canonical: https://www.rpacertified.com/2020/01/01/dockerhub.html
   kubectl scale –-replicas=3 deployment/rps-4-bah
   
   
-<img src="https://popevents.ca/wp-content/uploads/2020/05/pop-virtual-14.jpeg" class="img-fluid"/>
+<img src="https://static.spin.com/files/2017/08/TaylorCombo-1504115097-2500x1000.jpg" class="img-fluid"/>
 
 
 ### Kubernetes Commands 
