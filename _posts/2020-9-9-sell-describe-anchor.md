@@ -156,7 +156,7 @@ For more details on how to use this popular activity, check out this <a href="ht
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card  w-100">
             <div class="card-header">
-            UiPath Anchors Base on Twitter
+            Join us on Twitter
             </div>
 
             <div class="card-body">
