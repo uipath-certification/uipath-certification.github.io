@@ -57,7 +57,7 @@ Kick along with kicking off that process, we need to attach the Adobe PDF window
 	<div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card w-100">
             <div class="card-header">
-            UiPath Anchor Tutorial on YouTube
+            Comment on this Anchor Base Tutorial
             </div>
 
             <div class="card-body">
