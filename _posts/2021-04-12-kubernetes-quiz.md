@@ -3,7 +3,7 @@ layout: docker-test
 author: Cameron
 title: Kubernetes Quiz
 blurb: Here is a tougher Kubernetes quiz for you.
-canonical: 
+canonical: https://www.rpacertified.com/2021/04/12/kubernetes-quiz.html
 ---
 
 <script>
