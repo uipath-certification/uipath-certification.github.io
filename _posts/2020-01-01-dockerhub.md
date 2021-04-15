@@ -11,10 +11,12 @@ canonical: https://www.rpacertified.com/2020/01/01/dockerhub.html
 <iframe src="https://www.youtube.com/embed/r1RNlZ-4bFE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 
-
+<br/>
 ## Link to Kubernetes Quiz
 
-https://www.rpacertified.com/2021/04/12/kubernetes-quiz.html
+<a href="https://www.rpacertified.com/2021/04/12/kubernetes-quiz.html">https://www.rpacertified.com/2021/04/12/kubernetes-quiz.html</a>
+
+</hr>
 
 ## Lab 3: Name that tune
 
