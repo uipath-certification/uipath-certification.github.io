@@ -32,6 +32,48 @@ I need to actually get the name and folder of that file. It's in a folder called
 
 Kick along with kicking off that process, we need to attach the Adobe PDF window to this process so that we can interact with it in order to do that. Yeah. Look for the attach window commands or not click the attachment window command down here. Now it does say, what screen do you want to attach? And the easiest way to do that is to kind of.
 
+<div class="row">
+	
+    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
+        <div class="card  w-100">
+            <div class="card-header">
+            Join the Conversation on Twitter!
+            </div>
+
+            <div class="card-body">
+<!-- **************************** -->           
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here&#39;s some expert advice on how to get <a href="https://twitter.com/UiPath?ref_src=twsrc%5Etfw">@UiPath</a> certified quickly. <a href="https://twitter.com/hashtag/UiPath?src=hash&amp;ref_src=twsrc%5Etfw">#UiPath</a> <a href="https://twitter.com/hashtag/UiPathCertification?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertification</a> <a href="https://twitter.com/hashtag/UiPathAssociate?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathAssociate</a> <a href="https://twitter.com/hashtag/UiPathExam?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathExam</a> <a href="https://twitter.com/hashtag/RPACertification?src=hash&amp;ref_src=twsrc%5Etfw">#RPACertification</a> <a href="https://twitter.com/hashtag/UiPathTraining?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathTraining</a> <a href="https://t.co/VjXjygN3gf">https://t.co/VjXjygN3gf</a> <a href="https://t.co/1rJxAKzdwS">pic.twitter.com/1rJxAKzdwS</a></p>&mdash; rpacertified (@rpacertified) <a href="https://twitter.com/rpacertified/status/1380564928470343680?ref_src=twsrc%5Etfw">April 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+
+<!-- **************************** -->   
+            
+            
+            </div>
+        </div>
+    </div>
+	
+	<div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
+        <div class="card w-100">
+            <div class="card-header">
+            UiPath Anchor Tutorial on YouTube
+            </div>
+
+            <div class="card-body">
+	Want to learn more about the UiPath Anchor Base activity?
+	Check out this UiPath Youtube tutorial from <a href="http://www.twitter.com/cameronmcnz">@cameronmcnz</a>.	    
+	    
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rjtHXD2nI8Q"></iframe>
+</div>
+#UiPath #UiPathCertified #RPACertified #RPA #RPACertification #UiPathTutorial
+            </div>
+        </div>
+    </div>
+	
+</div>
+
 ## Studio, UiPath Anchor Base and PDFs
 
 Move UiPath Studio and it's anchor base features off to the left and put your PDF to the right click indicate window on screen. And then just click on your PDF file in the tool realizes, okay. It's that PDF Adobe Acrobat viewer that it wants to, that we want to use when we go through this PDF file. No, by the way, in the selector, they always specify the actual name of the file.
@@ -107,18 +149,21 @@ The answer provided here is the very definition and use of the <a href="https://
 
 For more details on how to use this popular activity, check out this <a href="https://www.rpacertified.com/2021/04/03/uipath-anchor-base-example-tutorial.html">UiPath Anchor Base Example</a>
 
+
+
 <div class="row">
 	
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card  w-100">
             <div class="card-header">
-            UiPath on Twitter
+            UiPath Anchors Base on Twitter
             </div>
 
             <div class="card-body">
 <!-- **************************** -->            
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Looking for a good UiPath Anchor Base tutorial? We&#39;ve added the <a href="https://twitter.com/andersjensenorg?ref_src=twsrc%5Etfw">@andersjensenorg</a> transcript so you can read and watch at the same time.<a href="https://twitter.com/hashtag/UiPath?src=hash&amp;ref_src=twsrc%5Etfw">#UiPath</a> <a href="https://twitter.com/hashtag/UiPathCertified?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertified</a> <a href="https://twitter.com/hashtag/RPACertified?src=hash&amp;ref_src=twsrc%5Etfw">#RPACertified</a> <a href="https://twitter.com/hashtag/RPA?src=hash&amp;ref_src=twsrc%5Etfw">#RPA</a> <a href="https://twitter.com/hashtag/RPACertification?src=hash&amp;ref_src=twsrc%5Etfw">#RPACertification</a> <a href="https://twitter.com/hashtag/UiPathTutorial?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathTutorial</a><a href="https://t.co/dN4E9rzXKX">https://t.co/dN4E9rzXKX</a> <a href="https://t.co/z0QKYGK5FO">pic.twitter.com/z0QKYGK5FO</a></p>&mdash; rpacertified (@rpacertified) <a href="https://twitter.com/rpacertified/status/1380133641003614211?ref_src=twsrc%5Etfw">April 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">There are rules for naming <a href="https://twitter.com/hashtag/UiPathArguments?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathArguments</a> Know them before you take the <a href="https://twitter.com/hashtag/UiPathAssociate?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathAssociate</a> exams.<a href="https://twitter.com/hashtag/UiPathDeveloper?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathDeveloper</a> <a href="https://twitter.com/hashtag/RPATools?src=hash&amp;ref_src=twsrc%5Etfw">#RPATools</a> <a href="https://twitter.com/UiPath?ref_src=twsrc%5Etfw">@Uipath</a> <a href="https://twitter.com/hashtag/UiPathCertification?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertification</a> <a href="https://twitter.com/hashtag/RPACertified?src=hash&amp;ref_src=twsrc%5Etfw">#RPACertified</a><a href="https://t.co/kQ2eH3yPYu">https://t.co/kQ2eH3yPYu</a> <a href="https://t.co/6fpbYSSoz9">pic.twitter.com/6fpbYSSoz9</a></p>&mdash; rpacertified (@rpacertified) <a href="https://twitter.com/rpacertified/status/1382702509962240008?ref_src=twsrc%5Etfw">April 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
 <!-- **************************** -->   
@@ -131,15 +176,15 @@ For more details on how to use this popular activity, check out this <a href="ht
 	<div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card w-100">
             <div class="card-header">
-            UiPath Anchor Tutorial on YouTube
+            UiPath Web Scraping Example
             </div>
 
             <div class="card-body">
-	Want to learn more about the UiPath Anchor Base activity?
+	Want to learn about web scraping in UiPath?
 	Check out this UiPath Youtube tutorial from <a href="http://www.twitter.com/cameronmcnz">@cameronmcnz</a>.	    
 	    
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/rjtHXD2nI8Q"></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NPpEUSp1AwY"></iframe>
 </div>
 #UiPath #UiPathCertified #RPACertified #RPA #RPACertification #UiPathTutorial
             </div>
@@ -147,4 +192,3 @@ For more details on how to use this popular activity, check out this <a href="ht
     </div>
 	
 </div>
-
