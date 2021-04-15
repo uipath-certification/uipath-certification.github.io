@@ -5,10 +5,51 @@ title: Dockerhub Stuff
 blurb: Here's how to push stuff to dockerhub.
 
 ---
-Docker Example
+# Docker Example
+
 <div class="embed-responsive embed-responsive-16by9">
-<iframe src="https://www.youtube.com/embed/vkZ6aXjHFCU" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/r1RNlZ-4bFE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
+
+
+## Link to Kubernetes Quiz
+
+https://www.rpacertified.com/2021/04/12/kubernetes-quiz.html
+
+
+### Kubernetes Commands 
+
+  sudo -i
+
+  minikube start vm-driver = none
+  
+  minikube status
+  
+  kubectl version
+  
+  kubectl cluster-info
+  
+  minikube dashboard
+
+## In a second terminal as dashboard stays alive
+
+  sudo -i
+  
+  kubectl get nodes
+  
+  kubectl create deployment rps-4-bah –-image=cameronmcnz/tswift
+  
+  kubectl describe pod rps-4-bah-####
+  
+  kubectl get pods
+  
+  kubectl expose deployment rps-4-bah –-type=NodePort --port=8080
+  
+  kubectl service rps-4-bah --url=true
+  
+  kubectl scale –-replicas=3 deployment/rps-4-bah
+  
+
 
 ## Some hints:
 CTRL+SHIFT+C to copy a container or image id
@@ -20,7 +61,7 @@ https://github.com/learn-devops-fast/rock-paper-scissors
 
 https://hub.docker.com/u/cameronmcnz
 
-https://www.rpacertified.com/2021/04/12/kubernetes-quiz.html
+
 
 
 ## Commands to run in your VM!
@@ -73,3 +114,8 @@ docker logout
 
 
 https://kubernetes.io/docs/concepts/architecture/cloud-controller/
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://www.youtube.com/embed/vkZ6aXjHFCU" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+</div>
+
