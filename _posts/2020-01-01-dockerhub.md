@@ -16,6 +16,25 @@ canonical: https://www.rpacertified.com/2020/01/01/dockerhub.html
 
 https://www.rpacertified.com/2021/04/12/kubernetes-quiz.html
 
+## Lab 3: Name that tune
+
+I can perform Lab three in as few as six commands:
+
+  sudo -i
+
+  minikube start vm-driver = none
+  
+  kubectl create deployment rps-4-bah –-image=cameronmcnz/tswift
+  
+  kubectl expose deployment rps-4-bah –-type=NodePort --port=8080
+  
+  kubectl service rps-4-bah --url=true
+  
+  kubectl scale –-replicas=3 deployment/rps-4-bah
+  
+  
+<img src="https://popevents.ca/wp-content/uploads/2020/05/pop-virtual-14.jpeg" class="img-fluid"/>
+
 
 ### Kubernetes Commands 
 
