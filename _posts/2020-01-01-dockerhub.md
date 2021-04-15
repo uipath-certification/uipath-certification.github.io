@@ -16,11 +16,11 @@ canonical: https://www.rpacertified.com/2020/01/01/dockerhub.html
 
 <a href="https://www.rpacertified.com/2021/04/12/kubernetes-quiz.html">https://www.rpacertified.com/2021/04/12/kubernetes-quiz.html</a>
 
-</hr>
+<hr/>
 
 ## Lab 3: Name that tune
 
-I can perform Lab three in as few as six commands:
+<b>I can perform Lab three in as few as six commands:</b>
 
   sudo -i
 
