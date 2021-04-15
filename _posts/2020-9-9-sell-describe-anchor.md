@@ -1,7 +1,7 @@
 ---
 layout: answered-question
 author: Serge
-title: Anchor Base Tutorial & UiPath Studio
+title: Anchor Base Tutorial in UiPath Studio
 blurb: Here's a quick UiPath Anchor Base Tutorial, along with insights on how to use the Find Element and Find By Image activities.
 difficulty: 6
 objective: 4.3 Identify and describe how and when to use Anchors
