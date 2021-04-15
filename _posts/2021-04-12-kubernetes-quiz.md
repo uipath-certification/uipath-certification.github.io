@@ -77,3 +77,23 @@ window.addEventListener('load', function () {
     </div>
 	
 </div>
+
+´´´
+
+  sudo -i
+  minikube start vm-driver = none
+  minikube status
+  kubectl version
+  kubectl cluster-info
+  minikube dashboard
+
+  sudo -i
+  kubectl get nodes
+  kubectl create deployment rps-4-bah –-image=cameronmcnz/tswift
+  kubectl describe pod rps-4-bah-####
+  kubectl get pods
+  kubectl expose deployment rps-4-bah –-type=NodePort --port=8080
+  kubectl service rps-4-bah --url=true
+  kubectl scale –-replicas=3 deployment/rps-4-bah
+  
+´´´
