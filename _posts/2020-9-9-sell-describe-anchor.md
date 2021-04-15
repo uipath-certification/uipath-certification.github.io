@@ -180,13 +180,9 @@ For more details on how to use this popular activity, check out this <a href="ht
             </div>
 
             <div class="card-body">
-	Want to learn about web scraping in UiPath?
-	Check out this UiPath Youtube tutorial from <a href="http://www.twitter.com/cameronmcnz">@cameronmcnz</a>.	    
 	    
-<div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/NPpEUSp1AwY"></iframe>
-</div>
-#UiPath #UiPathCertified #RPACertified #RPA #RPACertification #UiPathTutorial
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Are you sensitive? Case sensitive? Do you know if <a href="https://twitter.com/UiPath?ref_src=twsrc%5Etfw">@UiPath</a> is or not?<a href="https://twitter.com/hashtag/RPA?src=hash&amp;ref_src=twsrc%5Etfw">#RPA</a> <a href="https://twitter.com/hashtag/RPAProgramming?src=hash&amp;ref_src=twsrc%5Etfw">#RPAProgramming</a> <a href="https://twitter.com/hashtag/UiPathCertified?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertified</a> <a href="https://twitter.com/hashtag/UiPathExam?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathExam</a> <a href="https://twitter.com/hashtag/UiPathStudio?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathStudio</a><a href="https://t.co/ASZRFVzFw7">https://t.co/ASZRFVzFw7</a> <a href="https://t.co/yEEifjLLak">pic.twitter.com/yEEifjLLak</a></p>&mdash; rpacertified (@rpacertified) <a href="https://twitter.com/rpacertified/status/1381406846326616066?ref_src=twsrc%5Etfw">April 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
             </div>
         </div>
     </div>
