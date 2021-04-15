@@ -3,7 +3,7 @@ layout: default
 author: Jenny
 title: Dockerhub Stuff
 blurb: Here's how to push stuff to dockerhub.
-
+canonical: https://www.rpacertified.com/2020/01/01/dockerhub.html
 ---
 # Docker Example
 
