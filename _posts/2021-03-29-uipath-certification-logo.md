@@ -97,12 +97,12 @@ Use the UiPath Certification logo respectfully and in lines with the usage guide
 Oh, and one last piece of advice. If you are committed to getting a good paying job in the RPA industry, make sure you’re RPA certified. Employers won't even look at your resume if you're not.
 
 <hr/>
-
+<div class="row">
 <a href="https://www.rpacertified.com/study-guide-uipath.html">
-<img src="https://www.rpacertified.com/assets/sal-pece.jpg" class="rounded float-left img-thumbnail" alt="UiPath Practice Tests">
+<img src="https://www.rpacertified.com/assets/sal-pece.jpg" class="rounded img-thumbnail" alt="UiPath Practice Tests">
 </a>
 <a href="https://www.linkedin.com/in/karan-adapala/">Sal Pece</a> is the CEO of <a href="https://xennialconsulting.com/">Xennial Consulting</a> in Toronto, Canada.
-
+</div>
 <hr/>
 
 <div class="row">
