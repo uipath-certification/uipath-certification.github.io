@@ -7,7 +7,7 @@ difficulty: 6
 objective: 4.3 Identify and describe how and when to use Anchors
 canonical: https://www.rpacertified.com/2020/09/09/sell-describe-anchor.html
 keywords: anchor base, UiPath Anchor, Anchor Base tutorial, UiPath Tutorial, Tutorial, UiPath Find Element
-date: 2021-04-15
+
 ---
 
 <h1>UiPath Anchor Base Tutorial</h1>
