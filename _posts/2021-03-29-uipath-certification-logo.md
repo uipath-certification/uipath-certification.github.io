@@ -98,10 +98,12 @@ Oh, and one last piece of advice. If you are committed to getting a good paying 
 
 <hr/>
 <div class="row">
+	    <div class="col-12 col-xs-12 col-sm-12 col-md-12 mb-2 d-flex align-items-stretch">
 <a href="https://www.rpacertified.com/study-guide-uipath.html">
 <img src="https://www.rpacertified.com/assets/sal-pece.jpg" class="rounded img-thumbnail" alt="UiPath Practice Tests">
 </a>
 <a href="https://www.linkedin.com/in/karan-adapala/">Sal Pece</a> is the CEO of <a href="https://xennialconsulting.com/">Xennial Consulting</a> in Toronto, Canada.
+	</div>
 </div>
 <hr/>
 
