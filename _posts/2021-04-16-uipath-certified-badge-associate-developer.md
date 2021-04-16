@@ -26,7 +26,7 @@ So, how do you get this badge? Well, you go over to certmetrics.com/uipath. If y
 Log in with the user ID and password you used to register for the exam. Once you log in, you'll see links for certifications, transcripts and of course, your UiPath Certified badge.  
 
 <figure class="figure">
-  <img src="https://www.rpacertified.com/assets/uipath-certification-Badge-download.gif" alt="UiPath Badge Download" class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  <img src="https://www.rpacertified.com/assets/uipath-certification-logo-download.gif" alt="UiPath Badge Download" class="img-fluid mx-auto d-block img-thumbnail rounded ">
   <figcaption class="figure-caption">You can get your UiPath Certified Badge and exam verification link from Certmetrics.</figcaption>
 </figure>
 
