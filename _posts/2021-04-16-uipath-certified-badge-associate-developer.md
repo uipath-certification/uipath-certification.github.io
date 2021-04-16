@@ -13,7 +13,7 @@ keywords: uipath certified badge, associate badge, developer badge, UiPath Assoc
 <iframe src="https://www.youtube.com/embed/g_ogfSnKxQ0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 
-## UiPath Associate Badge
+## UiPath Associate Certification Badge
 
 If you pass the UiPath Certified Associate or UiPath Certified Developer exam, you will get a verification URL that points to a UiPath Certified Badge, along with details about the date UiPath Certified Exam was passed, and also a little description of what's included on that UiPath exam you passed.
 
