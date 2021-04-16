@@ -5,7 +5,7 @@ title: PDF Activity missing from the activities panel? How do you add it?
 blurb: Here's what to do when PDF activities are missing from the activities panel in UiPath Studio
 difficulty: 5
 objective: 7.3 Describe the functions used to extract data from a .pdf file; for example, using OCR
-canonical: 
+canonical: https://www.rpacertified.com/2020/09/09/act-access-to-package.html
 ---
  
 <h1>PDF activities not found in Uipath Studio?</h1>
