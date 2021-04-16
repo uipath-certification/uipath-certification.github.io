@@ -7,6 +7,9 @@ canonical: https://www.rpacertified.com//2021/03/29/uipath-certification-logo.ht
 ---
 <h1 style="text-align: center"> UiPath Associate and Developer Certification Logos</h1>
 
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://www.youtube.com/embed/g_ogfSnKxQ0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+</div>
 
 ## UiPath Certification Logo: Download and Usage
 _Written by RPA Certified Associate Developer Sal Pece_
