@@ -7,7 +7,6 @@ difficulty: 6
 objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation
 canonical: https://www.rpacertified.com/2021/04/03/uipath-anchor-base-example-tutorial.html
 keywords: UiPath Anchor, Anchor Base, Anchor Base Example, UiPath Anchor Base, uipath indicate anchor, uipath click image anchor, uipath multiple anchors
-date: 2021-04-11
 ---
 # Anchor Base UiPath Activity Example
 
