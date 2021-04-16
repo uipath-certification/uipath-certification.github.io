@@ -7,7 +7,7 @@ canonical: https://www.rpacertified.com/2021/04/16/uipath-certified-badge-associ
 keywords: uipath certified badge, associate badge, developer badge, UiPath Associate Badge, UiPath Developer Badge, RPA Certified Badge
 ---
 
- UiPath Certified Badge
+# UiPath Certified Badge
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://www.youtube.com/embed/g_ogfSnKxQ0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
