@@ -29,7 +29,7 @@ If you want to use the UiPath Certification logo, you must first pass the exam. 
   <figcaption class="figure-caption">Wondering how to download the UiPath Certification logo? Log into your Certmetrics account and the UiPath Cert Logo download link is there.</figcaption>
 </figure>
 
-## UiPath Certified Logo Image (JPG, PNG, GIF)
+## UiPath Certification Logo Image (JPG, PNG, GIF)
 
 The page provides a 'Share this UiPath Certification Logo' link in the lower left hand corner. The link will not only display the UiPath Certification Logo image, but also the details of your cert:
 
@@ -44,7 +44,7 @@ The page provides a 'Share this UiPath Certification Logo' link in the lower lef
 
 ### UiPath Certified Logo Link Download
 
-To embed the UiPath Certified Logo on a webpage, a link is provided that allows you to use the high resolution image 
+To embed the UiPath Certification Logo on a webpage, a link is provided that allows you to use the high resolution image 
 
 <pre>
 &lt; img src="https://www.certmetrics.com/api/ob/image/uipath/c/1/1.png" &gt;
@@ -54,10 +54,10 @@ To embed the UiPath Certified Logo on a webpage, a link is provided that allows 
   <a href="https://www.certmetrics.com/uipath/public/badge.aspx?i=1&t=c&d=2020-09-05&ci=UIP00133983">
   <img src="https://www.rpacertified.com/assets/uipath-certified-logo.png" alt="UiPath Logo Download" class="img-fluid mx-auto d-block img-thumbnail rounded ">
   </a>
-  <figcaption class="figure-caption">Make sure you have passed the Associate or Developer exam before you download the UiPath Certified logo</figcaption>
+  <figcaption class="figure-caption">Make sure you have passed the Associate or Developer exam before you download the UiPath Certification logo</figcaption>
 </figure>
 
-### Steps to download the UiPath Certified Logo
+### Steps to download the UiPath Certification Logo
 
 In summary, the steps to download the Developer or Associate UiPath Certified Logo are:
 
@@ -81,7 +81,7 @@ Remember that displaying the UiPath certification logo IS NOT enough. Please inc
 </figure>
 
 
-### RPA Certified Logo usage guidelines
+### RPA Certification Logo usage guidelines
 
 Note that there are many restrictions on how to use the UiPath Certified logo.
 
@@ -92,7 +92,7 @@ Note that there are many restrictions on how to use the UiPath Certified logo.
 
 Violating these rules can result in your privledges to use the UiPath Certification logo or the UiPath Certified Logo being revoked.
 
-Use the UiPath Certified logo respectfully and in lines with the usage guidelines and you shouldn't run into any problems.
+Use the UiPath Certification logo respectfully and in lines with the usage guidelines and you shouldn't run into any problems.
 
 Oh, and one last piece of advice. If you are committed to getting a good paying job in the RPA industry, make sure you’re RPA certified. Employers won't even look at your resume if you're not.
 
@@ -133,7 +133,7 @@ Oh, and one last piece of advice. If you are committed to getting a good paying 
             </div>
 
             <div class="card-body">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Looking for your <a href="https://twitter.com/UiPath?ref_src=twsrc%5Etfw">@UiPath</a> Certified badge or logo so you can display it on your resume? Here&#39;s how to find it.<a href="https://twitter.com/hashtag/rpacertified?src=hash&amp;ref_src=twsrc%5Etfw">#rpacertified</a> <a href="https://twitter.com/hashtag/UiPath?src=hash&amp;ref_src=twsrc%5Etfw">#UiPath</a> <a href="https://twitter.com/hashtag/UiPathCertified?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertified</a> <a href="https://twitter.com/hashtag/UiPathCertification?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertification</a> <a href="https://twitter.com/hashtag/UiPathDeveloper?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathDeveloper</a> <a href="https://twitter.com/hashtag/UiPathAssociate?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathAssociate</a><a href="https://t.co/ck0QbfkJKv">https://t.co/ck0QbfkJKv</a> via <a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube</a></p>&mdash; rpacertified (@rpacertified) <a href="https://twitter.com/rpacertified/status/1383047444041244690?ref_src=twsrc%5Etfw">April 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Looking for your <a href="https://twitter.com/UiPath?ref_src=twsrc%5Etfw">@UiPath</a> Certified logo so you can display it on your resume? Here&#39;s how to find it.<a href="https://twitter.com/hashtag/rpacertified?src=hash&amp;ref_src=twsrc%5Etfw">#rpacertified</a> <a href="https://twitter.com/hashtag/UiPath?src=hash&amp;ref_src=twsrc%5Etfw">#UiPath</a> <a href="https://twitter.com/hashtag/UiPathCertified?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertified</a> <a href="https://twitter.com/hashtag/UiPathCertification?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertification</a> <a href="https://twitter.com/hashtag/UiPathDeveloper?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathDeveloper</a> <a href="https://twitter.com/hashtag/UiPathAssociate?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathAssociate</a><a href="https://t.co/ck0QbfkJKv">https://t.co/ck0QbfkJKv</a> via <a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube</a></p>&mdash; rpacertified (@rpacertified) <a href="https://twitter.com/rpacertified/status/1383047444041244690?ref_src=twsrc%5Etfw">April 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
             </div>
         </div>
     </div>
