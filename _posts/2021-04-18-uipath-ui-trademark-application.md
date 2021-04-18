@@ -7,6 +7,12 @@ canonical: https://www.rpacertified.com/2021/04/18/uipath-ui-trademark-applicati
 keywords: associate vs developer, rpa certifications, developer associate compared, UiRPA, UiARD, RPA Certification Choices, UiPath Certification Choice, Compare Associate Developer Exams
 ---
 
+# UiPath UI Trademark Application
+
+Apparently, UiPath has applied with the Trademark office to protect the rights to the term UI, along with a cute orange RPA robot with blue arms and a magnifying glass.
+
+I really wonder if this will go through?
+
 <div class="row">
 	
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
@@ -50,16 +56,7 @@ keywords: associate vs developer, rpa certifications, developer associate compar
 	
 </div>
 
-# UiPath UI Trademark Application
 
-<figure class="figure">
-  <img src="https://www.rpacertified.com/assets/uipath-trademark-image.jpg" alt="UiPath Associate & Developer Exams Compared" class="img-fluid mx-auto d-block img-thumbnail rounded ">
-  <figcaption class="figure-caption">This RPA robot is part of the UiPath Trademark application for 'UI.' The use here is purely educational and used as fair use as it is pertinent to the article. We are in now way associated with UiPath. We just really like their stuff.</figcaption>
-</figure>
-
-Apparently, UiPath has applied with the Trademark office to protect the rights to the term UI, along with a cute orange RPA robot with blue arms and a magnifying glass.
-
-I really wonder if this will go through?
 
 ## Can UiPath Trademark UI?
 
