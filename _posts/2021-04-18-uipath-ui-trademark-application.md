@@ -11,7 +11,7 @@ keywords: associate vs developer, rpa certifications, developer associate compar
 
 <figure class="figure">
   <img src="https://www.rpacertified.com/assets/uipath-trademark-image.jpg" alt="UiPath Associate & Developer Exams Compared" class="img-fluid mx-auto d-block img-thumbnail rounded ">
-  <figcaption class="figure-caption">This image is part of the UiPath Trademark application for 'UI.' The use here is purely educational and used as fair use as it is pertinent to the article. We are in now way associated with UiPath. We just really like their stuff.</figcaption>
+  <figcaption class="figure-caption">This RPA robot is part of the UiPath Trademark application for 'UI.' The use here is purely educational and used as fair use as it is pertinent to the article. We are in now way associated with UiPath. We just really like their stuff.</figcaption>
 </figure>
 
 Apparently, UiPath has applied with the Trademark office to protect the rights to the term UI, along with a cute orange RPA robot with blue arms and a magnifying glass.
