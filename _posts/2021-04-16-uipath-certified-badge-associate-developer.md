@@ -1,8 +1,8 @@
 ---
 layout: featured-post
 author: Sal Pece
-title: UiPath Certified Badge
-blurb: Want to display the UiPath Certified Logo prominently on your resume or webpage? Here's where to download it and how to get the validation link.
+title: "UiPath Certified Badge"
+blurb: "Want to display the UiPath Certified Logo prominently on your resume or webpage? Here's where to download it and how to get the validation link."
 canonical: https://www.rpacertified.com/2021/04/16/uipath-certified-badge-associate-developer.html
 keywords: uipath certified badge, associate badge, developer badge, UiPath Associate Badge, UiPath Developer Badge, RPA Certified Badge
 ---
