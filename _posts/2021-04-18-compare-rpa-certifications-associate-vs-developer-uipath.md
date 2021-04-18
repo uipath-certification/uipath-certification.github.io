@@ -31,10 +31,12 @@ If you are trying to figure out how to choose between Associate and Developer Ui
     <td>UiPath Associate RPA Certification</td>
     <td>Uipath Developer RPA Certification</td>
   </tr>
-   
-  <tr>
   </thead>
+  
+
+
   <tbody>
+    <tr>
       <td></td>
       <td>UiPath Associate Certification Exam</td>
       <td>UiPath Developer Certification Exam</td>
