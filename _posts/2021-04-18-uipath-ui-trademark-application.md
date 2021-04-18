@@ -7,6 +7,49 @@ canonical: https://www.rpacertified.com/2021/04/18/uipath-ui-trademark-applicati
 keywords: associate vs developer, rpa certifications, developer associate compared, UiRPA, UiARD, RPA Certification Choices, UiPath Certification Choice, Compare Associate Developer Exams
 ---
 
+<div class="row">
+	
+    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
+        <div class="card  w-100">
+            <div class="card-header">
+            Image Aspect of UiPath UI Trademark
+            </div>
+
+            <div class="card-body">
+<!-- **************************** -->       
+
+
+<figure class="figure">
+  <img src="https://www.rpacertified.com/assets/uipath-trademark-image.jpg" alt="UiPath Associate & Developer Exams Compared" class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  <figcaption class="figure-caption">This RPA robot is part of the UiPath Trademark application for 'UI.' The use here is purely educational and used as fair use as it is pertinent to the article. We are in now way associated with UiPath. We just really like their stuff.</figcaption>
+</figure>
+
+
+
+<!-- **************************** -->   
+            
+            
+            </div>
+        </div>
+    </div>
+	
+	<div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
+        <div class="card w-100">
+            <div class="card-header">
+            Details of UiPath Trademark for 'UI'
+            </div>
+
+            <div class="card-body">
+<figure class="figure">
+  <img src="https://www.rpacertified.com/assets/uipath-trademark-ui-application.jpg" alt="UiPath Associate & Developer Exams Compared" class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  <figcaption class="figure-caption">Details of the Uipath UI Trademark application.</figcaption>
+</figure>
+            </div>
+        </div>
+    </div>
+	
+</div>
+
 # UiPath UI Trademark Application
 
 <figure class="figure">
@@ -28,10 +71,7 @@ You can trademark a term for a specific sector where it may not be commonly used
 
 Apparently, this is the scoop on the application:
 
-<figure class="figure">
-  <img src="https://www.rpacertified.com/assets/uipath-trademark-ui-application.jpg" alt="UiPath Associate & Developer Exams Compared" class="img-fluid mx-auto d-block img-thumbnail rounded ">
-  <figcaption class="figure-caption">Details of the Uipath UI Trademark application.</figcaption>
-</figure>
+
 
 <blockquote>
 The UiPath UI trademark is an orange RPA robot cartoon with orange legs and blue arms. Each blue arm of the RPA robot holds a magnifying glass.
