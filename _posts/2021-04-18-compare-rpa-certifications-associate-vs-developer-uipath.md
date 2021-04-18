@@ -130,10 +130,7 @@ The target audience for the UiPath RPA Associate exam are the following:
 * RPA Partners
 * UiPath Pre-sales, service and RPA product support
 
-<figure class="figure">
-  <img src="https://www.rpacertified.com/assets/uipath-associate-developer-certification-roadmap.jpg" alt="UiPath Associate vs Developer RPA Certifications" class="img-fluid mx-auto d-block img-thumbnail rounded ">
-  <figcaption class="figure-caption">How to choose the right RPA Certification? Know the differences between the UiPath Developer and Associate exams.</figcaption>
-</figure>
+
 
 ### UiPath RPA Developer Cert Target Audience
 
@@ -147,16 +144,18 @@ The UiPath Developer Certification is intended to be taken by advanced RPA profe
 * Process Automation Architects
 * RPA and Data Mining Experts
 
+<figure class="figure">
+  <img src="https://www.rpacertified.com/assets/uipath-certification-logo-download.gif" alt="UiPath Associate & Developer Exams Compared" class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  <figcaption class="figure-caption">When you pass the UiPath Developer or Associate exam, you can display your <a href="https://www.rpacertified.com//2021/03/29/uipath-certification-logo.html">UiPath Certification Logo</a> with pride.</figcaption>
+</figure>
+
 ### UiPath Exam Prerequisites
 
 Many developers looking to get RPA Certified wonder about the prerequisites. 
 
 The good news? There are none. You do not have to pass any prior exam, or take any required training, in order to register for either the UiPath Associate or UiPath Developer certifications. Experience with the tool, a good number of UiPath Acadamy courses are recommended, and lots of practice taking <a href="https://www.rpacertified.com/cert-questions-answers.html">UiPath Exam Practice tests</a> is needed. But other than going through a good <a href="https://www.rpacertified.com/study-guide-uipath.html">UiPath Study Guide</a> and getting lots of practice, there are no UiPath Exam Prerequisites.
 
-<figure class="figure">
-  <img src="https://www.rpacertified.com/assets/uipath-certification-logo-download.gif" alt="UiPath Associate & Developer Exams Compared" class="img-fluid mx-auto d-block img-thumbnail rounded ">
-  <figcaption class="figure-caption">When you pass the UiPath Developer or Associate exam, you can display your <a href="https://www.rpacertified.com//2021/03/29/uipath-certification-logo.html">UiPath Certification Logo</a> with pride.</figcaption>
-</figure>
+
 
 ### UiPath Certification Project
 
@@ -175,6 +174,11 @@ This is one place where the UiPath Developer and Associate comparison comes up t
 The time given to the UiPath Associate and Developer exams are different. 
 
 The UiPath Associate exam is 90 minutes long, while in comparison, the Developer exam is 120. 
+
+<figure class="figure">
+  <img src="https://www.rpacertified.com/assets/uipath-associate-developer-certification-roadmap.jpg" alt="UiPath Associate vs Developer RPA Certifications" class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  <figcaption class="figure-caption">How to choose the right RPA Certification? Know the differences between the UiPath Developer and Associate exams.</figcaption>
+</figure>
 
 #### Where to find out more?
 
