@@ -34,7 +34,7 @@ If you are trying to figure out how to choose between Associate and Developer Ui
 
   <tbody>
       <tr>
-        <td></td>
+        <td>Exam</td>
         <td>UiPath Associate Certification Exam</td>
         <td>UiPath Developer Certification Exam</td>
      </tr>
@@ -108,7 +108,7 @@ If you are trying to figure out how to choose between Associate and Developer Ui
     
   </tbody>
 
-  <tfoot>
+  <tfoot class="table-primary">
      <tr>
       <td>Comparison Axis</td>
       <td>RPA Associate Certification</td>
