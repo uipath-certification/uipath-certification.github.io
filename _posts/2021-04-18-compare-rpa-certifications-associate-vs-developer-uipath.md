@@ -1,7 +1,7 @@
 ---
 layout: featured-post
 author: Jenny
-title: "UiPath Associate vs Developer Certification Comparison: Which to choose?"
+title: "UiPath Associate vs Developer Certifications: Which RPA Exam to Choose?"
 blurb: Looking to get RPA Certified? Not sure which UiPath Certification to choose. Here we show you the difference between the UiPath Associate and Developer exams and help you choose between UiRPA and UiARD certs.
 canonical: https://www.rpacertified.com/2021/04/18/compare-rpa-certifications-associate-vs-developer-uipath.html
 keywords: associate vs developer, rpa certifications, developer associate compared, UiRPA, UiARD, RPA Certification Choices, UiPath Certification Choice, Compare Associate Developer Exams
@@ -10,21 +10,15 @@ keywords: associate vs developer, rpa certifications, developer associate compar
 # Differences between UiPath Associate vs Developer Exams
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe src="https://www.youtube.com/embed/g_ogfSnKxQ0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/0G7bKbrrpEQ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 
 ## UiPath RPA Certifications Compared
 
-Today we are going to talk about RPA certification. 
+Many people have been asking us about the difference between the UiPath Developer and Associate and certification exams, and which RPA certification they should persue.
 
-Many people have asked me which RPA certification from UiPath to select. Many people I speak with are asking me which one of the two certifications to select: UiPath Associate or UiPath Developer.
 
-These are paid certifications. You can get free recognition from taking UiPath Academy courses, but Developer and Associate exams are different.
 
-So, which one should you take and which one is most suitable for your job or the career you’d like to pursue? This question has been asked many times, so I created this video so I could answer those questions and remove all the doubts.
-Where to find out more?
-
-To find out more about RPA certifications from UiPath, visit the <a href="http://www.uipath.com/learning/certification">official website</a>.
 
 
 <br/><br/>
@@ -166,3 +160,7 @@ This is one place where the UiPath Developer and Associate comparison comes up t
 The time given to the UiPath Associate and Developer exams are different. 
 
 The UiPath Associate exam is 90 minutes long, while in comparison, the Developer exam is 120. 
+
+#### Where to find out more?
+
+To find out more about RPA certifications from UiPath, visit the <a href="http://www.uipath.com/learning/certification">official website</a>.
