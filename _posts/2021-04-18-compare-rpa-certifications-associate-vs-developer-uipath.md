@@ -115,7 +115,7 @@ To find out more about RPA certifications from UiPath, visit the <a href="http:/
 
 
 <figure class="figure">
-  <img src="https://www.rpacertified.com/assets/uipath-associate-developer-certification-roadmap.jpg" alt="UiPath Associate Developer Logos" class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  <img src="https://www.rpacertified.com/assets/uipath-associate-developer-certification-roadmap.jpg" alt="UiPath Associate vs Developer RPA Certifications" class="img-fluid mx-auto d-block img-thumbnail rounded ">
   <figcaption class="figure-caption">How to choose the right RPA Certification? Know the differences between the UiPath Developer and Associate exams.</figcaption>
 </figure>
 
