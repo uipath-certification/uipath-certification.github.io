@@ -129,15 +129,14 @@ The UiPath UI™ trademark registration is designed to include the range of cate
     <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
         <div class="card  w-100">
             <div class="card-header">
-            Discuss with Us on Twitter
+            Talk about it on Twitter
             </div>
 
             <div class="card-body">
 <!-- **************************** -->       
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Watch this video to understand how to prepare yourself for <br>UiPath Associate Certification (UiRPA) <br>and <br>UiPath Advanced Developer Certification (UiARD).<br><br>Watch complete video here: <a href="https://t.co/DBfkQW8G9F">https://t.co/DBfkQW8G9F</a> <a href="https://twitter.com/UiPath?ref_src=twsrc%5Etfw">@UiPath</a> <a href="https://twitter.com/vibs_sri?ref_src=twsrc%5Etfw">@vibs_sri</a> <a href="https://t.co/gwVcCuupNp">pic.twitter.com/gwVcCuupNp</a></p>&mdash; Nisarg Kadam (@nisarg_kadam) <a href="https://twitter.com/nisarg_kadam/status/1381253771125161985?ref_src=twsrc%5Etfw">April 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">RPA industry leader <a href="https://twitter.com/UiPath?ref_src=twsrc%5Etfw">@UiPath</a> has applied for a trademark on the term &#39;UI&#39;, along with a cute, little, orange robot that comes along for the ride.<a href="https://t.co/UYIsggm6cY">https://t.co/UYIsggm6cY</a> <a href="https://t.co/SX7fVvIvEo">pic.twitter.com/SX7fVvIvEo</a></p>&mdash; rpacertified (@rpacertified) <a href="https://twitter.com/rpacertified/status/1383871048140025859?ref_src=twsrc%5Etfw">April 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 
 <!-- **************************** -->   
