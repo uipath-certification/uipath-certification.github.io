@@ -23,7 +23,7 @@ If you are trying to figure out how to choose between Associate and Developer Ui
 
 <br/>
 
-<table  class="table table-secondary table-striped table-bordered border-secondary">
+<table  class="table table-light table-striped table-bordered border-secondary">
 	
   <thead class="table table-primary" >
 	<tr>
