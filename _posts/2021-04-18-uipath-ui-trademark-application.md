@@ -13,13 +13,23 @@ Apparently, UiPath has applied with the Trademark office to protect the rights t
 
 I really wonder if this will go through?
 
+## Can UiPath Trademark UI?
+
 From what I understand, you can't trademark a generic term. The term UI is used globally in the software industry.
 
 You can trademark a term for a specific sector where it may not be commonly used, but I'd think it'd be hard to trademark 'UI' even in the RPA field?
 
-## Can UiPath Trademark UI?
+### The UI Trademark Application
 
-Anyways, I'm not a lawyer, and I'm not versed at all in trademark law. Would love to hear any thoughts on my Twitter feed.
+Apparently, this is the scoop on the application:
+
+<blockquote>
+The UiPath UI trademark is an orange RPA robot cartoon with orange legs and blue arms. Each blue arm of the RPA robot holds a magnifying glass.
+
+The UiPath UI™ trademark registration is designed to include the range of categories that include downloadable computer programs and software that use artificial intelligence (AI) for robotic automation, processing, analysis, document automation, robotic process automations (RPA).
+</blockquote>
+
+
 
 
 
