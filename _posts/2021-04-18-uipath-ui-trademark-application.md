@@ -27,7 +27,7 @@ I really wonder if this will go through?
 
 <figure class="figure">
   <img src="https://www.rpacertified.com/assets/uipath-trademark-image.jpg" alt="UiPath Associate & Developer Exams Compared" class="img-fluid mx-auto d-block img-thumbnail rounded ">
-  <figcaption class="figure-caption">This RPA robot is part of the UiPath Trademark application for 'UI.' The use here is purely educational and used as fair use as it is pertinent to the article. We are in now way associated with UiPath. We just really like their stuff.</figcaption>
+  <figcaption class="figure-caption">This image of an RPA robot is part of the UiPath Trademark application for 'UI.' The use here is purely educational and is intended only as fair use, as it is pertinent to the article. We are in no way associated with UiPath. We just really like their stuff.</figcaption>
 </figure>
 
 
