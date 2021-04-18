@@ -25,13 +25,13 @@ If you are trying to figure out how to choose between Associate and Developer Ui
 
 ## UiPath RPA Certifications
 
-<table  class="table table-primary table-striped table-bordered border-secondary">
+<table  class="table table-secondary table-striped table-bordered border-secondary">
 
 	
 	
-  <thead>
+  <thead class="table table-primary" >
 	<tr>
-	<td colspan="3"><h2>UiPath Associate Developer Exam Chart</h2></td>
+	<td colspan="3" class="table-dark"><h2>UiPath Associate Developer Exam Chart</h2></td>
 </tr>	
     <tr>
       <td>Criteria</td>
