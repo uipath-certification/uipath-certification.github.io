@@ -1,8 +1,8 @@
 ---
 layout: featured-post
 author: Jenny
-title: UiPath Files Trademark Application for UI Term
-blurb: UiPath has filed a trademark application for the term 'UI', along with a cute, orange robot character with green arms.
+title: "UiPath Files Trademark Application for UI Term"
+blurb: "UiPath has filed a trademark application for the term 'UI', along with a cute, orange robot character with green arms."
 canonical: https://www.rpacertified.com/2021/04/18/uipath-ui-trademark-application.html
 keywords: associate vs developer, rpa certifications, developer associate compared, UiRPA, UiARD, RPA Certification Choices, UiPath Certification Choice, Compare Associate Developer Exams
 ---
