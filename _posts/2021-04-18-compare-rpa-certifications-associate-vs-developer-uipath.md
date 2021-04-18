@@ -23,11 +23,13 @@ If you are trying to figure out how to choose between Associate and Developer Ui
 
 <br/>
 
+##
+
 <table  class="table table-light table-striped table-bordered border-secondary">
 	
   <thead class="table table-primary" >
 	<tr>
-		<td colspan="3" class="table-dark"><center><h2>UiPath Associate Developer Exam Chart</h2></center></td>
+		<td colspan="3" class="table-dark"><center><h2>UiPath Associate or Developer Comparison Chart</h2></center></td>
 </tr>	
     <tr>
       <td>Criteria</td>
@@ -155,19 +157,17 @@ The UiPath Developer Certification is intended to be taken by advanced RPA profe
   <figcaption class="figure-caption">When you pass the UiPath Developer or Associate exam, you can display your <a href="https://www.rpacertified.com//2021/03/29/uipath-certification-logo.html">UiPath Certification Logo</a> with pride.</figcaption>
 </figure>
 
-### UiPath Exam Prerequisites
+### UiPath Developer and Associate Certification Prerequisites
 
 Many developers looking to get RPA Certified wonder about the prerequisites. 
 
 The good news? There are none. You do not have to pass any prior exam, or take any required training, in order to register for either the UiPath Associate or UiPath Developer certifications. Experience with the tool, a good number of UiPath Acadamy courses are recommended, and lots of practice taking <a href="https://www.rpacertified.com/cert-questions-answers.html">UiPath Exam Practice tests</a> is needed. But other than going through a good <a href="https://www.rpacertified.com/study-guide-uipath.html">UiPath Study Guide</a> and getting lots of practice, there are no UiPath Exam Prerequisites.
 
-
-
 ### UiPath Certification Project
 
 Many RPA Certifications seekers also ask if they need to complete and submit a UiPath Project. In previous versions, a Uipath Certification Project was required, but it is not anymore. So you can rest easy on this front.
 
-### Is the UiPath Exam Multiple Choice?
+### Are the Developer & Associate Exams Multiple Choice?
 
 There are no hands on labs or written answers on the UiPath Developer or Associate exams. The exams are composed exclusively of multiple choice questions.
 
@@ -175,7 +175,7 @@ There are no hands on labs or written answers on the UiPath Developer or Associa
 
 This is one place where the UiPath Developer and Associate comparison comes up the same. Both RPA exams require a passing score of 70%. So you can get 3 out of every 10 test questions wrong and you'll still get RPA Certified.
 
-### How long is the UiPath Exam?
+### How long is the UiPath Associate & Developer Exams?
 
 The time given to the UiPath Associate and Developer exams are different. 
 
