@@ -9,6 +9,11 @@ keywords: associate vs developer, rpa certifications, developer associate compar
 
 # UiPath UI Trademark Application
 
+<figure class="figure">
+  <img src="https://www.rpacertified.com/assets/uipath-trademark-image.jpg" alt="UiPath Associate & Developer Exams Compared" class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  <figcaption class="figure-caption">This image is part of the UiPath Trademark application for 'UI.' The use here is purely educational and used as fair use as it is pertinent to the article. We are in now way associated with UiPath. We just really like their stuff.</figcaption>
+</figure>
+
 Apparently, UiPath has applied with the Trademark office to protect the rights to the term UI, along with a cute orange RPA robot with blue arms and a magnifying glass.
 
 I really wonder if this will go through?
@@ -23,6 +28,11 @@ You can trademark a term for a specific sector where it may not be commonly used
 
 Apparently, this is the scoop on the application:
 
+<figure class="figure">
+  <img src="https://www.rpacertified.com/assets/uipath-trademark-ui-application.jpg" alt="UiPath Associate & Developer Exams Compared" class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  <figcaption class="figure-caption">Details of the Uipath UI Trademark application.</figcaption>
+</figure>
+
 <blockquote>
 The UiPath UI trademark is an orange RPA robot cartoon with orange legs and blue arms. Each blue arm of the RPA robot holds a magnifying glass.
 
@@ -30,7 +40,88 @@ The UiPath UI™ trademark registration is designed to include the range of cate
 </blockquote>
 
 
+<table  class="table table-light table-striped table-bordered border-secondary">
+	
+  <thead class="table table-primary" >
+	<tr>
+		<td colspan="3" class="table-dark"><center><h2>UiPath UI Trademark Details</h2></center></td>
+</tr>	
+    <tr>
+      <td>Trademark Property</td>
+      <td>Established Value</td>
+    </tr>
+  </thead>
 
+  <tbody>
+	
+	
+      <tr>
+        <td>Website</td>
+        <td>uipath.com</td>
+     </tr>
+     
+      <tr>
+        <td>Serial Number</td>
+        <td>90645401</td>
+     </tr>
+
+      
+      <tr>
+        <td>Mark Literal Elements</td>
+        <td>UI</td>
+     </tr>
+     
+      <tr>
+        <td>Mark Type</td>
+        <td>UiPath Associate Certification Exam</td>
+     </tr>
+     
+      <tr>
+        <td>Exam</td>
+        <td>Trademark, Service Mark</td>
+     </tr>
+     
+      <tr>
+        <td>Standard Character Claim</td>
+        <td>No</td>
+     </tr>
+     
+      <tr>
+        <td>Basis of Claim</td>
+        <td>Section 1(a)</td>
+     </tr>
+     
+      <tr>
+        <td>Primary US Classes</td>
+        <td>021: Electrical Apparatus, Machines and Supplies </td>
+     </tr>
+     
+      <tr>
+        <td>Primary International Class</td>
+        <td>(Electrical and scientific apparatus)</td>
+     </tr>
+     
+      <tr>
+        <td>Attorney Name</td>
+        <td>Adam E. Urbanczyk</td>
+     </tr>
+     
+      <tr>
+        <td>U.S. Codes:</td>
+        <td>021,023,026,036,038</td>
+     </tr>
+
+    
+  </tbody>
+
+  <tfoot class="table-secondary">
+     <tr>
+      <td>UiPath UI Trademark Application</td>
+      <td>UI Trademark Details</td>
+     </tr>
+  </tfoot>
+  
+</table>
 
 
 <div class="row">
