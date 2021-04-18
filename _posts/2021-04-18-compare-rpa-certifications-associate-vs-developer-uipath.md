@@ -21,7 +21,7 @@ We were going to put together a RPA Developer vs Associate comparison video of o
 
 If you are trying to figure out how to choose between Associate and Developer UiPath Certifications, watch Nisarg's video, take note of the Developer vs Associate comparison chart below, and figure out what type of RPA role you'd like to pursue. Put it all together, and which UiPath Certification to choose should be come clear.
 
-<table border="1">
+<table  class="table-primary table-striped table-bordered border-secondary">
   <thead>
   <tr>
     <th colspan="3">UiPath Associate and Developer Exam Comparison</th>
@@ -100,8 +100,21 @@ If you are trying to figure out how to choose between Associate and Developer Ui
     <td>Certification Cost</td>
     <td>$150USD</td>
     <td>$200USD</td>
-  </tr>     
+  </tr>
+
+  
+  
+  
 </tbody>
+
+  <tfoot>
+     <tr>
+    <td>Comparison Axis</td>
+    <td>RPA Associate Certification</td>
+    <td>RPA Developer Certification</td>
+  </tr>
+  
+  </tfoot>
 </table>
 
 ### UiPath Associate Certification RPA Roles
