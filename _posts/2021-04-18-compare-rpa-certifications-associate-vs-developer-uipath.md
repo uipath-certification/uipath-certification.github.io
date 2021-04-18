@@ -23,7 +23,7 @@ If you are trying to figure out how to choose between Associate and Developer Ui
 
 ## UiPath Associate and Developer Comparison Chart
 
-<table  class="table-primary table-striped table-bordered border-secondary">
+<table  class="table table-primary table-striped table-bordered border-secondary">
   <thead>
     <tr>
       <td>Criteria</td>
