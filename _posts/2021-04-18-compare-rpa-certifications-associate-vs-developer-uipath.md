@@ -25,103 +25,97 @@ If you are trying to figure out how to choose between Associate and Developer Ui
 
 <table  class="table-primary table-striped table-bordered border-secondary">
   <thead>
-  <tr>
-  <tr>
-    <td>Criteria</td>
-    <td>UiPath Associate RPA Certification</td>
-    <td>Uipath Developer RPA Certification</td>
-  </tr>
+    <tr>
+      <td>Criteria</td>
+      <td>UiPath Associate RPA Certification</td>
+      <td>Uipath Developer RPA Certification</td>
+    </tr>
   </thead>
-  
-
 
   <tbody>
+      <tr>
+        <td></td>
+        <td>UiPath Associate Certification Exam</td>
+        <td>UiPath Developer Certification Exam</td>
+     </tr>
+  
     <tr>
-      <td></td>
-      <td>UiPath Associate Certification Exam</td>
-      <td>UiPath Developer Certification Exam</td>
-   </tr>
+      <td>Full Name</td>
+      <td>UiPath Certified RPA Associate</td>
+      <td>UiPath Certified Advanced RPA Developer</td>
+    </tr>
   
-  <tr>
-    <td>Full Name</td>
-    <td>UiPath Certified RPA Associate</td>
-    <td>UiPath Certified Advanced RPA Developer</td>
-  </tr>
-  
-   <tr>
-    <td>Abbreviation</td>
-    <td>UiRPA</td>
-    <td>UiART</td>
-  </tr>
+     <tr>
+      <td>Abbreviation</td>
+      <td>UiRPA</td>
+      <td>UiART</td>
+    </tr>
 
-  <tr>
-    <td>Track</td>
-    <td>General and Developer</td>
-    <td>Developer</td>
-  </tr> 
+    <tr>
+      <td>Track</td>
+      <td>General and Developer</td>
+      <td>Developer</td>
+    </tr> 
   
     <tr>
-    <td>Current Version</td>
-    <td>v1.0</td>
-    <td>v1.0</td>
-  </tr> 
+      <td>Current Version</td>
+      <td>v1.0</td>
+      <td>v1.0</td>
+    </tr> 
   
     <tr>
-    <td>Exam Title</td>
-    <td>UiPath-RPAv1</td>
-    <td>UiPath-ARDv1</td>
-  </tr> 
+      <td>Exam Title</td>
+      <td>UiPath-RPAv1</td>
+      <td>UiPath-ARDv1</td>
+     </tr> 
   
     <tr>
-    <td>Prerequisite</td>
-    <td>None</td>
-    <td>None. But Associate certification is recommended.</td>
-  </tr> 
+      <td>Prerequisite</td>
+      <td>None</td>
+      <td>None. But Associate certification is recommended.</td>
+    </tr> 
   
     <tr>
-    <td>Time Duration</td>
-    <td>90 Minutes</td>
-    <td>120 Minutes</td>
-  </tr> 
-  
-  <tr>
-    <td>Passing Score</td>
-    <td>70%</td>
-    <td>70%</td>
-  </tr> 
+      <td>Time Duration</td>
+      <td>90 Minutes</td>
+      <td>120 Minutes</td>
+    </tr> 
   
     <tr>
-    <td>Exam Format</td>
-    <td>Multiple Choice</td>
-    <td>Multiple Choice</td>
-  </tr> 
+      <td>Passing Score</td>
+      <td>70%</td>
+      <td>70%</td>
+    </tr> 
+  
+    <tr>
+      <td>Exam Format</td>
+      <td>Multiple Choice</td>
+      <td>Multiple Choice</td>
+    </tr> 
   
   
-   <tr>
-    <td>Certification Project</td>
-    <td>No</td>
-    <td>No</td>
-  </tr> 
+     <tr>
+      <td>Certification Project</td>
+      <td>No</td>
+      <td>No</td>
+     </tr> 
   
-   <tr>
-    <td>Certification Cost</td>
-    <td>$150USD</td>
-    <td>$200USD</td>
-  </tr>
-
-  
-  
-  
-</tbody>
+     <tr>
+      <td>Certification Cost</td>
+      <td>$150USD</td>
+      <td>$200USD</td>
+     </tr>
+    
+  </tbody>
 
   <tfoot>
      <tr>
-    <td>Comparison Axis</td>
-    <td>RPA Associate Certification</td>
-    <td>RPA Developer Certification</td>
-  </tr>
-  
+      <td>Comparison Axis</td>
+      <td>RPA Associate Certification</td>
+      <td>RPA Developer Certification</td>
+     </tr>
   </tfoot>
+  
 </table>
 
 ### UiPath Associate Certification RPA Roles
