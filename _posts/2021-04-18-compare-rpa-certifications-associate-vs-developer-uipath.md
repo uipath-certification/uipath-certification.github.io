@@ -21,6 +21,8 @@ We were going to put together a RPA Developer vs Associate comparison video of o
 
 If you are trying to figure out how to choose between Associate and Developer UiPath Certifications, watch Nisarg's video, take note of the Developer vs Associate comparison chart below, and figure out what type of RPA role you'd like to pursue. Put it all together, and which UiPath Certification to choose should be come clear.
 
+<br/>
+
 ## UiPath Associate and Developer Comparison Chart
 
 <table  class="table table-primary table-striped table-bordered border-secondary">
@@ -108,7 +110,7 @@ If you are trying to figure out how to choose between Associate and Developer Ui
     
   </tbody>
 
-  <tfoot class="table-primary">
+  <tfoot class="table-secondary">
      <tr>
       <td>Comparison Axis</td>
       <td>RPA Associate Certification</td>
@@ -117,6 +119,8 @@ If you are trying to figure out how to choose between Associate and Developer Ui
   </tfoot>
   
 </table>
+
+<br/>
 
 ### UiPath Associate Certification RPA Roles
 
@@ -183,3 +187,40 @@ The UiPath Associate exam is 90 minutes long, while in comparison, the Developer
 #### Where to find out more?
 
 To find out more about RPA certifications from UiPath, visit the <a href="http://www.uipath.com/learning/certification">official website</a>.
+
+<div class="row">
+	
+    <div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
+        <div class="card  w-100">
+            <div class="card-header">
+            Discuss with Us on Twitter
+            </div>
+
+            <div class="card-body">
+<!-- **************************** -->       
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Watch this video to understand how to prepare yourself for <br>UiPath Associate Certification (UiRPA) <br>and <br>UiPath Advanced Developer Certification (UiARD).<br><br>Watch complete video here: <a href="https://t.co/DBfkQW8G9F">https://t.co/DBfkQW8G9F</a> <a href="https://twitter.com/UiPath?ref_src=twsrc%5Etfw">@UiPath</a> <a href="https://twitter.com/vibs_sri?ref_src=twsrc%5Etfw">@vibs_sri</a> <a href="https://t.co/gwVcCuupNp">pic.twitter.com/gwVcCuupNp</a></p>&mdash; Nisarg Kadam (@nisarg_kadam) <a href="https://twitter.com/nisarg_kadam/status/1381253771125161985?ref_src=twsrc%5Etfw">April 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+
+
+<!-- **************************** -->   
+            
+            
+            </div>
+        </div>
+    </div>
+	
+	<div class="col-12 col-xs-12 col-sm-12 col-md-12 col-lg-6 col-xl-6 mb-2 d-flex align-items-stretch">
+        <div class="card w-100">
+            <div class="card-header">
+            Get UiPath Certified
+            </div>
+
+            <div class="card-body">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Looking for your <a href="https://twitter.com/UiPath?ref_src=twsrc%5Etfw">@UiPath</a> Certified badge or logo so you can display it on your resume? Here&#39;s how to find it.<a href="https://twitter.com/hashtag/rpacertified?src=hash&amp;ref_src=twsrc%5Etfw">#rpacertified</a> <a href="https://twitter.com/hashtag/UiPath?src=hash&amp;ref_src=twsrc%5Etfw">#UiPath</a> <a href="https://twitter.com/hashtag/UiPathCertified?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertified</a> <a href="https://twitter.com/hashtag/UiPathCertification?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertification</a> <a href="https://twitter.com/hashtag/UiPathDeveloper?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathDeveloper</a> <a href="https://twitter.com/hashtag/UiPathAssociate?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathAssociate</a><a href="https://t.co/ck0QbfkJKv">https://t.co/ck0QbfkJKv</a> via <a href="https://twitter.com/YouTube?ref_src=twsrc%5Etfw">@YouTube</a></p>&mdash; rpacertified (@rpacertified) <a href="https://twitter.com/rpacertified/status/1383047444041244690?ref_src=twsrc%5Etfw">April 16, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+            </div>
+        </div>
+    </div>
+	
+</div>
