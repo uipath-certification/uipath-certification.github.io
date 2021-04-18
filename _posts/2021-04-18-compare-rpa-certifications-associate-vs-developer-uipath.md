@@ -1,8 +1,8 @@
 ---
 layout: featured-post
 author: Jenny
-title: UiPath Associate vs Developer Certification Compared
-blurb: Looking to get RPA Certified? Not sure which UiPath Certification to choose. Here we show you the difference between the UiPath Associate and Developer exams and help you choose between UiRPA and UiARD certs.
+title: "UiPath Associate vs Developer Certification Compared"
+blurb: "Looking to get RPA Certified? Not sure which UiPath Certification to choose. Here we show you the difference between the UiPath Associate and Developer exams and help you choose between UiRPA and UiARD certs."
 canonical: https://www.rpacertified.com/2021/04/18/compare-rpa-certifications-associate-vs-developer-uipath.html
 keywords: associate vs developer, rpa certifications, developer associate compared, UiRPA, UiARD, RPA Certification Choices, UiPath Certification Choice, Compare Associate Developer Exams
 ---
