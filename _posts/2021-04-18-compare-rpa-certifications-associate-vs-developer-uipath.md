@@ -122,8 +122,6 @@ If you are trying to figure out how to choose between Associate and Developer Ui
   
 </table>
 
-<br/>
-
 ### UiPath Associate vs Developer RPA Roles
 
 The target audience for the UiPath RPA Associate exam are the following:
