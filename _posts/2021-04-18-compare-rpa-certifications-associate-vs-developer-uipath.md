@@ -7,7 +7,7 @@ canonical: https://www.rpacertified.com/2021/04/18/compare-rpa-certifications-as
 keywords: associate vs developer, rpa certifications, developer associate compared, UiRPA, UiARD, RPA Certification Choices, UiPath Certification Choice, Compare Associate Developer Exams
 ---
 
-# Difference between UiPath Associate vs Developer Exams
+# Difference between UiPath Associate and Developer Exams
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://www.youtube.com/embed/0G7bKbrrpEQ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
@@ -27,7 +27,7 @@ If you are trying to figure out how to choose between Associate and Developer Ui
 	
   <thead class="table table-primary" >
 	<tr>
-		<td colspan="3" class="table-dark"><center><h2>UiPath Associate or Developer Comparison Chart</h2></center></td>
+		<td colspan="3" class="table-dark"><center><h2>UiPath Associate or Developer Certification Comparison Chart</h2></center></td>
 </tr>	
     <tr>
       <td>Criteria</td>
@@ -124,7 +124,7 @@ If you are trying to figure out how to choose between Associate and Developer Ui
 
 <br/>
 
-### UiPath Associate Certification RPA Roles
+### UiPath Associate vs Developer RPA Roles
 
 The target audience for the UiPath RPA Associate exam are the following:
 
@@ -155,7 +155,7 @@ The UiPath Developer Certification is intended to be taken by advanced RPA profe
   <figcaption class="figure-caption">When you pass the UiPath Developer or Associate exam, you can display your <a href="https://www.rpacertified.com//2021/03/29/uipath-certification-logo.html">UiPath Certification Logo</a> with pride.</figcaption>
 </figure>
 
-### UiPath Developer and Associate Certification Prerequisites
+### UiPath Developer vs Associate Certification Prerequisites
 
 Many developers looking to get RPA Certified wonder about the prerequisites. 
 
