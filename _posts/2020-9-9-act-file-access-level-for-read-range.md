@@ -21,10 +21,16 @@ Question:  What describes the file access level needed when using the Read Range
 
 Option C is correct.
 
-One of the great features about the Read Range Workbook activity is that it does not need the Excel to actually be installed to work. So it can take .xlsx files and the developer can use the data and even create another .xlsx file all without needing the Microsoft Excel program itself.
+This is another question that we got that we were asked to include.  This question keeps coming up and a version of this may be on the actual exam.  This question needs a little interpreting.
+
+First, file access doesn't mean active directory file access. You don't have to worry about read/write/execute access on this.
+
+While the question is trying to promote one of the great features about the Read Range Workbook activity, in that it does not need the Excel to actually be installed to work. 
+The UiPath Read Range Workbook activity can _access_ the .xlsx files, the developer can use the data and even create another .xlsx file all without needing the Microsoft Excel program itself.
 
 Although, for troubleshooting purposes, having Excel installed is highly recommended
 
+Hopefully that clears everything up. Like I said, not a great question but that's what we are here for.
 
 <div class="row">
 	
