@@ -24,13 +24,18 @@ Option A is correct.
 
 This answer is somewhat self-explanatory. If your CSV file includes a set of headers, make sure you click the _Has Headers_ option, otherwise the header info might get processed as data during the automation.
 
+
 _Has Headers_ is the check box you would select in the properties panel, or sometimes on the activity itself, to inform UiPath Studio about the headers.
+
 
 A _delimiter_ is the term used to refer to a character that separates columns or rows. CSVs are 'comma separated files', although a delimiter can be any valid character. The use of a tab as a delimiter is very common.
 
+
 _IncludeColumnName_ sounds correct, but it's not correct. That's just a made up option. It doesn't exist in UiPath Studio.
 
+
 The _PreserveFormat_ property instructs UiPath Studio to keep all the fonts and formatting in the CSV unchanged.
+
 
 
 <div class="row">
