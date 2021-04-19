@@ -22,12 +22,15 @@ Question:  When reading a CSV file with the Read CSV activity, which property ne
 
 Option A is correct.
 
-This is self explanatory but it's going to bug me if I don't explain it.
+This answer is somewhat self-explanatory. If your CSV file includes a set of headers, make sure you click the _Has Headers_ option, otherwise the header info might get processed as data during the automation.
 
-Yes, Has Headers is the actual check box you would need to select to include th column names.
-Delimiter is what you tell the activity how the CSV is separated.  Normally defaulted to Comma.
-IncludeColumnName sounds correct and should be used. This would be amazing if it weren't for one detail....it doesn't exist
-PreserveFormat keeps all the fonts and formatting in the CSV.
+_Has Headers_ is the check box you would select in the properties panel, or sometimes on the activity itself, to inform UiPath Studio about the headers.
+
+A _delimiter_ is the term used to refer to a character that separates columns or rows. CSVs are 'comma separated files', although a delimiter can be any valid character. The use of a tab as a delimiter is very common.
+
+_IncludeColumnName_ sounds correct, but it's not correct. That's just a made up option. It doesn't exist in UiPath Studio.
+
+The _PreserveFormat_ property instructs UiPath Studio to keep all the fonts and formatting in the CSV unchanged.
 
 
 <div class="row">
