@@ -5,7 +5,7 @@ title: UiPath CSV File Handling
 blurb: Here's how to properly check UiPath CSV files.
 difficulty: 6
 objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation
-canonical: https://www.rpacertified.com//2020/09/09/act-include-column-headers.html
+canonical: https://www.rpacertified.com/2020/09/09/act-include-column-headers.html
 keywords: UiPath column
 ---
 
