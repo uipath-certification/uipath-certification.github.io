@@ -14,7 +14,7 @@ keywords: anchor, anchor base
 Question:  How can you find all UiPath anchor elements in a web page?
 
  - [ ] &nbsp;  Using the Find Element Activity
- - [X] &nbsp;  
+ - [X] &nbsp;  Using the Find Children Activity
  - [ ] &nbsp;  Using the Find Relative Element Activity
  - [ ] &nbsp;  Using the Get Ancestor Activity
 
