@@ -21,7 +21,7 @@ Question:  Which of the following statements are true about native UiPath screen
 
 Option A, C and D are correct.
 
-Native screenscraping can extract the visible text and the position of the text on the screen. Unfortunately, it cannot run in the background because it is actively looking at the User Interface (IE, Excel or browser). As such, it cannot see any hidden text.  
+Native screenscraping can extract the visible text and the position of the text on the screen. Unfortunately, it cannot run in the background because it is actively looking at the User Interface (IE Excel or browser). As such, it cannot see any hidden text.  
 
 There is no native support for Citrix at all within UiPath. The developer must resort to using text type and mouse click activities when developing automations for Citrix applications. As Citrix only returns screenshots to the user, UiPath will not have access the application's internal elements.
 
@@ -44,9 +44,7 @@ If you would like to see the difference between Full-Text, Native and OCR, pleas
             <div class="card-body">
 <!-- **************************** -->       
 
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">When taking the exam its imperative to know exactly what screenscraping can and cannot do. This question will help you!<a href="https://twitter.com/hashtag/UiPath?src=hash&amp;ref_src=twsrc%5Etfw">#UiPath</a> <a href="https://twitter.com/hashtag/UiPathCertified?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertified</a> <a href="https://twitter.com/hashtag/RPACertified?src=hash&amp;ref_src=twsrc%5Etfw">#RPACertified</a> <a href="https://twitter.com/hashtag/RPA?src=hash&amp;ref_src=twsrc%5Etfw">#RPA</a> <a href="https://twitter.com/hashtag/RPACertification?src=hash&amp;ref_src=twsrc%5Etfw">#RPACertification</a> <a href="https://twitter.com/hashtag/UiPathAssociate?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathAssociate</a> <a href="https://twitter.com/hashtag/UiPathCertification?src=hash&amp;ref_src=twsrc%5Etfw">#UiPathCertification</a> <a href="https://twitter.com/hashtag/RPATools?src=hash&amp;ref_src=twsrc%5Etfw">#RPATools</a> <a href="https://t.co/vTe5qlW1w0">https://t.co/vTe5qlW1w0</a> <a href="https://t.co/wyytv2FMKO">pic.twitter.com/wyytv2FMKO</a></p>&mdash; rpacertified (@rpacertified) <a href="https://twitter.com/rpacertified/status/1384519249356595205?ref_src=twsrc%5Etfw">April 20, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 
 <!-- **************************** -->   
