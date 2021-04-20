@@ -6,6 +6,15 @@ canonical: https://www.rpacertified.com/allarticles.html
 ---
 
 <div class="row">
+<div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
+    <div class="card">
+        <div class="card-header">UiPath Trademarks UI?</div>
+        <a href="https://www.rpacertified.com/2021/04/18/uipath-ui-trademark-application.html"><img src="/assets/uipath-trademark-ui-application.jpg" class="card-img-top" alt="uipath certification" /></a>
+        <div class="card-body d-flex flex-column">
+            <p class="card-text">Great article about UiPath and their attempt to <a href="https://www.rpacertified.com/2021/04/18/uipath-ui-trademark-application.html">trademark UI</a></p>
+        </div>
+    </div>
+</div>
 
 <div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
     <div class="card">
