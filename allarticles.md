@@ -9,6 +9,15 @@ canonical: https://www.rpacertified.com/allarticles.html
 
 <div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
     <div class="card">
+        <div class="card-header">Associate vs Developer Exam</div>
+        <a href="https://www.rpacertified.com/2021/04/18/compare-rpa-certifications-associate-vs-developer-uipath.html"><img src="/assets/memes/uipath-meme-developer-vs-associate-exam.jpg" class="card-img-top" alt="uipath certification" /></a>
+        <div class="card-body d-flex flex-column">
+            <p class="card-text">Comparing and contrasting between the <a href="https://www.rpacertified.com/2021/04/18/compare-rpa-certifications-associate-vs-developer-uipath.html">associate and the developer exams</a>. Definitely a must if you are unsure which one to take.</p>
+        </div>
+    </div>
+</div>
+<div class="col-12 col-xs-12 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-2 d-flex align-items-stretch">
+    <div class="card">
         <div class="card-header">Autoclose Messagebox</div>
         <a href="https://www.rpacertified.com/2021/04/12/autoclosing-message-boxes.html"><img src="/assets/Messagebox-gone-Meme.jpg" class="card-img-top" alt="uipath certification" /></a>
         <div class="card-body d-flex flex-column">
