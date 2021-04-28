@@ -77,7 +77,7 @@ What this should return is a datatable.  Name your Datatable output accordingly
 
 <img src="/assets/sql-fig7.jpg"/>
 
- 
+
 ## Update/Insert/Delete into the Database
 
 If you want to update, insert or delete single records, you will use a Execute non-query activity
