@@ -25,11 +25,13 @@ SQLite will allow you to create the database table like this
  - create table clients (name text null, email text null, goodstanding text null);
 While this is allowable in the database and it will work, UIPath will not be able to read these rows.  Instead, create the table like this:
  - create table clients (name string null, email string null, goodstanding <b>string</b> null);
+
 UIPath will not know how to handle a variable type “text”
 Once you have created your database and dsn ODBC connection, you can now use it in UIPath.
 
 
-##UIPath Connection
+<b>UIPath Connection</b>
+
 Drag the Database > Connect activity into your sequence or flowchart
 Click on “Configure Settings” and then connection wizard
 
@@ -43,14 +45,14 @@ Click OK
  
 Select the ODBC DSN name
 If the database requires a user/password, enter that too.  Then click on test connection
-Fig3
+<img src="/assets/sql-fig3.jpg"/>
  
 You should get this:
-Fig4
+<img src="/assets/sql-fig4.jpg"/>
  
 What it will output is a Database Connection.  While the focus is on the database connection Activity, go to the output section and in the Database Connection, create the variable (Control K) and name the variable.
-Fig5
-Fig6
+<img src="/assets/sql-fig5.jpg"/>
+<img src="/assets/sql-fig6.jpg"/>
  
  
 
@@ -63,24 +65,24 @@ Under Existing Database Connection, enter the Connection you just created previo
 In the edit query, you can put in pure SQL.  Everything in the query must be string.
 What this should return is a datatable.  Name your Datatable output accordingly
 
-Fig 7 
+<img src="/assets/sql-fig7.jpg"/>
 
  
 Update/Insert/Delete into the Database
 If you want to update, insert or delete single records, you will use a Execute non-query activity
 It is very similar to the query one except it doesn’t produce a table as output.  The output will be “Affected Records” which is an integer variable.
 The query string will be pure SQL
-Fig 8
+<img src="/assets/sql-fig8jpg"/>
  
 
  
 Inserting an entire table into a database table
 To insert an entire (and compatible) data table into the database table, you will want to use the Database > Insert activity
 Enter the Database Connection that you created and click okay
-Fig 9
+<img src="/assets/sql-fig9.jpg"/>
  
 The enter the database table you want to insert into in Quotes
 And then enter the table name that you have created or pulled from another resource in the last field
-Fig10
+<img src="/assets/sql-fig10.jpg"/>
  
 Output will be an integer (Affected Records)
