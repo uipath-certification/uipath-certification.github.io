@@ -30,7 +30,7 @@ UIPath will not know how to handle a variable type “text”
 Once you have created your database and dsn ODBC connection, you can now use it in UIPath.
 
 
-<b>UIPath Connection</b>
+## <b>UIPath Connection</b>
 
 Drag the Database > Connect activity into your sequence or flowchart
 Click on “Configure Settings” and then connection wizard
