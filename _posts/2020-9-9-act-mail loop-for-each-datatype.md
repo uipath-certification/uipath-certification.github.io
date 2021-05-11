@@ -22,5 +22,8 @@ Question:  When using the For Each activity to loop through a list of MailMessag
 
 Option B is correct.
 
-This is the datatype for all emails.
+So a confession, I tricked you, System.Core.Mail.Mailmessage and System.Mail.MailMessage do not exist. They are made up and you cannot select them in the list of data types.
 
+System.Web.Mail.Mailmessage does exist so is this something we can use?  The answer is, yes, it can be used but you will get a warning.  This was for the .Net Framework v1.1 and it does work but the warning you will get is that this is a deprecated data type.
+
+The datatype that is correct, not deprecated and made for .NET framework v2.0 and onwards is System.Net.Mail.MailMessage.  This data type can be used for all mailmessage types and mail activities.
