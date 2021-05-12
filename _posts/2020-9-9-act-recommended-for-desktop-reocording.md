@@ -22,5 +22,7 @@ Question:  When is it recommended to use desktop recording?
 
 Option C is correct.
 
-Desktop recording is used when you automate more steps in the same window
+While you can use desktop recording at any time, the best (recommended) place to use it is when you need to automate multiple steps in the same window.  It is cleaner and easier this way.
+
+Also, you can Task Capture for documentation of all the steps.  It's a great tool for getting all the steps that will generate a PDD and it will also produce a working XAML file for your developers, cutting the developement cycle significantly. Please note, Task Capture is not on the exam but I thought I would give you this helpful tip.
 
