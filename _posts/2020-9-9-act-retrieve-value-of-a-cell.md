@@ -8,8 +8,6 @@ objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, an
 canonical: https://www.rpacertified.com//2020/09/09/act-retrieve-value-of-a-cell.html
 ---
 
-<h1UiPath DataRow Objects</h1>
-
 Question:  Which activity can be used to retrieve the value from a certain cell, from a DataRow object?
 
  - [ ] &nbsp;  Read Cell
@@ -21,5 +19,7 @@ Question:  Which activity can be used to retrieve the value from a certain cell,
 
 Option C is correct.
 
-The correct answer is C.  Read Cell and Write Cell are activities that work with an Excel spreadsheet directly.  Removing Data Row will only remove the data, it will not read it.  Get Row Item will pull the info in the specific column, which is a particular cell.
+Read Cell and Write Cell are activities that work with an Excel spreadsheet directly within any spreadsheet activity.  
+Removing Data Row will only remove the data, it will not read it, obviously.  
 
+Get Row Item will pull the info in the specific column of that row, which by definition, is a certain cell.
