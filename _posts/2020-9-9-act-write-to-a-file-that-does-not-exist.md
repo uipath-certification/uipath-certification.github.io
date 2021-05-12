@@ -5,10 +5,8 @@ title: Write to a file that doesn't exist
 blurb: What happens if you try to save a table using Excel Write Range activity to a file that does not exist? 
 difficulty: 6
 objective: 7.2 Identify and describe Microsoft Excel and DataTable functions, and how Excel activities are used for data manipulation
-canonical:
+canonical: https://www.rpacertified.com//2020/09/09/act-write-to-a-file-that-does-not-exist.html
 ---
-
-<h1>Write to a file that doesn't exit</h1>
 
 Question: What happens if you try to save a table using Excel Write Range activity to a file that does not exist?  
 
