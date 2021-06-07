@@ -22,7 +22,7 @@ Question: Which of the following statements are true about UiPath Studio Communi
 
 Options c and d are correct.
 
-<h2>UiPath Community IDE</h1>
+<h2>UiPath Community IDE</h2>
 
 UiPath Studio Community Edition  has only self managed updates, so you can't stop it from downloaded the latest stable release from within the tool.
 
