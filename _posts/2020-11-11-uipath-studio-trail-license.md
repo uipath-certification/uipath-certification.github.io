@@ -23,6 +23,6 @@ Option d is correct.
 
 <h2>UiPath Community Edition Restrictions</h2>
 
-UiPath Studio Community Edition is not triall based. There are versions of UiPath Studio Enterprise Edition that hav 60 day trials, but according to UiPath, the community version is 'always free.'
+UiPath Studio Community Edition is not trial based. There are versions of UiPath Studio Enterprise Edition that hav 60 day trials, but according to UiPath, the community version is 'always free.'
 
 
