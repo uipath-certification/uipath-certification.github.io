@@ -13,10 +13,10 @@ keywords: attended automation, attended robots, automation best practices, rpa u
 
 Question: Which of the following is not one of the default variable types listed in the drop down list of the Variables tab?
 
-- [ ] &nbsp;  small, Boolean
-- [x] &nbsp;  small, int
-- [ ] &nbsp;  large, String
-- [x] &nbsp;  large, DataTable
+- [ ] &nbsp;  Boolean
+- [x] &nbsp;  int
+- [ ] &nbsp;  String
+- [x] &nbsp;  DataTable
 
 ## Answer
 
