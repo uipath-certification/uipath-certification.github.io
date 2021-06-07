@@ -16,7 +16,7 @@ Question: Which of the following is not one of the default variable types listed
 - [ ] &nbsp;  Boolean
 - [x] &nbsp;  int
 - [ ] &nbsp;  String
-- [x] &nbsp;  DataTable
+- [x] &nbsp;  Dictionary
 
 ## Answer
 
@@ -34,7 +34,7 @@ When you start a new UiPath project, there are only five varaible types listed i
 
 Note that b) is incorrect because the variable type is int32, not int.
 
-UiPath uses DataTables quite extensively, especially when performing Excel automation, but surprisingly, the DataTable object is not one of the default UiPath Variable types.
+The Dictionary class is a valid UiPath variable type, but it is not one of the defaults listed in the varaibles tab.
 
 #### Where to find out more?
 
