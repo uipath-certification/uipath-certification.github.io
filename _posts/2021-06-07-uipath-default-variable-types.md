@@ -9,7 +9,7 @@ canonical: https://www.rpacertified.com/2021/06/07/uipath-default-variable-types
 keywords: attended automation, attended robots, automation best practices, rpa use case, rpa best practices
 ---
 
-# UiPath Default Variable Types
+# UiPath Default Variable Types (KIVENS)
 
 Question: Which of the following is not one of the default variable types listed in the drop down list of the Variables tab?
 
