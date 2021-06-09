@@ -13,6 +13,7 @@ keywords: uipath, variables, variable scope, variable listerine, uipath studio, 
 <iframe src="https://www.youtube.com/embed/Y_yE4CaqazE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 <br/>
+{% include accordion.html %}
 
 ## Variable Scope in UiPath Studio Tutorial
 
