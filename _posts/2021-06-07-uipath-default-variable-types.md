@@ -1,6 +1,6 @@
 ---
 layout: answered-question
-author: Jenny
+author: Kivens
 title: Which of the following are not default types in the UiPath Variables tab?
 blurb: When you create a new UiPath Process, there are five variable types listed in the Variables tab dropdown. Can you name them?
 difficulty: 6
