@@ -3,7 +3,7 @@ layout: featured-post
 author: Jenny
 title: "UiPath Arguments Example & Tutorial"
 blurb: "Here's a quick example of how UiPath Arguments work, how they compare to variables, and how you can use arguments in UiPath Studio."
-canonical: https://www.rpacertified.com/2021/06/07/old-uipath-studio-versions.html
+canonical: https://www.rpacertified.com/2021/06/09/uipath-arguments-example-tutorial-studio.html
 keywords: uipath studio, arguments, uipath arguments, UiPath Studio 20.8, uipath variables, variables vs arguments, uipath variables & arguments, variable argument
 ---
 
