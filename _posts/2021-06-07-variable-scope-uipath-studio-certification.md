@@ -5,6 +5,11 @@ title: "Variable Scope in UiPath Studio Tutorial"
 blurb: "Wondering how variable scope works in Uipath Studio? This UiPath Scope tutorials demonstrates where variables are in scope and out."
 canonical: https://www.rpacertified.com/2021/06/07/variable-scope-uipath-studio-certification.html
 keywords: uipath, variables, variable scope, variable listerine, uipath studio, rpa developer, rpa programming
+accordion: 
+  - title: this is item 1
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+  - title: this is item 2
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 ---
 
 # UiPath Variable Scope
@@ -14,13 +19,8 @@ keywords: uipath, variables, variable scope, variable listerine, uipath studio, 
 </div>
 <br/>
 {% include accordion.html %}
----
-accordion: 
-  - title: this is item 1
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-  - title: this is item 2
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
----
+
+{{}}
 
 ## Variable Scope in UiPath Studio Tutorial
 
