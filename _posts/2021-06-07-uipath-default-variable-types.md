@@ -16,9 +16,10 @@ keywords: attended automation, attended robots, automation best practices, rpa u
 # UiPath Default Variable Types
 
 So, applications handled data. That is one of the things they do. 
-    *Handle data. 
-    *Can do conditional statements. 
-    *Can do things quickly with iterative loops here. 
+    
+    **Handle data**. 
+    **Can do conditional statements. **
+    **Can do things quickly with iterative loops here. **
 
 We are going to look at data and data that changes. And when you got data that changes, we call that variable.
 
@@ -30,17 +31,17 @@ How those variables are used in UI Path studio, how they are managed and some be
 
 And after I have done that in the lower left-hand corner, I am going to click on the variables tab. On the variables tab, probably do not have to tell you, but that is where you go to create variables in UI Path studio. It is worth clicking on variable type, take a look at the different variable types that are available just by default, right off the bat:
 
-    *Boolean - that your true or false 
-    *Int32 - that's whole numbers
-    *String - taht stores strings 
-    *Object - that can be pretty much anything because everything is an object and an object-oriented world
-    *Data table - that is used for typically handling the data that goes inside of an Excel sheet or the data we have pulled from an Excel sheet
-    *Array[T], which just means an array of anything
-    *Browse for Types - If there is a type that you are looking for, like the Dictionary class, you can go into that browser types
+    **Boolean** - that your true or false 
+    **Int32** - that's whole numbers
+    **String** - taht stores strings 
+    **Object** - that can be pretty much anything because everything is an object and an object-oriented world
+    **Data table** - that is used for typically handling the data that goes inside of an Excel sheet or the data we have pulled from an Excel sheet
+    **Array[T]**, which just means an array of anything
+    **Browse for Types** - If there is a type that you are looking for, like the Dictionary class, you can go into that browser types
 
 ## Strings
 
-So, let's see how you can use this window. Let's create a new variable. I'm going to call this the “Message” is going to be of type String and I'll give it the message “Hello World”.
+So, let's see how you can use this window. Let's create a new variable. I'm going to call this the **“Message”** is going to be of type String and I'll give it the message **“Hello World”**.
 
 Click away to commit that. And there you go. I've got a new variable called hello world, and I could come over into the activities tab and look for the message box and then printing out the value of that variable is just as simple as typing the variable name into this box. In fact, the IntelliSense will come up right away and it'll automatically put that in.
 
@@ -82,7 +83,7 @@ So, there's some custom type that you want. All you have to do is browse for, an
 
 ## Sample Questions
 
-### Sample Question #1
+#### Sample Question #1
 Question: Which of the following is the correct way to initialize the value of a Boolean variable:
 
 - [ ] &nbsp;  "True"
@@ -90,13 +91,13 @@ Question: Which of the following is the correct way to initialize the value of a
 - [x] &nbsp;  False
 - [ ] &nbsp;  "False"
 
-## Answer
+#### Answer
 
 Options b and c are correct. 
 
 Boolean variables can only be assigned with either True or False value, without double quotes.
 
-### Sample Question #2
+#### Sample Question #2
 Question: Which method allows the user to fetch the value of the provided index from an Array variable?
 
 - [ ] &nbsp;  Element(index)
@@ -104,7 +105,7 @@ Question: Which method allows the user to fetch the value of the provided index 
 - [ ] &nbsp;  ToArray(index)
 - [ ] &nbsp;  ToImmutableArray(index)
 
-## Answer
+#### Answer
 
 Options b is correct. 
 
@@ -114,7 +115,7 @@ Array[String] arrayOfStrings = {"Hello", "World"}
 
 in the example above, you can get "Hello" with arrayOfStrings.ElementAt(0) and "World" with arrayOfStrings.ElementAt(1)
 
-### Sample Question #3
+#### Sample Question #3
 
 Question: Which of the following is not one of the default variable types listed in the drop down list of the Variables tab?
 
@@ -123,11 +124,11 @@ Question: Which of the following is not one of the default variable types listed
 - [ ] &nbsp;  String
 - [x] &nbsp;  Dictionary
 
-## Answer
+#### Answer
 
 Options b and c are correct.
 
-## UiPath Studio Variables Tab
+#### UiPath Studio Variables Tab
 
 When you start a new UiPath project, there are only five varaible types listed in the Varaibles tab. They are:
 
