@@ -17,9 +17,9 @@ keywords: attended automation, attended robots, automation best practices, rpa u
 
 So, applications handled data. That is one of the things they do. 
     
-    **Handle data**. 
-    **Can do conditional statements. **
-    **Can do things quickly with iterative loops here. **
+    Handle data 
+    Can do conditional statements. 
+    Can do things quickly with iterative loops here
 
 We are going to look at data and data that changes. And when you got data that changes, we call that variable.
 
@@ -31,53 +31,53 @@ How those variables are used in UI Path studio, how they are managed and some be
 
 And after I have done that in the lower left-hand corner, I am going to click on the variables tab. On the variables tab, probably do not have to tell you, but that is where you go to create variables in UI Path studio. It is worth clicking on variable type, take a look at the different variable types that are available just by default, right off the bat:
 
-    **"Boolean"** - that your true or false 
-    **"Int32"** - that's whole numbers
-    **"String"** - taht stores strings 
-    **"Object"** - that can be pretty much anything because everything is an object and an object-oriented world
-    **"Data Table"** - that is used for typically handling the data that goes inside of an Excel sheet or the data we have pulled from an Excel sheet
-    **"Array[T]"**, which just means an array of anything
-    **"Browse for Types"** - If there is a type that you are looking for, like the Dictionary class, you can go into that browser types
+    Boolean - that your true or false 
+    Int32 - that's whole numbers
+    String - taht stores strings 
+    Object - that can be pretty much anything because everything is an object and an object-oriented world
+    Data Table - that is used for typically handling the data that goes inside of an Excel sheet or the data we have pulled from an Excel sheet
+    Array[T] - which just means an array of anything
+    Browse for Types - If there is a type that you are looking for, like the Dictionary class, you can go into that browser types
 
 ## Strings
 
-So, let's see how you can use this window. Let's create a new variable. I'm going to call this the **“Message”** is going to be of type String and I'll give it the message **“Hello World”**.
+So, let's see how you can use this window. Let's create a new variable. I'm going to call this the **Message** is going to be of type String and I'll give it the message **Hello World**.
 
-Click away to commit that. And there you go. I've got a new variable called hello world, and I could come over into the activities tab and look for the message box and then printing out the value of that variable is just as simple as typing the variable name into this box. In fact, the IntelliSense will come up right away and it'll automatically put that in.
+Click away to commit that. And there you go. I've got a new variable called **Hello World**, and I could come over into the activities tab and look for the message box and then printing out the value of that variable is just as simple as typing the variable name into this box. In fact, the IntelliSense will come up right away and it'll automatically put that in.
 
-I can click debug file and Boom. All of a sudden, “Hello World” comes up with the message box. So now I've displayed that property. They should always note that there is the properties tab on the right-hand side, and you can almost always set a variable in this window as well. 
+I can click debug file and Boom. All of a sudden, **“Hello World”** comes up with the message box. So now I've displayed that property. They should always note that there is the properties tab on the right-hand side, and you can almost always set a variable in this window as well. 
 
 ## Booleans
 
-So, you can see right there. There's that text property. I can type a message in there and that would be another way to get the variable to display, but you know what, why not create another variable? Well, I'm going to create a variable called “Flag” and it'll be of type Boolean: True or False. Now when I type it in, I just have to type in True.
+So, you can see right there. There's that text property. I can type a message in there and that would be another way to get the variable to display, but you know what, why not create another variable? Well, I'm going to create a variable called **Flag** and it'll be of type Boolean: **True** or **False**. Now when I type it in, I just have to type in **True**.
 
-And there you see; we've got a True value now. With Booleans, it can be True, it can be False, no double quotes with text or as a string. The Boolean it's not in double quotes, it's just True or False. And, we don't use the zero or one. So, some languages love zero on one to be true and false. Here, it has to be True or it has to be False. 
+And there you see; we've got a **"True"** value now. With Booleans, it can be **True**, it can be **False**, no *double quotes* with text or as a string. The **Boolean** it's not in *double quotes*, it's just **True** or **False**. And, we don't use the *zero or one*. So, some languages love zero on one to be true and false. Here, **it has to be True or it has to be False**. 
 
-I have got a little air here in the ear, says, well, you need a value for the message box to display and I just want to display the Flag. So, another approach to setting a variable is to do it over in this properties window. And I'll just put flag in there. And now that Boolean value, which has been set to true should print out when I run the application. And does it. Boom. There it is. That's the True value. 
+I have got a little air here in the ear, says, well, you need a value for the message box to display and I just want to display the **Flag**. So, another approach to setting a variable is to do it over in this *properties window*. And I'll just put **Flag** in there. And now that **Boolean** value, which has been set to **True** should print out when I run the application. And does it. Boom. There it is. That's the **True** value. 
 
 ## Int32
 
-So, what have we got? We've got Booleans. We've got Strings. What else do we have in there? We've got the int32. Don't get that confused with int. A lot of times they'll ask you if the variable type is int on the UI Path Associate exam, it's not, it’s int32. So just keep that in your head there. 
+So, what have we got? We've got **Booleans**. We've got **Strings**. What else do we have in there? We've got the **int32**. Don't get that confused with *int*. A lot of times they'll ask you if the variable type is *int* on the **UI Path Associate exam**, it's not, it’s **int32**. So just keep that in your head there. 
 
-I dunno. I could make this the magic number. And what's the magic number? Maybe the magic number will be 7, no double quotes, just a whole number here. And I could go over here, and I could just print out the magic number. And again, if I run this boom here, we see that magic number seven being displayed. So that's kind of neat how that works over there. 
+I dunno. I could make this the **MagicNumber**. And what's the magic number? Maybe the magic number will be **7**, no *double quotes*, just a **whole number** here. And I could go over here, and I could just print out the **MagicNumber**. And again, if I run this boom here, we see that magic number **7** being displayed. So that's kind of neat how that works over there. 
 
 ## Array[T]
 
-Now, there's a couple of other data types. I mentioned there is this array type, this like array of teeth that the T is like, fill in the blanks later. What do you want to do you want to be strings? Do you want it to be ints? Let's say I wanted to create an array of INTS.
+Now, there's a couple of other data types. I mentioned there is this **Array type**, this like array of teeth that the **T** is like, fill in the blanks later. What do you want to do you want to be strings? Do you want it to be ints? Let's say I wanted to create an array of ints.
 
-I could say, hey, it's going to be an array of int32 objects. And I just got the option, Boolean, String, stuff like that, but I was going to make it int32. What will I call it? I'll call it “EyeNeedARaise” because it's a raise and there, there's this index there. One comma, two comma three, {1, 2, 3}. And if you want to print that out, well, here in this message box, you reference the variable “EyeNeedARaise”.
+I could say, hey, it's going to be an array of **int32** objects. And I just got the option, **Boolean**, **String**, stuff like that, but I was going to make it **int32**. What will I call it? I'll call it **EyeNeedARaise** because it's a raise and there, there's this index there. One comma, two comma three, **{1, 2, 3}**. And if you want to print that out, well, here in this message box, you reference the variable **EyeNeedARaise**.
 
-And then what is it? It is something like, I dunno, is that ElementAt. There's ElementAt. I can find that method. So, objects have methods and this int32 object has a method called ElementAt, and we'll do element at zero because it uses zero-based counting. And so, element at zero should be the number 1 in my array.
+And then what is it? It is something like, I dunno, is that **ElementAt**. There's **ElementAt**. I can find that method. So, objects have methods and this **int32** object has a method called **ElementAt**, and we'll do **element at zero** because it uses zero-based counting. And so, element at zero should be the number **1** in my array.
 
-And has that come up? There we go. We have now got that number 1 coming up. So, there you go. That's your default set of data types. We didn’t cover Object and we didn't cover Data Table. We'll cover Data Table once we start getting into Excel automation. 
+And has that come up? There we go. We have now got that number **1** coming up. So, there you go. That's your default set of data types. We didn’t cover **Object** and we didn't cover **Data Table**. We'll cover Data Table once we start getting into Excel automation. 
 
 ## Browse for Types
 
 It's worth noting that you do have this browse for types option.
 
-And if there's something not there in the default list, you can come over here and you can look for it. So, you know, type in “hash” and they'll give you “HashSet”, “HashTable”, “HashtableAst”, “HashAlgorithm”. 
+And if there's something not there in the default list, you can come over here and you can look for it. So, you know, type in **“hash”** and they'll give you **“HashSet”, “HashTable”, “HashtableAst”, “HashAlgorithm”**. 
 
-If you type in “dictionary”, it'll give you the Dictionary class. So, there's the system dictionary class right there.
+If you type in **“dictionary”**, it'll give you the **Dictionary class**. So, there's the system dictionary class right there.
 
 So, there's some custom type that you want. All you have to do is browse for, and you should be able to find it. And so there you go. That's just a quick overview of the basic variable types in UI path and how you can use them.
 
@@ -126,11 +126,11 @@ Question: Which of the following is not one of the default variable types listed
 
 #### Answer
 
-Options b and c are correct.
+Options b and d are correct.
 
 #### UiPath Studio Variables Tab
 
-When you start a new UiPath project, there are only five varaible types listed in the Varaibles tab. They are:
+When you start a new UiPath project, there are only five varaible types listed in the Variables tab. They are:
 
 1. String
 2. int32
@@ -140,7 +140,7 @@ When you start a new UiPath project, there are only five varaible types listed i
 
 Note that b) is incorrect because the variable type is int32, not int.
 
-The Dictionary class is a valid UiPath variable type, but it is not one of the defaults listed in the varaibles tab.
+The Dictionary class is a valid UiPath variable type, but it is not one of the defaults listed in the variables tab.
 
 #### Where to find out more?
 
