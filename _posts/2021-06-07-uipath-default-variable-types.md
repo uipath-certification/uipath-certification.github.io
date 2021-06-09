@@ -31,11 +31,12 @@ How those variables are used in UI Path studio, how they are managed and some be
 And after I have done that in the lower left-hand corner, I am going to click on the variables tab. On the variables tab, probably do not have to tell you, but that is where you go to create variables in UI Path studio. It is worth clicking on variable type, take a look at the different variable types that are available just by default, right off the bat:
 
     *Boolean - that your true or false 
-    *Int32 - that's whole numbers.
-    *Object - that can be pretty much anything because everything is an object and an object-oriented world. 
+    *Int32 - that's whole numbers
+    *String - taht stores strings 
+    *Object - that can be pretty much anything because everything is an object and an object-oriented world
     *Data table - that is used for typically handling the data that goes inside of an Excel sheet or the data we have pulled from an Excel sheet
-    *Array[T], which just means an array of anything.
-    *Browse for Types - If there is a type that you are looking for, like the Dictionary class, you can go into that browser types.
+    *Array[T], which just means an array of anything
+    *Browse for Types - If there is a type that you are looking for, like the Dictionary class, you can go into that browser types
 
 ## Strings
 
@@ -79,6 +80,41 @@ If you type in “dictionary”, it'll give you the Dictionary class. So, there'
 
 So, there's some custom type that you want. All you have to do is browse for, and you should be able to find it. And so there you go. That's just a quick overview of the basic variable types in UI path and how you can use them.
 
+## Sample Questions
+
+### Sample Question #1
+Question: Which of the following is the correct way to initialize the value of a Boolean variable:
+
+- [ ] &nbsp;  "True"
+- [x] &nbsp;  True
+- [x] &nbsp;  False
+- [ ] &nbsp;  "False"
+
+## Answer
+
+Options b and c are correct. 
+
+Boolean variables can only be assigned with either True or False value, without double quotes.
+
+### Sample Question #2
+Question: Which method allows the user to fetch the value of the provided index from an Array variable?
+
+- [ ] &nbsp;  Element(index)
+- [x] &nbsp;  ElementAt(index)
+- [ ] &nbsp;  ToArray(index)
+- [ ] &nbsp;  ToImmutableArray(index)
+
+## Answer
+
+Options b is correct. 
+
+ElementAt is used for locating values from an array with the index position as the parameter.
+
+Array[String] arrayOfStrings = {"Hello", "World"}
+
+in the example above, you can get "Hello" with arrayOfStrings.ElementAt(0) and "World" with arrayOfStrings.ElementAt(1)
+
+### Sample Question #3
 
 Question: Which of the following is not one of the default variable types listed in the drop down list of the Variables tab?
 
