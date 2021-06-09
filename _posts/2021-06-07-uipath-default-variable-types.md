@@ -31,13 +31,13 @@ How those variables are used in UI Path studio, how they are managed and some be
 
 And after I have done that in the lower left-hand corner, I am going to click on the variables tab. On the variables tab, probably do not have to tell you, but that is where you go to create variables in UI Path studio. It is worth clicking on variable type, take a look at the different variable types that are available just by default, right off the bat:
 
-    **Boolean** - that your true or false 
-    **Int32** - that's whole numbers
-    **String** - taht stores strings 
-    **Object** - that can be pretty much anything because everything is an object and an object-oriented world
-    **Data table** - that is used for typically handling the data that goes inside of an Excel sheet or the data we have pulled from an Excel sheet
-    **Array[T]**, which just means an array of anything
-    **Browse for Types** - If there is a type that you are looking for, like the Dictionary class, you can go into that browser types
+    **"Boolean"** - that your true or false 
+    **"Int32"** - that's whole numbers
+    **"String"** - taht stores strings 
+    **"Object"** - that can be pretty much anything because everything is an object and an object-oriented world
+    **"Data Table"** - that is used for typically handling the data that goes inside of an Excel sheet or the data we have pulled from an Excel sheet
+    **"Array[T]"**, which just means an array of anything
+    **"Browse for Types"** - If there is a type that you are looking for, like the Dictionary class, you can go into that browser types
 
 ## Strings
 
@@ -107,7 +107,7 @@ Question: Which method allows the user to fetch the value of the provided index 
 
 #### Answer
 
-Options b is correct. 
+Option b is correct. 
 
 ElementAt is used for locating values from an array with the index position as the parameter.
 
