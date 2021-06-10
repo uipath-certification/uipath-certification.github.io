@@ -6,7 +6,7 @@ blurb: "Wondering how variable scope works in Uipath Studio? This UiPath Scope t
 canonical: https://www.rpacertified.com/2021/06/07/variable-scope-uipath-studio-certification.html
 keywords: uipath, variables, variable scope, variable listerine, uipath studio, rpa developer, rpa programming
 accordion: 
-  - title: Test your knowledge
+  - title: Quiz 
     content: Question 1 goes here.
 ---
 
@@ -16,16 +16,15 @@ accordion:
 <iframe src="https://www.youtube.com/embed/Y_yE4CaqazE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 <br/>
-{% include accordion.html %}
 
 ## Transcript
+So, we just talked about variables and declaring variables, but another part of the objective in the UiPath Associate Certification exam is the fact that you need to not only know the basic variable types, but you also need to understand how variables are scoped in UiPath and it is actually, fairly straight forward.
 
-<figure class="figure">
-  <img src="https://www.rpacertified.com/assets/uipath-studio-community-vs-enterprise-cloud.jpg" alt="UiPath Studio Community vs Enterprise" class="img-fluid mx-auto d-block img-thumbnail rounded ">
-  <figcaption class="figure-caption">Chart the difference between UiPath Studio Community vs Enterprise Editions.</figcaption>
-</figure>
-<h1>Testing for a change</h1>
-#### Where to find out more about UiPath?
+### Test Your Knowledge
+
+{% include accordion.html %}
+
+##### Where to find out more about UiPath?
 
 To find out more about RPA certifications from UiPath, visit the <a href="http://www.uipath.com/learning/certification">official website</a>.
 
