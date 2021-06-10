@@ -7,8 +7,7 @@ canonical: https://www.rpacertified.com/2021/06/07/variable-scope-uipath-studio-
 keywords: uipath, variables, variable scope, variable listerine, uipath studio, rpa developer, rpa programming
 accordion: 
   - title: Test your knowledge
-    content: Question 1 goes here
-
+    content: Question 1 goes here.
 ---
 
 # UiPath Variable Scope
