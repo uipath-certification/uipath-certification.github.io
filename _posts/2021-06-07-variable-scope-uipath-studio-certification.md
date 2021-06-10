@@ -5,9 +5,7 @@ title: "Variable Scope in UiPath Studio Tutorial"
 blurb: "Wondering how variable scope works in Uipath Studio? This UiPath Scope tutorials demonstrates where variables are in scope and out."
 canonical: https://www.rpacertified.com/2021/06/07/variable-scope-uipath-studio-certification.html
 keywords: uipath, variables, variable scope, variable listerine, uipath studio, rpa developer, rpa programming
-accordion: 
-  - title: Answer 
-    content: Ctrl+K. 
+
 ---
 
 # UiPath Variable Scope
@@ -34,7 +32,8 @@ So, I am going to go down to this _Activities tab_, take a look at the sequences
 I use the _Variables tab_, but if you click - **'Ctrl and K'**. Remember that that is a certification question right there. UiPath associate certification question- 
 
 **_What is the shortcut escape sequence to create a variable in UiPath Studio?_**
-{% include accordion.html %}
+
+
 
 Okay. But I will set the variable here and I am going to set this one. What? we are in the parent. So, I will call this **_'Peter'_**. That now creates a new variable- **_'Peter'_**. Now you will notice that down here, it has set the variable name. It has also made the variable type- **Object**. I am not too happy with that, so I am going to change it to **String**, but you will also see that the scope is **_'Parent'_** and so, this variable is visible inside the **_'Parent'_**. It actually wouldn't be visible outside the **_'Parent'_**. So, if I put this message box right after **_'Annie'_**, I would end up with an error. But since it is inside the **_'Parent'_** and its scope is **_'Parent'_**. Life is good. So, let us just run this. Let us see how it goes. It should print out. Oh, my name is Annie, but you know what? I did not assign anything to that message box. So, it works well, but it works exactly as it was programmed. They actually want it to print out 'My name is Peter.' So, I'll go into that- little section there. There we go. My name is Annie from the **_'Ancestor'_** and then my name is Peter from the **_'Parent'_** and you can probably see what's coming next here. Um, we are actually going to add another sequence and that's going to be inside **_'Parent'_** and we'll call it 'Child One.' Then it looks like it is time for another message box in here. We will drop **_'Child One'_** in here, and 'Ctrl+K' again, we'll have a variable name- **_'Charlie'_**, change the data type to 'String', have its name, **_'My name is Charlie!'_**. Now, it looks like everything is working well right here, I can click debug file and you probably can guess what is going to happen here.
 
@@ -44,11 +43,9 @@ Are we done here? I think we are happy with the way this is working. Do the litt
 
 Any block inside of that block- **_'Annie'_** is available. So, I can actually move this into the **_'Parent'_** block. I do not have any compiler errors and I can move it into **_'Child Zero'_**. I do not have any compiler errors and I can move it into **_'Child One'_** and they do not have any compiler errors. Okay. So that all looks good. Looks interesting to me and so I have not changed the scope of **_'Annie'_**. Notice, **_'Annie'_** still has a scope of **_'Ancestor'_**, but it is visible inside of every single block, it is visible inside the **_'Ancestor'_** block, but also any sub-block as well. So **_'Parent'_** and **_'Child'_**. Now contrast that with **_'Peter'_**. **_'Peter'_**, declared in the **_'Parent'_** has scope in the **_'Parent'_**.
 
-I can move that into **_'Child Zero'_**. That works cause **_'Child Zero'_** was inside the ****_'Parent'_**. But watch this, if I move that to **_'Ancestor'_**, all of a sudden, I've got an error and I've got an error because **_'Peter'_** has scope only within the **_'Parent'_** block. You can actually see it there. There's **_'Peter'_**. When I highlight the **_'Parent'_** block, you can see it declared a scope for **_'Parent'_**.
+I can move that into **_'Child Zero'_**. That works cause **_'Child Zero'_** was inside the **_'Parent'_**. But watch this, if I move that to **_'Ancestor'_**, all of a sudden, I've got an error and I've got an error because **_'Peter'_** has scope only within the **_'Parent'_** block. You can actually see it there. There's **_'Peter'_**. When I highlight the **_'Parent'_** block, you can see it declared a scope for **_'Parent'_**.
 
-But if I actually highlight the **_'Ancestor'_** block, you'll actually see, it's not even declared. Right. Hey, where did it go? Well, it is not declared in that block and that is what this error message is telling me. So, hey, Peter is not declared here. It is declared in the **_'Parent'_** block. So, I could always change this.
-
-I could go down here, and I could say, hey, okay, We'll, give Peter- **_'Ancestor'_** scope. And as soon as I do that, the error goes away because now **_'Peter'_** is visible inside the **_'Ancestor'_** and **_'Parent'_** and **_'Child'_** because they are all nested inside of one another, but I do not want to do that. I want to keep, uh, the P as a P. So, I will move that down to the parent and then tighten this up again and say, hey, that has got **_'Parent'_** scope. Um, similarly, we have got the **_'Child'_** scope, so we have got **_'Chantelle'_** and **_'Charlie'_**, uh, **_'Chantelle'_** has scope for **_'Child Zero'_**. So, you see that **_'Charlie'_** has scoped for **_'Child One'_**, and you can see that there as well.
+But if I actually highlight the **_'Ancestor'_** block, you'll actually see, it's not even declared. Right. Hey, where did it go? Well, it is not declared in that block and that is what this error message is telling me. So, hey, Peter is not declared here. It is declared in the **_'Parent'_** block. So, I could always change this.I could go down here, and I could say, hey, okay, We'll, give Peter- **_'Ancestor'_** scope. And as soon as I do that, the error goes away because now **_'Peter'_** is visible inside the **_'Ancestor'_** and **_'Parent'_** and **_'Child'_** because they are all nested inside of one another, but I do not want to do that. I want to keep, uh, the P as a P. So, I will move that down to the parent and then tighten this up again and say, hey, that has got **_'Parent'_** scope. Um, similarly, we have got the **_'Child'_** scope, so we have got **_'Chantelle'_** and **_'Charlie'_**, uh, **_'Chantelle'_** has scope for **_'Child Zero'_**. So, you see that **_'Charlie'_** has scoped for **_'Child One'_**, and you can see that there as well.
 
 You also noticed that visible inside **_'Child One'_** is also the **_'Parent'_** and **_'Ancestor'_**. So you can see that in the Variables tab, there, it’s actually keeping tabs on what is visible. Now, one question might be- Would **_'Charlie'_** be visible in **_'Child Zero'_**? 
 Well, you can have a variable declared in a block and it is visible in any sub-block or sub-component.
