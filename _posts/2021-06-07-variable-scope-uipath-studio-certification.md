@@ -11,7 +11,7 @@ accordion:
   - title: Which section/tab allows the user to change the scope of the variable?
     content: Variables Tab
   - title: What is the default scope for a newly created variable in UiPath Studio?
-  content: Within the parent-block and child-blocks where the variable is defined.
+    content: Within the parent-block and child-blocks where the variable is defined.
 ---
 
 # UiPath Variable Scope
