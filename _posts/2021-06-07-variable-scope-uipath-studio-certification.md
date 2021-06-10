@@ -7,18 +7,7 @@ canonical: https://www.rpacertified.com/2021/06/07/variable-scope-uipath-studio-
 keywords: uipath, variables, variable scope, variable listerine, uipath studio, rpa developer, rpa programming
 accordion: 
   - title: Answer 
-    content: Ctrl+K. 
----
-
-# UiPath Variable Scope
-
-<div class="embed-responsive embed-responsive-16by9">
-<iframe src="https://www.youtube.com/embed/Y_yE4CaqazE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
-</div>
-<br/>
-
-## Transcript
-So, we just talked about **variables** and declaring variables, but another part of the objective in the _UiPath Associate Certification_ exam is the fact that you need to not only know the basic variable types, but you also need to understand how variables are scoped in UiPath and it is actually, fairly straight forward.
+    content: So, we just talked about **variables** and declaring variables, but another part of the objective in the _UiPath Associate Certification_ exam is the fact that you need to not only know the basic variable types, but you also need to understand how variables are scoped in UiPath and it is actually, fairly straight forward.
 
 **Variables** have scope within the process in which they are defined and within the boundaries of the **object** that defines them and any **sub-objects**. Within the container that defines them or any sub-containers. And that container could be something like **a sequence** could be, uh, an if block could be an exception block.
 
@@ -33,7 +22,7 @@ So, I am going to go down to this _Activities tab_, take a look at the sequences
 
 I use the _Variables tab_, but if you click - **'Ctrl and K'**. Remember that that is a certification question right there. UiPath associate certification question- 
 
-{% include accordion.html %}
+
 
 **_What is the shortcut escape sequence to create a variable in UiPath Studio?_**
 
@@ -65,6 +54,19 @@ I typed it there - **'if-block'**. So, if you were to add an **'if-block'** in h
 The key is - **'never declare a variable for a greater scope than is necessary'**. So, you could make your life really easy by just declaring everything at the **_'Ancestor'_** level, in this example. But that now makes that variable visible everywhere. Somebody might accidentally adjust the value inadvertently in one of the blocks. If it is visible and you can get name conflicts, there is a variety of different problems that happen when you give too much scope. So, you want to encapsulate your code as much as possible, encapsulate your variables, protect them and that means, declaring them as soon as they are needed, but not before and not giving them scope, not giving them visibility into other blocks that do not need them.
 So those are the general best practices for managing. One of the other things to mention, a variable declared in one process, cannot be seen in another process and so if you want to pass data from one process to another, you are going to need to use arguments and we will talk about that a little bit later because that's another **_UiPath Associate certification objective_**.
 
+
+---
+
+# UiPath Variable Scope
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://www.youtube.com/embed/Y_yE4CaqazE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+</div>
+<br/>
+
+## Transcript
+
+{% include accordion.html %}
 
 ### Test Your Knowledge
 
