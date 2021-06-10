@@ -10,6 +10,8 @@ accordion:
     content: Ctrl+K
   - title: Which section/tab allows the user to change the scope of the variable?
     content: Variables Tab
+  - title: What is the default scope for a newly created variable in UiPath Studio?
+  content: Within the parent-block and child-blocks where the variable is defined.
 ---
 
 # UiPath Variable Scope
@@ -67,10 +69,12 @@ So those are the general best practices for managing. One of the other things to
 {% include accordion.html %}
 ### References that you might want to have a look at :
 *  <a href="https://www.rpacertified.com/associate-objectives.html"> UiPath Associate Exam Objectives </a>
+*  <a href="https://www.rpacertified.com/2020/11/11/debug-edit-variable.html"> Variable Debugging </a>
+*  <a href="https://www.rpacertified.com/2021/06/07/uipath-default-variable-types.html"> Variable Types </a>
 
 #### Where to find out more about UiPath?
 
-To find out more about RPA certifications from UiPath, visit the <a href="http://www.uipath.com/learning/certification">official website</a>.
+To find out more about Managing Variables from UiPath, visit the <a href="https://docs.uipath.com/studio/docs/managing-variables">Official Documentation</a>.
 
 
 
