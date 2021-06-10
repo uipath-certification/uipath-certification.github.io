@@ -5,7 +5,11 @@ title: "Variable Scope in UiPath Studio Tutorial"
 blurb: "Wondering how variable scope works in Uipath Studio? This UiPath Scope tutorials demonstrates where variables are in scope and out."
 canonical: https://www.rpacertified.com/2021/06/07/variable-scope-uipath-studio-certification.html
 keywords: uipath, variables, variable scope, variable listerine, uipath studio, rpa developer, rpa programming
-
+accordion: 
+  - title: What is the shortcut escape sequence to create a variable in UiPath Studio?
+    content: Ctrl+K
+  - title: Which section/tab allows the user to change the scope of the variable?
+    content: Variables Tab
 ---
 
 # UiPath Variable Scope
@@ -33,8 +37,6 @@ I use the _Variables tab_, but if you click - **'Ctrl and K'**. Remember that th
 
 **_What is the shortcut escape sequence to create a variable in UiPath Studio?_**
 
-
-
 Okay. But I will set the variable here and I am going to set this one. What? we are in the parent. So, I will call this **_'Peter'_**. That now creates a new variable- **_'Peter'_**. Now you will notice that down here, it has set the variable name. It has also made the variable type- **Object**. I am not too happy with that, so I am going to change it to **String**, but you will also see that the scope is **_'Parent'_** and so, this variable is visible inside the **_'Parent'_**. It actually wouldn't be visible outside the **_'Parent'_**. So, if I put this message box right after **_'Annie'_**, I would end up with an error. But since it is inside the **_'Parent'_** and its scope is **_'Parent'_**. Life is good. So, let us just run this. Let us see how it goes. It should print out. Oh, my name is Annie, but you know what? I did not assign anything to that message box. So, it works well, but it works exactly as it was programmed. They actually want it to print out 'My name is Peter.' So, I'll go into that- little section there. There we go. My name is Annie from the **_'Ancestor'_** and then my name is Peter from the **_'Parent'_** and you can probably see what's coming next here. Um, we are actually going to add another sequence and that's going to be inside **_'Parent'_** and we'll call it 'Child One.' Then it looks like it is time for another message box in here. We will drop **_'Child One'_** in here, and 'Ctrl+K' again, we'll have a variable name- **_'Charlie'_**, change the data type to 'String', have its name, **_'My name is Charlie!'_**. Now, it looks like everything is working well right here, I can click debug file and you probably can guess what is going to happen here.
 
 **_'My name is Annie!'_** from the **_'Ancestor'_**, **_'Peter'_**, from the **_'Parent'_**, **_'Charlie'_**, from the **_'Child'_**, that all looks great. And you know what? I am going to add one more just to really shake things up. I am going to add one more sequence and this sequence is going to be, it is going to be right after the message box, and it would be called - **_'Child Zero'_**. Right? We are computer programmers here. So, we are doing, zero-based counting and I'll have a message box and the message box (Ctrl+K) I'll create a variable called **_'Chantelle'_** and there we go. That variable is created. I need to set that to be-a String and we will say, **_'My name is Chantelle!'_**.
@@ -61,7 +63,8 @@ I typed it there - **'if-block'**. So, if you were to add an **'if-block'** in h
 The key is - **'never declare a variable for a greater scope than is necessary'**. So, you could make your life really easy by just declaring everything at the **_'Ancestor'_** level, in this example. But that now makes that variable visible everywhere. Somebody might accidentally adjust the value inadvertently in one of the blocks. If it is visible and you can get name conflicts, there is a variety of different problems that happen when you give too much scope. So, you want to encapsulate your code as much as possible, encapsulate your variables, protect them and that means, declaring them as soon as they are needed, but not before and not giving them scope, not giving them visibility into other blocks that do not need them.
 So those are the general best practices for managing. One of the other things to mention, a variable declared in one process, cannot be seen in another process and so if you want to pass data from one process to another, you are going to need to use arguments and we will talk about that a little bit later because that's another **_UiPath Associate certification objective_**
 
-
+<h2>Test Your knowledge </h2>
+{% include accordion.html %}
 ### References that you might want to have a look at :
 *  <a href="https://www.rpacertified.com/associate-objectives.html"> UiPath Associate Exam Objectives </a>
 
