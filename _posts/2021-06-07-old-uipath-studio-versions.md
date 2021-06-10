@@ -28,7 +28,7 @@ You have to:
 - Register for an Enterprise Edition trial
 - Have an Enterprise license. 
 
-So how do you do it? Well, you head over to **http://www.uipath.com**. You can see the **Try UI Path Free** button.
+So how do you do it? Well, you head over to <a href="http://www.uipath.com/">**http://www.uipath.com**</a>. You can see the **Try UI Path Free** button.
 
 Now, if I do this. I am going to **Register** but this time I’ll continue with my Google account. Now, if I just do a normal Try UI Path, it'll only give me access to the *Community Edition*. I want to actually register and get access to the **Enterprise Edition**, which allows me to *download older versions* of UI Path studio.
 
