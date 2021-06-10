@@ -46,6 +46,50 @@ You can click Show other versions. And there is 20.1 0.8 32 bit version and note
 
 If you have a trial you've got 60 days. If you have a normal one, then you've obviously got a lot of money because they're expensive. Then you go to that help button down there. Click on other versions. And you find the other version of UI Path studio to install after the download.
 
+## Sample Questions
+
+#### Sample Question #1
+Question: What edition gives user the option download previous version:
+
+- [ ] &nbsp;  Community
+- [x] &nbsp;  Enterprise
+- [x] &nbsp;  Enterprise(Trial Version)
+- [ ] &nbsp;  Community(Free Version)
+
+#### Answer
+
+Options b and c are correct. 
+
+Both versions of Enterprise edition gives the user the option to download past versions. 
+
+#### Sample Question #2
+Question: How many days does the trial version have before it needs to be updated into the paid version?
+
+- [ ] &nbsp;  30 days
+- [x] &nbsp;  60 days
+- [ ] &nbsp;  90 days
+- [ ] &nbsp;  120 days
+
+#### Answer
+
+Option b is correct. 
+
+UI Path let's you use the trial version for 60 days before it prompts you to upgrade to the paid version.
+
+#### Sample Question #2
+Question: What is the current version that's being used for the UI Path Associate Exam?
+
+- [ ] &nbsp;  20.2 0.8 64 bit version
+- [ ] &nbsp;  20.3 0.8 32 bit version
+- [x] &nbsp;  20.1 0.8 32 bit version
+- [ ] &nbsp;  20.4 0.8 64 bit version
+
+#### Answer
+
+Option b is correct. 
+
+UI Path let's you use the trial version for 60 days before it prompts you to upgrade to the paid version.
+
 
 #### Where to find out more?
 
