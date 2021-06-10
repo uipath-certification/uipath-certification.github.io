@@ -65,8 +65,8 @@ The key is - **'never declare a variable for a greater scope than is necessary'*
 So those are the general best practices for managing. One of the other things to mention, a variable declared in one process, cannot be seen in another process and so if you want to pass data from one process to another, you are going to need to use arguments and we will talk about that a little bit later because that's another **_UiPath Associate certification objective_**
 
 
-### References you might want to have a look at :
-*  <a href="https://www.rpacertified.com/associate-objectives.html"> UiPath Associate Exam Objectives </a>.
+### References that you might want to have a look at :
+*  <a href="https://www.rpacertified.com/associate-objectives.html"> UiPath Associate Exam Objectives </a>
 #### Where to find out more about UiPath?
 
 To find out more about RPA certifications from UiPath, visit the <a href="http://www.uipath.com/learning/certification">official website</a>.
