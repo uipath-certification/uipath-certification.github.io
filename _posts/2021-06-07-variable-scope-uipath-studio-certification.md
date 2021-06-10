@@ -7,7 +7,18 @@ canonical: https://www.rpacertified.com/2021/06/07/variable-scope-uipath-studio-
 keywords: uipath, variables, variable scope, variable listerine, uipath studio, rpa developer, rpa programming
 accordion: 
   - title: Answer 
-    content: So, we just talked about **variables** and declaring variables, but another part of the objective in the _UiPath Associate Certification_ exam is the fact that you need to not only know the basic variable types, but you also need to understand how variables are scoped in UiPath and it is actually, fairly straight forward.
+    content: Ctrl+K. 
+---
+
+# UiPath Variable Scope
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe src="https://www.youtube.com/embed/Y_yE4CaqazE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+</div>
+<br/>
+
+## Transcript
+So, we just talked about **variables** and declaring variables, but another part of the objective in the _UiPath Associate Certification_ exam is the fact that you need to not only know the basic variable types, but you also need to understand how variables are scoped in UiPath and it is actually, fairly straight forward.
 
 **Variables** have scope within the process in which they are defined and within the boundaries of the **object** that defines them and any **sub-objects**. Within the container that defines them or any sub-containers. And that container could be something like **a sequence** could be, uh, an if block could be an exception block.
 
@@ -22,7 +33,7 @@ So, I am going to go down to this _Activities tab_, take a look at the sequences
 
 I use the _Variables tab_, but if you click - **'Ctrl and K'**. Remember that that is a certification question right there. UiPath associate certification question- 
 
-
+{% include accordion.html %}
 
 **_What is the shortcut escape sequence to create a variable in UiPath Studio?_**
 
@@ -32,7 +43,7 @@ Okay. But I will set the variable here and I am going to set this one. What? we 
 
 Are we done here? I think we are happy with the way this is working. Do the little run instead of debug file. You can always choose different ones there,' My name is Annie!', **_'My name is Peter'_**,**_'My name is Chantelle!'_** and **_'My name is Charlie!'_**. So, this is all working well. Now, here is the thing that **_'Annie'_**, that variable is declared in the **_'Ancestor'_** and that variable is actually visible inside the **_'Parent'_** and the **_'Child'_** as well.
 
-Any block inside of that block- **_'Annie'_** is available. So, I can actually move this into the **_'Parent'_** block. I do not have any compiler errors and I can move it into **_'Child Zero'_**. I do not have any compiler errors and I can move it into **_'Child One'_** and they do not have any compiler errors. Okay. So that all looks good. Looks interesting to me and so I have not changed the scope of **_'Annie'_**. Notice, **_'Annie'_** still has a scope of **_'Ancestor'_**, but it is visible inside of every single block, it is visible inside the **_'Ancestor'_** block, but also any sub-block as well. So **_'Parent'_** and **_'Child'_**. Now contrast that with **_'Peter'_**. **_'Peter'_**, declared in the **_'Parent'_** has scope in the **_'Parent'_**.
+Any block inside of that block- **_'Annie'_** is available. So, I can actually move this into the **_'Parent'_** block. I do not have any compiler errors and I can move it into **_'Child Zero'_**. I do not have any compiler errors and I can move it into **_'Child One'_** and they do not have any compiler errors. Okay. So that all looks good. Looks interesting to me and so I have not changed the scope of **_'Annie'_**. Notice, **_'Annie'_** still has a scope of *_'Ancestor'_**, but it is visible inside of every single block, it is visible inside the **_'Ancestor'_** block, but also any sub-block as well. So **_'Parent'_** and **_'Child'_**. Now contrast that with **_'Peter'_**. **_'Peter'_**, declared in the **_'Parent'_** has scope in the **_'Parent'_**.
 
 I can move that into **_'Child Zero'_**. That works cause **_'Child Zero'_** was inside the ****_'Parent'_**. But watch this, if I move that to **_'Ancestor'_**, all of a sudden, I've got an error and I've got an error because **_'Peter'_** has scope only within the **_'Parent'_** block. You can actually see it there. There's **_'Peter'_**. When I highlight the **_'Parent'_** block, you can see it declared a scope for **_'Parent'_**.
 
@@ -54,19 +65,6 @@ I typed it there - **'if-block'**. So, if you were to add an **'if-block'** in h
 The key is - **'never declare a variable for a greater scope than is necessary'**. So, you could make your life really easy by just declaring everything at the **_'Ancestor'_** level, in this example. But that now makes that variable visible everywhere. Somebody might accidentally adjust the value inadvertently in one of the blocks. If it is visible and you can get name conflicts, there is a variety of different problems that happen when you give too much scope. So, you want to encapsulate your code as much as possible, encapsulate your variables, protect them and that means, declaring them as soon as they are needed, but not before and not giving them scope, not giving them visibility into other blocks that do not need them.
 So those are the general best practices for managing. One of the other things to mention, a variable declared in one process, cannot be seen in another process and so if you want to pass data from one process to another, you are going to need to use arguments and we will talk about that a little bit later because that's another **_UiPath Associate certification objective_**.
 
-
----
-
-# UiPath Variable Scope
-
-<div class="embed-responsive embed-responsive-16by9">
-<iframe src="https://www.youtube.com/embed/Y_yE4CaqazE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
-</div>
-<br/>
-
-## Transcript
-
-{% include accordion.html %}
 
 ### Test Your Knowledge
 
