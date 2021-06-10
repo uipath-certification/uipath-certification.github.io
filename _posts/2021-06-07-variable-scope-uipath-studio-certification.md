@@ -90,9 +90,7 @@ To find out more about Managing Variables from UiPath, visit the <a href="https:
 <!-- **************************** -->       
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Watch this video to understand how to prepare yourself for <br>UiPath Associate Certification (UiRPA) <br>and <br>UiPath Advanced Developer Certification (UiARD).<br><br>Watch complete video here: <a href="https://t.co/DBfkQW8G9F">https://t.co/DBfkQW8G9F</a> <a href="https://twitter.com/UiPath?ref_src=twsrc%5Etfw">@UiPath</a> <a href="https://twitter.com/vibs_sri?ref_src=twsrc%5Etfw">@vibs_sri</a> <a href="https://t.co/gwVcCuupNp">pic.twitter.com/gwVcCuupNp</a></p>&mdash; Nisarg Kadam (@nisarg_kadam) <a href="https://twitter.com/nisarg_kadam/status/1381253771125161985?ref_src=twsrc%5Etfw">April 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
-
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Road to <a href="https://twitter.com/hashtag/RPA?src=hash&amp;ref_src=twsrc%5Etfw">#RPA</a> <a href="https://twitter.com/hashtag/certification?src=hash&amp;ref_src=twsrc%5Etfw">#certification</a> <br>Lessons learned : 𝗩𝗮𝗿𝗶𝗮𝗯𝗹𝗲 𝗮𝗰𝗰𝗲𝘀𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆 𝘄𝗶𝘁𝗵𝗶𝗻 𝗮 𝘀𝗲𝗾𝘂𝗲𝗻𝗰𝗲 𝗶𝗻 𝗨𝗶𝗣𝗮𝘁𝗵<a href="https://twitter.com/hashtag/RPAAssociate?src=hash&amp;ref_src=twsrc%5Etfw">#RPAAssociate</a> <a href="https://twitter.com/hashtag/UiPath?src=hash&amp;ref_src=twsrc%5Etfw">#UiPath</a> <a href="https://twitter.com/hashtag/UiRPA?src=hash&amp;ref_src=twsrc%5Etfw">#UiRPA</a> <br><br>An insightful tutorial by <a href="https://twitter.com/cameronmcnz?ref_src=twsrc%5Etfw">@cameronmcnz</a> <a href="https://t.co/WJ22ZBX11E">https://t.co/WJ22ZBX11E</a></p>&mdash; Supreet Singh (@ohsidhua) <a href="https://twitter.com/ohsidhua/status/1403064077770014728?ref_src=twsrc%5Etfw">June 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <!-- **************************** -->   
             
