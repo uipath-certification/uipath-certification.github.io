@@ -22,7 +22,7 @@ accordion:
 </div>
 <br/>
 
-## Transcript 
+## Comparison of UiPath versions
 So, looking at my screen, can you tell whether I am using UiPath Studio **Community edition** or UiPath Studio, **Enterprise edition** , but the fact of the matter is you cannot and you can even dig in a little bit deeper. You can look at the different activities, the Programming activities, the UiPath, UiPath Automation activities.
 
 You can look at the User Event activities and all the different facilities for creating attended, and unattended UiPath robots. And you are not going to be able to tell whether you are working on the Community edition or the Enterprise edition of UiPath studio, even looking at the dependencies there.
