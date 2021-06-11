@@ -93,6 +93,47 @@ I think I'm ready to run this program now again, when it starts off, it's going 
 And then finally we changed the value in the InOutSequence. Then we pass it back to main, main prints out the value, and now it says “Just messed up the variable in io sequence”. And so there you go. That is the whirlwind tour of in, out and in out arguments in UI path.
 
 
+## Sample Questions
+
+#### Sample Question #1
+Question: What type of argument property is used for programs that wanted to get the product of two numbers?
+
+- [ ] &nbsp;  In Argument
+- [ ] &nbsp;  Out Argument
+- [x] &nbsp;  In/Out Argument
+
+#### Answer
+
+Option c is correct. 
+
+In this particular situation, the sequence will be needing an incoming variables for the two numbers and an outgoing variable for the product.
+
+#### Sample Question #2
+Question: What type of argument property is used for programs that wanted to get a string from a sequence?
+
+- [ ] &nbsp;  In Argument
+- [x] &nbsp;  Out Argument
+- [ ] &nbsp;  In/Out Argument
+
+#### Answer
+
+Option b is correct. 
+
+In this particular situation, the sequence will only be needing a return value in which the Out Argument is designed for.
+
+#### Sample Question #3
+Question: What type of argument property is used for programs that wanted to just output the product of two numbers?
+
+- [x] &nbsp;  In Argument
+- [ ] &nbsp;  Out Argument
+- [ ] &nbsp;  In/Out Argument
+
+#### Answer
+
+Option a is correct. 
+
+In this particular situation, the sequence will only be needing incoming variables to output it inside a sequence, given that the sequence will do the multiplication before displaying it.
+
 #### Where to find out more?
 
 To find out more about RPA certifications from UiPath, visit the <a href="http://www.uipath.com/learning/certification">official website</a>.
