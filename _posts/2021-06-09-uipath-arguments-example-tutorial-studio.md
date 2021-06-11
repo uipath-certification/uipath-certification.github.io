@@ -10,7 +10,7 @@ keywords: uipath studio, arguments, uipath arguments, UiPath Studio 20.8, uipath
 # UiPath Arguments Example
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe src="https://www.youtube.com/embed/Fzpx3WB3tXk" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/wpu4vjI36pM" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 <br/>
 ## Arguments in UiPath Studio Tutorial
