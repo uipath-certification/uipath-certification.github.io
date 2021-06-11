@@ -5,7 +5,7 @@ title: Which of the following are not default types in the UiPath Variables tab?
 blurb: When you create a new UiPath Process, there are five variable types listed in the Variables tab dropdown. Can you name them?
 difficulty: 6
 objective: 1.2 Identify and describe the different types of robots, i.e., attended versus unattended robots
-canonical: https://www.rpacertified.com/2021/06/07/uipath-default-variable-types.html
+canonical: https://www.rpacertified.com/2021/06/11/how-to-pass-uipath-arguments-example.html
 keywords: attended automation, attended robots, automation best practices, rpa use case, rpa best practices
 ---
 
@@ -13,7 +13,7 @@ keywords: attended automation, attended robots, automation best practices, rpa u
 <iframe src="https://www.youtube.com/embed/Bd5rzdGzSTo" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 
-# UiPath Default Variable Types
+# UiPath Default Variable Types (ASSDASDASD)
 
 So, applications handled data. That is one of the things they do. 
     

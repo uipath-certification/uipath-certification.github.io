@@ -77,7 +77,7 @@ Option b is correct.
 UI Path let's you use the trial version for 60 days before it prompts you to upgrade to the paid version.
 
 #### Sample Question #2
-Question: What is the current version that's being used for the UI Path Associate Exam?
+Question: What is the current version(May 2021) that's being used for the UI Path Associate Exam?
 
 - [ ] &nbsp;  20.2 0.8 64 bit version
 - [ ] &nbsp;  20.3 0.8 32 bit version
@@ -86,9 +86,7 @@ Question: What is the current version that's being used for the UI Path Associat
 
 #### Answer
 
-Option b is correct. 
-
-UI Path let's you use the trial version for 60 days before it prompts you to upgrade to the paid version.
+Option c is correct. 
 
 
 #### Where to find out more?
