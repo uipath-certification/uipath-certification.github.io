@@ -16,11 +16,6 @@ keywords: uipath studio versions, old UiPath Studuio, prior UiPath Studio, UiPat
 
 ## Old UiPath Studio Versions
 
-<figure class="figure">
-  <img src="https://www.rpacertified.com/assets/uipath-studio-community-vs-enterprise-cloud.jpg" alt="UiPath Studio Community vs Enterprise" class="img-fluid mx-auto d-block img-thumbnail rounded ">
-  <figcaption class="figure-caption">Chart the difference between UiPath Studio Community vs Enterprise Editions.</figcaption>
-</figure>
-
 So, how do you download an older version of UI path studio? That is a good question. And you cannot do it, if you're just working with a basic UI path trial. 
 
 You have to:
@@ -45,6 +40,11 @@ So what you do is you head down into Help. That **Help** button down there and f
 You can click Show other versions. And there is 20.1 0.8 32 bit version and note that that is the version that they test on, on the UI Path Associate Exam, the current one. So, you can then click on the **Download** button there, save the file and then you can install it from here. But that's the trick in order to download and install an older UI Path studio version, you have to register for an Enterprise License.
 
 If you have a trial you've got 60 days. If you have a normal one, then you've obviously got a lot of money because they're expensive. Then you go to that help button down there. Click on other versions. And you find the other version of UI Path studio to install after the download.
+
+<figure class="figure">
+  <img src="https://www.rpacertified.com/assets/uipath-studio-community-vs-enterprise-cloud.jpg" alt="UiPath Studio Community vs Enterprise" class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  <figcaption class="figure-caption">Chart the difference between UiPath Studio Community vs Enterprise Editions.</figcaption>
+</figure>
 
 ## Sample Questions
 
