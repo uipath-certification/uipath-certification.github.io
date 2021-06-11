@@ -1,6 +1,6 @@
 ---
 layout: featured-post
-author: Jenny
+author: Supreet Singh
 title: "UiPath Studio: Community vs Enterprise Edition Comparison"
 blurb: "What's thd difference between UiPath Studio Community and Enterprise editions? Here we compare the two and show you differences between them.."
 canonical: https://www.rpacertified.com/2021/06/07/community-vs-enterprise-uipath-studio.html
