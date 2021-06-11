@@ -59,7 +59,7 @@ But there you go. Those are the key differences between UiPath studio, Community
 
 ### References that you might want to have a look at :
 *  <a href="https://www.rpacertified.com/2021/06/07/old-uipath-studio-versions.html"> Older UiPath versions </a>
-*  <a href="https://www.rpacertified.com/2020/11/11/debug-manage-packaged-version.html"> Find UiPath version </a>
+*  <a href="https://www.rpacertified.com/2020/11/11/debug-manage-packaged-version.html"> Finding current UiPath version </a>
 
 
 #### Where to find out more?
