@@ -57,6 +57,11 @@ But there you go. Those are the key differences between UiPath studio, Community
 <h2>Test Your knowledge </h2>
 {% include accordion.html %}
 
+### References that you might want to have a look at :
+*  <a href="https://www.rpacertified.com/2021/06/07/old-uipath-studio-versions.html"> Older UiPath versions </a>
+*  <a href="https://www.rpacertified.com/2020/11/11/debug-manage-packaged-version.html"> Find UiPath version </a>
+
+
 #### Where to find out more?
 
 To find out more about UiPath Products, visit the <a href="https://docs.uipath.com/">Official Documentation</a>.
