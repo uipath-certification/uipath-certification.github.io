@@ -21,7 +21,7 @@ accordion:
 </div>
 <br/>
 
-## Transcript
+## Accessing variables in UiPath
 So, we just talked about _variables_ and declaring variables, but another part of the objective in the _UiPath Associate Certification_ exam is the fact that you need to not only know the basic variable types, but you also need to understand how variables are scoped in UiPath and it is actually, fairly straight forward.
 
 _Variables_ have scope within the process in which they are defined and within the boundaries of the _object_ that defines them and any _sub-objects_. Within the container that defines them or any sub-containers. And that container could be something like _a sequence_ could be, uh, an if block could be an exception block.
