@@ -23,7 +23,7 @@ keywords: uipath, uipath if, if activity, uipath logic, uipath programming, uipa
 
 #### Where to find out more about the UiPath If activity?
 
-To find out more about RPA certifications from UiPath, visit the <a href="http://www.uipath.com/learning/certification">official website</a>.
+If you want to see more examples of the UiPath If Activity from UiPath, visit the <a href="https://forum.uipath.com/t/advanced-activities-uipath-nested-if-then-else-statements/322285">official users forum.</a>.
 
 <div class="row">
 	
