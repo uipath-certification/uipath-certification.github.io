@@ -7,23 +7,23 @@ canonical: https://www.rpacertified.com/2021/06/12/uipath-if-activity-example.ht
 keywords: uipath, uipath if then, if then activity, uipath logic, uipath programming, uipath conditional, uipath studio, rpa developer, rpa programming
 ---
 
-# UiPath If Else Tutorial
+# UiPath If Then Tutorial
 
 <div class="embed-responsive embed-responsive-16by9">
 <iframe src="https://www.youtube.com/embed/vUeRlhzz0wg" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 <br/>
 
-## UiPath If Else Activity Explained
+## UiPath If Then Else Activity Explained
 
 <figure class="figure">
-  <img src="https://aws1.discourse-cdn.com/uipath/original/3X/b/f/bf74b2ff3dd84a4f77f9c137e63b4728fee9e630.png" alt="UiPath If Activity Example" class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  <img src="https://files.readme.io/cf5bc99-image_93.png" alt="UiPath If Activity Example" class="img-fluid mx-auto d-block img-thumbnail rounded ">
   <figcaption class="figure-caption">The UiPath If Activity simplified conditional if then else logic.</figcaption>
 </figure>
 
 #### Where to find out more about UiPath If Else activities?
 
-To find out more about RPA certifications from UiPath, visit the <a href="http://www.uipath.com/learning/certification">official website</a>.
+If you'd like to go beyond this UiPath If Then activity tutorial, visit the <a href="https://docs.uipath.com/studio/docs/the-if-activity">official website</a>.
 
 <div class="row">
 	
