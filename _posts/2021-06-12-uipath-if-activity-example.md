@@ -18,7 +18,7 @@ keywords: uipath, uipath if, if activity, uipath logic, uipath programming, uipa
 
 <figure class="figure">
   <img src="https://aws1.discourse-cdn.com/uipath/original/3X/b/f/bf74b2ff3dd84a4f77f9c137e63b4728fee9e630.png" alt="UiPath If Activity Example" class="img-fluid mx-auto d-block img-thumbnail rounded ">
-  <figcaption class="figure-caption">The UiPath If Activity simplified conditional if then else logic.</figcaption>
+  <figcaption class="figure-caption">The UiPath If Activity simplifies conditional if then else logic.</figcaption>
 </figure>
 
 #### Where to find out more about the UiPath If activity?
