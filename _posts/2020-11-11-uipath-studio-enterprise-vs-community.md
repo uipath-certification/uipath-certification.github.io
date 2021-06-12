@@ -28,4 +28,6 @@ The Community Edition of UiPath Studio will always download the latest update, r
 
 Enterprise Edition updates of UiPath Studio are not automatic. The Enterprise Edition will not automatically download and install a new release, regardless of whether it is a stable release or a preview release.
 
-This question deals with exam objective 1.4, How to differentiate between the Community Edition and the Enterprise Edition of UiPath Studio
+This <a href="https://www.rpacertified.com/2021/06/07/community-vs-enterprise-uipath-studio.html>UiPath Community vs Enterprise</a> question deals with exam objective 1.4, How to differentiate between the Community Edition and the Enterprise Edition of UiPath Studio
+
+<iframe src="https://www.youtube.com/embed/bP_knaHu_uE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
