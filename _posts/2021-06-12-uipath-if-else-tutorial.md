@@ -18,12 +18,12 @@ keywords: uipath, uipath if then, if then activity, uipath logic, uipath program
 
 <figure class="figure">
   <img src="https://files.readme.io/cf5bc99-image_93.png" alt="UiPath If Activity Example" class="img-fluid mx-auto d-block img-thumbnail rounded ">
-  <figcaption class="figure-caption">The UiPath If Activity simplified conditional if then else logic.</figcaption>
+  <figcaption class="figure-caption">This UiPath if then tutorial demonstrates how conditional logic is implemented in UiPath Studio.</figcaption>
 </figure>
 
-#### Where to find out more about UiPath If Else activities?
+#### Where to find out more about UiPath If Then statements?
 
-If you'd like to go beyond this UiPath If Then activity tutorial, visit the <a href="https://docs.uipath.com/studio/docs/the-if-activity">official website</a>.
+If you'd like to go beyond this UiPath If Then activity tutorial, visit the <a href="https://forum.uipath.com/t/uipath-if-then-activity-example-tutorial/322284">UiPath Forum</a>.
 
 <div class="row">
 	
