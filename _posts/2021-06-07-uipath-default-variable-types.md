@@ -130,7 +130,8 @@ Options b and d are correct.
 
 #### UiPath Studio Variables Tab
 
-When you start a new UiPath project, there are only five varaible types listed in the Variables tab. They are:
+When you start a new UiPath project, there are only five variable types listed in the Varaibles tab. They are:
+
 
 1. String
 2. int32
