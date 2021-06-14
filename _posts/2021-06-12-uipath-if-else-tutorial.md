@@ -37,7 +37,7 @@ accordion:
             <h3>Evaluating the false case scenarios</h3>
             Then what do we want to do in that case? We'll send them a message box that says guess higher and then what do we do if it's not less than 5, that means it's greater than 5. Then I guess we should say guess lower. The only problem is that possibility exists that they actually picked 5, which is the correct number. So, we've actually need to nest our if-then-else statements and that means throwing an if statement over here to the right, and then in this, if statement will say, if the guess is greater than 5 and we'll tell them to guess lower and then what happens if their number is not less than 5, not greater than 5, if it actually is 5. Well, we can now put that into this _else block_ here and that would be a message box saying, ‘You guessed it! It was  …’ and then what the guess was because the guess is right. If we actually get to this point, that means that guess 5 guess is holding the value 5. So that it should print up- **‘You guessed it! It was 5’**. Now we do have this issue about the infinite loop here and unfortunately, we don't have infinite resources.
             <br>
-            
+
             <h3>Evaluating the true case scenarios</h3>
             So when somebody guesses the right answer, we actually want to break out of the loop and so how do you do that? All I have to do is go down to workflow control and you'll find this **break** and if you drag the break over here, you notice it now says, okay, when somebody guesses it, right, we'll say, Hey, you guessed it right. The number was what the guess was and then the break and that _break forces you to break out of the current loop that you're inside of_. So that will kind of override this true because this condition won't ever get executed. Once that break happens, we break out of the loop and then. Execution actually would follow along if there was anything below after the loop. But actually I can even improve that out by just putting a message box here after the condition and saying and so the message boxes, ‘Thanks for Playing!’. So that'll show you that we break out of the loop, but it's not a way of terminating the application. It's not like an exception was thrown or something like that. Now, what did I do wrong now on that guess? I got to say **guess.ToString**. Now I always forget to do that.
             <br>
@@ -55,8 +55,9 @@ accordion:
 </div>
 <br/>
 
-## UiPath If Then Else Activity Explained
+
 {% include accordion.html %}
+## UiPath If Then Else Activity Example
 <figure class="figure">
   <img src="https://files.readme.io/cf5bc99-image_93.png" alt="UiPath If Activity Example" class="img-fluid mx-auto d-block img-thumbnail rounded ">
   <figcaption class="figure-caption">This UiPath if then tutorial demonstrates how conditional logic is implemented in UiPath Studio.</figcaption>
