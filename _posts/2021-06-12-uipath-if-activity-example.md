@@ -5,6 +5,9 @@ title: "UiPath If Activity Explained by Example"
 blurb: "Want to quickly learn how to use the UiPath If Activity? This simple UiPath If Activity example will show you how to use conditional logic in UiPath Studio."
 canonical: https://www.rpacertified.com/2021/06/12/uipath-if-activity-example.html
 keywords: uipath, uipath if, if activity, uipath logic, uipath programming, uipath conditional, uipath studio, rpa developer, rpa programming
+accordion: 
+  - title: If you create something in the Community studio, can you publish it to Orchestrator?
+    content: 'Yes'
 ---
 
 # UiPath If Activity
@@ -14,7 +17,10 @@ keywords: uipath, uipath if, if activity, uipath logic, uipath programming, uipa
 </div>
 <br/>
 
-## UiPath If Activity Example
+## Using conditional logic with if statement
+{% include accordion.html %}
+
+### UiPath If Activity Example
 
 <figure class="figure">
   <img src="https://aws1.discourse-cdn.com/uipath/original/3X/b/f/bf74b2ff3dd84a4f77f9c137e63b4728fee9e630.png" alt="UiPath If Activity Example" class="img-fluid mx-auto d-block img-thumbnail rounded ">

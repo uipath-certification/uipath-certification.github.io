@@ -13,7 +13,7 @@ accordion:
   - title: How can we downgrade or use an older version of UiPath Studio?
     content: We need to have an Enterprise license or Enterprise trial version to use/download older version of UiPath Studio.
 ---
----
+
 
 # UiPath Studio Enterprise and Community Editions
 
