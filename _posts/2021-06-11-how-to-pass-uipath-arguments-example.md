@@ -2,7 +2,7 @@
 layout: answered-question
 author: Kivens
 title: How to pass arguments in UI Path?
-blurb: How do we use UI Patharguments?
+blurb: Learn how to use in and out arguments in UiPath Studio to pass data and variables between workflows and sequences.
 difficulty: 6
 canonical: https://www.rpacertified.com/2021/06/11/how-to-pass-uipath-arguments-example.html
 keywords: attended automation, attended robots, automation best practices, rpa use case, rpa best practices
