@@ -22,8 +22,6 @@ keywords: uipath, uipath if, if activity, uipath logic, uipath programming, uipa
 </figure>
 
 
-IF Activity
-
 Computer programs can really only do three things. 
 
 1. they can manage data. We talked about UI Path variables in a previous tutorial. 
@@ -64,6 +62,38 @@ And of course I can also do if it's the *counter > 10*, which, you know, of cour
 Um, and you can even like, have *counter <> 10*, so you can do counter not equal to and here we can actually run the file. If the counter is not equal 10. Well, it's 9. So that is true as well. So that kind of gives you a whirlwind tour of that UI Path If activity. 
 
 Now, if you want to take this one step further, I've actually got another tutorial on Nested If-Then Statements, and it shows you how to create a little number guesser game in UI Path studio, which actually takes input from the user using the UI Path Input box. So, if you want to take your knowledge a little bit further, go take a look at that tutorial, but this gives you a good, quick overview of how conditional logic and specifically the UI Path If activity, how it works.
+
+## Sample Questions
+
+#### Sample Question #1
+Question: What are the possible conditions?
+
+- [x] &nbsp;  True / False
+- [ ] &nbsp;  True / False / Is Not
+- [ ] &nbsp;  True / False / Is Not / 1 / 0
+
+#### Answer
+
+Option A is correct. 
+
+The condition only expects 2 possible outcomes, True or False. 
+
+#### Sample Question #2
+Question: Is it possible to have Else Activity but empty Then Activity?
+
+- [x] &nbsp;  Yes
+- [ ] &nbsp;  No
+
+#### Answer
+
+Option A is correct. 
+
+Although this is correct, it is still adviced to flip the condition result by prepending "Not" in the condition statement. 
+
+Example:
+
+True = True
+Not True = False
 
 
 #### Where to find out more about the UiPath If activity?
