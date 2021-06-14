@@ -14,17 +14,14 @@ accordion:
 
             I did that purely with a **do-while** loop. In this example, I'm going to achieve the same ends, but I'm going to deal with an if-then-else statement. _Nesting_, some of those, if conditions inside of each other. So, if you want to learn the basics of conditional programming and UiPath, you've come to the right place.
             Now I'm going to implement the number guesser with an _if-then nested_, if then statements are going to create a New Project called _**IfthenNestNumberguesser**_. That's a long enough name, a lot of the workspace to come up and as soon as it does open up, I'll open up the _main workflow_ window. I think, I am going to start off by adding in a **do-while** loop. So, that means going down into workflow, opening up the control element and adding a do-while loop here now actually want an infinite loop, but that sounds a little strange. But what I want to do is I want to keep asking the user, Hey, What is your pick? What number did you pick? What number did you pick?
-            <br><br>
 
             <h3>Break activity to break out of the loop</h3>
 
             I just want that to keep going on and on and on until they pick the right number and when they pick the right number, I'm going to break out of the loop and so this actually creates an infinite loop, which is kind of interesting and inside of this loop, I want to ask the user for some input. So that means going into _system dialogue-> Input dialogue_ and dragging input dialogue onto the body here and I'm going to have a title. This will be in the title bar of the dialog box and we'll say,<br> ‘Pick a number between 1 and 10.’ <br> and we'll say in the dialog box, ‘What is your number?’. Now, remember this has to all go within double quotes. If you don't have double quotes here, you're going to have a problem. So just, just make sure that's in _double quotes_ (""), only variables go without the quotes.
-            <br>
 
             <h3>Storing the guessed number in a variable</h3>
 
             Speaking of **variables**, when somebody types in a number, we will actually want to store that as a variable. So that means I got to come down to this variables element here. I want to store what the user's guess is, and it should be a number it's not going to make **int32** and I going to give _scope for the entire sequence_.
-            <br>
 
             <h3>Assign the correct scope to the variable</h3>
 
@@ -36,7 +33,6 @@ accordion:
            
             <h3>Evaluating the false case scenarios</h3>
             Then what do we want to do in that case? We'll send them a message box that says guess higher and then what do we do if it's not less than 5, that means it's greater than 5. Then I guess we should say guess lower. The only problem is that possibility exists that they actually picked 5, which is the correct number. So, we've actually need to nest our if-then-else statements and that means throwing an if statement over here to the right, and then in this, if statement will say, if the guess is greater than 5 and we'll tell them to guess lower and then what happens if their number is not less than 5, not greater than 5, if it actually is 5. Well, we can now put that into this _else block_ here and that would be a message box saying, ‘You guessed it! It was  …’ and then what the guess was because the guess is right. If we actually get to this point, that means that guess 5 guess is holding the value 5. So that it should print up- **‘You guessed it! It was 5’**. Now we do have this issue about the infinite loop here and unfortunately, we don't have infinite resources.
-            <br>
 
             <h3>Evaluating the true case scenarios</h3>
             So when somebody guesses the right answer, we actually want to break out of the loop and so how do you do that? All I have to do is go down to workflow control and you'll find this **break** and if you drag the break over here, you notice it now says, okay, when somebody guesses it, right, we'll say, Hey, you guessed it right. The number was what the guess was and then the break and that _break forces you to break out of the current loop that you're inside of_. So that will kind of override this true because this condition won't ever get executed. Once that break happens, we break out of the loop and then. Execution actually would follow along if there was anything below after the loop. But actually I can even improve that out by just putting a message box here after the condition and saying and so the message boxes, ‘Thanks for Playing!’. So that'll show you that we break out of the loop, but it's not a way of terminating the application. It's not like an exception was thrown or something like that. Now, what did I do wrong now on that guess? I got to say **guess.ToString**. Now I always forget to do that.
