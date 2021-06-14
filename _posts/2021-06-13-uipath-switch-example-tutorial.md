@@ -21,7 +21,7 @@ keywords: uipath, uipath switch, switch activity, uipath logic, uipath programmi
   <figcaption class="figure-caption">This UiPath switch example demonstrates how expression and case based conditional logic is implemented in Studio.</figcaption>
 </figure>
 
-#### Where to find out more about UiPath switch statements?
+#### Where to find more about UiPath switch statements examples?
 
 If you'd like to go beyond this UiPath switch activity tutorial, visit the <a href="https://docs.uipath.com/studio/docs/the-switch-activity">UiPath Forum</a>.
 
