@@ -31,7 +31,7 @@ accordion:
 <br/>
 
 ## String Expressions in UiPath Switch Cases
-
+{% include accordion.html %}
 <figure class="figure">
   <img src="https://itknowledgeexchange.techtarget.com/coffee-talk/files/2021/06/uipath-switch-example-conditional-activity.jpg" alt="UiPath Switch Activity Example" class="img-fluid mx-auto d-block img-thumbnail rounded ">
   <figcaption class="figure-caption">The UiPath Switch allows String data to be set as the case expression in the properties panel.</figcaption>
