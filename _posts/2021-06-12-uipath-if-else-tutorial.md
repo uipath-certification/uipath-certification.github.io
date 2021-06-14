@@ -1,6 +1,6 @@
 ---
 layout: featured-post
-author: Jenny
+author: Supreet Singh
 title: "UiPath If Then Tutorial"
 blurb: "This quick UiPath If Then Tutorial will show you how to use nested if then else statements in your robotic automation. This UiPath If Then Else Tutorial uses Studio version 21.4"
 canonical: https://www.rpacertified.com/2021/06/12/uipath-if-else-tutorial.html

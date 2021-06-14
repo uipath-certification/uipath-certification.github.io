@@ -1,6 +1,6 @@
 ---
 layout: featured-post
-author: Jenny
+author: Supreet Singh
 title: "How to use a String in the UiPath Switch Activity Tutorial"
 blurb: "This quick example tutorial will show you how to use a String in a Switch expression and configure case logic based on a String based expression."
 canonical: https://www.rpacertified.com/2021/06/13/uipath-string-switch-case-tutorial.html
@@ -42,7 +42,7 @@ accordion:
 
 #### Where to find out more about Strings in UiPath switch statements?
 
-Want to learn more about Strings and the UiPath switch activity, visit the <a href="https://docs.uipath.com/studio/docs/the-switch-activity">official documentation.</a>.
+[expand]Want to learn more about Strings and the UiPath switch activity, visit the <a href="https://docs.uipath.com/studio/docs/the-switch-activity">official documentation.</a>.[/expand]
 
 <div class="row">
 	
@@ -80,3 +80,4 @@ Want to learn more about Strings and the UiPath switch activity, visit the <a hr
     </div>
 	
 </div>
+{% include text-expand.html %}
