@@ -53,6 +53,35 @@ So that's where the *Default* comes in. If you specify a default that can handle
 So if you do want to get UI pass certified, this is an important thing to know.
 
 
+## Sample Questions
+
+#### Sample Question #1
+Question: Types of variables that can be used in switch condition
+
+- [x] &nbsp;  Int32
+- [ ] &nbsp;  Array
+- [x] &nbsp;  String
+- [x] &nbsp;  Boolean
+
+#### Answer
+
+Option A, C and D are correct. 
+
+String, Int32 and Boolean are the types that can be used in a Switch.
+
+#### Sample Question #2
+Question: Which statement best describes the Default case in Switch
+
+- [ ] &nbsp;  when everything is already compared, this activity will run
+- [x] &nbsp;  can be used for performing a task when none of the cases is true
+- [ ] &nbsp;  this section runs before everything else is compared
+
+#### Answer
+
+Option B is correct. 
+
+The Default block will be the only block that runs if everything else does not meet the requirement.
+
 #### Where to find more about UiPath switch statements examples?
 
 If you'd like to go beyond this UiPath switch activity tutorial, visit the <a href="https://docs.uipath.com/studio/docs/the-switch-activity">UiPath Forum</a>.
