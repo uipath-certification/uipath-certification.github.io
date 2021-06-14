@@ -32,7 +32,7 @@ accordion:
             <br><br>
             So there you go. Those are the ins and outs of **nested if-then** statements, if you enjoyed this tutorial, head over to the server side.com, where I'm the editor in chief, you can find lots of great articles and tutorials about enterprise software development over there. If you want to learn more about me, you can follow my antics on Twitter @Cameronmcnz and subscribe on YouTube.
 
-            ---
+---
 
 # UiPath If Then Tutorial
 
@@ -42,7 +42,7 @@ accordion:
 <br/>
 
 ## UiPath If Then Else Activity Explained
-
+{% include accordion.html %}
 <figure class="figure">
   <img src="https://files.readme.io/cf5bc99-image_93.png" alt="UiPath If Activity Example" class="img-fluid mx-auto d-block img-thumbnail rounded ">
   <figcaption class="figure-caption">This UiPath if then tutorial demonstrates how conditional logic is implemented in UiPath Studio.</figcaption>
