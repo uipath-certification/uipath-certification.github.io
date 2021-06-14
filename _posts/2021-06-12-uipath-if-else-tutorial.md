@@ -10,13 +10,18 @@ accordion:
     content: <h3>Introduction</h3>Hey, I'm Cameron Mackenzie. I'm the editor in chief at theserverside.com and you can follow me on Twitter **@Cameronmcnz** and I want to talk to you about UiPath programming and specifically how the **if-then else activity** works. So, I did a tutorial earlier on the number guesser, take a look at that.
             <br>
             <h3>Using If-else statement in UiPath</h3>
+            
             I did that purely with a **do-while** loop. In this example, I'm going to achieve the same ends, but I'm going to deal with an if-then-else statement. _Nesting_, some of those, if conditions inside of each other. So, if you want to learn the basics of conditional programming and UiPath, you've come to the right place.
             Now I'm going to implement the number guesser with an _if-then nested_, if then statements are going to create a New Project called _**IfthenNestNumberguesser**_. That's a long enough name, a lot of the workspace to come up and as soon as it does open up, I'll open up the _main workflow_ window. I think, I am going to start off by adding in a **do-while** loop. So, that means going down into workflow, opening up the control element and adding a do-while loop here now actually want an infinite loop, but that sounds a little strange. But what I want to do is I want to keep asking the user, Hey, What is your pick? What number did you pick? What number did you pick?
             <br><br>
+
             <h3>Break activity to break out of the loop</h3>
+
             I just want that to keep going on and on and on until they pick the right number and when they pick the right number, I'm going to break out of the loop and so this actually creates an infinite loop, which is kind of interesting and inside of this loop, I want to ask the user for some input. So that means going into _system dialogue-> Input dialogue_ and dragging input dialogue onto the body here and I'm going to have a title. This will be in the title bar of the dialog box and we'll say,<br> ‘Pick a number between 1 and 10.’ <br> and we'll say in the dialog box, ‘What is your number?’. Now, remember this has to all go within double quotes. If you don't have double quotes here, you're going to have a problem. So just, just make sure that's in _double quotes_ (""), only variables go without the quotes.
             <br>
+
             <h3>Storing the guessed number in a variable</h3>
+
             Speaking of **variables**, when somebody types in a number, we will actually want to store that as a variable. So that means I got to come down to this variables element here. I want to store what the user's guess is, and it should be a number it's not going to make **int32** and I going to give _scope for the entire sequence_.
             <br>
             <h3>Assign the correct scope to the variable</h3>
