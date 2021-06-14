@@ -42,7 +42,7 @@ accordion:
 
 #### Where to find out more about Strings in UiPath switch statements?
 
-[expand]Want to learn more about Strings and the UiPath switch activity, visit the <a href="https://docs.uipath.com/studio/docs/the-switch-activity">official documentation.</a>.[/expand]
+Want to learn more about Strings and the UiPath switch activity, visit the <a href="https://docs.uipath.com/studio/docs/the-switch-activity">official documentation.</a>.
 
 <div class="row">
 	
@@ -80,4 +80,3 @@ accordion:
     </div>
 	
 </div>
-{% include text-expand.html %}
