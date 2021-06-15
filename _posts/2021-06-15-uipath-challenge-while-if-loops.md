@@ -23,7 +23,7 @@ keywords: uipath, uipath challenge, uipath iterative, uipath logic, uipath condi
 
 #### Where to find out more about the UiPath While Loop activity?
 
-If you'd like to go beyond this UiPath Conditional and Iterative logic challenge, visit the <a href="https://forum.uipath.com/t/uipath-while-loop-example/322963">UiPath Forum</a>.
+If you'd like to go beyond this UiPath Conditional and Iterative logic challenge, visit the <a href="https://forum.uipath.com/t/uipath-iterative-and-conditional-logic-example/322968">UiPath Forum</a>.
 
 <div class="row">
 	
