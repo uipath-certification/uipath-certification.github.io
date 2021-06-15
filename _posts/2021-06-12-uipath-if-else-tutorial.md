@@ -59,6 +59,26 @@ accordion:
   <figcaption class="figure-caption">This UiPath if then tutorial demonstrates how conditional logic is implemented in UiPath Studio.</figcaption>
 </figure>
 
+### Test Your Knowledge
+
+
+1. What is Break Activity used for ?
+- [x] It is used to terminate the loop or statement in which it is present
+- [ ] It forces to execute the next iteration of the loop.
+- [ ]It is like null operation
+
+2. What can be used to store a input value in UiPath Studio?
+- [x] Variable
+- [x] Argument
+- [ ] None of the above
+
+3. What is the VB Expression that is used to convert a variable to String type explicitly?
+- {variableName}.ToString 
+
+### References that you might want to have a look at :
+*  <a href="https://www.rpacertified.com/2021/06/12/uipath-if-else-tutorial.html"> UiPath If-Then Tutorial </a>
+*  <a href="https://www.rpacertified.com/2020/09/09/data-string-format.html"> UiPath String Format Exam Question </a>
+
 #### Where to find out more about UiPath If Then statements?
 
 If you'd like to go beyond this UiPath If Then activity tutorial, visit the <a href="https://forum.uipath.com/t/uipath-if-then-activity-example-tutorial/322284">UiPath Forum</a>.

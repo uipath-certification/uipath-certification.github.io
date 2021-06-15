@@ -56,13 +56,13 @@ accordion:
 
 
 ### References that you might want to have a look at :
-*  <a href="https://www.rpacertified.com/2021/06/12/uipath-if-else-tutorial.html"> UiPath If-Then Tutorial </a>
-*  <a href="https://www.rpacertified.com/2020/09/09/data-string-format.html"> UiPath String Format Exam Question </a>
+*  <a href="https://www.rpacertified.com/2021/06/13/uipath-switch-example-tutorial.html">UiPath Switch Example </a>
+*  <a href="https://www.rpacertified.com/2020/09/09/flow-decision-in-a-sequence.html"> Decision Making Activities in UiPath </a>
 
 
 #### Where to find out more about Strings in UiPath switch statements?
 
-Want to learn more about Strings and the UiPath switch activity, visit the <a href="https://docs.uipath.com/studio/docs/the-switch-activity">official documentation.</a>.
+Want to learn more about Strings and the UiPath switch activity, visit the <a href="https://docs.uipath.com/studio/docs/the-switch-activity">official documentation.</a>
 
 <div class="row">
 	
