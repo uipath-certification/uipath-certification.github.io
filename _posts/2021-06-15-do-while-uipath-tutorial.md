@@ -1,7 +1,7 @@
 ---
 layout: featured-post
 author: Jenny
-title: "Iterative UiPath While Loop Example"
+title: "Iterative UiPath Do While Loop Example"
 blurb: "This simple UiPath tutorial on the Do While Activiy will show you how to implement iterative logic in your RPA application."
 canonical: https://www.rpacertified.com/2021/06/15/do-while-uipath-tutorial.html
 keywords: uipath, uipath do while, do while activity, uipath do logic, uipath programming, uipath do loop, uipath studio, rpa developer, rpa programming
