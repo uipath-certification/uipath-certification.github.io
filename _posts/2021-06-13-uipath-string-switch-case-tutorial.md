@@ -33,12 +33,32 @@ accordion:
 </div>
 <br/>
 
-## String Expressions in UiPath Switch Cases
 {% include accordion.html %}
 <figure class="figure">
   <img src="https://itknowledgeexchange.techtarget.com/coffee-talk/files/2021/06/uipath-switch-example-conditional-activity.jpg" alt="UiPath Switch Activity Example" class="img-fluid mx-auto d-block img-thumbnail rounded ">
   <figcaption class="figure-caption">The UiPath Switch allows String data to be set as the case expression in the properties panel.</figcaption>
 </figure>
+
+## Test Your Knowledge
+
+1. Is it possible to use a String type variable with Switch Activity?
+- [x] True
+- [ ] False
+
+2. Which of the following data types can be used with a Switch Activity?
+- [x] Int32
+- [x] String
+- [ ] Boolean
+- [x] Char
+
+3. How are strings declared in UiPath?
+- [x] Using Double Quotes ("")
+
+
+### References that you might want to have a look at :
+*  <a href="https://www.rpacertified.com/2021/06/12/uipath-if-else-tutorial.html"> UiPath If-Then Tutorial </a>
+*  <a href="https://www.rpacertified.com/2020/09/09/data-string-format.html"> UiPath String Format Exam Question </a>
+
 
 #### Where to find out more about Strings in UiPath switch statements?
 
