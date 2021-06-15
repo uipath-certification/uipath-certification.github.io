@@ -65,7 +65,6 @@ accordion:
 1. What is Break Activity used for ?
 - [x] It is used to terminate the loop or statement in which it is present
 - [ ] It forces to execute the next iteration of the loop.
-- [ ]It is like null operation
 
 2. What can be used to store a input value in UiPath Studio?
 - [x] Variable
