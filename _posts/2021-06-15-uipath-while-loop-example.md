@@ -41,7 +41,7 @@ So I can say *”Yes; No”*. And then that'll actually generate an input dialog
 
 So, I can either specify that in *Value entered* or I can specify that as *Result* either way. There we go. Oh, I could specify it there. I notice that it pops up in this window. And now I have a very handsome while loop. I've got a variable UserInput. We checked to see if UserInput is *Yes*. If it is, we print out, *“Hey, you are in the while loop”*.
 
-And then after we've done that, we then ask, *“Hey, do you want to continue?” * And it keeps continuing until we click *Yes*. So there we go. Save that UiPathWhileLoopExample, click run. The loop is entered and we see, *“Hey, you are in the UI Path while loop.”*. I click Ok. And we get the message box *“Do you want to continue the loop? ”*.
+And then after we've done that, we then ask, *“Hey, do you want to continue?”* And it keeps continuing until we click *Yes*. So there we go. Save that UiPathWhileLoopExample, click run. The loop is entered and we see, *“Hey, you are in the UI Path while loop.”*. I click Ok. And we get the message box *“Do you want to continue the loop? ”*.
 
 Yes. I'm having fun with this UI Path while loop. Okay. *“You're in the while loop”*. *“Do you wanna continue the UI Path while loop? ”*, Yes I do, click Ok. *“You're in the while loop”*. I'm getting a little bored now, I want to exit the UI Path while loop. So I say *No*, and then that should terminate the application and that terminates the application. Because the condition of the UI Path while loop becomes *False*. And if the condition of the while loop is false, the while loop exit, and then logic after the while loop picks up. And there you go. That's an example of how to use the UI Path while loop.
 
