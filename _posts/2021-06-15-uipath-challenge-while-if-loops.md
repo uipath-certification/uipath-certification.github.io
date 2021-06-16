@@ -37,7 +37,7 @@ accordion:
 <iframe src="https://www.youtube.com/embed/CGuAo2NM2Zk" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 <br/>
-
+{% include accordion.html %}
 ## UiPath Programming Challenge
 
 <figure class="figure">
