@@ -1,6 +1,6 @@
 ---
 layout: featured-post
-author: Jenny
+author: Supreet Singh
 title: "Learn Iterative and Conditional Logic with this UiPath Challenge"
 blurb: "Get some hands on learning and implement this number guesser RPA Challenge project and learn iterative and conditional UiPath logic."
 canonical: https://www.rpacertified.com/2021/06/15/uipath-challenge-while-if-loops.html
