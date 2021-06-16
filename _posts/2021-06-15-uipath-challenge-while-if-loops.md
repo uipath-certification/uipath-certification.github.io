@@ -10,7 +10,7 @@ accordion:
     content: <h3>Introduction</h3>Hey, Cameron Mackenzie here at **@CameronMcnz** on Twitter and I wanted to talk to you about do while loops and UiPath. So, to start this project off, I am going to create a new process and then call it the number guessing game, little blank process there and as soon as the project is created, I am going to click on this button to open the _main workflow_.<br>
 
             <h3>Get Guess input from User</h3> 
-            
+
             And what I am going to do is I am just going to keep asking a user, hey, pick a number between one and 10 until they have picked the number 5. In order to do an activity like that, where somebody keeps doing something until a condition is achieved your best to use a do while activity. So, I have gone into the workflow control and do while section and added this activity here.<br>
 
             Of course in this activity, what do I want to do? Well, I want to keep asking the user to _pick a number between 1 and 10_ and so in order to ask for input, what you need is you need to go into the system area into dialogues and you can find the input dialogue.Now with the input dialogue, let me say, say something like, in quotes, and then in quotes, again, make sure this is all in quotes. This is going to have a little dialogue boxes to say, pick a number between 1 and 10 and then that is the title and then it is actually going to say in the dialog box, “What's the number?”. Now, when this runs, it can take the input that the user types in and store it as a **variable**.
@@ -44,12 +44,26 @@ accordion:
 </div>
 <br/>
 {% include accordion.html %}
+
 ## UiPath Programming Challenge
 
 <figure class="figure">
   <img src="https://aws1.discourse-cdn.com/uipath/original/3X/5/2/52068a4ad8a86d37406e09322cc499392c6c59da.jpeg" alt="UiPath If Activity Example" class="img-fluid mx-auto d-block img-thumbnail rounded ">
   <figcaption class="figure-caption">Learn iterative and conditional logic in UiPath by working through this Number Guesser example.</figcaption>
 </figure>
+
+### Test Your Knowledge
+
+
+1. Which activity is used to display information to the user?
+- [x] Message Box
+- [ ] CallOut
+
+2. What can be the possible error, if the user is not able to access a variable?
+- [ ] Incorrect Scope assigned to the variable
+- [ ] Variable Data Type Conflict 
+- [x] Both a and b
+
 
 #### Where to find out more about the UiPath While Loop activity?
 
