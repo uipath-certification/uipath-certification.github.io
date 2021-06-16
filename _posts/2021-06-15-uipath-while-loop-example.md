@@ -1,6 +1,6 @@
 ---
 layout: featured-post
-author: Jenny
+author: Kivens
 title: "UiPath While Loop Example"
 blurb: "This quick UiPath While Activiy exmaple will show you how to iterate through loops and exit processing when a given while loop condition is met."
 canonical: https://www.rpacertified.com/2021/06/15/uipath-while-loop-example.html
@@ -16,7 +16,6 @@ keywords: uipath, uipath while, while activity, uipath logic, uipath programming
 
 ## UiPath While Loop Activity Explained
 
-## UiPath While Loop
 Welcome back. It's been a while and that's what I want to talk to you about right now. I want to talk to you about UI Path While loop. So I'm going to start off by creating a UI Path while loop example. I'm just going to call it *UiPathWhileLoopExample*, and not too much is going to happen here. 
 
 ## UiPath While loop Activity
@@ -42,6 +41,11 @@ So, I can either specify that in *Value entered* or I can specify that as *Resul
 And then after we've done that, we then ask, *“Hey, do you want to continue?” * And it keeps continuing until we click *Yes*. So there we go. Save that UiPathWhileLoopExample, click run. The loop is entered and we see, *“Hey, you are in the UI Path while loop.”*. I click Ok. And we get the message box *“Do you want to continue the loop? ”*.
 
 Yes. I'm having fun with this UI Path while loop. Okay. *“You're in the while loop”*. *“Do you wanna continue the UI Path while loop? ”*, Yes I do, click Ok. *“You're in the while loop”*. I'm getting a little bored now, I want to exit the UI Path while loop. So I say *No*, and then that should terminate the application and that terminates the application. Because the condition of the UI Path while loop becomes *False*. And if the condition of the while loop is false, the while loop exit, and then logic after the while loop picks up. And there you go. That's an example of how to use the UI Path while loop.
+
+<figure class="figure">
+  <img src="https://aws1.discourse-cdn.com/uipath/original/3X/5/2/52068a4ad8a86d37406e09322cc499392c6c59da.jpeg" alt="UiPath If Activity Example" class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  <figcaption class="figure-caption">This UiPath while loop example shows you how to implement iterative logic in your RPA applications.</figcaption>
+</figure>
 
 ## Sample Questions
 
@@ -72,10 +76,7 @@ Options A and B is correct.
 In the condition statement, it accepts a Boolean variable or True or False. This is can be contrasted to any decision-making statements like for example the If activity. As long as the statement inside it results to True, the body will execute, if it’s False, then it will skip the execution of the body. 
 
 
-<figure class="figure">
-  <img src="https://aws1.discourse-cdn.com/uipath/original/3X/5/2/52068a4ad8a86d37406e09322cc499392c6c59da.jpeg" alt="UiPath If Activity Example" class="img-fluid mx-auto d-block img-thumbnail rounded ">
-  <figcaption class="figure-caption">This UiPath while loop example shows you how to implement iterative logic in your RPA applications.</figcaption>
-</figure>
+
 
 #### Where to find out more about the UiPath While Loop activity?
 
