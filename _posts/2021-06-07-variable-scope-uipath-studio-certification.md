@@ -67,6 +67,7 @@ So those are the general best practices for managing. One of the other things to
 
 <h2>Test Your knowledge </h2>
 {% include accordion.html %}
+
 ### References that you might want to have a look at :
 *  <a href="https://www.rpacertified.com/associate-objectives.html"> UiPath Associate Exam Objectives </a>
 *  <a href="https://www.rpacertified.com/2020/11/11/debug-edit-variable.html"> Variable Debugging </a>

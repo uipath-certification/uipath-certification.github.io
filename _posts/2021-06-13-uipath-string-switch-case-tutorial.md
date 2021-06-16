@@ -1,10 +1,29 @@
 ---
 layout: featured-post
-author: Jenny
+author: Supreet Singh
 title: "How to use a String in the UiPath Switch Activity Tutorial"
 blurb: "This quick example tutorial will show you how to use a String in a Switch expression and configure case logic based on a String based expression."
 canonical: https://www.rpacertified.com/2021/06/13/uipath-string-switch-case-tutorial.html
 keywords: uipath string, string switch, ipath switch, switch activity, uipath logic, uipath programming, uipath conditional, uipath studio, rpa developer, rpa programming
+accordion: 
+  - title: Video Transcript
+    content: <h3>Using Switch Activity with String in UiPath</h3>
+            I'd like to give you a quick example of how to use a UiPath switch activity with a **String**. I did this previous UiPath Switch tutorial. And the basic idea here was you had a _variable- named _Players_, as you can see, it's an **int** value and I've assigned it the value of 11. And then you have a switch statement that tells you what sport you could build a team for with that number of players. So as you can see, I've specified that I've got 11 players. So all of my friends in India are going to be happy that ‘We're going to be playing cricket!’. If you have 15 - You're hurling, 6- It's hockey, 2 - It's ping pong. You get the idea. Now the question that a lot of people had that saw this UiPath Switch tutorial was, How do you go from using an int value to a string in a UiPath switch? Well, it's not too difficult. There is a trick to it. So if you take a look at this switch activity here, in the right hand side, there is this **type argument** property of the UiPath switch, and you can specify _String, Int32, Boolean, Object, DataTable._
+
+            <h3>Select the appropriate Type Argument</h3>
+            You can even browse for types. So to change the type, the expression of the UiPath switch statement. All you have to do is change the type argument. Now I'll change this to String. You'll notice a couple of things happen. All of my cases are going to get wiped out, but I'm not going to get too upset about that and I'll also have an error because of course the players' property is int32, not a string. But notice I changed the tight argument to string and now this switch statement, this UiPath switch activity, example, it wants a String. So I'll go down here to my _Players_ variable and I can just change the Players variable to **String**.
+            So now the players variable is set to String. That's going to cause one other problem and the other problem is the default value is the integer 11 and of course you can set an **int32** value to 11 because int32 handles _whole numbers_. But as we know everywhere in UiPath that you reference a string, you have to put that string in double quotes("").
+
+            <h3>Using String in double quotes</h3>
+            So now I have to change this 11 to an 11 in double quotes (“11”) that makes it a string and there you go. Now my code, at least compiles. I remember if anybody ever tells you that you can reference a string in UiPath without putting it in double quotes, they are a liar. Okay. So I've lost all of my switch cases because I changed from, int to string, but I'm not too worried about that.Let's handle the case of 11. So let's say we have, it's a string. Remember strings always have to be in double quotes. Let's say we have 11 players. Okay. Well then that's enough for a cricket match. So it looks like we're going to say _**‘We're going to India to play Cricket!!!’**_ . Okay, see you in Bangalore. So there you go. Now we're playing and you can see the variable is set to 11. The case is 11. The switch statement is on. I'm going to write, do run file and as you can see when it runs, it says ‘No exact match. Why don't you all go surfing?’ and in fact, that's the default case, right? The default is no exact match. Why don't you go all surfing?
+
+            It didn't match on 11. So the default value is 11. The case is 11. And for 11 it says it should say, ‘We're going to go play cricket.’ Notice that in the UiPath, switch the case when it's a string does not go in double quotes. You actually leave the double quotes off. So again, if anybody ever tells you that you always have to reference a string within double quotes, they're definitely a liar.
+            
+            <h3>The Trick</h3>
+            Okay, but now I've taken those double quotes off case 11. That should make you very uncomfortable. Well, if you've been working with UiPath, because almost every other time, you have to put a string inside, double quotes, but now if you run the file, boom, ‘We're going to India to play Cricket!!!’  and so that was all I had to do to get the UiPath, switch activity, tutorial, example.
+
+            To work. Um, but there you go. That's how you use a string inside of a switch. You just have to set the argument type of the expression, expression to string, make sure that the variable that you're using to switch on is a string for the cases. Remember you don't use the double quotes, you just leave the value into the case directly without them.
+
 ---
 
 # UiPath String and Switch Tutorial
@@ -14,16 +33,36 @@ keywords: uipath string, string switch, ipath switch, switch activity, uipath lo
 </div>
 <br/>
 
-## String Expressions in UiPath Switch Cases
-
+{% include accordion.html %}
 <figure class="figure">
   <img src="https://itknowledgeexchange.techtarget.com/coffee-talk/files/2021/06/uipath-switch-example-conditional-activity.jpg" alt="UiPath Switch Activity Example" class="img-fluid mx-auto d-block img-thumbnail rounded ">
   <figcaption class="figure-caption">The UiPath Switch allows String data to be set as the case expression in the properties panel.</figcaption>
 </figure>
 
+## Test Your Knowledge
+
+1. Is it possible to use a String type variable with Switch Activity?
+- [x] True
+- [ ] False
+
+2. Which of the following data types can be used with a Switch Activity?
+- [x] Int32
+- [x] String
+- [ ] Boolean
+- [x] Char
+
+3. How are strings declared in UiPath?
+- [x] Using Double Quotes ("")
+
+
+### References that you might want to have a look at :
+*  <a href="https://www.rpacertified.com/2021/06/13/uipath-switch-example-tutorial.html">UiPath Switch Example </a>
+*  <a href="https://www.rpacertified.com/2020/09/09/flow-decision-in-a-sequence.html"> Decision Making Activities in UiPath </a>
+
+
 #### Where to find out more about Strings in UiPath switch statements?
 
-Want to learn more about Strings and the UiPath switch activity, visit the <a href="https://docs.uipath.com/studio/docs/the-switch-activity">official documentation.</a>.
+Want to learn more about Strings and the UiPath switch activity, visit the <a href="https://docs.uipath.com/studio/docs/the-switch-activity">official documentation.</a>
 
 <div class="row">
 	
