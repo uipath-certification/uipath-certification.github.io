@@ -64,6 +64,9 @@ accordion:
 - [ ] Variable Data Type Conflict 
 - [x] Both a and b
 
+### References that you might want to have a look at :
+*  <a href="https://www.rpacertified.com/2021/06/15/do-while-uipath-tutorial.html"> Iterative UiPath Do While Loop Example </a>
+*  <a href="https://www.rpacertified.com/2020/09/09/flow-activity-to-interate2.html"> How to loop through a String array in Uipath Studio </a>
 
 #### Where to find out more about the UiPath While Loop activity?
 
