@@ -97,7 +97,8 @@ window.onload = function () {
 
 function startTimer(duration, display) {
     var timer = duration, minutes, seconds;
-    setInterval(function () {
+    while(true){
+		setInterval(function () {
         minutes = parseInt(timer / 60, 10);
         seconds = parseInt(timer % 60, 10);
 
@@ -106,12 +107,18 @@ function startTimer(duration, display) {
 
         display.textContent = minutes + ":" + seconds;
 
+		if(minutes == "00" && seconds == "00"){
+			alert("Times up!");
+			break;
+		}
         if (--timer < 0) {
-           // timer = duration;
-		   console.log("Times up!");
-        }
-		console.log("Kivens Test: "+ minutes + ":" + seconds);
-    }, 1000);
+           timer = duration;
+		}
+			
+			
+		}, 1000);
+	}
+	
 }
 
 </script>	      
