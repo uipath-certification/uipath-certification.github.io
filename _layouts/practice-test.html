@@ -223,7 +223,7 @@ console.log("end collapse and expand");
     processTheAnswer();
    
    	questionNumber = parseInt(number, 10);
-   console.log("practice-Test!!!");
+   
    	let questionNumberDisplay = parseInt(number, 10) + 1;
    	document.getElementById("questionNumber").innerHTML = "Question " + questionNumberDisplay;
    	document.getElementById("query").innerHTML = exam.questions[questionNumber].query + " (choose " + exam.questions[questionNumber].correctCount + ")";;
@@ -365,7 +365,7 @@ console.log("end collapse and expand");
 
 <div class="container">
    <div class="card">
-      <div class="card-header" id="questionNumber"></div>
+      <div class="card-header" id="questionNumber"></div><div class="card-header" id="timer">05:00</div>
       <div class="card-body">
          <h3 class="card-title" id="query"></h3>
          <div class="form-check my-2" id="outerOptionDiv0">
