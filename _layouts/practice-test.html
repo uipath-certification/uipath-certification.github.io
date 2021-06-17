@@ -114,7 +114,7 @@ function startTimer(duration, display) {
 		}
     }, 1000);
 }
-
+ 
 </script>	      
    
    
@@ -378,6 +378,8 @@ function startTimer(duration, display) {
 	}
    	
 	wrongCount = exam.questions.length - correctCount;
+	document.getElementById('score').innerHTML = 'You got '  + correctCount + ' out of ' + exam.questions.length + ' correct.';
+	//test kivens
 	if (facebookResponse.status == 'connected') {
 		document.getElementById('score').innerHTML = 'You got '  + correctCount + ' out of ' + exam.questions.length + ' correct.';
 	} else {
