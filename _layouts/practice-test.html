@@ -88,6 +88,29 @@ console.log("start collapse and expand");
 	document.getElementById('answerCardBodyDefault').classList.toggle('collapse');
 console.log("end collapse and expand");
 }
+//testing for timer
+window.onload = function () {
+    var fiveMinutes = 60 * 5,
+        display = document.querySelector('#time');
+    startTimer(fiveMinutes, display);
+};
+
+function startTimer(duration, display) {
+    var timer = duration, minutes, seconds;
+    setInterval(function () {
+        minutes = parseInt(timer / 60, 10);
+        seconds = parseInt(timer % 60, 10);
+
+        minutes = minutes < 10 ? "0" + minutes : minutes;
+        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+        display.textContent = minutes + ":" + seconds;
+
+        if (--timer < 0) {
+            timer = duration;
+        }
+    }, 1000);
+}
 
 </script>	      
    
@@ -365,7 +388,7 @@ console.log("end collapse and expand");
 
 <div class="container">
    <div class="card">
-      <div class="card-header" id="questionNumber"></div><div class="card-header" id="timer">05:00</div>
+      <div class="card-header" id="questionNumber"></div>
       <div class="card-body">
          <h3 class="card-title" id="query"></h3>
          <div class="form-check my-2" id="outerOptionDiv0">
@@ -393,6 +416,7 @@ console.log("end collapse and expand");
                <a  id="previous" class="btn btn-primary" onclick="navigateQuestions('previous')">&lt;&lt; Previous</a>
                <a  id="next" class="btn btn-primary" onclick="navigateQuestions('next')">Next &gt;&gt;</a> 
                <a  id="finish" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" onclick="gradeExam()">Finish</a>
+			   <a class="btn btn-warning"><span id="time">05:00</span></a>
             </p>
             <div></div>
          </div>
