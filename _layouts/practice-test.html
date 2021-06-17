@@ -107,12 +107,10 @@ function startTimer(duration, display) {
         display.textContent = minutes + ":" + seconds;
 
         if (--timer < 0) {
-           // timer = duration;
-		   console.log("Times up!");
+           timer = duration;
         }
 		if(minutes == "00" && seconds == "00"){
-			alert("Times up!");
-			console.log("yeahhhhh");
+			gradeExam();
 		}
     }, 1000);
 }
