@@ -23,7 +23,7 @@ keywords: uipath, uipath break, uipath continue,  uipath logic, uipath programmi
 
 #### Where to find out more about the UiPath Continue and Break activities?
 
-If you'd like to go beyond this UiPath Break and Continue Example, visit the <a href="https://forum.uipath.com/t/uipath-for-each-loop-example/323582">UiPath Forum</a>.
+If you'd like to go beyond this UiPath Break and Continue Example, visit the <a href="https://forum.uipath.com/t/uipath-break-and-continue-example/323586">UiPath Forum</a>.
 
 <div class="row">
 	
