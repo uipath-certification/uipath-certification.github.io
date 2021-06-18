@@ -17,7 +17,7 @@ keywords: uipath, uipath for, for each activity, uipath logic, uipath programmin
 ## UiPath For Each Loop Tutorial
 
 <figure class="figure">
-  <img src="https://files.readme.io/bddc819-image_101.png" alt="UiPath If Activity Example" class="img-fluid mx-auto d-block img-thumbnail rounded ">
+  <img src="https://files.readme.io/bddc819-image_101.png" alt="UiPath For Each Example Tutorial" class="img-fluid mx-auto d-block img-thumbnail rounded ">
   <figcaption class="figure-caption">This UiPath for each loop example shows you an alternate to while loops to implement iterative logic in your RPA applications.</figcaption>
 </figure>
 
