@@ -1,6 +1,6 @@
 ---
 layout: featured-post
-author: Jenny
+author: Kivens
 title: "UiPath Exception Handling Tutorial"
 blurb: "Here's a quick example of how to handle exceptions in UiPath Studio and recover when error conditions occur."
 canonical: https://www.rpacertified.com/2021/06/15/exception-handling-uipath-tutorial.html
