@@ -10,7 +10,7 @@ keywords: uipath, uipath break, uipath continue,  uipath logic, uipath programmi
 # UiPath Break and Continue Example
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe src="https://www.youtube.com/embed/E0MB7t7QoDg" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/Bpiu6c5uY7E" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 <br/>
 
@@ -18,7 +18,7 @@ keywords: uipath, uipath break, uipath continue,  uipath logic, uipath programmi
 
 <figure class="figure">
   <img src="https://files.readme.io/36d79aa-image_103.png" alt="UiPath Break and Continue Example" class="img-fluid mx-auto d-block img-thumbnail rounded ">
-  <figcaption class="figure-caption">This UiPath for each loop example shows you an alternate to while loops to implement iterative logic in your RPA applications.</figcaption>
+  <figcaption class="figure-caption">This UiPath break and continue example shows how to control iterative logic in RPA applications.</figcaption>
 </figure>
 
 #### Where to find out more about the UiPath Continue and Break activities?
