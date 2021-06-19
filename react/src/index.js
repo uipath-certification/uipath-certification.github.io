@@ -24,14 +24,11 @@ class Exam extends React.Component {
 	console.log("Here is the history state: " + JSON.stringify(this.state.history));
 	
   }
+  
 	nextQuestion() {
-		console.log("In next question: "+ this.state.currentQuestionNumber);
 		let currentIndex = this.state.currentQuestionNumber;
 		this.setState({currentQuestionNumber: currentIndex + 1});
 		this.setState({currentQuestion: this.state.questions[currentIndex + 1]});
-		console.log("End next question: "+ this.state.currentQuestionNumber);
-		
-		console.log("Selected?: "+ this.state.currentQuestion.options[0].selected);
 	}
 	
 	previousQuestion() {
@@ -46,24 +43,18 @@ class Exam extends React.Component {
 	}
 	
 	gradeTheExam() {
-		console.log("In Grade Exam");
 		let examHistory = this.getExamHistory();
-		console.log("Here is the history: " + JSON.stringify(this.state.history));
-		console.log(this.state.history.exams);
 		examHistory.exams.push(this.state.questions);
 		this.setState({history: examHistory})
 		localStorage.setItem('examHistory', JSON.stringify(examHistory));
-		console.log("Here is the history again: " + JSON.stringify(this.state.history));
 		return "999";
 	}
 	
 	getExamHistory() {
-		console.log("Trying toget Exam History");
 		let object = localStorage.getItem('examHistory');
 		let examHistory = "";
 		
 		if (object == null) {
-			console.log("No history in local storage");
 			examHistory = {name:"Exam History"};
 			let exams = [];
 			examHistory.exams = exams;
@@ -72,32 +63,21 @@ class Exam extends React.Component {
 		} else {
 			examHistory = JSON.parse(object);
 		}
-		
-		console.log(examHistory);
-		console.log("Number of exams in history: " + examHistory.exams.length);
-		console.log("Here is the exam history: \n\n" + JSON.stringify(examHistory));
 		return examHistory;
 	}
 	
-	
 	getCorrectCount() {
-		//console.log("Get Correct Count.");
 		return "999";
 	}
-	
+
 	clearLocalStorage() {
-		alert("About to clear");
-		console.log("In The Clear Of Localstorage");
 		localStorage.clear('examHistory');
 		this.setState({history: this.getExamHistory()});
 	}
 	
 	toggleOption(index) {
-		console.log("In Toggle Option");
 		let question = this.state.currentQuestion;
 		let examQuestions = this.state.questions;
-		//console.log(question);
-		//console.log(index);
 		let flag = question.options[index].selected;
 		question.options[index].selected = !flag;		
 		examQuestions[this.state.currentQuestionNumber] = question;
@@ -206,8 +186,6 @@ class Exam extends React.Component {
     );
   }
 }
-
-// ========================================
 
 ReactDOM.render(
   <Exam start="10" end="13"/>,
