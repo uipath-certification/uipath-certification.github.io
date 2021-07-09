@@ -4,7 +4,7 @@ const Modal = ({ handleClose, show, children }) => {
   const showHideClassName = show ? "modal display-block" : "modal display-none";
 
   return (
-    <div className={showHideClassName}>
+    <div id="modalbox" className={showHideClassName}>
       <section className="modal-main">
           <div className="modal-content">
               <div className="modal-header">
@@ -27,5 +27,6 @@ const Modal = ({ handleClose, show, children }) => {
     </div>
   );
 };
+
 
 export default Modal;

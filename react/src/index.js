@@ -5,141 +5,118 @@ import Timer from './Components/Timer';
 import Question from './Components/Question';
 import Modal from './Components/Modal';
 import './Components/modal.css';
+import ExamHistory from './Components/ExamHistory';
 
 
 class Exam extends React.Component {
 	
   constructor(props) {
-   super(props);
-   this.saveChosenOption = this.saveChosenOption.bind(this);
-   this.showModal = this.showModal.bind(this);
-   this.hideModal = this.hideModal.bind(this);
-	let jsonQuestions = require('./questions.json');
-	let examQuestions = jsonQuestions.slice(this.props.start, this.props.end);
-	let examHistory = this.getExamHistory();
+    super(props);
+    this.saveQuestionState = this.saveQuestionState.bind(this);
+    this.showModal = this.showModal.bind(this);
+    this.hideModal = this.hideModal.bind(this);
+	
+	let examQuestions = require('./questions.json').slice(this.props.start, this.props.end);
     this.state = {
       graded: false,
-	   start: this.props.start,
-	   end: this.props.end,
-	   history: examHistory,
-	   questions: examQuestions,
-	   currentQuestionNumber: 0,
-	   currentQuestion: examQuestions[0],
+	  questions: require('./questions.json').slice(this.props.start, this.props.end),
+	  currentQuestionNumber: 0,
       time:0,
       score:0,
       timerRunning: true,
       show: false
     };
-
+	
     setInterval(() => {
 		this.state.time++;
-		//console.log(this.state.time);
 	}, 1000);
 
 	console.log("Number of Questions: " + this.state.questions.length);
-	console.log("Here is the history state: " + JSON.stringify(this.state.history));
+	console.log("Here is the history state: " + JSON.stringify(this.getExamHistory()));
    
   }
   
+
+  
    showModal (){
-   this.setState({ show: true });
+	   if (this.state.show==false) {
+		this.setState({ show: true });
+	   }
    };
 
    hideModal (){
-   this.setState({ show: false });
+	   if (this.state.show==true) {
+		this.setState({ show: false });
+	   }
    };
 
-	nextQuestion() {
-		let currentIndex = this.state.currentQuestionNumber;
-		this.setState({currentQuestionNumber: currentIndex + 1});
-		this.setState({currentQuestion: this.state.questions[currentIndex + 1]});
-      let eachQuestion=this.state.questions[currentIndex].options;
-      this.setState({time:0})
-      this.gradeQuestion();
-      this.handleCheckOptions();
-      this.updateTimeSpent();
-         
-	}
+	getCurrentQuestion() {
+		return this.state.questions[this.state.currentQuestionNumber];
+	};
 
-   handleCheckOptions(){
-      if(this.state.currentQuestion.options[0].selected){
-         document.getElementById("option0").checked = true;
-      }else{
-         document.getElementById("option0").checked = false;
-      }
-      
-      if(this.state.currentQuestion.options[1].selected){
-         document.getElementById("option1").checked = true;
-      }else{
-         document.getElementById("option1").checked = false;
-      }
-      
-      if(this.state.currentQuestion.options[2].selected){
-         document.getElementById("option2").checked = true;
-      }else{
-         document.getElementById("option2").checked = false;
-      }
-
-      if(this.state.currentQuestion.options[3].selected){
-         document.getElementById("option3").checked = true;
-      }else{
-         document.getElementById("option3").checked = false;
-      }
-  }
-
-   setQuestion(position) {
+    setCurrentQuestion(position) {
 		this.setState({currentQuestionNumber: position});
-		this.setState({currentQuestion: this.state.questions[position]});
+		this.setState({time:0})
+        this.updateTimeSpent(); 
+		//this.setState({currentQuestion: this.state.questions[position]});
 	}
 	
-	previousQuestion() {
-		let currentIndex = this.state.currentQuestionNumber;
-		this.setState({currentQuestionNumber: currentIndex - 1});
-		this.setState({currentQuestion: this.state.questions[currentIndex-1]});
-      this.setState({time:0});
-      this.gradeQuestion();
-     
+	nextQuestion() {
+	  this.setCurrentQuestion(this.state.currentQuestionNumber + 1);
 	}
 	
-	getQuestion(questionNumber) {
-		this.setState({currentQuestionNumber: questionNumber});
-		this.setState({currentQuestion: this.state.questions[questionNumber]});
+    previousQuestion() {
+	  this.setCurrentQuestion(this.state.currentQuestionNumber - 1);
+	}
+
+	
+	isQuestionAnsweredCorrectly(question) {
+        let i = 0;
+		for (i = 0; i < question.options.length; i++) {
+			
+           if ( (question.options[i].correct) != (question.options[i].selected) ) {
+			 return false;
+		   }
+		}
+		return true;
 	}
 	
-	gradeTheExam(score) {
+	
+	
+	
+	gradeTheExam() {
+		
+		let correctCount = 0;
+		let i = 0;
+		for (i = 0; i < this.state.questions.length; i++) {
+           if ( this.isQuestionAnsweredCorrectly(this.state.questions[i]) ) {
+			 correctCount++;
+		   }
+		}
+		
 		let examHistory = this.getExamHistory();
 		examHistory.exams.push(this.state.questions);
-		this.setState({history: examHistory})
 		localStorage.setItem('examHistory', JSON.stringify(examHistory));
-      let finalScore=0;
-      this.gradeQuestion();
-      this.updateTimeSpent();
-      this.setState({graded: true}, () =>{
-         //disable buttons and options
-         document.getElementById("next").setAttribute("class", "disabled btn btn-primary");
-         document.getElementById("previous").setAttribute("class", "disabled btn btn-primary");
-         document.getElementById("finish").setAttribute("class", "disabled btn btn-primary");
-         document.getElementById("option0").setAttribute("disabled", "");
-         document.getElementById("option1").setAttribute("disabled", "");
-         document.getElementById("option2").setAttribute("disabled", "");
-         document.getElementById("option3").setAttribute("disabled", "");
+		this.updateTimeSpent();
+		this.setState({graded: true}, () =>{
       });
    
   
-         for(var que=0;que<examHistory.exams[((examHistory.exams.length)-1)].length;que++){
+         //for(var que=0;que<examHistory.exams[((examHistory.exams.length)-1)].length;que++){
             //console.log( "Que Number "+que+"Marked "+examHistory.exams[examcount][que].marked);
-            finalScore=finalScore+examHistory.exams[(examHistory.exams.length-1)][que].marked;
-         }
+         //   finalScore=finalScore+examHistory.exams[(examHistory.exams.length-1)][que].marked;
+         //}
       
       
       this.stoptimer();
-      this.showModal(); //Score display
-      this.setState({score:finalScore});
-
-		return finalScore;
+      //this.showModal(); //Score display
+	  this.showModal();
+      this.setState({score:correctCount});
+	  return correctCount;
 	}
 	
 	getExamHistory() {
+		//alert("Get Exam History");
       try{
          let object = localStorage.getItem('examHistory');
          let examHistory = "";
@@ -160,12 +137,8 @@ class Exam extends React.Component {
 		
 	}
 	
-	getCorrectCount() {
-		return "999";
-	}
 
   componentDidMount() {
-    this.handleButtons()
     this.createJumperButtons();
     var fiveMinutes = 60 * 5,
     display = "timer";
@@ -176,18 +149,12 @@ class Exam extends React.Component {
   }
 
   componentDidUpdate(){
+	  
+	  //alert("Component Did Update");
      this.handleButtons();
      this.createJumperButtons(); 
-     if(!this.state.timerRunning){
-      document.getElementById("next").setAttribute("class", "disabled btn btn-primary");
-      document.getElementById("previous").setAttribute("class", "disabled btn btn-primary");
-      document.getElementById("finish").setAttribute("class", "disabled btn btn-primary");
-      document.getElementById("option0").setAttribute("disabled", "");
-      document.getElementById("option1").setAttribute("disabled", "");
-      document.getElementById("option2").setAttribute("disabled", "");
-      document.getElementById("option3").setAttribute("disabled", "");   
-    }
-      this.handleCheckOptions();
+
+     //this.handleCheckOptions();
  
   }
 
@@ -195,35 +162,12 @@ class Exam extends React.Component {
    this.setState({time:0});
   }
 
-  gradeQuestion(){
-   let currentIndex = this.state.currentQuestionNumber;
-   let score= this.state.score;
-   var correctCount=0;
-   let eachQuestion=this.state.questions[currentIndex].options;
-   for(var i=0;i<eachQuestion.length;i++){
-      console.log(this.state.questions[currentIndex].options[i].correct)
-      if(this.state.questions[currentIndex].options[i].selected===this.state.questions[currentIndex].options[i].correct ){
-         correctCount=correctCount+1;
-         continue;	
-      }
-      else{
-         break;
-      }	
-   }
-   if(this.state.questions[currentIndex].marked===0 && correctCount===eachQuestion.length){
-    //  console.log('CORRECT ANSWER');
-      this.state.questions[currentIndex].marked=1;
-   }
-   else if(this.state.questions[currentIndex].marked===1 && score!==0 && correctCount!==eachQuestion.length){
-      this.state.questions[currentIndex].marked=0;
-      //console.log('WRONG ANSWER');
-   }
-   
-  }
+  
   updateTimeSpent(){
    let currentIndex = this.state.currentQuestionNumber;
    this.state.questions[currentIndex].timespent=this.state.questions[currentIndex].timespent+this.state.time;
   }
+  
   createJumperButtons(){
    document.getElementById("questionJumper").innerHTML = "";
    var questionsLength = this.state.questions.length;
@@ -247,10 +191,10 @@ class Exam extends React.Component {
   }
 
   clickJumperButton(x){
-   this.gradeQuestion();
+   //this.gradeQuestion();
    this.updateTimeSpent();
    this.setState({time:0});
-   this.setQuestion(x);
+   this.setCurrentQuestion(x);
   
   }
 
@@ -313,166 +257,14 @@ class Exam extends React.Component {
     
   }
 
-	clearLocalStorage() {
-		localStorage.clear('examHistory');
-		this.setState({history: this.getExamHistory()});
-      document.getElementById("formatToTable").setAttribute("class", "enabled btn btn-primary");
-      document.getElementById("formatToCode").setAttribute("class", "disabled btn btn-primary");
-	}
-
-   formatToCode() {
-      document.getElementById("formatToTable").setAttribute("class", "enabled btn btn-primary");
-      document.getElementById("formatToCode").setAttribute("class", "disabled btn btn-primary");
-      document.getElementById("examHistory").innerHTML = JSON.stringify(this.state.history, "", "\t");
-   }
-
-   formatToTable() {
-      document.getElementById("formatToTable").setAttribute("class", "disabled btn btn-primary");
-      document.getElementById("formatToCode").setAttribute("class", "enabled btn btn-primary");
-      var examHistory = this.getExamHistory();
-      
-         document.getElementById("examHistory").innerHTML = "";
-         var table = document.createElement("table");
-         table.setAttribute("id", "tablestyle");
-         var tr = document.createElement("tr");
-         var headers = ["Exam number", "Question", "Options Given", "Correct Options", "Selected Options"];
-         for (var i = 0; i < headers.length; i++) {
-            var th = document.createElement("th");
-            th.appendChild(document.createTextNode(headers[i]));
-            tr.appendChild(th);
-         }
-         table.appendChild(tr);
-
-         if(examHistory.exams.length < 1){
-            tr = document.createElement("tr");
-            td = document.createElement("td");
-            td.setAttribute("colspan", "5");
-            td.setAttribute("style", "text-align: center");
-            td.appendChild(document.createTextNode("**Nothing to show**"));
-            tr.appendChild(td);
-            table.appendChild(tr); 
-         }
-         for (var counter = 0; counter < examHistory.exams.length; counter++) { //per exam
-            console.log("Exam History: " + (counter + 1));
-            tr = document.createElement("tr");
-            var td = document.createElement("td"); //Start of Exam Number
-            td.appendChild(document.createTextNode("Exam History: " + (counter + 1))); 
-            tr.appendChild(td);
-            table.appendChild(tr);//End of Exam Number
-            for (var q = 0; q < examHistory.exams[counter].length; q++) { //per question
-               var question = examHistory.exams[counter][q].query;
-               var correctOptions = [];
-               var selectedOptions = [];
-               var optionsGiven = [];
-               var options = examHistory.exams[counter][q].options;
-               var isCorrect = true;
-               console.log(JSON.stringify(question));
-               for (var opt = 0; opt < options.length; opt++) { //selected and correct options gathering
-                  if (examHistory.exams[counter][q].options[opt].correct) {
-                     correctOptions.push(examHistory.exams[counter][q].options[opt].text);
-                  }
-                  if (examHistory.exams[counter][q].options[opt].selected) {
-                     selectedOptions.push(examHistory.exams[counter][q].options[opt].text);
-                  }
-                  optionsGiven.push(examHistory.exams[counter][q].options[opt].text);
-               }
-   
-               tr = document.createElement("tr");
-               tr.appendChild(document.createElement("td")); //for blank td
-               
-               td = document.createElement("td");
-               td.appendChild(document.createTextNode(question));
-               tr.appendChild(td);
-   
-               td = document.createElement("td");
-               var p = document.createElement("p");
-               p.appendChild(document.createTextNode("Given Options:"));
-               td.appendChild(p);
-               var ul = document.createElement("ul");
-               for (opt = 0; opt < optionsGiven.length; opt++) {
-                  var li = document.createElement("li");
-                  li.setAttribute("style", "margin-left: 40px");
-                  li.appendChild(document.createTextNode(optionsGiven[opt]));
-                  td.appendChild(li);
-               }
-               tr.appendChild(td);
-   
-               td = document.createElement("td");
-               p = document.createElement("p");
-               p.appendChild(document.createTextNode("Correct Options:"));
-               td.appendChild(p);
-               for (opt = 0; opt < correctOptions.length; opt++) {
-                  var li = document.createElement("li");
-                  li.setAttribute("style", "margin-left: 40px");
-                  li.appendChild(document.createTextNode(correctOptions[opt]));
-                  td.appendChild(li);
-               }
-               tr.appendChild(td);
-   
-               td = document.createElement("td");
-               p = document.createElement("p");
-               p.appendChild(document.createTextNode("Selected Options:"));
-               td.appendChild(p);
-               for (opt = 0; opt < selectedOptions.length; opt++) {
-                  var li = document.createElement("li");
-                  li.setAttribute("style", "margin-left: 40px");
-                  li.appendChild(document.createTextNode(selectedOptions[opt]));
-                  td.appendChild(li);
-               }
-               tr.appendChild(td);
-   
-               console.log("-------correct: " + correctOptions.toString());
-               console.log("-------selected: " + selectedOptions.toString());
-   
-               if (selectedOptions.length < 1) { //check if the user answered the question
-                  isCorrect = false;
-               } else {
-                  for (i = 0; i < selectedOptions.length; i++) { //decision if the answer is correct
-                     var selected = selectedOptions[i];
-                     if (!correctOptions.includes(selected)) {
-                        isCorrect = false;
-                     }
-                  }
-               }
-   
-               if (isCorrect) {
-                  console.log("-------You are correct");
-                  tr.setAttribute("style", "background-color:#ccffcc");
-               } else {
-                  tr.setAttribute("style", "background-color:#ff6666");
-                  console.log("-------You are wrong");
-               }
-   
-               table.appendChild(tr);
-   
-            }
-   
-         }
-         document.getElementById("examHistory").appendChild(document.createElement("br"));
-         document.getElementById("examHistory").appendChild(table);
-      
-      
-   }
 	
-	toggleOption(index, currentQuestion, questions, currentQuestionNumber) {
-      try{
-         
-         var question = currentQuestion;
-         var examQuestions = questions;
-         var flag = question.options[index].selected;
-         question.options[index].selected = !flag;		
-         examQuestions[currentQuestionNumber] = question;
-         // this.props.setState({currentQuestion: question});
-         // this.props.setState({questions: examQuestions});
-         this.saveChosenOption(question, examQuestions);
-      } catch(e){
-         console.log(e);
-      }
-	}
 
-   saveChosenOption(question, examQuestions){
-      this.setState({currentQuestion: question});
-      this.setState({questions: examQuestions});
+
+   saveQuestionState(question){
+	  var updatedExamQuestions = this.state.questions;
+	  updatedExamQuestions[this.currentQuestionNumber] = question;  
+      this.setState({questions: updatedExamQuestions});
+	  console.log("End of save chosen option");
    }
   
   render() { 
@@ -480,24 +272,26 @@ class Exam extends React.Component {
 
 
 <div class="container">
+
+
 <div class="card">
    <div class="card-header" id="questionNumber">
       Question {this.state.currentQuestionNumber + 1}
    </div>
    <div class="card-body">
-      <Question saveChosenOption = {this.saveChosenOption} question={this.state.currentQuestion} toggleOption={this.toggleOption} questions={this.state.questions} currentNumber={this.state.currentQuestionNumber}/>
+   
+   
+   
+      <Question saveQuestionState = {this.saveQuestionState} question={this.getCurrentQuestion()} disabled={this.state.graded}/>
+	  
       <div>
          <p class="card-text mt-3">
-            <a id="previous" class="disabled btn btn-primary"
-               onClick={() => this.previousQuestion()}
-            >&lt;&lt; Previous</a>&nbsp;
-            <a id="next" class="disabled btn btn-primary" 
-               onClick={() => this.nextQuestion()}
-            >Next &gt;&gt;</a> &nbsp;
-            <a id="finish" class="btn btn-primary"
-               onClick={() => this.gradeTheExam()}
-            >Finish</a>&nbsp;
+            <a id="previous" class="disabled btn btn-primary" onClick={() => this.previousQuestion()}>&lt;&lt; Previous</a>&nbsp;
+            <a id="next" class="btn btn-primary" onClick={() => this.nextQuestion()}>Next &gt;&gt;</a> &nbsp;
+            <a id="finish" class="btn btn-primary" onClick={() => this.gradeTheExam()}>Finish</a>&nbsp;
+			
             <Timer />
+			
             <Modal show={this.state.show} handleClose={this.hideModal}>
                <p>You Scored {this.state.score} points</p>
             </Modal>
@@ -507,6 +301,7 @@ class Exam extends React.Component {
       </div>
    </div>
 </div>
+
 <div class="card mt-2">
    <div class="card-header" id="questionJumperTitle">
       Question Jumper
@@ -517,29 +312,16 @@ class Exam extends React.Component {
       <div id="questionJumper"></div>
    </div>
 </div>
-<div class="card mt-2">
-   <div class="card-header" id="localStorageTitle">
-      Local Storagee
-   </div>
-   <div class="card-body">
-      <h3 class="card-title" id="localStorageCardTitle">What's in Storage?</h3>
-      <p>Number of exams in your history: {this.state.history.exams.length} </p>
-      <a id="clearls" class="btn btn-primary"
-         onClick={() => this.clearLocalStorage()}
-      >Clear Local Storage</a>&nbsp;
-      <a id="formatToTable" class="enabled btn btn-primary"
-         onClick={() => this.formatToTable()}
-      >Format to Table</a>&nbsp;
-      <a id="formatToCode" class="disabled btn btn-primary"
-         onClick={() => this.formatToCode()}
-      >Format to Code</a>
-      <div>
-         <pre id="examHistory" key={Math.random()}> { JSON.stringify(this.state.history, "", "\t") } </pre>
-      </div>
-      <p class="card-text">
-      </p>
-   </div>
-</div>
+
+
+
+
+<ExamHistory/>
+
+
+
+
+
 </div>
 
 
@@ -550,7 +332,7 @@ class Exam extends React.Component {
 }
 
 ReactDOM.render(
-  <Exam start="10" end="13"/>,
+  <Exam start="25" end="30"/>,
   document.getElementById('root')
 );
 
