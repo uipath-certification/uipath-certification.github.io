@@ -78,7 +78,7 @@ class Question extends Component{
 			<div class="card-body">
 
 			   <h3 class="card-title" id="query"> 
-				  {this.props.question.query} (Choose {this.getNumberOfCorrectOptions()}) {this.isAnsweredCorrectly()}
+				  {this.props.question.query} (Choose {this.getNumberOfCorrectOptions()})
 			   </h3>
 			   
 				{
