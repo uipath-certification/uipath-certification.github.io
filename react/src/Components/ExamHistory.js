@@ -1,9 +1,7 @@
 import React, { Component } from 'react';
  
 class ExamHistory extends Component{
-    constructor(props) {
-        super(props);
-    }   
+ 
 	
 	
     render(){
@@ -47,7 +45,7 @@ class ExamHistory extends Component{
             let exams = [];
             examHistory.exams = exams;
             localStorage.setItem('examHistory', JSON.stringify(examHistory));
-            this.setState({history: examHistory})
+            //this.setState({history: examHistory})
          } else {
             examHistory = JSON.parse(object);
          }

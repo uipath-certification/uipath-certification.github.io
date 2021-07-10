@@ -2,8 +2,15 @@ import './modal.css';
 
 const Modal = ({ handleClose, show, children }) => {
   const showHideClassName = show ? "modal display-block" : "modal display-none";
+  
+  
+
 
   return (
+  
+  
+  
+  
     <div id="modalbox" className={showHideClassName}>
       <section className="modal-main">
           <div className="modal-content">
@@ -16,7 +23,7 @@ const Modal = ({ handleClose, show, children }) => {
                 {children}
               </div>
               <div className="modal-footer">
-              <button type="button" onClick={handleClose}>
+              <button type="button" > 
                 Close
               </button>
               </div>

@@ -3,6 +3,10 @@ import React, { Component } from 'react';
 class Question extends Component{
     constructor(props) {
         super(props);
+		
+		this.state = {
+		  cheating: false,
+		};
     }   
 	
 	getNumberOfCorrectOptions() {
@@ -57,7 +61,17 @@ class Question extends Component{
 		
 	}
 	
-	
+	highlightAnswer(index) {
+		console.log(this.props.graded);
+		if (this.props.cheating || this.props.disabled) {
+			console.log("We are cheating or it is graded.");
+			if (this.props.question.options[index].correct) {
+				console.log("The option is correct.")
+				return " border border-success ";
+			}
+		}
+		return "";
+	}
 	
     render(){
         return (
@@ -70,8 +84,8 @@ class Question extends Component{
 			   
 				{
 					this.props.question.options.map((option, index)=>
-					   <div class="form-check my-2" id={"outerOptionDiv" + index}>
-						  <input class="form-check-input  option-radio" type={this.getRadioOrCheckboxType()} name="optionRadios" id={"option" + index} value={"option"  + index}
+					   <div class={"form-check my-2 "+this.highlightAnswer(index)}  id={"outerOptionDiv" + index}>
+						  <input class="form-check-input  option-radio " type={this.getRadioOrCheckboxType()} name="optionRadios" id={"option" + index} value={"option"  + index}
 							 checked={this.props.question.options[index].selected} 
 							 disabled={this.isDisabled()}
 							 onClick={() => this.toggleOption(index)} 
