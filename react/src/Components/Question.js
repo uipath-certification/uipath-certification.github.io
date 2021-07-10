@@ -33,7 +33,6 @@ class Question extends Component{
       try{
          var flag = this.props.question.options[index].selected;
          this.props.question.options[index].selected = !flag;
-		 // doing this to re-render
          this.props.saveQuestionState(this.props.question);
       } catch(e){
          console.log(e);
