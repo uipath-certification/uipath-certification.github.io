@@ -11,7 +11,7 @@ keywords: UiPath Flowchart, UiPath Studio, UiPath Example, UiPath Tutorial, RPA 
 # Example of a UiPath Flowchart
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe src="https://www.youtube.com/embed/cFt9SXE35EE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/36fh7HjHM3E" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0"></iframe>
 </div>
 <br/>
 
