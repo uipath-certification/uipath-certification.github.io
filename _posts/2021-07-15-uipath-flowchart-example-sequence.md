@@ -4,7 +4,7 @@ author: Serge
 editor: Serge
 title: "UiPath Flowchart Example"
 blurb: "Here's the UiPath Flowchart example you need to show you the difference between a sequence and workflow in Studio."
-canonical: https://www.rpacertified.com/2021/07/15/computer-vision-uipath-rpa.html
+canonical: https://www.rpacertified.com/2021/07/15/uipath-flowchart-example-sequence.html
 keywords: UiPath Flowchart, UiPath Studio, UiPath Example, UiPath Tutorial, RPA Programming, UiPath Associate, UiPah Flowchart Sequence
 ---
 
@@ -75,7 +75,6 @@ And I'm going to say run file to bring this up. And that's going to ask me to gu
 
 There's no connection to the input dialogue box. So when that particular condition is true, when we've guessed the right number, well, the UI path flow chart terminates it exits it's done. And there you go. That's a real, simple and nice example of how you can do conditional and iterative logic. With a UI path flow chart.
 
-https://files.readme.io/3dba37f-flow_decision_best_practices.png
 
 ### Learn more about UiPath Workflows
 
