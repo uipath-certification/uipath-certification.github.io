@@ -1,17 +1,45 @@
-import React from 'react';
+import React, { createElement } from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import Timer from './Components/Timer';
 import Question from './Components/Question';
 import Modal from './Components/Modal';
 import './Components/modal.css';
+import Autosuggest from 'react-autosuggest';
+import RpaExam from './Components/RpaExam';
 
+var questionQueries = [];
+
+ // https://developer.mozilla.org/en/docs/Web/JavaScript/Guide/Regular_Expressions#Using_Special_Characters
+function escapeRegexCharacters(str) {
+   return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+ }
+ 
+ function getSuggestions(value) {
+   const escapedValue = escapeRegexCharacters(value.trim());
+   
+   if (escapedValue === '') {
+     return [];
+   }
+ 
+   const regex = new RegExp('^' + escapedValue, 'i');
+   return questionQueries.filter(questionQuery => regex.test(questionQuery.name));
+ }
+ 
+ 
+ 
+ function renderSuggestion(suggestion) {
+   return (
+     <span>{suggestion.name}</span>
+   );
+ }
 
 class Exam extends React.Component {
 	
   constructor(props) {
    super(props);
    this.saveChosenOption = this.saveChosenOption.bind(this);
+   this.getSuggestionValue = this.getSuggestionValue.bind(this);
    this.showModal = this.showModal.bind(this);
    this.hideModal = this.hideModal.bind(this);
 	let jsonQuestions = require('./questions.json');
@@ -28,7 +56,10 @@ class Exam extends React.Component {
       time:0,
       score:0,
       timerRunning: true,
-      show: false
+      show: false,
+      managedQuestion: "none",
+      value: '',
+      suggestions: []
     };
 
     setInterval(() => {
@@ -41,6 +72,26 @@ class Exam extends React.Component {
    
   }
   
+  
+
+  onChange = (event, { newValue, method }) => {
+   this.setState({
+     value: newValue
+   });
+ };
+ 
+ onSuggestionsFetchRequested = ({ value }) => {
+   this.setState({
+     suggestions: getSuggestions(value)
+   });
+ };
+
+ onSuggestionsClearRequested = () => {
+   this.setState({
+     suggestions: []
+   });
+ };
+
    showModal (){
    this.setState({ show: true });
    };
@@ -164,15 +215,40 @@ class Exam extends React.Component {
 		return "999";
 	}
 
-  componentDidMount() {
-    this.handleButtons()
-    this.createJumperButtons();
-    var fiveMinutes = 60 * 5,
-    display = "timer";
-    this.startTimer(fiveMinutes-1, display);
-    if(this.state.time!=0){
-      this.resetTimer();
+   initializeQuestions(){
+      questionQueries=[];
+      for(var i = 0; i<this.state.questions.length; i++){
+         var sample = {"name":"", "id":""};
+         sample.name=this.state.questions[i].query;
+         sample.id=i;
+         questionQueries.push(sample);
+      }
    }
+
+   getSuggestionValue(suggestion) {
+      document.getElementById("manageQuestionsButton").click();
+      document.getElementById("managedQuestion").value=suggestion.id;
+      this.state.managedQuestion = suggestion.id;
+      this.setFieldsForManagedQuestions()
+      return suggestion.name;
+    }
+   
+
+  componentDidMount() {
+   try {
+      this.handleButtons()
+      this.createJumperButtons();
+      var fiveMinutes = 60 * 5,
+      display = "timer";
+      this.startTimer(fiveMinutes-1, display);
+      if(this.state.time!==0){
+         this.resetTimer();
+      }
+      this.initializeQuestions();
+   } catch (error) {
+      console.log(error);
+   } 
+   
   }
 
   componentDidUpdate(){
@@ -185,9 +261,6 @@ class Exam extends React.Component {
       document.getElementById("option3cheat").innerHTML = "";
      }
      else{
-      //document.getElementById("next").setAttribute("class", "disabled btn btn-primary");
-      //document.getElementById("previous").setAttribute("class", "disabled btn btn-primary");
-      //document.getElementById("finish").setAttribute("class", "disabled btn btn-primary");
       document.getElementById("option0").setAttribute("disabled", "");
       document.getElementById("option1").setAttribute("disabled", "");
       document.getElementById("option2").setAttribute("disabled", "");
@@ -199,8 +272,6 @@ class Exam extends React.Component {
       document.getElementById("cheatButton").click();
     }
       this.handleCheckOptions();
-      
- 
   }
 
   resetTimer(){
@@ -537,10 +608,209 @@ class Exam extends React.Component {
          }
       }
    }
+
+   normalInputWithLabel(form, labelText, inputId){
+      var div = document.createElement("div");
+      div.setAttribute("class", "form-group row");
+      var label = document.createElement("label");
+      label.setAttribute("class", "control-label col-sm-2");
+      label.innerHTML = labelText;
+      div.appendChild(label);
+      var div2 = document.createElement("div");
+      div2.setAttribute("class", "col-sm-6");
+      var input = document.createElement("input");
+      input.setAttribute("type", "text");
+      input.setAttribute("id", inputId);
+      input.setAttribute("value", "");
+      input.setAttribute("class", "form-control");
+      div2.appendChild(input);
+      div.appendChild(div2);
+      form.appendChild(div);
+      form.appendChild(document.createElement("br"));
+   }
+
+   optionWithLabelAndCheckbox(form, labelText, index){
+      var table = document.createElement("table");
+       table.setAttribute("style", "width: 50%");
+         var tr = document.createElement("tr");
+         
+         //checkbox
+         var td = document.createElement("td");
+         var checkbox = document.createElement("input");
+         checkbox.setAttribute("type", "checkbox");
+         checkbox.setAttribute("class", "form-check-input");
+         checkbox.setAttribute("id", "option"+index+"checkbox");
+         td.appendChild(checkbox); 
+         tr.appendChild(td);
+
+         //label
+         td = document.createElement("td");
+         var label = document.createElement("label");
+         label.setAttribute("class", "control-label col-sm-6");
+         label.innerHTML = labelText;
+         td.appendChild(label); 
+         tr.appendChild(td);
+
+         //input
+         td = document.createElement("td");
+         var input = document.createElement("input");
+         input.setAttribute("type", "text");
+         input.setAttribute("id", "option"+index+"input");
+         input.setAttribute("value", "");
+         input.setAttribute("class", "form-control");
+         td.appendChild(input); 
+         tr.appendChild(td);
+         table.append(tr);
+
+
+      form.appendChild(table);
+   }
+
+   searchBar(){
+      document.getElementById("managequestions").innerHTML = "";
+      var form = document.createElement("div");
+
+         
+         //Select
+         var label = document.createElement("label");
+         label.innerHTML = "Target Question: ";
+         form.appendChild(label);
+         var select = document.createElement("select");
+         select.setAttribute("id", "managedQuestion");
+         select.setAttribute("class", "form-select form-select-sm");
+         select.setAttribute("aria-label", ".form-select-sm example");
+            var option = document.createElement("option");
+               option.setAttribute("value", "new");
+               option.innerHTML = "New entry";
+            this.state.managedQuestion = "new";
+            select.appendChild(option);
+            var questions = this.state.questions;
+            for(var i = 0; i<questions.length; i++){
+               option = document.createElement("option");
+                  option.setAttribute("value", i);
+                  option.innerHTML = questions[i].query;
+               select.appendChild(option);
+            }
+         select.addEventListener("change", () => { this.state.managedQuestion = document.getElementById("managedQuestion").value; 
+            this.setFieldsForManagedQuestions();
+         });
+         form.appendChild(select);
+         form.appendChild(document.createElement("br"));
+         
+         //Query
+         this.normalInputWithLabel(form, "Query: ", "querymanaged");
+
+         //Answer
+         this.normalInputWithLabel(form, "Answer: ", "answer");
+
+         //Difficulty
+         this.normalInputWithLabel(form, "Difficulty: ", "difficulty");
+         
+         //Options
+         label = document.createElement("label");
+         label.innerHTML = "Options: ";
+         form.appendChild(label);
+         form.appendChild(document.createElement("br"));
+         
+         for(var i = 0; i<4; i++){
+            this.optionWithLabelAndCheckbox(form, "Option "+(i+1)+": " , i);
+         }
+
+         
+         var button = document.createElement("button");
+         button.appendChild(document.createTextNode("Submit"));
+         button.setAttribute("class","btn btn-primary");
+         button.addEventListener("click", () => { this.submitManagedQuestion(); });
+         form.appendChild(button);
+
+      document.getElementById("managequestions").appendChild(form);
+   }
+
+   setFieldsForManagedQuestions(){
+      var index = this.state.managedQuestion;
+      if(!isNaN(index)){//is numerical
+         var targetQuestions = this.state.questions[index];
+         document.getElementById("querymanaged").value = targetQuestions.query;
+         document.getElementById("answer").value = targetQuestions.answer;
+         if(targetQuestions.difficulty == undefined){
+            document.getElementById("difficulty").value = "";
+         }else{
+            document.getElementById("difficulty").value = targetQuestions.difficulty;
+         }
+         var options = targetQuestions.options;
+         for(var i = 0; i<options.length; i++){
+            document.getElementById("option"+i+"input").value = options[i].text;
+            if(options[i].correct){
+               document.getElementById("option"+i+"checkbox").checked = true;
+            }else{
+               document.getElementById("option"+i+"checkbox").checked = false;
+            }
+         }
+      }else{
+         document.getElementById("querymanaged").value = "";
+         document.getElementById("answer").value = "";
+         document.getElementById("difficulty").value = "";
+         for(var i = 0; i<10 ; i++){
+            try {
+               document.getElementById("option"+i+"input").value = "";
+               document.getElementById("option"+i+"checkbox").checked = false;
+            } catch (e) {
+               break;
+            }
+         }
+      }
+   }
+
+   submitManagedQuestion(){
+      var targetQuestions = "";
+      if(!isNaN(index)){//is numerical = edit
+         targetQuestions = this.state.questions[this.state.managedQuestion];
+      }else{
+         targetQuestions = JSON.stringify(this.state.questions[0]);
+         targetQuestions = JSON.parse(targetQuestions);
+      }
+
+     
+      targetQuestions.query = document.getElementById("querymanaged").value;
+      targetQuestions.answer = document.getElementById("answer").value;
+      targetQuestions.difficulty = document.getElementById("difficulty").value;
+      var index = this.state.managedQuestion;
+      for(var i = 0; i < 10; i++){
+         try {
+            targetQuestions.options[i].text = document.getElementById("option"+i+"input").value;
+            if(document.getElementById("option"+i+"checkbox").checked){
+               targetQuestions.options[i].correct = true;
+            }else{
+               targetQuestions.options[i].correct = false;
+            }
+         } catch (e) {
+            break;
+         }
+      }
+
+      if(!isNaN(index)){//is numerical = edit
+         alert("Edit " + JSON.stringify(targetQuestions));
+         document.getElementById("managequestions").innerHTML = "";
+         this.state.questions[this.state.managedQuestion] = targetQuestions;
+         //function call will be here
+      }else{
+         targetQuestions.id = "new";
+         alert("Add " + JSON.stringify(targetQuestions));
+         document.getElementById("managequestions").innerHTML = "";
+         //function call will be here
+      }
+      
+   }
   
   render() { 
+   const { value, suggestions } = this.state;
+   const inputProps = {
+     placeholder: "Search specific question here",
+     value,
+     onChange: this.onChange
+   };
     return (
-
+       
 
 <div class="container">
 <div class="card">
@@ -560,7 +830,7 @@ class Exam extends React.Component {
             <a id="finish" class="btn btn-primary"
                onClick={() => this.gradeTheExam()}
             >Finish</a>&nbsp;
-            <Timer />
+            {/* <Timer /> */}
             <Modal show={this.state.show} handleClose={this.hideModal}>
                <p>You Scored {this.state.score} points</p>
             </Modal>
@@ -582,7 +852,18 @@ class Exam extends React.Component {
 </div>
 <div class="card mt-2">
    <div class="card-header">
-      Click here to <a id="cheatButton" class="enabled btn-sm btn-primary" onClick={() => this.cheat()}>Cheat</a>
+      Click here to <a id="cheatButton" class="enabled btn-sm btn-primary" onClick={() => this.cheat()}>Cheat</a>&nbsp;
+      <a class="enabled btn-sm btn-primary" id="manageQuestionsButton" onClick={() => this.searchBar()}>Manage questions</a>&nbsp;
+   </div>
+   <div class="card-body">
+      <Autosuggest 
+         suggestions={suggestions}
+         onSuggestionsFetchRequested={this.onSuggestionsFetchRequested}
+         onSuggestionsClearRequested={this.onSuggestionsClearRequested}
+         getSuggestionValue={this.getSuggestionValue}
+         renderSuggestion={renderSuggestion}
+         inputProps={inputProps} />
+        <div id="managequestions"></div>
    </div>
    
 </div>
@@ -613,13 +894,15 @@ class Exam extends React.Component {
 
 
 
-
     );
   }
 }
 
 ReactDOM.render(
-  <Exam start="10" end="13"/>,
-  document.getElementById('root')
+  
+   <RpaExam start="25" end="30"/>,
+  
+   // <Exam start="25" end="30"/>,
+   document.getElementById('root')
+ 
 );
-
