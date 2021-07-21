@@ -1,6 +1,6 @@
 ---
 layout: featured-post
-author: Serge
+author: Kivens
 editor: Serge
 title: "Create Queue in UiPath Orchestrator Example"
 blurb: "Here's a quick example of how to create queues in UiPath Orchestrator."
