@@ -1,11 +1,16 @@
 ---
 layout: featured-post
 author: Serge
-editor: Serge
+editor: Supreet Singh
 title: "Invalid UiPath Machine Key Error"
 blurb: "Here's how to fix the invalid machine key error in UiPath Orchestrator."
 canonical: https://www.rpacertified.com/2021/07/15/uipath-invalid-machine-key.html
 keywords: UiPath Orchestrator, UiPath Machine, UiPath Machine Key, RPA Certified, RPA Programming, UiPath Associate
+accordion: 
+  - title: What command is used to check the host name of a PC?
+    content: hostname
+  - title: What command is used to verify the hostname and username of the logged in user?
+    content: whoami
 ---
 
 # UiPath Invalid Machine Key
@@ -17,17 +22,27 @@ keywords: UiPath Orchestrator, UiPath Machine, UiPath Machine Key, RPA Certified
 
 ## Fix the Invalid Machine Key error
 
-Hey, I'm Cameron Mackenzie at Cameron MCNC on Twitter. And I just wanted to quickly show you how to fix that annoying invalid machine key. So I'm going to show you a couple of reasons why you might get the invalid machine code error, and I'm going to connect here and you are going to see that I get the invalid machine key code.
+Hey, I'm Cameron Mackenzie at @CameronMcnz on Twitter and I just wanted to quickly show you how to fix that annoying invalid machine key error. So I'm going to show you a couple of reasons why you might get the invalid machine code error and I'm going to connect here and you are going to see that I get the invalid machine key code.
 
-Right? Okay. So the first reason is this machine code here. You may not have it typed it in or copy it correctly. Don't type it, copy it. Um, if you put some non-standard characters in there or some white space, it's going to be a problem. So whenever you see your machine. Right here machines. Make sure you copy that to the clipboard.
+So the first reason is this machine code here, you may not have it typed it in or copy it correctly. Don't type it, Copy it. If you put some non-standard characters in there or some white space, it's going to be a problem. So whenever you see your machine. Right here machines. Make sure you copy that to the clipboard.
 
-Go back to the UI path assistant and make sure that the correct name is pasted in there. Now the other problem is, uh, just configuring the machine. So when you configure a machine and let me just edit here, you notice the name of this machine is desktop, but the name and UI path orchestrator is think station.
+Go back to the UI path assistant and make sure that the correct name is pasted in there. Now the other problem is, uh, just configuring the machine. So when you configure a machine and let me just edit here, you notice the name of this machine is desktop, but the name in the UiPath Orchestrator is Thinkstation.
 
-That's the, actually the name of the computer that I'm trying to link to here. And if you go into the dos prompt and you type in hosts, You'll see that my host name is think station. And so if the host name is think station, you want to make sure that you've created the computer named think station as well.
+That's the, actually the name of the computer that I'm trying to link to here and if you go into the DOS prompt and you type in hostname, You'll see that my host name is Thinkstation and so if the host name is thinkstation, you want to make sure that you've created the computer named thinkstation as well.
 
 ## UiPath Orchestrator Machine Key
 
-So I'm going to delete this, just put that into the garbage can, and I'm going to create a brand new machine right now. I'm just going to use the template, but this time I'm going to call it think station. I don't want to be the think station, computer, and put in an attended license there. And the testing run time.
+So I’m going to delete this, just put that into the garbage can, and I’m going to create a brand new machine right now. I’m just going to use the template, but this time I’m going to call it Thinkstation. I don’t want to be the think station, computer, and put in an attended license there and the testing run time and  I'm only allowed one, provision that server and now I've got my thinkstation, which matches the host name right here. When I issue the host name command, you can also do that with whoami and you'll see, not only the name of the computer, but also the username that I'm currently logged in with. So now I'm going to copy that.So that's now copied. I'm going to go back to UI path assistant, and I'm going to copy that name in I'll click connect and then magically, We will connect to the server and my invalid machine key error is gone and there you go. That's how you fix the invalid machine key error in UI path. If you enjoyed this tutorial and make sure you check out all the other resources on UiPath Dev-Ops and enterprise software development on the serverside.com
+
+If you're interested in my personal antics, you can follow me on Twitter at CameronMcnz and subscribe on YouTube.
+
+<h2>Test Your knowledge </h2>
+{% include accordion.html %}
+
+### References that you might want to have a look at :
+*  <a href="https://www.rpacertified.com/2020/09/09/orc-orchestrator-used-for.html"> What is UiPath Orchestrator?</a>
+*  <a href="https://www.rpacertified.com/2021/07/15/create-queue-uipath-orchestrator.html"> Create Queue in UiPath Orchestrator Example </a>
+*  <a href="https://www.rpacertified.com/2020/11/11/Studio-Community-Orchestrator.html"> Connect Community Studio to Orchestrator </a>
 
 #### Learn more about UiPath Orchestrator and Assistant
 
