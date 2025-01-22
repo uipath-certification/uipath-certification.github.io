@@ -3,7 +3,7 @@
 layout: default
 title: UiPath Online Training & Study Guide for Certification
 blurb: A proven UiPath Exam Study Guide is what everyone pursuing RPA certification needs in order to to pass the Associate Exam Cert on the first try.
-canonical: https://www.rpacertified.com/study-guide-uipath.html
+canonical: https://uipath-certification.github.io/study-guide-uipath.html
 ---
 
 <div class="row" >
