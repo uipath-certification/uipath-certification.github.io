@@ -1,7 +1,7 @@
 ---
 layout: landing-page-no-youtube
 title: UiPath Associate Certification Exam Learning Resources
-canonical: https://www.rpacertified.com
+canonical: https://uipath-certification.github.io
 ---
 <div class="row">
 
@@ -66,7 +66,7 @@ canonical: https://www.rpacertified.com
 		<div class="card-body  d-flex flex-column">
 			
 			<p class="card-text">We've outlined and numerated the UiPath Exam Objectives for you.</p>
-			<p class="text-center mt-auto"><a href="https://www.rpacertified.com/associate-objectives.html" class="text-center btn btn-outline-primary btn-sm">Exam Objectives</a></p>
+			<p class="text-center mt-auto"><a href="https://uipath-certification.github.io/associate-objectives.html" class="text-center btn btn-outline-primary btn-sm">Exam Objectives</a></p>
 		</div>
 	</div>
 			
