@@ -2,7 +2,7 @@
 layout: default
 title: Free UiPath Certification Dumps
 blurb: Not a traditional braindump, these UiPath Certification Dumps help you guide your studies without cheating or giving away anything specific from the exam. Get RPA Certified with integrity.
-canonical: https://www.rpacertified.com/cert-brain-dumps-uipath.html
+canonical: https://uipath-certification.github.io/cert-brain-dumps-uipath.html
 ---
 
 <div class="row">
@@ -106,11 +106,11 @@ canonical: https://www.rpacertified.com/cert-brain-dumps-uipath.html
             <div class="card-body">
                 <p class="card-text">Here are the only resources you need to pass the UiPath exam honestly and get RPA Certified with integrity: </p>
                 <ol>
-                    <li class="card-text">A proven <a href="https://www.rpacertified.com/study-guide-uipath.html">UiPath Study Guide</a> to help you focus your learning</li>
-                    <li class="card-text">An overview of the <a href="https://www.rpacertified.com/associate-objectives.html">UiPath Exam Objectives</a></li>
-					<li class="card-text">Free <a href="https://www.rpacertified.com/cert-questions-answers.html">UiPath Certification Questions and Answers</a></li>
+                    <li class="card-text">A proven <a href="https://uipath-certification.github.io/study-guide-uipath.html">UiPath Study Guide</a> to help you focus your learning</li>
+                    <li class="card-text">An overview of the <a href="https://uipath-certification.github.io/associate-objectives.html">UiPath Exam Objectives</a></li>
+					<li class="card-text">Free <a href="https://uipath-certification.github.io/cert-questions-answers.html">UiPath Certification Questions and Answers</a></li>
                     <li class="card-text"><a href="https://www.youtube.com/user/potemcam">UiPath on YouTube</a> learning tutorials</li>
-                    <li class="card-text">A support group of <a href="https://www.rpacertified.com/youtube-linkedin-twitter.html">UiPath experts</a> to help answer your questions and queries</li>
+                    <li class="card-text">A support group of <a href="https://uipath-certification.github.io/youtube-linkedin-twitter.html">UiPath experts</a> to help answer your questions and queries</li>
                 </ol>
 
             </div>
