@@ -9,7 +9,7 @@ Below is a list of all the questions available in the `aws` folder. Click on any
 
 <ul>
 {% for file in site.pages %}
-  {% if file.path contains 'aws/' and file.extname == '.html' %}
+  {% if file.path contains 'aws/' %}
     <li><a href="{{ file.url }}">{{ file.url | remove: '/aws/' }}</a></li>
   {% endif %}
 {% endfor %}
