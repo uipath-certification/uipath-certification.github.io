@@ -14,3 +14,11 @@ Below is a list of all the questions available in the `aws` folder. Click on any
   {% endif %}
 {% endfor %}
 </ul>
+
+<ul>
+{% for file in site.pages %}
+  {% if file.path contains 'aws' %}
+    <li><a href="{{ file.url }}">{{ file.url }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
